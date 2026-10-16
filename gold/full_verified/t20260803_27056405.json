@@ -1,0 +1,218 @@
+{
+  "announcement_id": "t20260803_27056405",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:主要标的一览表.pdf,本国产品《声明函》.pdf",
+  "note": "HTML标的信息表只有1条汇总行（蕉门公园智能化体育设施，浩康等，1项5683668元），附件《主要标的一览表.pdf》（扫描件OCR）给出13条明细，按规范输出13条最细粒度；已确认的12条 单价×数量 与各自总价相符，12项合计1376520元。第4项'钢琴步道设施'数量与总价在OCR中不可见：unit_price=5743可读；按总中标金额5683668减其余12项推算该项总价应为4307148元，但5743×750=4307250相差102元，两处矛盾无法裁定，故该项quantity/total_price置null——需视觉核验：原PDF第4项的数量、规格（OCR仅存'长Nx窠2.4'残片）及单项总价。其他需视觉核验点：第3项悬浮地板规格按HTML'333×333mm×15.8mm定制'补全（OCR残片'333X佐…8 m'）；第11项型号一览表OCR作'P50s'、第12项作'SH-02100X'，按本国产品声明函修正为SH-P5005/SH-O2100X（0/O疑）；第5项规格含识别柱'475×267m'疑漏字。广东盛杰建设有限公司因未通过资格性审查无得分，按participant收录。得分排名列明示1/2/3，已照抄。复核修正：note中第4项推算差值由'54元'更正为'102元'（4307250-4307148）。视觉核验：已用 fitz 提取《主要标的一览表》扫描件原生图像（约96DPI，526×746px）逐格放大读图，第4项钢琴步道设施像素确读为——规格'长15m×宽2.4m定制'（15×2.4=36，与数量自洽）、数量36、单位m2、单价5743.00；该表仅设'数量/单价(元)'列、无总价列，其余12项total_price同为'数量×单价'计算口径，故第4项total_price=36×5743=206748.00。13项明细合计1583268.00元，与中标金额5683668.00元相差恰为4100400.00元：此前按残值倒推的quantity=750与像素读数矛盾（且4307148/5743≠整数），系错误推断，已废弃，以像素读数为准；差额4100400.00元表明该一览表（中标人舒华体育投标文件附3）未覆盖全部中标范围或源件本身不一致，现有材料无从考证，如实记录、不作猜测。其余核验点均闭合：第3项悬浮地板数量125、第1项1200像素复核无误；第5项识别柱'尺寸475×267mm'完整无漏字；第11项型号像素及本国产品《声明函》文本层均为SH-P5005、第12项均为SH-O2100X，与草稿一致。",
+  "project": {
+    "buyer": "广州市南沙区人民政府南沙街道办事处",
+    "project_name": "蕉门公园智能化体育设施安装服务项目",
+    "total_amount": 5683668.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "蕉门公园智能化体育设施安装服务项目",
+        "winner": "舒华体育股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他体育设备设施",
+      "item_name": "EPDM环保橡胶颗粒地面（定制）",
+      "brand": "川奥",
+      "model": "厚度13mm定制",
+      "quantity": 1200,
+      "unit": "m2",
+      "unit_price": 232.0,
+      "total_price": 278400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他体育设备设施",
+      "item_name": "喷泉健身车(4站)",
+      "brand": "景色智慧",
+      "model": "1200×1000×350mm定制",
+      "quantity": 1,
+      "unit": "组",
+      "unit_price": 226000.0,
+      "total_price": 226000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他体育设备设施",
+      "item_name": "悬浮地板",
+      "brand": "浩康",
+      "model": "333×333mm×15.8mm定制",
+      "quantity": 125,
+      "unit": "m2",
+      "unit_price": 180.0,
+      "total_price": 22500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他体育设备设施",
+      "item_name": "钢琴步道设施",
+      "brand": "景色智慧",
+      "model": "长15m×宽2.4m定制",
+      "quantity": 36,
+      "unit": "m2",
+      "unit_price": 5743.0,
+      "total_price": 206748.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他体育设备设施",
+      "item_name": "追光步道设施",
+      "brand": "景色智慧",
+      "model": "智慧互动跑道灯：长30m双面灯光外观尺寸120×50mm；交互大屏1850×550×250mm；AI设备配置200V-12V电源；识别柱尺寸475×267mm分辨率1920×1080",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 168000.0,
+      "total_price": 168000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他体育设备设施",
+      "item_name": "智慧健身步道软件系统",
+      "brand": "舒华",
+      "model": "SH-P5101C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 158300.0,
+      "total_price": 158300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他体育设备设施",
+      "item_name": "智慧体育云平台系统",
+      "brand": "舒华",
+      "model": "SH-P5102B",
+      "quantity": 4,
+      "unit": "年",
+      "unit_price": 5050.0,
+      "total_price": 20200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他体育设备设施",
+      "item_name": "人脸识别版互动大屏",
+      "brand": "舒华",
+      "model": "SH-P5104D",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 73700.0,
+      "total_price": 147400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他体育设备设施",
+      "item_name": "AI步道工作站",
+      "brand": "舒华",
+      "model": "SH-P5105B-Y3",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 38780.0,
+      "total_price": 310240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他体育设备设施",
+      "item_name": "环境检测系统",
+      "brand": "舒华",
+      "model": "SH-P5106B",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 13760.0,
+      "total_price": 27520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他体育设备设施",
+      "item_name": "室外环境监测立柱",
+      "brand": "舒华",
+      "model": "SH-P5005",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2780.0,
+      "total_price": 5560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他体育设备设施",
+      "item_name": "智能供电心率柱",
+      "brand": "舒华",
+      "model": "SH-O2100X",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 5100.0,
+      "total_price": 10200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "其他体育设备设施",
+      "item_name": "网络数据服务",
+      "brand": "舒华",
+      "model": "SH-P5010",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2200.0,
+      "total_price": 2200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "舒华体育股份有限公司",
+      "role": "winner",
+      "total_score": 94.62,
+      "rank": 1,
+      "amount": 5683668.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州学城惠文体用品有限公司",
+      "role": "participant",
+      "total_score": 84.69,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏杰威体育设施有限公司",
+      "role": "participant",
+      "total_score": 75.04,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东盛杰建设有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

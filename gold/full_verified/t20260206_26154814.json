@@ -1,0 +1,221 @@
+{
+  "announcement_id": "t20260206_26154814",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：中小企业或残疾人福利单位声明函（深圳市东方嘉盛供应链股份有限公司）.pdf",
+  "note": "4个合同包（1/2/4/5，无包3）。各包中标金额之和2,495,000+2,480,000+650,000+1,790,000=7,415,000元，与总中标金额￥741.500000万元一致。品目（公告概要）为空，category取标的信息表品目名称列「其他分析仪器」，4条共用。包名取代理服务费表的合同包名称列（包2合同包名称为「全身螺旋CT」，标的信息表采购标的为「X射线计算机体层摄影设备」，两者分别为包名与标的名称，均照抄）。评分表包4中「黄泽庭」（自然人）资格性审查不通过，作为投标主体收录为participant，无得分排名。bidders含未中标供应商（participant），其投标报价原文未披露，amount=null。附件报价明细.zip未解析，但标的信息表数值完整且单价=总价自洽，无需视觉核验。",
+  "project": {
+    "buyer": "佛山大学",
+    "project_name": "口腔医学智能创新研究平台",
+    "total_amount": 7415000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "口腔种植手术机器人",
+        "winner": "深圳市东方嘉盛供应链股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "全身螺旋CT",
+        "winner": "广东云曌医疗科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "电子面弓",
+        "winner": "南京柯美齐科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "3D面部扫描仪",
+        "winner": "深圳市中皓医疗器械有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他分析仪器",
+      "item_name": "口腔种植手术机器人(注册证产品名称：口腔种植手术导航定位设备）",
+      "brand": "雅客智慧",
+      "model": "DRS0605-FT250",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 2495000.0,
+      "total_price": 2495000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他分析仪器",
+      "item_name": "X射线计算机体层摄影设备",
+      "brand": "西门子",
+      "model": "SOMATOM go.Up",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 2480000.0,
+      "total_price": 2480000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他分析仪器",
+      "item_name": "电子面弓（下颌运动分析系统）",
+      "brand": "zebris",
+      "model": "zebris JMAOptic",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 650000.0,
+      "total_price": 650000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他分析仪器",
+      "item_name": "3D面部扫描仪",
+      "brand": "3dMD",
+      "model": "3dMD face system",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 1790000.0,
+      "total_price": 1790000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市东方嘉盛供应链股份有限公司",
+      "role": "winner",
+      "total_score": 80.24,
+      "rank": 1,
+      "amount": 2495000.0
+    },
+    {
+      "package_no": "1",
+      "name": "瑞诚医疗科技（深圳）有限公司",
+      "role": "participant",
+      "total_score": 55.14,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏联玥医疗技术有限公司",
+      "role": "participant",
+      "total_score": 49.56,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市耀昌医疗器械有限公司",
+      "role": "participant",
+      "total_score": 41.72,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东云曌医疗科技有限公司",
+      "role": "winner",
+      "total_score": 89.21,
+      "rank": 1,
+      "amount": 2480000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州国雍医疗器械有限公司",
+      "role": "participant",
+      "total_score": 73.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "珠海天健德康贸易有限公司",
+      "role": "participant",
+      "total_score": 65.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "南京柯美齐科技有限公司",
+      "role": "winner",
+      "total_score": 75.6,
+      "rank": 1,
+      "amount": 650000.0
+    },
+    {
+      "package_no": "4",
+      "name": "瑞诚医疗科技（深圳）有限公司",
+      "role": "participant",
+      "total_score": 56.87,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "珠海市勇嘉医疗器械有限公司",
+      "role": "participant",
+      "total_score": 56.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "深圳市康讯医疗科技有限公司",
+      "role": "participant",
+      "total_score": 49.47,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "黄泽庭",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "深圳市中皓医疗器械有限公司",
+      "role": "winner",
+      "total_score": 74.97,
+      "rank": 1,
+      "amount": 1790000.0
+    },
+    {
+      "package_no": "5",
+      "name": "深圳市康讯医疗科技有限公司",
+      "role": "participant",
+      "total_score": 65.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "南京柯美齐科技有限公司",
+      "role": "participant",
+      "total_score": 51.64,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "深圳市儒康星瑞医疗科技有限公司",
+      "role": "participant",
+      "total_score": 45.27,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "announcement_id": "t20260511_26548410",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:宁夏回族自治区卫生健康委员会信息中心2026年网络安全等级保护测评服务采购项目招标文件.pdf",
+  "note": "两表得分表与标段的对应为推断：表格4第一中标候选人湖南浩基=一标段中标人、表格3第一中标候选人济南三泽=二标段中标人（依据表格1与备注列），两表均为8家供应商各参与两个标段；表格1未明示两行items对应标段，按顺序对应（第一行一标段459000元、第二行二标段468000元）；公告概要品目列为代码C16060000（两个相同代码，无逐项对应），品目退用HTML品目名称列\"测试评估认证服务\"；二标段中湖南浩基得分89.08最高但未中标，系招标文件规定投标人最多中一个标段（按标段顺序取一）；包名来自附件招标文件采购标段表（该附件仅前30页）；rank仅在备注列明示第一/二/三中标候选人时填写，其余null；两标段金额之和927000元=总中标金额。",
+  "project": {
+    "buyer": "宁夏回族自治区卫生健康委员会信息中心",
+    "project_name": "宁夏回族自治区卫生健康委员会信息中心2026年网络安全等级保护测评服务采购项目",
+    "total_amount": 927000.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": "2026年网络安全等级保护测评服务采购项目一标段",
+        "winner": "湖南浩基信息技术有限公司"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": "2026年网络安全等级保护测评服务采购项目二标段",
+        "winner": "济南三泽信息安全测评有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "网络安全等级保护测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 459000.0,
+      "total_price": 459000.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "网络安全等级保护测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 468000.0,
+      "total_price": 468000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "湖南浩基信息技术有限公司",
+      "role": "winner",
+      "total_score": 89.08,
+      "rank": 1,
+      "amount": 459000.0
+    },
+    {
+      "package_no": "一标段",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 87.71,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 85.98,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "西安长盛信安信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.37,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "participant",
+      "total_score": 82.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": 82.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "陕西思安信息网络安全有限公司",
+      "role": "participant",
+      "total_score": 71.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 70.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "winner",
+      "total_score": 87.71,
+      "rank": 1,
+      "amount": 468000.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 85.98,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": 83.48,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "西安长盛信安信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "湖南浩基信息技术有限公司",
+      "role": "participant",
+      "total_score": 89.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "陕西思安信息网络安全有限公司",
+      "role": "participant",
+      "total_score": 72.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 70.9,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

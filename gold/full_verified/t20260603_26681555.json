@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260603_26681555",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个包：表格1标有「第1包」，其后两张同构中标信息表（表格2/表格3）的「第2包/第3包」标题在还原时丢失，按表序及评审得分与排序表（表格4/5/6）排序1完全对应关系推断为第2/3包，需视觉核验。各包中标金额(万元)：87.371/179.668/43.88，之和310.919万与总中标金额一致。概要品目列为空；标的信息表（表格7-9）无品目名称列，仅「货物类」分节标题（不可当品目），category=null。表格7-9的品牌/规格型号/数量/单价均为「详见附件」，而3个附件（0010远程招标文件 定稿.docx、中小企业声明函0010.rar、中标明细表0010.doc）均因未知类型被跳过、内容不可见——OCR待补：中标明细表0010.doc 疑似含标的物明细（品牌/型号/数量/单价），字段暂空，items仅保留公告可见的3条标的名称。评分表「评审报价（万元）」为价格扣除后金额（如第1包中标人众信中标金额87.371万 vs 评审报价69.8968万，恰为其80%，系评审优惠扣除），非投标报价亦非中标金额，故participants的amount不填评审报价、一律null。中标金额与评审报价的换算关系需视觉核验（87.371×0.8=69.8968成立）。排序列明示，rank照抄；评审得分填入total_score。复核：逐字段对照原包通过；第2/3包映射有三重互证（中标表与排序表rank-1供应商一一对应），符合规范第8条推断口径，确认verified。",
+  "project": {
+    "buyer": "天津市滨海新区教育综合保障服务中心",
+    "project_name": "天津市滨海新区教育综合保障服务中心塘沽第一中学高中部（本部）开办设备采购报告厅音视频系统、电子班牌等项目",
+    "total_amount": 3109190.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "第1包",
+        "winner": "天津众信智慧科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "天津市九鼎云图智能数据技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "天津诚利通科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "大报告厅LED显示系统设备",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "大报告厅音视频、灯光、幕布设备",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "电子班牌",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津众信智慧科技有限公司",
+      "role": "winner",
+      "total_score": 83.0529,
+      "rank": 1,
+      "amount": 873710.0
+    },
+    {
+      "package_no": "1",
+      "name": "中渤（天津）工程科技有限公司",
+      "role": "participant",
+      "total_score": 79.6638,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天勤科技发展（天津）有限公司",
+      "role": "participant",
+      "total_score": 64.1423,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天津视畅科技发展有限公司",
+      "role": "participant",
+      "total_score": 62.2926,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天津昌萍科技有限公司",
+      "role": "participant",
+      "total_score": 57.8743,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "天津市九鼎云图智能数据技术有限公司",
+      "role": "winner",
+      "total_score": 96.0612,
+      "rank": 1,
+      "amount": 1796680.0
+    },
+    {
+      "package_no": "2",
+      "name": "中渤（天津）工程科技有限公司",
+      "role": "participant",
+      "total_score": 87.4658,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "天津昌萍科技有限公司",
+      "role": "participant",
+      "total_score": 76.3807,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "天津诚利通科技发展有限公司",
+      "role": "winner",
+      "total_score": 90.9827,
+      "rank": 1,
+      "amount": 438800.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津赛通科技有限公司",
+      "role": "participant",
+      "total_score": 74.8373,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "天津光泰光电科技（集团）有限公司",
+      "role": "participant",
+      "total_score": 74.6875,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "天津市均岩科技股份有限公司",
+      "role": "participant",
+      "total_score": 71.5089,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

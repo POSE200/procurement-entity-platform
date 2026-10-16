@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080600",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且主要标的信息仅给名称（招标范围详见招标文件），无数量/单价/总价明细，items 仅一条总称记录；标包栏为'/'无明示包号，package_no 留 null；未中标供应商名单取自'未中标原因'段；中标金额1044480元，rank/综合得分原文未明示。",
+  "project": {
+    "buyer": "山东省平邑第一中学",
+    "project_name": "平邑一中内部设施配套采购项目（教室触控一体机）",
+    "total_amount": 1044480.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东鲁爱智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "平邑一中内部设施配套采购项目（教室触控一体机）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东鲁爱智能科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1044480.0
+    },
+    {
+      "package_no": null,
+      "name": "临沂中创电脑科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东旭昇祥合工程管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "临沂市世纪百顺网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "announcement_id": "t20260310_26256282",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "标注包的表格化过程遗漏了'三、中标信息'文字段，已回查原始公告HTML（tmp/html/t20260310_26256282.html）补齐：标段1长光卫星技术股份有限公司343.332万元得分85.82、标段2北京航天世景信息技术有限公司302.784万元得分84.14、标段3二十一世纪空间技术应用股份有限公司158.55万元得分82.04，三段合计8046660元与总中标金额￥804.666万一致。原文仅给评审总得分、无排名列→rank=null；无未中标供应商名单→无participant记录。package_no取自'标段名称：…（标段N）'。标的信息10条均无数量/单价→null。",
+  "project": {
+    "buyer": "云南省遥感中心",
+    "project_name": "云南省遥感中心2026年度影像数据获取采购",
+    "total_amount": 8046660.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "长光卫星技术股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "北京航天世景信息技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "二十一世纪空间技术应用股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省范围优于1米分辨率卫星遥感影像获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点时段优于1米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点区域0.5米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "高光谱影像",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省范围优于1米分辨率卫星遥感影像获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点时段优于1米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点区域0.5米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省范围优于1米分辨率卫星遥感影像获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点时段优于1米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "全省重点区域0.5米遥感影像数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "长光卫星技术股份有限公司",
+      "role": "winner",
+      "total_score": 85.82,
+      "rank": null,
+      "amount": 3433320.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京航天世景信息技术有限公司",
+      "role": "winner",
+      "total_score": 84.14,
+      "rank": null,
+      "amount": 3027840.0
+    },
+    {
+      "package_no": "3",
+      "name": "二十一世纪空间技术应用股份有限公司",
+      "role": "winner",
+      "total_score": 82.04,
+      "rank": null,
+      "amount": 1585500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

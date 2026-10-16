@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115271",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "品目取自HTML标的信息表品目名称列（概要品目列空）→教学仪器；单价537810元/数量1宗/总价537810元来自中标人投标（响应）报价明细表（最高限价550000元），单价×数量=总价成立；附件包(1)_开标（报价）一览表与包(1)_投标（响应）报价明细表解析仅剩表头（文字重影损坏），无有效数据；package_no=1来自标题（采购包1）及附件项目包号1；两位未中标人rank=2/3取自未中标原因列明示文字（综合得分排名第二/第三），中标人得分排名列空白故rank=null（不推定第1）；附件「Al」为OCR字形映射（公告标题、项目名称、报价明细表项目名称均作AI），数量列「1.00宗00」粘连字符由HTML表格2数量列「1(宗)」互证解决，均无需视觉核验。",
+  "project": {
+    "buyer": "齐鲁工业大学",
+    "project_name": "齐鲁工业大学（山东省科学院）基于生成式AI-通识课设备更新采购项目",
+    "total_amount": 537810.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "基于生成式AI-通识课设备更新采购",
+        "winner": "石家庄仁杰电子设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "基于生成式AI-通识课设备更新采购",
+      "brand": "希冀",
+      "model": "V7.2",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 537810.0,
+      "total_price": 537810.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "石家庄仁杰电子设备有限公司",
+      "role": "winner",
+      "total_score": 97.3,
+      "rank": null,
+      "amount": 537810.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都鑫赛能科技有限公司",
+      "role": "participant",
+      "total_score": 91.88,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏先利智能科技有限公司",
+      "role": "participant",
+      "total_score": 91.3,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260305_26232575",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf,河南省科学院2026年数据库采购项目（包1-包4）-单一来源采购文件-定稿.pdf",
+  "note": "单一来源采购共4包；HTML成交情况表仅披露包1（同方知网数字科技有限公司，375000元），包2-4的成交供应商取自附件.pdf『采用单一来源采购方式的原因及说明』（智慧芽信息科技（苏州）有限公司/中国图书进出口（集团）有限公司/广东万方数据信息科技有限公司），其成交金额原文未披露（仅知各包预算=最高限价：包1 38万、包2 26.5万、包3 62万、包4 80万，项目总预算206.5万），故包2-4的amount与total_price为null，包金额之和无法与总成交金额2014800元核对（包1 375000 + 未披露3包 ≠ 2014800，差额属包2-4成交金额）；品目概要列与标的信息表均无品目列，category=null；附件采购文件PDF为空白格式模板，无分项价格可抽。",
+  "project": {
+    "buyer": "河南省科学院",
+    "project_name": "河南省科学院2026年数据库采购项目",
+    "total_amount": 2014800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中国知网数据库服务",
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智慧芽数据库服务",
+        "winner": "智慧芽信息科技（苏州）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "scifinder数据库服务",
+        "winner": "中国图书进出口（集团）有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "万方数据库服务",
+        "winner": "广东万方数据信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "中国知网数据库服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 375000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "智慧芽数据库服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "scifinder数据库服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "1",
+      "category": null,
+      "item_name": "万方数据库服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 375000.0
+    },
+    {
+      "package_no": "2",
+      "name": "智慧芽信息科技（苏州）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广东万方数据信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

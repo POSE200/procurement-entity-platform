@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260401_26350525",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包项目（附件招标文件名'1包招标文件.pdf'及正文'第1包'，package_no=1 据此填写，HTML未明示包号）。概要品目列空且HTML/附件均无品目名称列，category=null。item_name第一条原文为'●智慧管理平台'（●为核心产品标记，非名称组成部分）。明细3条数学自洽：260×980+1×24300+260×60=294700，与总中标金额29.47万元一致。rank取自评标结果表'排序'列（原文明示）；participant的amount取开标记录表投标报价。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "青岛工程职业学院高水平专业群机房管理软件项目",
+    "total_amount": 294700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛工程职业学院高水平专业群机房管理软件项目",
+        "winner": "青岛嘉信广源电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧管理平台",
+      "brand": "OS-Easy",
+      "model": "噢易教育融合桌面云软件V6.0",
+      "quantity": 260,
+      "unit": "点",
+      "unit_price": 980.0,
+      "total_price": 254800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧服务平台",
+      "brand": "OS-Easy",
+      "model": "噢易计算机实验室智慧服务系统V6",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 24300.0,
+      "total_price": 24300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "多媒体教学软件",
+      "brand": "OS-Easy",
+      "model": "噢易多媒体网络教室软件V9.0",
+      "quantity": 260,
+      "unit": "点",
+      "unit_price": 60.0,
+      "total_price": 15600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛嘉信广源电子科技有限公司",
+      "role": "winner",
+      "total_score": 77.66,
+      "rank": 1,
+      "amount": 294700.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛浩谦信息科技有限公司",
+      "role": "participant",
+      "total_score": 49.86,
+      "rank": 2,
+      "amount": 276000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛博生信息技术有限公司",
+      "role": "participant",
+      "total_score": 45.4,
+      "rank": 3,
+      "amount": 145000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "announcement_id": "t20260608_26711258",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山西同方知网数字出版技术有限公司).pdf,报价明细表(第1轮-上海万方数据有限公司).pdf,报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf,报价明细表(第1轮-中国人民大学书报资料中心).pdf,报价明细表(第1轮-重庆维普智图数据科技有限公司).pdf,报价明细表(第1轮-北京中科进出口有限责任公司).pdf,报价明细表(第1轮-重庆聚合科技有限公司).pdf,报价明细表(第1轮-济南星火数媒教育信息有限公司).pdf,报价明细表(第1轮-北京森途教育科技股份有限公司).pdf,报价明细表(第1轮-北京尚品大成数据技术有限公司).pdf,报价明细表(第1轮-北京智信数图科技有限公司).pdf,报价明细表(第1轮-湖北中文在线数字出版有限公司).pdf",
+  "note": "单一来源采购，共12个包（包号1-7、9-13，无包8，公告标题与中标表一致），每包仅1家成交供应商、各1条明细（数量1项）。12包金额之和800,000+296,000+249,900+21,000+56,000+486,500+320,000+60,000+80,000+50,000+110,000+30,000=2,559,400元与总中标金额（￥255.94万）一致。评审情况表（表格25-36）无得分列、得分排名与推荐排名列全空，故total_score/rank均为null（禁止推定）。品目取自HTML标的信息表“互联网信息服务”。包号8缺失为原文情形，未自行重排。 复核修正：2026-09-23独立复核通过，12包单价/数量(1.0000项)/总价均见附件报价明细表原文，包金额之和与总中标金额一致。",
+  "project": {
+    "buyer": "菏泽学院",
+    "project_name": "菏泽学院2026年电子资源采购项目（3492）",
+    "total_amount": 2559400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中国知网数据库",
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "万方数据库",
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "超星数据库",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "人大复印报刊资料数据库",
+        "winner": "中国人民大学书报资料中心"
+      },
+      {
+        "package_no": "5",
+        "package_name": "维普数据库",
+        "winner": "重庆维普智图数据科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "Web of Science数据平台",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "聚合数据库",
+        "winner": "重庆聚合科技有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": "星火数媒资源库",
+        "winner": "济南星火数媒教育信息有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": "森途职业能力与创业学习资源库",
+        "winner": "北京森途教育科技股份有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": "大成故纸堆",
+        "winner": "北京尚品大成数据技术有限公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": "智信数图数据库",
+        "winner": "北京智信数图科技有限公司"
+      },
+      {
+        "package_no": "13",
+        "package_name": "书香中国电子图书阅读平台",
+        "winner": "湖北中文在线数字出版有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "互联网信息服务",
+      "item_name": "中国知网数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "互联网信息服务",
+      "item_name": "万方数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 296000.0,
+      "total_price": 296000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "互联网信息服务",
+      "item_name": "超星数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 249900.0,
+      "total_price": 249900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "互联网信息服务",
+      "item_name": "人大复印报刊资料数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 21000.0,
+      "total_price": 21000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "互联网信息服务",
+      "item_name": "维普数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 56000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "互联网信息服务",
+      "item_name": "Web of Science数据平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 486500.0,
+      "total_price": 486500.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "互联网信息服务",
+      "item_name": "聚合数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 320000.0,
+      "total_price": 320000.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "互联网信息服务",
+      "item_name": "星火数媒资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1",
+      "category": "互联网信息服务",
+      "item_name": "森途职业能力与创业学习资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1",
+      "category": "互联网信息服务",
+      "item_name": "大成故纸堆",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "12",
+      "item_no": "12-1",
+      "category": "互联网信息服务",
+      "item_name": "智信数图数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": "13-1",
+      "category": "互联网信息服务",
+      "item_name": "书香中国电子图书阅读平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 800000.0
+    },
+    {
+      "package_no": "2",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 296000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 249900.0
+    },
+    {
+      "package_no": "4",
+      "name": "中国人民大学书报资料中心",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 21000.0
+    },
+    {
+      "package_no": "5",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 56000.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 486500.0
+    },
+    {
+      "package_no": "7",
+      "name": "重庆聚合科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 320000.0
+    },
+    {
+      "package_no": "9",
+      "name": "济南星火数媒教育信息有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "10",
+      "name": "北京森途教育科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "11",
+      "name": "北京尚品大成数据技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 50000.0
+    },
+    {
+      "package_no": "12",
+      "name": "北京智信数图科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 110000.0
+    },
+    {
+      "package_no": "13",
+      "name": "湖北中文在线数字出版有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 30000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

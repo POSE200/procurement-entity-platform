@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260604_26686793",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（联奕科技股份有限公司）.pdf",
+  "note": "合同包1。item 1-1 的采购标的/品牌/规格型号原文均写『详见投标文件分项报价表』（分项报价表本身不可见），item_name/brand/model=null。品目取HTML标的信息表品目名称列（概要品目列空）。附件OCR有平台水印噪声且型号『G1e』在附件OCR里呈『G 11-e』疑为识别错误，规格型号以HTML表格为准（需视觉核验：附件中『D35te G1e-322X00 显示器M243A』的准确写法）。12683×298=3779534、4472766×1=4472766，两包金额合计8252300元与总中标金额一致。复核修正：型号疑点已解决——HTML表格2（公告主表，无水印污染）明示「主机：D35te G1e-322X00 显示器：M243A」，附件OCR中『G 11-e』系平台水印数字穿插（『显示6 0器』同），以HTML为准正确；1-2单价×数量=12,683×298=3,779,534与总价吻合，加1-1的4,472,766合计恰为8,252,300；得分排名列明示1/2/3/4；确认verified。",
+  "project": {
+    "buyer": "河源技师学院",
+    "project_name": "河源技师学院计算机实训室建设项目",
+    "total_amount": 8252300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "河源技师学院计算机实训室建设项目",
+        "winner": "联奕科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "台式计算机",
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 4472766.0,
+      "total_price": 4472766.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "图形工作站",
+      "item_name": "图形工作站1",
+      "brand": "seewo",
+      "model": "主机：D35te G1e-322X00 显示器：M243A",
+      "quantity": 298,
+      "unit": "台",
+      "unit_price": 12683.0,
+      "total_price": 3779534.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联奕科技股份有限公司",
+      "role": "winner",
+      "total_score": 95.88,
+      "rank": 1,
+      "amount": 8252300.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市谱特迅信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州浩博百星光电有限公司",
+      "role": "participant",
+      "total_score": 78.76,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东好相邻科技有限公司",
+      "role": "participant",
+      "total_score": 70.45,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

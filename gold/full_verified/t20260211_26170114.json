@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260211_26170114",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个标项：表格1 序号 1/2/3 与表格3 标项1/2/3 按顺序一一对应（推断，需视觉核验）。表格1 列名为『中标（成交）金额』但单元格写作『投标报价：725100.00（元）』等，按列名取为各包中标金额；三项之和 725,100+1,146,800+528,100=2,400,000 元恰等于总中标金额 240 万元。序号列非评分排名列，rank 未明示一律 null；评审总得分照抄入 total_score。品目概要空，标的表无品目列，category=null；单服务标的仅有包级金额，quantity/unit_price null，item total_price 取该包金额。附件招标文件 .doc 被跳过，内容不可见。",
+  "project": {
+    "buyer": "克拉玛依市克拉玛依区工业和信息化局",
+    "project_name": "克拉玛依区小区信息化安防",
+    "total_amount": 2400000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "克拉玛依区小区信息化安防-标项1",
+        "winner": "中国电信股份有限公司克拉玛依分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "克拉玛依区小区信息化安防-标项2",
+        "winner": "中国移动通信集团新疆有限公司克拉玛依市分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "克拉玛依区小区信息化安防-标项3",
+        "winner": "中国联合网络通信有限公司克拉玛依市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "克拉玛依区小区信息化安防-标项1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 725100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "克拉玛依区小区信息化安防-标项2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1146800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "克拉玛依区小区信息化安防-标项3",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 528100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司克拉玛依分公司",
+      "role": "winner",
+      "total_score": 98.2,
+      "rank": null,
+      "amount": 725100.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团新疆有限公司克拉玛依市分公司",
+      "role": "winner",
+      "total_score": 98.7,
+      "rank": null,
+      "amount": 1146800.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司克拉玛依市分公司",
+      "role": "winner",
+      "total_score": 94.69,
+      "rank": null,
+      "amount": 528100.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

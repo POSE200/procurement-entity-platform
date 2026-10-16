@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260805_27080443",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "标题为采购包1；但劳务报酬表显示本项目（SDGP...289）对应中标金额包2：34.00万元、另一项目287对应包1：15.30万元，包号以HTML标题'采购包1'为准并声明。品目概要列空，category取HTML标的信息表'品目名称'列=计算机软件。item明细以附件报价明细表为准（附件5条与HTML表2的5行一一对应）。参与人rank来自'未中标原因'栏明示的'综合得分排名第二/第三/第四'；得分排名列为空，中标人rank=null。各明细单价×数量之和=340000元=中标金额，数学一致。复核：附件OCR将型号断行为'DRE AMB -AB CD0 0010 U'，已按HTML表2拼为DREAMB-ABCD00010U（两处规格一致，无需视觉核验）；package_name='应用软件'照抄附件报价明细表'采购包：应用软件'栏原文。",
+  "project": {
+    "buyer": "山东省妇幼保健院",
+    "project_name": "山东省妇幼保健院2026年儿童语言障碍测量管理系统采购项目",
+    "total_amount": 340000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "应用软件",
+        "winner": "山东智慧道健康科技管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "计算机软件",
+      "item_name": "儿童语言障碍筛查评估软件（1套（含永久授权））",
+      "brand": "培声",
+      "model": "DREAMB-ABCD00010U",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": 317000.0,
+      "total_price": 317000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "计算机软件",
+      "item_name": "评估终端（3台）",
+      "brand": "培声",
+      "model": "DREAMB-ABCD00010U",
+      "quantity": 3.0,
+      "unit": "台",
+      "unit_price": 4000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "计算机软件",
+      "item_name": "儿童语言障碍测量工作站（1台）",
+      "brand": "培声",
+      "model": "DREAMB-ABCD00010U",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 9000.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "计算机软件",
+      "item_name": "报告输出终端（1台）",
+      "brand": "培声",
+      "model": "DREAMB-ABCD00010U",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 1000.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "计算机软件",
+      "item_name": "无线AP（2台）",
+      "brand": "培声",
+      "model": "DREAMB-ABCD00010U",
+      "quantity": 2.0,
+      "unit": "台",
+      "unit_price": 500.0,
+      "total_price": 1000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东智慧道健康科技管理有限公司",
+      "role": "winner",
+      "total_score": 88.2,
+      "rank": null,
+      "amount": 340000.0
+    },
+    {
+      "package_no": "1",
+      "name": "茧变(济南)医疗科技有限公司",
+      "role": "participant",
+      "total_score": 76.11,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": 75.31,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东瑶华医疗科技有限公司",
+      "role": "participant",
+      "total_score": 75.28,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "announcement_id": "t20260604_26690792",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细附件/投标（响应）报价明细表([1]).pdf,报价明细附件/投标（响应）报价明细表([2]).pdf,报价明细附件/投标（响应）报价明细表([3]).pdf,报价明细附件/投标（响应）报价明细表([4]).pdf,报价明细附件/投标（响应）报价明细表([5]).pdf,报价明细附件/投标（响应）报价明细表([6]).pdf,报价明细附件/投标（响应）报价明细表([7]).pdf,报价明细附件/投标（响应）报价明细表([8]).pdf",
+  "note": "8个采购包。品目：概要列空，取标的信息表「品目名称」列=其他林业服务。items每包1条标的，单价/数量/计量单位取自该包中标人的投标（响应）报价明细表附件（单价478800/415500/419000/418000/418800/418000/418000/398000元，数量1.000项），各附件合计=该包中标金额，8包之和3384100元=总中标金额￥338.410000万，数学自查通过。评分表与包的对应为推断：8张评分表顺序与采购包1-8对应，各包中标人得分即其在该表的综合得分（未中过其他包者中最高），已确定为其他包中标人的供应商（如集思通、鲁迪在包3-7）得分虽高但不中标，依据表格25未成交原因佐证。复核：表格25逐包未成交名单与各评分表（表格17-24）成员完全一致，评分表-包对应关系已被原文证实，无需视觉核验；8张报价明细表单价/数量/合计逐张核对通过。得分排名/推荐排名两列原文全空，rank一律null。附件报价明细表[5]（采购包5）节选内未见投标人名称行，金额418800元与包5中标人山东汇德地理信息工程有限公司一致。文件集内包(1)-(8)的开标一览表/报价明细表均为空白模板，无数据。",
+  "project": {
+    "buyer": "山东省自然资源厅机关",
+    "project_name": "林草湿荒调查监测变化图斑和标准地（木）外业核查及标准地（木）数据库建设项目",
+    "total_amount": 3384100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包1）",
+        "winner": "山东鲁迪测绘有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包2）",
+        "winner": "山东集思通测绘科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包3）",
+        "winner": "山东青华园林设计有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包4）",
+        "winner": "山东智维勘测规划设计有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包5）",
+        "winner": "山东汇德地理信息工程有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包6）",
+        "winner": "山东鲁义地理信息工程有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包7）",
+        "winner": "山东元鸿勘测规划设计有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "标准地（木）数据库更新（采购包8）",
+        "winner": "山东元鸿勘测规划设计有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包1）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 478800.0,
+      "total_price": 478800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包2）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 415500.0,
+      "total_price": 415500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包3）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 419000.0,
+      "total_price": 419000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包4）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 418000.0,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包5）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 418800.0,
+      "total_price": 418800.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包6）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 418000.0,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "其他林业服务",
+      "item_name": "林草湿荒变化图斑和标准地（木）外业核查（采购包7）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 418000.0,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "其他林业服务",
+      "item_name": "标准地（木）数据库更新（采购包8）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 398000.0,
+      "total_price": 398000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "winner",
+      "total_score": 95.48,
+      "rank": null,
+      "amount": 478800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 94.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东慧创信息科技有限公司",
+      "role": "participant",
+      "total_score": 92.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 91.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省地质测绘院",
+      "role": "participant",
+      "total_score": 90.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": 415500.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 94.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 95.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东慧创信息科技有限公司",
+      "role": "participant",
+      "total_score": 91.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 91.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省地质测绘院",
+      "role": "participant",
+      "total_score": 90.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东青华园林设计有限公司",
+      "role": "winner",
+      "total_score": 94.32,
+      "rank": null,
+      "amount": 419000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "participant",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 95.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东慧创信息科技有限公司",
+      "role": "participant",
+      "total_score": 91.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 91.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东省地质测绘院",
+      "role": "participant",
+      "total_score": 90.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "winner",
+      "total_score": 93.76,
+      "rank": null,
+      "amount": 418000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 92.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东慧创信息科技有限公司",
+      "role": "participant",
+      "total_score": 92.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "participant",
+      "total_score": 95.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 94.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 93.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 92.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东众望地理信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "winner",
+      "total_score": 93.64,
+      "rank": null,
+      "amount": 418800.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 95.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "participant",
+      "total_score": 95.02,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 93.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 93.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东众望地理信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "winner",
+      "total_score": 94.06,
+      "rank": null,
+      "amount": 418000.0
+    },
+    {
+      "package_no": "6",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 93.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东政通地理信息有限公司",
+      "role": "participant",
+      "total_score": 88.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "participant",
+      "total_score": 94.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 92.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 92.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东众望地理信息科技有限公司",
+      "role": "participant",
+      "total_score": 86.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东浩坤国土空间规划有限公司",
+      "role": "participant",
+      "total_score": 82.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "winner",
+      "total_score": 92.26,
+      "rank": null,
+      "amount": 418000.0
+    },
+    {
+      "package_no": "7",
+      "name": "山东众望地理信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东浩坤国土空间规划有限公司",
+      "role": "participant",
+      "total_score": 82.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东集思通测绘科技有限公司",
+      "role": "participant",
+      "total_score": 93.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.24,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东青华园林设计有限公司",
+      "role": "participant",
+      "total_score": 93.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 93.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": 92.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 92.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "winner",
+      "total_score": 93.8,
+      "rank": null,
+      "amount": 398000.0
+    },
+    {
+      "package_no": "8",
+      "name": "山东深科空间规划勘查设计有限公司",
+      "role": "participant",
+      "total_score": 77.07,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "山东恒远地理信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "山东正维勘察测绘有限公司",
+      "role": "participant",
+      "total_score": 74.37,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "山东智维勘测规划设计有限公司",
+      "role": "participant",
+      "total_score": 73.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "金田产业发展（山东）集团有限公司",
+      "role": "participant",
+      "total_score": 70.65,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

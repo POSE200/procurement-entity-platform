@@ -1,0 +1,418 @@
+{
+  "announcement_id": "t20260603_26677365",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:2026年电警抓拍系统(三次)报价明细附件.pdf",
+  "note": "单包（合同包1）。29条货物明细来自HTML标的信息表并与附件报价明细附件逐条互证，单价×数量=总价逐条相符，29条合计980491.80元=中标金额=总成交金额98.0492万。品目取标的信息表品目名称列『交通管理设备』（概要品目列为空）。表格4明示得分排名/推荐排名（龙野1、汉海2、美业3），润潮与森龙未通过符合性审查无得分报价，score/rank/amount=null。谈判文件pdf仅前30页。需视觉核验：附件OCR将『威』误作『威/⼈』等但品牌型号以HTML为准。复核：29条明细逐条与HTML标的表核对一致，合计980491.80元分毫不差；rank取自表格4得分排名列（明示1/2/3），amount取最终报价列；本表无综合得分列，total_score=null正确；全部字段核对无误。",
+  "project": {
+    "buyer": "牡丹江市公安局交通管理支队",
+    "project_name": "2026年电警抓拍系统(三次)",
+    "total_amount": 980491.8,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "牡丹江市公安局交通管理支队2026年电警抓拍系统",
+        "winner": "黑龙江龙野信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "交通管理设备",
+      "item_name": "一体化抓拍单元(900万像素)",
+      "brand": "大华",
+      "model": "DH-CP902",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 14590.0,
+      "total_price": 116720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "交通管理设备",
+      "item_name": "一体化抓拍单元(500万像素)",
+      "brand": "大华",
+      "model": "DH-CP502",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 10490.0,
+      "total_price": 104900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "交通管理设备",
+      "item_name": "LED频闪灯",
+      "brand": "大华",
+      "model": "CXBG-1-1-PS-A-DH-ITALE-060AA",
+      "quantity": 40,
+      "unit": "台",
+      "unit_price": 1530.0,
+      "total_price": 61200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "交通管理设备",
+      "item_name": "智能交通终端管理设备",
+      "brand": "大华",
+      "model": "DH-ITSE1200-TA-N02",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 8995.0,
+      "total_price": 71960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交通管理设备",
+      "item_name": "红绿灯信号检测器",
+      "brand": "大华",
+      "model": "DH-ITASD-020RA",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 2340.0,
+      "total_price": 18720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "交通管理设备",
+      "item_name": "万向节支架",
+      "brand": "大华",
+      "model": "8018",
+      "quantity": 36,
+      "unit": "套",
+      "unit_price": 82.0,
+      "total_price": 2952.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "交通管理设备",
+      "item_name": "柱装支架",
+      "brand": "大华",
+      "model": "DH-PFA5510",
+      "quantity": 58,
+      "unit": "套",
+      "unit_price": 115.0,
+      "total_price": 6670.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "交通管理设备",
+      "item_name": "立杆及横臂",
+      "brand": "新创",
+      "model": "LNXC-JKG-009",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 7870.0,
+      "total_price": 47220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "交通管理设备",
+      "item_name": "立杆及横臂",
+      "brand": "新创",
+      "model": "LNXC-JKG-012",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 10190.0,
+      "total_price": 40760.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "交通管理设备",
+      "item_name": "立杆及横臂",
+      "brand": "新创",
+      "model": "LNXC-JKG-015",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 16250.0,
+      "total_price": 32500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "交通管理设备",
+      "item_name": "立杆及横臂",
+      "brand": "新创",
+      "model": "LNXC-JKG-018",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 18710.0,
+      "total_price": 18710.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "交通管理设备",
+      "item_name": "L6.5*9立杆基础 2000*2000*2000mm",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 5590.0,
+      "total_price": 33540.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "交通管理设备",
+      "item_name": "L6.5*12立杆基础 2000*2000*2200mm",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 6490.0,
+      "total_price": 25960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "交通管理设备",
+      "item_name": "L6.5*15立杆基础 2000*2000*2200mm",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6490.0,
+      "total_price": 12980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "交通管理设备",
+      "item_name": "L6.5*18立杆基础 2000*2000*2200mm",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6490.0,
+      "total_price": 6490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "交通管理设备",
+      "item_name": "检查井(定制600*600*800mm)",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 36,
+      "unit": "套",
+      "unit_price": 890.0,
+      "total_price": 32040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "交通管理设备",
+      "item_name": "大理石板管道施工(1孔DN110PE管道敷设施工)",
+      "brand": "伟东",
+      "model": "DN110/4/PE",
+      "quantity": 70,
+      "unit": "m",
+      "unit_price": 285.0,
+      "total_price": 19950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "交通管理设备",
+      "item_name": "大理石板管道施工(2孔DN75PE管道敷设施工)",
+      "brand": "伟东",
+      "model": "DN75/2.5/PE",
+      "quantity": 318,
+      "unit": "m",
+      "unit_price": 250.0,
+      "total_price": 79500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "交通管理设备",
+      "item_name": "破碎沥青路面管道施工(2孔DN75PE管道敷设施工)",
+      "brand": "伟东",
+      "model": "DN75/2.5/PE",
+      "quantity": 490,
+      "unit": "m",
+      "unit_price": 295.0,
+      "total_price": 144550.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "交通管理设备",
+      "item_name": "破碎沥青路面管道施工(3孔DN75PE管道敷设施工)",
+      "brand": "伟东",
+      "model": "DN75/2.5/PE",
+      "quantity": 90,
+      "unit": "m",
+      "unit_price": 330.0,
+      "total_price": 29700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "交通管理设备",
+      "item_name": "大理石板管道施工(2孔DN50PE管道敷设施工)",
+      "brand": "伟东",
+      "model": "DN50/1.5/PE",
+      "quantity": 52,
+      "unit": "m",
+      "unit_price": 210.0,
+      "total_price": 10920.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "交通管理设备",
+      "item_name": "电缆(RVV3*1.5)",
+      "brand": "凯力特",
+      "model": "RVV3*1.5",
+      "quantity": 958,
+      "unit": "m",
+      "unit_price": 6.2,
+      "total_price": 5939.6
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "交通管理设备",
+      "item_name": "国标五类网线",
+      "brand": "大华",
+      "model": "DH-PHM2920I-5EU",
+      "quantity": 388,
+      "unit": "m",
+      "unit_price": 2.15,
+      "total_price": 834.2
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-24",
+      "category": "交通管理设备",
+      "item_name": "4芯室外光缆",
+      "brand": "烽火",
+      "model": "GYXTW-4B",
+      "quantity": 603,
+      "unit": "m",
+      "unit_price": 2.0,
+      "total_price": 1206.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-25",
+      "category": "交通管理设备",
+      "item_name": "接线插排",
+      "brand": "公牛",
+      "model": "415K",
+      "quantity": 20,
+      "unit": "个",
+      "unit_price": 70.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-26",
+      "category": "交通管理设备",
+      "item_name": "光电一体交换机",
+      "brand": "华为",
+      "model": "S1730S-S8T4S-QA2",
+      "quantity": 20,
+      "unit": "个",
+      "unit_price": 670.0,
+      "total_price": 13400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-27",
+      "category": "交通管理设备",
+      "item_name": "安防工业防腐交换落地机柜（含基础施工）",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 7,
+      "unit": "套",
+      "unit_price": 3990.0,
+      "total_price": 27930.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-28",
+      "category": "交通管理设备",
+      "item_name": "抱杆箱",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 13,
+      "unit": "套",
+      "unit_price": 800.0,
+      "total_price": 10400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-29",
+      "category": "交通管理设备",
+      "item_name": "光纤终端盒",
+      "brand": "烽火威视",
+      "model": "8口",
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 80.0,
+      "total_price": 1440.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "黑龙江龙野信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 980491.8
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨汉海科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 990141.43
+    },
+    {
+      "package_no": "1",
+      "name": "鸡西市美业商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 992040.0
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨润潮交通设施有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨森龙交通设施有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

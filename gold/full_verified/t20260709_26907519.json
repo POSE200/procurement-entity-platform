@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260709_26907519",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "仅采购包1（公告标题明示「采购包1」），package_no=1。5条明细取自中标供应商报价明细表（每条一个小节，各自带合计）：教师端数码显微系统52,000元、互动教学软件61,000元、学生端系统9,850元×48台=472,800元、图像处理软件23,500元、数字切片库29,500元，之和=638,800元=中标金额638,800.00元=总中标金额￥63.880000万元，数学一致。品牌奥特、型号（BR-POL、OPTProV4.0、B302、OPTPro、OPTPro-SL）、数量单位与HTML标的信息表一致；概要品目列空，category取标的信息表「教学仪器」；item_no沿用HTML品目号1-1至1-5。评分表「得分排名」「推荐排名」列空，rank=null。公告标题作「中药显微互动系统」而概要项目名称作「中药显微镜互动系统」，project_name照抄概要。需视觉核验：报价明细表OCR断行严重（单价/数量列错位已按合计读齐）。",
+  "project": {
+    "buyer": "山东药品食品职业学院",
+    "project_name": "山东药品食品职业学院中药显微镜互动系统采购项目",
+    "total_amount": 638800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "威海邦成实验仪器有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "教师端数码显微系统",
+      "brand": "奥特",
+      "model": "BR-POL",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 52000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "互动教学软件",
+      "brand": "奥特",
+      "model": "OPTProV4.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 61000.0,
+      "total_price": 61000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "学生端系统",
+      "brand": "奥特",
+      "model": "B302",
+      "quantity": 48,
+      "unit": "台",
+      "unit_price": 9850.0,
+      "total_price": 472800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "图像处理软件",
+      "brand": "奥特",
+      "model": "OPTPro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 23500.0,
+      "total_price": 23500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "数字切片库",
+      "brand": "奥特",
+      "model": "OPTPro-SL",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29500.0,
+      "total_price": 29500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "威海邦成实验仪器有限公司",
+      "role": "winner",
+      "total_score": 94.37,
+      "rank": null,
+      "amount": 638800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东海博信息科技有限公司",
+      "role": "participant",
+      "total_score": 82.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台开元仪器有限公司",
+      "role": "participant",
+      "total_score": 76.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": 50.87,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

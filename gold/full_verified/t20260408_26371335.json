@@ -1,0 +1,225 @@
+{
+  "announcement_id": "t20260408_26371335",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中标公告(1).docx",
+  "note": "8个采购包（01-08包），每包1名中标人，无未中标人名单（结果公告未附评审明细表）。包-供应商-金额映射由附件中标公告(1).docx明示（HTML表格2服务要求列的包号与之互证）。附件中标金额精确到元（如01包305,000.00元），8包之和3,860,553元=总中标金额￥386.0553万元，一致。HTML表格2主要标的信息表明示数量=1、单价=总价=各包中标金额（商品名称/规格型号列空白→item_name/model=null），系原文明示非推算。品目概要列与标的信息表均无品目→null。复核确认：03包招标文件特定资格要求栏列有09包，但结果公告HTML与附件docx均仅含01-08包，系招标文件残留文本，不影响任何字段值；招标文件.zip压缩包未解析、5个分包招标文件因超长丢弃（中标明细不在其中，不影响已填字段）。复核：已逐字段对照原文核验通过。",
+  "project": {
+    "buyer": "北京市文物局综合事务中心",
+    "project_name": "北京市文物局机关办公信息化运维项目",
+    "total_amount": 3860553.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": null,
+        "winner": "中国文物信息咨询中心（国家文物局数据中心）"
+      },
+      {
+        "package_no": "02",
+        "package_name": null,
+        "winner": "北京中科卓信软件测评技术中心"
+      },
+      {
+        "package_no": "03",
+        "package_name": null,
+        "winner": "北京智博厚载工程科技有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": null,
+        "winner": "北京绿色苹果技术有限公司"
+      },
+      {
+        "package_no": "05",
+        "package_name": null,
+        "winner": "北京域天科技有限公司"
+      },
+      {
+        "package_no": "06",
+        "package_name": null,
+        "winner": "北京起航智达信息科技有限公司"
+      },
+      {
+        "package_no": "07",
+        "package_name": null,
+        "winner": "北京润成恒信科技有限公司"
+      },
+      {
+        "package_no": "08",
+        "package_name": null,
+        "winner": "北京知讯谷信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 305000.0,
+      "total_price": 305000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 175000.0,
+      "total_price": 175000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 729600.0,
+      "total_price": 729600.0
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 817058.0,
+      "total_price": 817058.0
+    },
+    {
+      "package_no": "05",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 508000.0,
+      "total_price": 508000.0
+    },
+    {
+      "package_no": "06",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 114200.0,
+      "total_price": 114200.0
+    },
+    {
+      "package_no": "07",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 728500.0,
+      "total_price": 728500.0
+    },
+    {
+      "package_no": "08",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 483195.0,
+      "total_price": 483195.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "中国文物信息咨询中心（国家文物局数据中心）",
+      "role": "winner",
+      "total_score": 91.85,
+      "rank": null,
+      "amount": 305000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京中科卓信软件测评技术中心",
+      "role": "winner",
+      "total_score": 88.11,
+      "rank": null,
+      "amount": 175000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京智博厚载工程科技有限公司",
+      "role": "winner",
+      "total_score": 88.09,
+      "rank": null,
+      "amount": 729600.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京绿色苹果技术有限公司",
+      "role": "winner",
+      "total_score": 83.58,
+      "rank": null,
+      "amount": 817058.0
+    },
+    {
+      "package_no": "05",
+      "name": "北京域天科技有限公司",
+      "role": "winner",
+      "total_score": 84.48,
+      "rank": null,
+      "amount": 508000.0
+    },
+    {
+      "package_no": "06",
+      "name": "北京起航智达信息科技有限公司",
+      "role": "winner",
+      "total_score": 84.98,
+      "rank": null,
+      "amount": 114200.0
+    },
+    {
+      "package_no": "07",
+      "name": "北京润成恒信科技有限公司",
+      "role": "winner",
+      "total_score": 77.07,
+      "rank": null,
+      "amount": 728500.0
+    },
+    {
+      "package_no": "08",
+      "name": "北京知讯谷信息科技有限公司",
+      "role": "winner",
+      "total_score": 86.22,
+      "rank": null,
+      "amount": 483195.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260708_26895708",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州恒友软件有限公司）.pdf",
+  "note": "单包项目（合同包1）。概要品目列空，category取HTML主要标的信息表「品目名称」列=平台运营服务。5条明细取自附件报价明细表，5行的服务名称/采购标的均为「软件运维服务」，行间差异仅在服务范围（依次为系统建设实施服务/系统故障处理/数据运营服务/项目管理/后勤保障），item_no按附件序号1-5，品目号均为1-1。数量列原文为「1 (项)」，quantity=1、unit=项。数学不一致：附件5条总价之和=238,000元，与中标（成交）金额237,800元（总成交金额￥23.780000万）差200元，未改动原文值，需视觉核验：报价明细附件5行的单价/总价（尤其10,000与28,000两行）是否有OCR误读。独立复核（0924）：附件5行单价列与总价列各自自洽、数字清晰（60,000/80,000/60,000/28,000/10,000），无OCR误读迹象；238,000与237,800的200元差为原文层面不一致，按规范第11条保留原文值并记录于note，不改值。视觉核验所见与OCR一致，不再构成未决疑点。附件声明函OCR有水印字符干扰，无标注用字段。综合得分与排名取自评分表（得分排名列明示1/2/3），未中标供应商报价原文未给，amount=null。",
+  "project": {
+    "buyer": "揭阳市医疗保障局",
+    "project_name": "广东省医疗保障信息平台财务管理子系统（揭阳市）运营服务项目",
+    "total_amount": 237800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省医疗保障信息平台财务管理子系统（揭阳市）运营服务项目",
+        "winner": "广州恒友软件有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "平台运营服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "平台运营服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "平台运营服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "平台运营服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28000.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "平台运营服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州恒友软件有限公司",
+      "role": "winner",
+      "total_score": 70.25,
+      "rank": 1,
+      "amount": 237800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东望锐信息技术有限公司",
+      "role": "participant",
+      "total_score": 39.22,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东科睿软件有限公司",
+      "role": "participant",
+      "total_score": 30.33,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

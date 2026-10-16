@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260311_26259280",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:中小企业声明函-北京乐旸环境科技有限公司.pdf,中小企业声明函-北方中奥（北京）环境科技有限公司.pdf",
+  "note": "HTML品目栏为空，category全部为null。分三包（01/02/03）各一家中标：包-中标人对应关系HTML未直接给出，依中小企业声明函所载标的名（乐旸声明函写02、北方中奥声明函写03）及各包预算金额比对推定，明泰来=01包为排除法。服务类单条标的，数量1、单价=总价均照抄HTML主要标的信息表。三包中标金额之和467.9798万元与总中标金额一致。未中标供应商名单及排名原文未见，bidders仅收3家中标人、rank均null。招标文件中的单台运维费用最高限价（监控设备2282元/台·年、监测设备2489元/台·年）为限价而非中标单价，未作取值。。复核修正：按新口径G4，明泰来=01包系HTML/结果表序号推断（排除法），推断须在note声明，故保留现状不改。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "北京市西城区生态环境局（本级）",
+    "project_name": "油烟排放监控监测设备运维服务",
+    "total_amount": 4679798.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "油烟排放监控监测设备运维服务01",
+        "winner": "北京明泰来环保科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "油烟排放监控监测设备运维服务02",
+        "winner": "北京乐旸环境科技有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "油烟排放监控监测设备运维服务03",
+        "winner": "北方中奥（北京）环境科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "01",
+      "category": null,
+      "item_name": "油烟排放监控监测设备运维服务01",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1618880.0,
+      "total_price": 1618880.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "02",
+      "category": null,
+      "item_name": "油烟排放监控监测设备运维服务02",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1587728.0,
+      "total_price": 1587728.0
+    },
+    {
+      "package_no": "03",
+      "item_no": "03",
+      "category": null,
+      "item_name": "油烟排放监控监测设备运维服务03",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1473190.0,
+      "total_price": 1473190.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京明泰来环保科技有限公司",
+      "role": "winner",
+      "total_score": 87.89,
+      "rank": null,
+      "amount": 1618880.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京乐旸环境科技有限公司",
+      "role": "winner",
+      "total_score": 85.42,
+      "rank": null,
+      "amount": 1587728.0
+    },
+    {
+      "package_no": "03",
+      "name": "北方中奥（北京）环境科技有限公司",
+      "role": "winner",
+      "total_score": 84.04,
+      "rank": null,
+      "amount": 1473190.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

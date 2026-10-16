@@ -1,0 +1,278 @@
+{
+  "announcement_id": "t20260702_26859651",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东佛山地质工程勘察院）.pdf",
+  "note": "品目取自HTML标的信息表品目名称列'地质勘测服务'（概要品目列为空）；18条明细以附件报价明细附件为准，各条单价×数量=总价，18条总价之和2,482,000.00元恰等于中标金额，数学自查通过；第10条'车辆使用'数量列单位原文为(人天)但服务实为用车322车次（疑似原文单位列错，照抄原文并留视觉核验）；附件正文夹带水印字符已剔除。需视觉核验：第10条数量单位(人天)是否应为(车次)；第12条宣传册单价6元/数量5500份的排布是否有列错位。复核：18条明细逐条核对、合计与评分表已独立验证（第10条单位列原文确为（人天）、第12条6×5500=33000无错位），确认通过。",
+  "project": {
+    "buyer": "佛山市自然资源局",
+    "project_name": "佛山市地质灾害监测预警与隐患调查工作运行（2026年）",
+    "total_amount": 2482000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市地质灾害监测预警与隐患调查工作运行（2026年）",
+        "winner": "广东佛山地质工程勘察院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "地质勘测服务",
+      "item_name": "资料收集",
+      "brand": null,
+      "model": null,
+      "quantity": 20,
+      "unit": "人日",
+      "unit_price": 700.0,
+      "total_price": 14000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "地质勘测服务",
+      "item_name": "项目工作方案编制",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "份",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "地质勘测服务",
+      "item_name": "派驻固定技术人员",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "人年",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "地质勘测服务",
+      "item_name": "地质灾害监测",
+      "brand": null,
+      "model": null,
+      "quantity": 540,
+      "unit": "人天",
+      "unit_price": 700.0,
+      "total_price": 378000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "地质勘测服务",
+      "item_name": "地质灾害预警",
+      "brand": null,
+      "model": null,
+      "quantity": 914,
+      "unit": "人天",
+      "unit_price": 700.0,
+      "total_price": 639800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "地质勘测服务",
+      "item_name": "地质灾害隐患调查",
+      "brand": null,
+      "model": null,
+      "quantity": 140,
+      "unit": "人天",
+      "unit_price": 700.0,
+      "total_price": 98000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "地质勘测服务",
+      "item_name": "应急驻守",
+      "brand": null,
+      "model": null,
+      "quantity": 144,
+      "unit": "人天",
+      "unit_price": 700.0,
+      "total_price": 100800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "地质勘测服务",
+      "item_name": "应急驻守住宿费",
+      "brand": null,
+      "model": null,
+      "quantity": 144,
+      "unit": "人天",
+      "unit_price": 380.0,
+      "total_price": 54720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "地质勘测服务",
+      "item_name": "监测、隐患调查与应急驻守差旅费",
+      "brand": null,
+      "model": null,
+      "quantity": 824,
+      "unit": "人天",
+      "unit_price": 100.0,
+      "total_price": 82400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "地质勘测服务",
+      "item_name": "车辆使用",
+      "brand": null,
+      "model": null,
+      "quantity": 322,
+      "unit": "人天",
+      "unit_price": 700.0,
+      "total_price": 225400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "地质勘测服务",
+      "item_name": "地质灾害监测仪器布设",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 25000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "地质勘测服务",
+      "item_name": "宣传册",
+      "brand": null,
+      "model": null,
+      "quantity": 5500,
+      "unit": "份",
+      "unit_price": 6.0,
+      "total_price": 33000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "地质勘测服务",
+      "item_name": "宣传片",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "地质勘测服务",
+      "item_name": "培训讲座与宣传活动",
+      "brand": null,
+      "model": null,
+      "quantity": 10,
+      "unit": "次",
+      "unit_price": 5000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": "地质勘测服务",
+      "item_name": "应急演练",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "次",
+      "unit_price": 130000.0,
+      "total_price": 260000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": "地质勘测服务",
+      "item_name": "应急物资",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 25880.0,
+      "total_price": 25880.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": "地质勘测服务",
+      "item_name": "报告编制",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": "地质勘测服务",
+      "item_name": "项目评审",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "次",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东佛山地质工程勘察院",
+      "role": "winner",
+      "total_score": 90.13,
+      "rank": 1,
+      "amount": 2482000.0
+    },
+    {
+      "package_no": "1",
+      "name": "吉华安全技术（广州）股份有限公司",
+      "role": "participant",
+      "total_score": 80.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省地质局江门地质调查中心（广东省江门地质灾害应急抢险技术中心）",
+      "role": "participant",
+      "total_score": 57.61,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省珠海工程勘察院",
+      "role": "participant",
+      "total_score": 52.54,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

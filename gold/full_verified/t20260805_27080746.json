@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260805_27080746",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-赛尔网络有限公司).pdf",
+  "note": "单包（标题明示采购包1），package_no=1。item单价/数量来自附件『报价明细表(第1轮-赛尔网络有限公司).pdf』：单价291000元、数量1.0000(项)、响应报价291000元（最高限价296000元），291000×1=291000与总中标金额￥29.10万一致。品目category取HTML品目名称列『软件运维服务』。综合得分列有值（94.63/91.33/77.81/77.16）但『得分排名』『推荐排名』两列原文空白，rank一律=null，不得按得分高低推排名。山东星维九州安全技术有限公司符合性审查未通过，仅在未中标原因表出现，participant且无得分。附件『包(1)_开标（报价）一览表.pdf』『包(1)_投标（响应）报价明细表.pdf』解析结果仅剩表头（双重叠字）无数据行，不影响本篇取值。需视觉核验：排名列确为空白。",
+  "project": {
+    "buyer": "山东第二医科大学",
+    "project_name": "山东第二医科大学网络安全服务项目",
+    "total_amount": 291000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "赛尔网络有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "山东第二医科大学网络安全服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 291000.0,
+      "total_price": 291000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "赛尔网络有限公司",
+      "role": "winner",
+      "total_score": 94.63,
+      "rank": null,
+      "amount": 291000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东安易信息技术有限公司",
+      "role": "participant",
+      "total_score": 91.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司潍坊市分公司",
+      "role": "participant",
+      "total_score": 77.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东万春网络工程有限公司",
+      "role": "participant",
+      "total_score": 77.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东星维九州安全技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

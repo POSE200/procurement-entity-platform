@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260610_26727741",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包项目（附件文件名明示包(1)）。HTML标的信息表无单价/总价列，5条明细的单价/总价取自中标人《投标（响应）报价明细表.pdf》（该附件OCR文字严重错乱、列错位，数值经人工对位恢复，与HTML品牌/型号/数量列互相印证）。5项之和590600+705000+725000+754000+755000=3,529,600元，与中标金额3,529,600.00元一致。概要品目列空，category取HTML标的信息表品目名称列『其他仪器仪表』。评审表综合得分列有值但得分排名列空，rank=null。需视觉核验：报价明细表PDF中各单价与最高限价的对应关系（590,600/限价600,000、705,000/710,000、725,000/735,000、754,000/760,000、755,000/755,000）。复核修正：5条单价与限价对应关系已在附件OCR文本中逐条确认（各条合计与单价一致），且5项之和恰等于中标金额3,529,600元，无需视觉核验。",
+  "project": {
+    "buyer": "潍坊学院",
+    "project_name": "潍坊学院土木与交通学院综合实验平台建设项目",
+    "total_amount": 3529600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛百清仪器设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他仪器仪表",
+      "item_name": "全自动温度-渗透-应力-化学耦合三轴仪",
+      "brand": "TKA",
+      "model": "TKA-CMTTS-2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 590600.0,
+      "total_price": 590600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他仪器仪表",
+      "item_name": "万能试验机",
+      "brand": "中机试验",
+      "model": "DF61.206",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 705000.0,
+      "total_price": 705000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他仪器仪表",
+      "item_name": "疲劳试验机",
+      "brand": "中机试验",
+      "model": "SDZ-200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 725000.0,
+      "total_price": 725000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他仪器仪表",
+      "item_name": "高速流场测量设备",
+      "brand": "微牛顿",
+      "model": "H100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 754000.0,
+      "total_price": 754000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他仪器仪表",
+      "item_name": "三维应变测量设备",
+      "brand": "中机试验",
+      "model": "DF71.306",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 755000.0,
+      "total_price": 755000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛百清仪器设备有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": null,
+      "amount": 3529600.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东汉佰仪器设备有限公司",
+      "role": "participant",
+      "total_score": 78.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛金泰昌环保科技有限公司",
+      "role": "participant",
+      "total_score": 74.63,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

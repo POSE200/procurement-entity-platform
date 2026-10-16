@@ -1,0 +1,226 @@
+{
+  "announcement_id": "t20260306_26238138",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（合同包1，附件名与代理费表均明示包号1）；概要品目列空，品目取HTML标的信息表『品目名称』列（教学仪器）；13条分项单价×数量=总价逐条自洽，合计7,497,600元=总中标金额；品牌/规格型号列原文即含『等详见投标文件三、分项报价表』字样，按原样照抄未截断；报价明细附件为跳过未知类型不可见，但HTML标的表已给出完整分项明细，无OCR待补；哈尔滨市戴武商贸有限公司符合性审查不通过，无得分，total_score/rank/amount=null。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "智能潮创产品实训基地（配套设备）",
+    "total_amount": 7497600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能潮创产品实训基地（配套设备）",
+        "winner": "广东锐志教育科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "AIGC产品造型训练平台",
+      "brand": "H3C、惠普等详见投标文件三、分项报价表",
+      "model": "R4900G6、Z2 Tower G9等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2664400.0,
+      "total_price": 2664400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "创意AI数字系统",
+      "brand": "WACOM",
+      "model": "DTK168",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 349000.0,
+      "total_price": 349000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "XR一体化三维空间交互平台",
+      "brand": "永科视觉、卡莱特等详见投标文件三、分项报价表",
+      "model": "YK3D-LED1.25、X40m-3D等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 683000.0,
+      "total_price": 683000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "全息互动教学系统",
+      "brand": "数字视界",
+      "model": "DV-LT9801、DV-LT5501等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 417800.0,
+      "total_price": 417800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "家具3D云设计与智能制造方案教学解决方案系统(软、硬件）",
+      "brand": "酷家乐、惠普等详见投标文件三、分项报价表",
+      "model": "教育版、Z2 Tower G9等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 254200.0,
+      "total_price": 254200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "高清站播直播设备套装",
+      "brand": "猛犸、OVER EXP等详见投标文件三、分项报价表",
+      "model": "猛玛探镜2、300B Pro(五灯套装）等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 373800.0,
+      "total_price": 373800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "教学仪器",
+      "item_name": "虚拟现实教学设备",
+      "brand": "VOXELSENSE",
+      "model": "X5-T4、定制等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 97800.0,
+      "total_price": 97800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "教学仪器",
+      "item_name": "数字化设计与制造技术平台",
+      "brand": "xTool、华之尊等详见投标文件三、分项报价表",
+      "model": "MXF-KO03-002、HZZ-V3000-60W等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 1355100.0,
+      "total_price": 1355100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学仪器",
+      "item_name": "CMF实训平台",
+      "brand": "拓竹、惠普等详见投标文件三、分项报价表",
+      "model": "Bambu Lab H2D、Z2 Tower G1i等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 298800.0,
+      "total_price": 298800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学仪器",
+      "item_name": "色彩检测系统",
+      "brand": "3nh/三恩时",
+      "model": "PS230、ST-700D等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 102200.0,
+      "total_price": 102200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学仪器",
+      "item_name": "全息数字橱窗",
+      "brand": "数字视界、中教智学等详见投标文件三、分项报价表",
+      "model": "DV-LT5501-OL、定制等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 118000.0,
+      "total_price": 118000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "教学仪器",
+      "item_name": "智慧教学系统",
+      "brand": "希沃、Wanksiya万课声扬等详见投标文件三、分项报价表",
+      "model": "FH86EA、AC31等详见投标文件三、分项报价表",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 263000.0,
+      "total_price": 263000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "教学仪器",
+      "item_name": "环境设备",
+      "brand": "锐志",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 520500.0,
+      "total_price": 520500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东锐志教育科技有限公司",
+      "role": "winner",
+      "total_score": 90.02,
+      "rank": 1,
+      "amount": 7497600.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳中科格物智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.37,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "数创天途（广东）科技有限公司",
+      "role": "participant",
+      "total_score": 59.4,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏瑞莱克斯自动化科技有限公司",
+      "role": "participant",
+      "total_score": 53.85,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市戴武商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

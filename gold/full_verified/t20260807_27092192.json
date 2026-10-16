@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260807_27092192",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（东软集团股份有限公司）.pdf",
+  "note": "合同包1单包，包名称取HTML代理服务费表『合同包名称』；概要品目列为空，品目取HTML标的表『品目名称』列=行业应用软件开发服务；附件报价明细表有水印字符污染（『6 3 0 6 2 0 2 … C P G YJ 台 平 云』），按语义取值：单价7,166,000×数量1(套)=总价7,166,000.00，与总中标金额￥716.6万一致；HTML标的表金额列为空，总价取附件；6家投标人排名取自评分表『得分排名』列。复核：附件报价明细1条（7,166,000×1套）、联合体写法、评分表6家得分排名均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "阳江市政务服务和数据管理局",
+    "project_name": "阳江市数据基础能力建设运营服务（2026年）项目",
+    "total_amount": 7166000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "阳江市数据基础能力建设运营服务（2026年）项目",
+        "winner": "东软集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "阳江市数据基础能力建设运营服务（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7166000.0,
+      "total_price": 7166000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东软集团股份有限公司",
+      "role": "winner",
+      "total_score": 88.41,
+      "rank": 1,
+      "amount": 7166000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中电云计算技术有限公司(联合体成员：阳江市数字科技发展有限公司)",
+      "role": "participant",
+      "total_score": 84.82,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 84.57,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 73.47,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州起妙科技有限公司",
+      "role": "participant",
+      "total_score": 39.64,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东蓝晟海洋科技有限公司",
+      "role": "participant",
+      "total_score": 39.6,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

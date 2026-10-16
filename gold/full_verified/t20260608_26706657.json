@@ -1,0 +1,266 @@
+{
+  "announcement_id": "t20260608_26706657",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市斯进电子科技有限公司）.pdf",
+  "note": "单包（合同包1，包号明示于附件文件名及代理服务费表），中标广州市斯进电子科技有限公司4,021,520元=总中标金额402.152万。17条明细：货物14条取HTML标的信息表（品目名称列齐全），服务3条（1-7/1-16/1-17）HTML金额列为空，单价/总价取附件报价明细（30,000/60,000/70,000元，单价×数量唯一互推成立）。全部明细求和=4,021,520与中标金额相符。item_no原文缺1-7位于货物表之外属正常（服务另表）。1-9规格型号附件OCR乱序（'德拓用德平灵台A软I件智能V5体应'），按HTML修正为'德拓德灵 AI 智能体应用平台软件 V5'。1-14品牌华为/华达、数量3台、278,890×3=836,670相符。bidders 4条，rank取得分排名列。需视觉核验：1-9规格型号原文；1-14品牌'华为/华达'对应双制造商。复核：两疑点均已解除——1-9规格型号在HTML标的信息表为干净文本'德拓德灵 AI 智能体应用平台软件 V5'（附件乱序系OCR水印所致）；1-14为双制造商行（华为技术有限公司/江西华达计算机有限公司），品牌列原文即'华为/华达'，照抄无歧义。",
+  "project": {
+    "buyer": "广州市交通技师学院（广州市交通高级技工学校）",
+    "project_name": "市交通技师学院低空物流与人工智能数智营销云平台实训基地建设项目（配套设备及软件）",
+    "total_amount": 4021520.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市交通技师学院低空物流与人工智能数智营销云平台实训基地建设项目（配套设备及软件）",
+        "winner": "广州市斯进电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "电子班牌",
+      "brand": "SIGNTAB",
+      "model": "HCBP-0215LS1",
+      "quantity": 50,
+      "unit": "台",
+      "unit_price": 2897.0,
+      "total_price": 144850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "电子班牌软件",
+      "brand": "SIGNTAB",
+      "model": "GoHi-SS.01.013",
+      "quantity": 50,
+      "unit": "套",
+      "unit_price": 898.0,
+      "total_price": 44900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "视频监控设备",
+      "item_name": "网络摄像机",
+      "brand": "海康威视",
+      "model": "DS-2CD214XYZUV-ABCDEF",
+      "quantity": 200,
+      "unit": "个",
+      "unit_price": 590.0,
+      "total_price": 118000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "数据基础引擎平台软件",
+      "brand": "德拓",
+      "model": "德拓DDP大数据基础引擎平台软件V4.5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 179500.0,
+      "total_price": 179500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "服务器",
+      "item_name": "数据基础引擎平台服务器1",
+      "brand": "德拓",
+      "model": "INFINITY N1600、德拓INFINITY分布式集群云存储软件V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 114800.0,
+      "total_price": 114800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "服务器",
+      "item_name": "数据基础引擎平台服务器2",
+      "brand": "德拓",
+      "model": "INFINITY N1600、德拓INFINITY分布式集群云存储软件V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 155000.0,
+      "total_price": 155000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "软件集成实施服务",
+      "item_name": "数据基础引擎平台安装调试服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "应用软件",
+      "item_name": "数据管理与开发平台",
+      "brand": "德拓",
+      "model": "德拓DanaStudio数智开发平台软件V5.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 357900.0,
+      "total_price": 357900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "应用软件",
+      "item_name": "数据管理与开发平台（智能体中台）",
+      "brand": "德拓",
+      "model": "德拓德灵 AI 智能体应用平台软件 V5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 239700.0,
+      "total_price": 239700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "应用软件",
+      "item_name": "数据可视化平台",
+      "brand": "德拓",
+      "model": "德拓PandaBI数智决策平台软件V5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 199500.0,
+      "total_price": 199500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "应用软件",
+      "item_name": "一表通填报平台",
+      "brand": "德拓",
+      "model": "德拓Dana Report数据填报平台软件 V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 289300.0,
+      "total_price": 289300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "应用软件",
+      "item_name": "数据运营平台",
+      "brand": "德拓",
+      "model": "德拓DanaAssets数据资产运营平台 V5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 598800.0,
+      "total_price": 598800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "应用软件",
+      "item_name": "数据分析平台",
+      "brand": "德拓",
+      "model": "德拓D-Vision大数据可视化平台软件V3.5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 549600.0,
+      "total_price": 549600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "服务器",
+      "item_name": "数据分析平台（服务器）",
+      "brand": "华为/华达",
+      "model": "FusionCube 1000 / DP2220",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 278890.0,
+      "total_price": 836670.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "应用软件",
+      "item_name": "数据分析平台（服务器虚拟化套件）",
+      "brand": "华为",
+      "model": "DCS虚拟化套件",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 33000.0,
+      "total_price": 33000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "软件集成实施服务",
+      "item_name": "数据对接服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "软件集成实施服务",
+      "item_name": "集成实施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市斯进电子科技有限公司",
+      "role": "winner",
+      "total_score": 89.63,
+      "rank": 1,
+      "amount": 4021520.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市龙汇信息科技有限公司",
+      "role": "participant",
+      "total_score": 50.89,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州奕阳数创信息科技有限公司",
+      "role": "participant",
+      "total_score": 47.3,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市霖云计算机科技有限公司",
+      "role": "participant",
+      "total_score": 41.5,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260509_26533549",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_本国产品《声明函》或相关证明材料\\本国产品《声明函》或相关证明材料\\合同包2：本国产品《声明函》或相关证明材料（中国电信股份有限公司东莞分公司）.pdf",
+  "note": "两包，中标人均为中国电信股份有限公司东莞分公司。概要品目列空，category取HTML标的表品目名称列（交通管理设备）。两包标的品牌/规格型号列原文为「详见详细分项报价表」，该分项报价表不在可见内容中（附件仅为声明函），故brand/model=null，未据声明函中的组件型号（华为X6741-20-Z40-E2-Wp等）填补——声明函非分项报价表且无价格。两包中标金额之和4,884,030.30+2,554,636.71=7,438,667.01元，与总中标金额￥743.866700万元（7,438,667.00元）差0.01元（四舍五入）。两个.rar压缩包（声明函类）被跳过，不影响标的明细。bidders的amount仅中标方有（各包成交金额），参与方原文未给报价。",
+  "project": {
+    "buyer": "东莞市公安局交通管理支队东城大队",
+    "project_name": "东莞市公安局交通管理支队东城大队采购“不礼让行人”监控设备建设以及新建电子警察建设项目",
+    "total_amount": 7438667.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "不礼让行人抓拍系统",
+        "winner": "中国电信股份有限公司东莞分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "新建电子警察系统",
+        "winner": "中国电信股份有限公司东莞分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "交通管理设备",
+      "item_name": "不礼让行人抓拍系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 4884030.3,
+      "total_price": 4884030.3
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "交通管理设备",
+      "item_name": "新建电子警察系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 2554636.71,
+      "total_price": 2554636.71
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司东莞分公司",
+      "role": "winner",
+      "total_score": 89.35,
+      "rank": 1,
+      "amount": 4884030.3
+    },
+    {
+      "package_no": "1",
+      "name": "天讯瑞达通信技术有限公司东莞博路电信分公司",
+      "role": "participant",
+      "total_score": 65.35,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 64.22,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市联富智能化科技有限公司",
+      "role": "participant",
+      "total_score": 53.8,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司东莞分公司",
+      "role": "winner",
+      "total_score": 87.74,
+      "rank": 1,
+      "amount": 2554636.71
+    },
+    {
+      "package_no": "2",
+      "name": "天讯瑞达通信技术有限公司东莞博路电信分公司",
+      "role": "participant",
+      "total_score": 63.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 62.39,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "东莞市联富智能化科技有限公司",
+      "role": "participant",
+      "total_score": 54.6,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

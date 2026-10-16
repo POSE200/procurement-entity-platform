@@ -1,0 +1,162 @@
+{
+  "announcement_id": "t20260708_26893319",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单标项（标项号1），package_no='1'为按HTML结果表'序号/标项号'推断。概要品目列空，标的信息表无'品目名称'列（仅有标的名称：软件服务/配套信息化设备及基础软件服务/配套网络服务），故category=null。items无数量/单价/总价信息，全部null。附件《关于符合本国产品标准的声明函》列出6种产品（超融合服务器H3C UIS 3000 G6、物理服务器H3C UniServer R4900 G6、光纤交换机H3C UniStor CN3360B、存储H3CCF22825、交换机H3C S6805-56HF-G、备份一体机AB4000），有品牌型号但无数量单价、且与三个标的的对应关系不明，未单列为items；分项报价表不可见（附件仅此声明函+被剔除的招标文件docx）。bidders中朴拓科技发展（辽宁）有限公司总得分/排名原文为'-'，填null。需视觉核验疑点：①表格1'报价：21776000（元）'与总中标金额￥2177.600000万元一致，但按结果公告惯例该金额是否为含税中标价；②声明函中'H3CCF22825'疑为OCR漏空格（H3C CF22825）；③标的信息表3条是否即全部采购标的（无金额列无法交叉验证）。独立复核（0924）：①金额即结果表'报价：21776000（元）'原文照抄，与总中标金额2177.6万元一致；②'H3CCF22825'仅出现在note对声明函的描述中，非gold字段；③标的信息表3条即原文全部标的。另：package_no='1'实为结果表'序号'列与评分表'标项号'列明示值，非推断。全部字段核对无误。",
+  "project": {
+    "buyer": "大连市第三人民医院",
+    "project_name": "大连市第三人民医院院区改造项目-智慧医院Ⅰ期采购项目",
+    "total_amount": 21776000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中电信数智科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "软件服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "配套信息化设备及基础软件服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "配套网络服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司",
+      "role": "winner",
+      "total_score": 92.59,
+      "rank": 1,
+      "amount": 21776000.0
+    },
+    {
+      "package_no": "1",
+      "name": "联众智慧科技股份有限公司",
+      "role": "participant",
+      "total_score": 90.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东软集团股份有限公司",
+      "role": "participant",
+      "total_score": 90.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "信华信（大连）数字技术有限公司",
+      "role": "participant",
+      "total_score": 88.6,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京嘉和美康信息技术有限公司",
+      "role": "participant",
+      "total_score": 83.62,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京新纽科技有限公司",
+      "role": "participant",
+      "total_score": 83.02,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司大连市分公司",
+      "role": "participant",
+      "total_score": 82.01,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大连信维科技有限公司",
+      "role": "participant",
+      "total_score": 74.46,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司大连市分公司",
+      "role": "participant",
+      "total_score": 72.76,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大连东晟航科技有限公司",
+      "role": "participant",
+      "total_score": 67.7,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "沈阳电信工程有限责任公司",
+      "role": "participant",
+      "total_score": 50.94,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "朴拓科技发展（辽宁）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

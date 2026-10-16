@@ -1,0 +1,136 @@
+{
+  "announcement_id": "t20260701_26849258",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包3供应商评审情况表.pdf,2026年计算机软件租赁服务采购招标文件.docx",
+  "note": "共3个采购包，采购包2（WPS正版化服务含办公云服务+图形图像创意软件产品使用权，预算49万）未公布中标结果（仅包1、包3有评审情况表及中标表），packages中包2 winner=null；包2 items的金额原文只有招标预算（200,000/290,000元）非成交价，故unit_price/total_price=null；包1/包3成交价取评审情况表\"报价金额合计\"（HTML标的信息表响应报价列被模板代码\"0}\" class=...\"污染无法解析）；rank取\"第N中标候选人\"明示（1/2/3）；OCR兼容字符（赛尔⽹络/健⻜）已按HTML正规化为网络/健飞；品目概要列为空，category取HTML品目名称列（含编号前缀照抄）；quantity=1（项/套）取自招标文件采购清单标的表，单价由总价唯一互推（数量1）写note；包1+包3金额279000+269000=548000与总中标金额54.8万一致（包2未成交不计入）。复核修正：items的item_no原为null，现按招标文件采购清单「序号」列回填（包1=1；包2=1、2；包3=1）。补充声明：原文无独立采购包名称，packages的package_name取该包标的名称（包2为两个标的名称拼接）；HTML两张中标结果表未标包号，按成交金额与包1/包3评审情况表报价金额一致对应（279,000→包1、269,000→包3）；东旭源（成都）科技有限公司82.09分已核对见包3评审情况表第3行。",
+  "project": {
+    "buyer": "成都理工大学",
+    "project_name": "2026年计算机软件租赁服务采购",
+    "total_amount": 548000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "矩阵实验室软件服务",
+        "winner": "赛尔网络有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "WPS正版化服务（含办公云服务）、图形图像创意软件产品使用权",
+        "winner": null
+      },
+      {
+        "package_no": "3",
+        "package_name": "计算机操作系统及办公软件正版化服务",
+        "winner": "赛尔网络有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "C23110100 计算机设备和软件租赁服务",
+      "item_name": "矩阵实验室软件服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 279000.0,
+      "total_price": 279000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "C23110100 计算机设备和软件租赁服务",
+      "item_name": "WPS正版化服务（含办公云服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "C23110100 计算机设备和软件租赁服务",
+      "item_name": "图形图像创意软件产品使用权",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": "C23110100 计算机设备和软件租赁服务",
+      "item_name": "计算机操作系统及办公软件正版化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 269000.0,
+      "total_price": 269000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "赛尔网络有限公司",
+      "role": "winner",
+      "total_score": 80.0,
+      "rank": 1,
+      "amount": 279000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川健飞信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.98,
+      "rank": 2,
+      "amount": 279200.0
+    },
+    {
+      "package_no": "1",
+      "name": "泸州市江阳区科建网络科技有限公司",
+      "role": "participant",
+      "total_score": 79.94,
+      "rank": 3,
+      "amount": 279600.0
+    },
+    {
+      "package_no": "3",
+      "name": "赛尔网络有限公司",
+      "role": "winner",
+      "total_score": 82.19,
+      "rank": 1,
+      "amount": 269000.0
+    },
+    {
+      "package_no": "3",
+      "name": "东旭源（成都）科技有限公司",
+      "role": "participant",
+      "total_score": 82.09,
+      "rank": 2,
+      "amount": 269900.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川勋皓商贸有限公司",
+      "role": "participant",
+      "total_score": 77.3,
+      "rank": 3,
+      "amount": 268888.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

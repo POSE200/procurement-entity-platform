@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260202_26140620",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1报价明细表.pdf",
+  "note": "本次仅对包1二次采购。HTML品目列与主要标的信息表均无品目名称，category=null。包号取附件文件名及公告明示的包1（HTML中标表包号列为豫政采(2)20252163-1）。3条明细之和1,208,200元=总中标金额120.82万元，单价×数量=合计，数学一致。评审总得分75.11分来自HTML中标表；原文未明示排名，rank=null。",
+  "project": {
+    "buyer": "河南省人民医院",
+    "project_name": "河南省人民医院心电监护仪、输液采集系统及呼吸机项目",
+    "total_amount": 1208200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "包1：遥测心电监护系统（1拖40）、普通监护仪、高档监护仪",
+        "winner": "河南邦祯商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "遥测心电监护系统（1拖40）",
+      "brand": "迈瑞",
+      "model": "BeneVision TMS30A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 440000.0,
+      "total_price": 440000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "普通监护仪",
+      "brand": "迈瑞",
+      "model": "ePM10MC",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 14700.0,
+      "total_price": 88200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "高档监护仪",
+      "brand": "迈瑞",
+      "model": "BeneVision V700",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 170000.0,
+      "total_price": 680000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "河南邦祯商贸有限公司",
+      "role": "winner",
+      "total_score": 75.11,
+      "rank": null,
+      "amount": 1208200.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

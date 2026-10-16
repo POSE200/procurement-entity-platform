@@ -1,0 +1,188 @@
+{
+  "announcement_id": "t20260312_26264121",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "3个合同包；标的信息表金额(元)列为空，故item无单价/数量/总价；各包得分排名列有明示故rank照抄；包1/2/3与三张标的信息表的对应关系依品目号1-1/2-1/3-1及合同包名称与采购标的文字吻合确认。三包中标金额之和4054461.06+3860000.00+2957282.66=10871743.72元，与总中标金额10871744.00元差0.28元（四舍五入），未改原文值。报价明细附件.zip被剔除，分项明细不可见。",
+  "project": {
+    "buyer": "广州市公安局南沙分局",
+    "project_name": "广州市公安局南沙分局2025年高清视频监控系统租赁项目",
+    "total_amount": 10871744.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "南沙区2025非4G等公共安全与管理智能视频系统到期租赁服务项目",
+        "winner": "广州南沙智慧城市大数据有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "大岗镇公共安全与管理智能视频系统建设项目到期租赁项目",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "南沙区2025高清视频监控系统前端建设项目到期租赁项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "南沙区2025非4G等公共安全与管理智能视频系统到期租赁服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "大岗镇公共安全与管理智能视频系统建设项目到期租赁项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "南沙区2025高清视频监控系统前端建设项目到期租赁项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州南沙智慧城市大数据有限公司",
+      "role": "winner",
+      "total_score": 94.77,
+      "rank": 1,
+      "amount": 4054461.06
+    },
+    {
+      "package_no": "1",
+      "name": "广州市森锐科技股份有限公司",
+      "role": "participant",
+      "total_score": 71.79,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州鸿德信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.06,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东安可软件技术有限公司",
+      "role": "participant",
+      "total_score": 62.75,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东齐鸣建设工程有限公司",
+      "role": "participant",
+      "total_score": 45.61,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 95.82,
+      "rank": 1,
+      "amount": 3860000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 94.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州感知数据科技有限公司",
+      "role": "participant",
+      "total_score": 64.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市中艺智能科技有限公司",
+      "role": "participant",
+      "total_score": 64.73,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东瞬康信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.11,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 94.37,
+      "rank": 1,
+      "amount": 2957282.66
+    },
+    {
+      "package_no": "3",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 92.74,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东长实通信科技有限公司",
+      "role": "participant",
+      "total_score": 67.65,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州图灵科技有限公司",
+      "role": "participant",
+      "total_score": 55.95,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

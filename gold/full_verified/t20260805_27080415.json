@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080415",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第2轮-山东德迅网络科技有限公司).pdf",
+  "note": "公告标题为『采购包1』→package_no=1；概要品目列为空，category取HTML品目名称列『支撑软件开发服务』；附件报价明细表为第2轮（最后报价）：最高限价560000元、单价520000元×数量1宗=响应报价520000元，与成交金额52万一致；评审表得分排名/推荐排名两列为空，rank一律null（禁止中标即第1）。",
+  "project": {
+    "buyer": "聊城大学",
+    "project_name": "聊城大学教学科研自筹-理工信创运维一体化平台服务（ID2554）采购项目",
+    "total_amount": 520000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东德迅网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "支撑软件开发服务",
+      "item_name": "理工信创运维一体化平台服务（ID2554）采购",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 520000.0,
+      "total_price": 520000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东德迅网络科技有限公司",
+      "role": "winner",
+      "total_score": 94.04,
+      "rank": null,
+      "amount": 520000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东铭腾伟业信息科技有限公司",
+      "role": "participant",
+      "total_score": 91.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城市鲁晟网络科技有限公司",
+      "role": "participant",
+      "total_score": 88.79,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

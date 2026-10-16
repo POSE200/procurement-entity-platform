@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260403_26361883",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:关于符合本国产品标准的声明函.pdf,关于符合本国产品标准的声明函_2.pdf",
+  "note": "3个标项（标项一/二/三），HTML中标表按序号1/2/3列出，package_no 据此推断为1/2/3并在note声明。品目概要列为空，标的信息表无品目名称列，category=null。每标项1条标的：单价×数量=总价，且与该标项中标报价一致（603000×2=1206000；503600×3=1510800；446700×4=1786800），三项合计4,503,600元=总中标金额￥450.36万，数学一致。规格型号以HTML标的信息表为准、参照本国产品标准声明函校正PDF换行造成的空格：标项1 CRT-4880JG（HTML作「CRT-488 0JG」）、标项2 十件套仪器型号串（GDS-3104A/AEL-5003-425-28/ASR-3200/GSP-8800/PSW160-21.6/MFG-2260MRA/GPM-8310/GDM-9061/LCR-8230/PEL-507-500-30，HTML内含换行空格）、标项3 UT-LAB 550。品牌：科瑞特/固纬电子/优利德。无未中标供应商名单（废标表为空），bidders 仅3家中标人，得分/排名原文未给。",
+  "project": {
+    "buyer": "桂林电子科技大学",
+    "project_name": "PCB智能成型系统等教学设备采购",
+    "total_amount": 4503600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "PCB智能成型系统",
+        "winner": "广州市伯恒电子科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "GPIB智能电源设计与测试系统",
+        "winner": "广州市诚屹进出口有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "全能域精密LXI集成测试系统",
+        "winner": "桂林慧联科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "PCB智能成型系统",
+      "brand": "科瑞特",
+      "model": "CRT-4880JG",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 603000.0,
+      "total_price": 1206000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "GPIB智能电源设计与测试系统",
+      "brand": "固纬电子",
+      "model": "GDS-3104A/AEL-5003-425-28/ASR-3200/GSP-8800/PSW160-21.6/MFG-2260MRA/GPM-8310/GDM-9061/LCR-8230/PEL-507-500-30",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 503600.0,
+      "total_price": 1510800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "全能域精密LXI集成测试系统",
+      "brand": "优利德",
+      "model": "UT-LAB 550",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 446700.0,
+      "total_price": 1786800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市伯恒电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1206000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州市诚屹进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1510800.0
+    },
+    {
+      "package_no": "3",
+      "name": "桂林慧联科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1786800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

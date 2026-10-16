@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27071642",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东慧力建设集团有限公司).pdf",
+  "note": "package_no=1：附件文件名'包(1)_开标（报价）一览表.pdf'及磋商文件'采购包1'明示。单价788518元/数量1项取自成交供应商报价明细表（明确单价列，非互推）。工程量清单.xlsx为招标清单，金额列全空（无已标价工程量清单），故无更细分项。山东黄河建工有限公司资格性审查未通过（见未中标原因表），计入participant、得分null。评审得分排名/推荐排名列空，rank=null。附件专家报酬表载预算824432.62元/成交788518元，与HTML一致。",
+  "project": {
+    "buyer": "滨州市机关政务保障中心",
+    "project_name": "山东省滨州市机关政务保障中心滨州市教育局办公楼顶面墙面及院内地面维修项目",
+    "total_amount": 788518.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东慧力建设集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "房屋修缮",
+      "item_name": "山东省滨州市机关政务保障中心滨州市教育局办公楼顶面墙面及院内地面维修项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 788518.0,
+      "total_price": 788518.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东慧力建设集团有限公司",
+      "role": "winner",
+      "total_score": 89.33,
+      "rank": null,
+      "amount": 788518.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东政晟建设有限公司",
+      "role": "participant",
+      "total_score": 89.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东东来环境科技有限公司",
+      "role": "participant",
+      "total_score": 69.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东黄河建工有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260804_27071954",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "该公告无附件包。品目列空；主要标的信息表仅'货物类'分节标题（按规范不算品目）与'详见招标文件'，category=null，品牌/型号/数量/单价均无出处留null；total_price取中标金额446.29万元（标包A唯一标的，出处：HTML中标信息）。包号A为标题明示（A包：平台软硬件建设）。rank原文未给，null。",
+  "project": {
+    "buyer": "山东省潍坊市人民检察院",
+    "project_name": "潍坊市检察机关数据分中心平台项目",
+    "total_amount": 4462900.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "平台软硬件建设",
+        "winner": "联通（山东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市检察机关数据分中心平台项目（A包：平台软硬件建设）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 4462900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 4462900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

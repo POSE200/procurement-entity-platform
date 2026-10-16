@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260209_26163031",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包均由中国移动通信集团广东有限公司中标（表1/表2分别为包1、包2中标金额，表6/表7为对应两包评分表，包归属按表格序号与代理服务费表包1/包2名称对应确认）。3109251+2800311=5909562 与总中标金额￥590.9562万完全一致。品目名称列（控制、遥测、能源、制导系统用设备/电池及能源系统）逐item照抄为category；包2规格型号原文为两型号合并列（VA-ESS125/261-IM-35H/VA-ESS230/178-LC-18H）照抄。评分表含得分排名列，rank照抄；推荐排名仅中标人为1，未收录。HTML信息完整，无需视觉核验。",
+  "project": {
+    "buyer": "佛山大学",
+    "project_name": "电子信息学科交叉平台能源智能管控调度综合研发平台",
+    "total_amount": 5909562.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "能源零距离触达综合调度平台",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "高倍率宽温域储能设备",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "控制、遥测、能源、制导系统用设备",
+      "item_name": "能源零距离触达综合调度平台",
+      "brand": "普华灵动",
+      "model": "PHLD70KWH",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3109251.0,
+      "total_price": 3109251.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "电池及能源系统",
+      "item_name": "高倍率宽温域储能设备",
+      "brand": "瀚为",
+      "model": "VA-ESS125/261-IM-35H/VA-ESS230/178-LC-18H",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2800311.0,
+      "total_price": 2800311.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 92.93,
+      "rank": 1,
+      "amount": 3109251.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东影谱科技有限公司",
+      "role": "participant",
+      "total_score": 66.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东长盈科技股份有限公司",
+      "role": "participant",
+      "total_score": 54.03,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东品云信息技术有限公司",
+      "role": "participant",
+      "total_score": 53.29,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 94.95,
+      "rank": 1,
+      "amount": 2800311.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东长盈科技股份有限公司",
+      "role": "participant",
+      "total_score": 53.5,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东品云信息技术有限公司",
+      "role": "participant",
+      "total_score": 43.56,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

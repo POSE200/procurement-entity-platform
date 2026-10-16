@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260710_26909287",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告无附件包，附件3供货范围明细表不可见，故包A品牌（沩工）照抄HTML、两包规格型号与单价均为null（OCR待补：附件3供货范围明细表不在本包内，疑似含标的物明细）。HTML品目列与主要标的信息表均无品目名称列，category=null。数量原文为'一宗'，按1宗计。包A中标423000元+包B中标262250元=685250元，与总中标金额68.525万元一致。需视觉核验：原文公告页面附件3是否存在（本标注包声明无附件目录）。",
+  "project": {
+    "buyer": "烟台市蓬莱区职业中等专业学校",
+    "project_name": "烟台市蓬莱区职业中等专业学校建设智慧操场及数媒电商实训设备采购",
+    "total_amount": 685250.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "智慧操场、AI运动与体测设施",
+        "winner": "浙江大沩人工智能科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "数媒电商专业实训设备",
+        "winner": "北京博导前程信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧操场、AI运动与体测设施",
+      "brand": "沩工",
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": null,
+      "total_price": 423000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "数媒电商专业实训设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": null,
+      "total_price": 262250.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "浙江大沩人工智能科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 423000.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京博导前程信息技术股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 262250.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

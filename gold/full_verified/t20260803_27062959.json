@@ -1,0 +1,245 @@
+{
+  "announcement_id": "t20260803_27062959",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包报价明细表(第1轮-维桢（山东）文化传媒服务有限公司).pdf,2包报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf,3包报价明细表(第1轮-上海卓越睿新网络科技有限公司).pdf,4包报价明细表(第1轮-上海卓越睿新网络科技有限公司) (1).pdf",
+  "note": "复核修正：HTML中标表（表格1~4）与包1~包4的对应关系已复核确认，无需视觉核验——各包报价明细表附件文件名直接明示包号与中标人（如'1包报价明细表(第1轮-维桢)'），且各包中小企业声明函承接企业与之一致、得分与各包评分表最高分匹配（85.73/89.95/93.63/94.17）。四包各1条明细，单价/数量/总价取各包中标人报价明细表（第1轮）：545000+786000+392500+799000=2522500元=总中标金额252.25万元，单价×数量一致。category取HTML标的表品目名称列'教育课程研究与开发服务'（概要品目列空），item_no沿用HTML品目号1-1/2-1/3-1/4-1（与附件序号1对应）。得分排名/推荐排名列原文为空、'综合得分低于第一名'为原因描述→rank=null。烟台容大创联教育科技有限公司包1资格性审查未通过，无得分。卓越睿新同时中包3、包4（兼投兼中按包分列）。各包package_name原文未明示→null。",
+  "project": {
+    "buyer": "山东药品食品职业学院",
+    "project_name": "山东药品食品职业学院课程数字资源开发采购项目",
+    "total_amount": 2522500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "维桢（山东）文化传媒服务有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "上海卓越睿新网络科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "上海卓越睿新网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "课程高清视频拍摄制作及配套动画开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 545000.0,
+      "total_price": 545000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "数字资源开发、课程知识图谱、专业图谱、专业资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 786000.0,
+      "total_price": 786000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "课程数字资源开发服务、课程图谱建设服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 392500.0,
+      "total_price": 392500.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "课程数字资源开发服务、课程图谱建设服务、专业资源库开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 799000.0,
+      "total_price": 799000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "维桢（山东）文化传媒服务有限公司",
+      "role": "winner",
+      "total_score": 85.73,
+      "rank": null,
+      "amount": 545000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 84.27,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东美璟数字科技有限公司",
+      "role": "participant",
+      "total_score": 83.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市新风向科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 79.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东泽育信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东网梯学航网络科技有限公司",
+      "role": "participant",
+      "total_score": 77.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东平创信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东视嘉锐普信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台容大创联教育科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.95,
+      "rank": null,
+      "amount": 786000.0
+    },
+    {
+      "package_no": "2",
+      "name": "陕西秦图教育科技有限公司",
+      "role": "participant",
+      "total_score": 71.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛灵越动漫传媒科技有限公司",
+      "role": "participant",
+      "total_score": 70.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "上海卓越睿新网络科技有限公司",
+      "role": "winner",
+      "total_score": 93.63,
+      "rank": null,
+      "amount": 392500.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东和乐信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东同正信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "上海卓越睿新网络科技有限公司",
+      "role": "winner",
+      "total_score": 94.17,
+      "rank": null,
+      "amount": 799000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东和乐信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东同正信息技术有限公司",
+      "role": "participant",
+      "total_score": 68.96,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

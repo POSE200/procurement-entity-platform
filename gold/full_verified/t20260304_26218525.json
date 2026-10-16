@@ -1,0 +1,118 @@
+{
+  "announcement_id": "t20260304_26218525",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：中小企业或残疾人福利单位声明函（中国移动通信集团广东有限公司肇庆分公司）.pdf",
+  "note": "品目取自标的信息表品目名称列（概要品目列为空）；四条标的品目号原文均为1-1（重复），照抄；各标金额列空缺留null，无法与总成交金额2247000元核对；附件《报价明细附件》为html未知类型被跳过未解析，明细以HTML标的信息表为准；声明函PDF文字夹带水印噪声字符，未用作字段值。",
+  "project": {
+    "buyer": "肇庆高新技术产业开发区行政服务中心",
+    "project_name": "肇庆高新区“大旺即办”民意服务平台项目",
+    "total_amount": 2247000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "肇庆高新区“大旺即办”民意服务平台项目",
+        "winner": "中国移动通信集团广东有限公司肇庆分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "肇庆高新区“大旺即办”民意服务平台业务应用",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "肇庆高新区“大旺即办”民意服务平台业务底座",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "肇庆高新区“大旺即办”民意服务平台安全服务及其他服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "肇庆高新区“大旺即办”民意服务平台应用系统集成对接",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司肇庆分公司",
+      "role": "winner",
+      "total_score": 95.1,
+      "rank": 1,
+      "amount": 2247000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司肇庆分公司",
+      "role": "participant",
+      "total_score": 80.74,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "participant",
+      "total_score": 79.32,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京拓普丰联信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 59.56,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "南京舜智软件科技有限责任公司",
+      "role": "participant",
+      "total_score": 45.4,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

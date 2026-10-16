@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260507_26515915",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，全文（含附件）未出现任何合同包号/标包序号，package_no=null。品目列空、标的信息表『品目编号及品目名称』列空，category=null。标的信息表给『单位=项』『金额1,438,800.00元』，quantity/unit_price=null（不给数量不推算）。附件投标（响应）报价明细表显示投标单价1,499,000元×1项=1,499,000元，与中标金额1,438,800元不一致（明细表为投标报价非成交价，按中标金额取值，未混用）。得分表的综合得分87.00/82.29/78.25有值但『得分排名』『推荐排名』两列均为空，rank一律null（不推定中标即第1）。山东宏利科技有限公司（符合性未通过）、聊城市科特祥瑞新能源有限公司（资格性未通过）来自未成交原因表，收录为participant（无得分）。需视觉核验：资格审查表为已OCR扫描件且文字乱（供应商名OCR成『山来失鸿电气安备有司』），不影响取值。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "聊城市公路事业发展中心冠县公路事业发展中心",
+    "project_name": "聊城市公路事业发展中心冠县公路事业发展中心聊冠路（G309青兰线）路灯运维项目",
+    "total_amount": 1438800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东天鸿电气设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "聊城市公路事业发展中心冠县公路事业发展中心聊冠路（G309青兰线）路灯运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 1438800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东天鸿电气设备有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": 1438800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东汇泉市政工程有限公司",
+      "role": "participant",
+      "total_score": 82.29,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东威克市政工程有限公司",
+      "role": "participant",
+      "total_score": 78.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东宏利科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城市科特祥瑞新能源有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

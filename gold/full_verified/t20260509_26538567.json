@@ -1,0 +1,127 @@
+{
+  "announcement_id": "t20260509_26538567",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "原始HTML明确披露A/B/C/D包中标人、金额及评审总得分；四包成交金额合计17920800元。D包中标金额930000元为公告直接披露，不以附件850000元的单项报价替代；原有明细保留，D包未见直接单项成交价的消毒机金额不按差额分配。rank未披露，保留null。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "郑州市中心医院",
+    "project_name": "郑州市中心医院国家创伤区域医疗中心麻醉机（麻醉系统）等6种设备采购项目",
+    "total_amount": 17920800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "麻醉机（麻醉系统）",
+        "winner": "郑州容百医疗科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "麻醉机（麻醉系统）",
+        "winner": "郑州容百医疗科技有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "麻醉机（麻醉系统）",
+        "winner": "郑州蓝晓信息科技有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": "核磁专用麻醉机、麻醉机消毒机、麻醉机消毒机",
+        "winner": "河南诺帆医药科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "麻醉机（麻醉系统）",
+      "brand": "迈瑞",
+      "model": "A5",
+      "quantity": 16,
+      "unit": "套",
+      "unit_price": 385500.0,
+      "total_price": 6168000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "麻醉机（麻醉系统）",
+      "brand": "迈瑞",
+      "model": "A5",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 385500.0,
+      "total_price": 1542000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": "1",
+      "category": null,
+      "item_name": "麻醉机（麻醉系统）",
+      "brand": "GE",
+      "model": "规格：A1 型号：Carestation 620",
+      "quantity": 24,
+      "unit": "套",
+      "unit_price": 386700.0,
+      "total_price": 9280800.0
+    },
+    {
+      "package_no": "D",
+      "item_no": "1",
+      "category": null,
+      "item_name": "核磁专用麻醉机",
+      "brand": "通用电气",
+      "model": "Aelite NXT",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 850000.0,
+      "total_price": 850000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "郑州容百医疗科技有限公司",
+      "role": "winner",
+      "total_score": 84.28,
+      "rank": null,
+      "amount": 6168000.0
+    },
+    {
+      "package_no": "B",
+      "name": "郑州容百医疗科技有限公司",
+      "role": "winner",
+      "amount": 1542000,
+      "total_score": 84.07,
+      "rank": null
+    },
+    {
+      "package_no": "C",
+      "name": "郑州蓝晓信息科技有限公司",
+      "role": "winner",
+      "amount": 9280800,
+      "total_score": 86.77,
+      "rank": null
+    },
+    {
+      "package_no": "D",
+      "name": "河南诺帆医药科技有限公司",
+      "role": "winner",
+      "amount": 930000,
+      "total_score": 80.5,
+      "rank": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "D包两台麻醉机消毒机具体成交单价本次未取得直接依据，不能将930000与850000差额分配。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

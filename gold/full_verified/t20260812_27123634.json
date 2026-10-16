@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260812_27123634",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:分项报价表.pdf,本国产品声明函.pdf,人工智能模型训练实训室建设项目.pdf",
+  "note": "已通过OCR补齐：分项报价表.pdf（18页纯扫描件）已OCR。中标供应商认定为山东青橙数字科技有限公司（报价表落款「投标人名称（单位电子公章）：山东青橙数…」+ 合计「大写：人民币陆拾玖万捌仟玖佰元整、小写：￥698900元」与总中标金额69.89万一致；本国产品声明函.pdf 落款被OCR识作「山东数宇科技有娘公司」系识别错误，同函正文生产厂多处写「山东青橙数字科技有限公司」）。明细按报价表+声明函可确认5条：①数智应用一体化装置：品牌青橙数科、型号QCSK-AIBox02、单价49200、总价688800（49200×14=688800 吻合），数量14取自OCR参照及招标文件（人工智能模型训练实训室建设项目.pdf）第三章「数智应用一体化装置 数量14（台/套）」，unit 照抄「台/套」；②交换机：品牌OCR见「华为坤灵」（疑含水印杂字，按声明函生产厂华为技术有限公司取品牌「华为」）、型号S5735S-L24T4S-QA3（声明函与报价表OCR碎片一致）、产地深圳；③④⑤实训室综合布线施工/实训室整体装修/实训室文化墙设计：品牌青橙数科、型号「定制」（OCR行「品牌：青橙数科/型号：定制」×3）。OCR可疑与空缺：分项报价表OCR按坐标聚行大量错位（技术参数长文本与表格列交织），仅序号列、数量/单价/总价列大部分未还原——仅①行三值完整；交换机行附近漂浮数字 2000/2500/2600、3000/1000 无法可靠对位到数量/单价/总价列，②~⑤的数量/单价/总价保持 null（按合计反推②~⑤之和应为 698900-688800=10100 元，但不作拆分填入以免编造）；item_no 序号列未被OCR捕获，全 null。品目列HTML为空，category=null；未见评分/排名表，bidders 仅中标人，total_score/rank null。预算与最高限价均为70.01万元（出自招标文件，不作为中标值）。经营业绩一览表.png、专家报酬表.png 已OCR，与标的明细无关。复核修正：winner 系附件 OCR 认定（分项报价表落款「山东青橙」+合计698900=总中标金额；声明函落款「数宇/有娘」系 OCR 错字已校正），并核对 JSON 顶层键齐全无多余。复核修正：bidders 补 package_no 字段。原文未给合同包编号，packages 与 bidders 的 package_no 均为 null。；人工核验修正：核对扫描件原图第1页总表，补齐交换机/布线/装修/文化墙的量价数据（总计闭环698900）；符合性修正：原文未明示标包号，赋予合成包号1..N供入库建图",
+  "project": {
+    "buyer": "济宁职业技术学院",
+    "project_name": "济宁职业技术学院人工智能模型训练实训室建设项目",
+    "total_amount": 698900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东青橙数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数智应用一体化装置",
+      "brand": "青橙数科",
+      "model": "QCSK-AIBox02",
+      "quantity": 14,
+      "unit": "台/套",
+      "unit_price": 49200.0,
+      "total_price": 688800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "交换机",
+      "brand": "华为",
+      "model": "S5735S-L24T4S-QA3",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 1000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训室综合布线施工",
+      "brand": "青橙数科",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2000.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训室整体装修",
+      "brand": "青橙数科",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2500.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训室文化墙设计",
+      "brand": "青橙数科",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2600.0,
+      "total_price": 2600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东青橙数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 698900.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

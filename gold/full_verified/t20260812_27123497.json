@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123497",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "品目取 HTML 标的信息表品目名称列『软件运维服务』。采购包号取标题『采购包1』。单价/数量来自附件.pdf 内中标人（山东天启）投标（响应）报价明细表：单价385000.00、数量1.000、响应报价385000，385000×1=385000，与总中标金额￥38.500000万元一致；HTML 标的信息表金额列为空。bidders 4 家均过审查，得分排名列空，rank 全 null。已解决的原OCR疑点：①大写『参拾捌万伍仟元整』系『叁拾捌万伍仟元整』误识，数值385000由HTML中标金额/得分表/明细表三处印证；②供应商名OCR漏字不影响取值；③混入多项目劳务报酬表（SDGP...5735/5736/5737/6086）已按项目编号过滤；④招标文件设备清单为需求清单非中标明细，未作为 items。复核修正后仍需视觉核验：附件报价明细表『计量单位』单元格OCR未显出任何字符，HTML亦无单位列，item.unit='项'暂无明示出处（同系列服务类惯例为项，但按口径不推算）——需视觉核验该单元格后定 unit=项 或 null。视觉核验：附件.pdf 为扫描件（3页），报价明细表在 doc 第2页（索引1），fitz 渲染 300 DPI 局部与 500 DPI 单元格放大（tmp/vision_check/27123497_p1_unitcell_500dpi.png）确认『计量单位』单元格清晰为『项』（位于数量1.000右侧，此为原OCR漏识非像素空白），unit=项 有明示出处，维持不改值。",
+  "project": {
+    "buyer": "山东医药大学附属医院",
+    "project_name": "山东医药大学附属医院数据中心服务、物联网设备及平台、安全设备及系统维保项目",
+    "total_amount": 385000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东天启信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "数据中心服务、物联网设备及平台、安全设备及系统维保项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 385000.0,
+      "total_price": 385000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东天启信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.71,
+      "rank": null,
+      "amount": 385000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南嘉略信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东广鹏信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南慧德信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.6,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

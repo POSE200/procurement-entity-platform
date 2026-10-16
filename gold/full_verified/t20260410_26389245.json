@@ -1,0 +1,205 @@
+{
+  "announcement_id": "t20260410_26389245",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中电长城网际系统应用广东有限公司）.pdf,合同包2：报价明细附件（中国电信股份有限公司广东分公司）.pdf,合同包3：报价明细附件（中国移动通信集团广东有限公司）.pdf,合同包5：报价明细附件（奇安信网神信息技术（北京）股份有限公司）.pdf",
+  "note": "5个采购包中的4个（1/2/3/5）有中标信息，HTML未见采购包4的任何中标/标的信息（代理服务费表也只列1/2/3/5），包4情况不明，需视觉核验原文是否确实无包4。HTML『总中标金额』显示￥0.000000万元（疑占位错误），project.total_amount改用各包成交金额之和16,839,700元（包1=2,151,400来自附件包1总价；包2=1,947,900；包3=11,830,400；包5=910,000），需视觉核验。包1/2/3成交方式为折扣率（99%/99.9%/99.9%），附件报价明细中单价=总价且带折扣率列，按原文照抄（单价×数量=总价成立）。zip容器被跳过但解包后的4个报价明细PDF全部可见，无OCR待补。品目=其他运营服务取自HTML各标的信息表品目名称列。广东康天信息科技（包5）不通过符合性审查，无得分/排名/金额。复核：4包item与附件报价明细逐行核对一致，14条bidder与评分表10-13一致，四包之和16,839,700自洽；保持draft仅因包4问题（见上）待视觉核验。。视觉核验结论(2026-09-23)：解包zip仅含合同包1/2/3/5报价明细PDF各一份（中电长城网际/中国电信/中国移动/奇安信），无任何包4文件；HTML正文grep无「包4/标项四」字样，代理服务费表亦只列1/2/3/5——确证包4在可见原文中无中标信息，草稿数值与附件报价明细逐行一致，通过核验。；人工裁决：HTML全文无包4任何中标/标的行（代理费说明暗示包4存在但原文无结果），total_amount 的四包之和拼凑值取消改null（原文总额栏为￥0.000000万占位值）；已verified",
+  "project": {
+    "buyer": "中山市政务服务和数据管理局",
+    "project_name": "中山市政务服务智能算力服务采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智算资源服务",
+        "winner": "中电长城网际系统应用广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智算资源服务",
+        "winner": "中国电信股份有限公司广东分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "智算资源服务",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "安全治理服务",
+        "winner": "奇安信网神信息技术（北京）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "智算资源服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2151400.0,
+      "total_price": 2151400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运营服务",
+      "item_name": "智算资源服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1947900.0,
+      "total_price": 1947900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他运营服务",
+      "item_name": "智算资源服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 11830400.0,
+      "total_price": 11830400.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他运营服务",
+      "item_name": "安全治理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 910000.0,
+      "total_price": 910000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电长城网际系统应用广东有限公司",
+      "role": "winner",
+      "total_score": 66.59,
+      "rank": 1,
+      "amount": 2151400.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州宝立科技有限公司",
+      "role": "participant",
+      "total_score": 45.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中山市广域信息科技有限公司",
+      "role": "participant",
+      "total_score": 41.71,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 97.51,
+      "rank": 1,
+      "amount": 1947900.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州市申迪计算机系统有限公司",
+      "role": "participant",
+      "total_score": 60.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中山市创思特信息科技有限公司",
+      "role": "participant",
+      "total_score": 44.36,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 95.44,
+      "rank": 1,
+      "amount": 11830400.0
+    },
+    {
+      "package_no": "3",
+      "name": "新三科技有限公司",
+      "role": "participant",
+      "total_score": 43.61,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东申立信息工程股份有限公司",
+      "role": "participant",
+      "total_score": 37.11,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东布恩网络有限公司",
+      "role": "participant",
+      "total_score": 34.71,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "奇安信网神信息技术（北京）股份有限公司",
+      "role": "winner",
+      "total_score": 98.29,
+      "rank": 1,
+      "amount": 910000.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京启明星辰信息安全技术有限公司",
+      "role": "participant",
+      "total_score": 91.01,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "上海华盖科技发展股份有限公司",
+      "role": "participant",
+      "total_score": 54.29,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广东康天信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27108763",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "附件报价明细单价2,875,000、数量1(项)、总价2,875,000.00与HTML中标金额2,875,000.00元及总中标金额287.5万元一致；品目取自HTML标的信息表品目名称列（概要品目列为空）。附件服务范围列有水印数字污染（9600/6-等），不影响取值字段。",
+  "project": {
+    "buyer": "东莞市公安局南城分局",
+    "project_name": "2026年东莞市公安局南城分局简易卡口运维服务项目（28个月）",
+    "total_amount": 2875000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年东莞市公安局南城分局简易卡口运维服务项目（28个月）",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "2026年东莞市公安局南城分局简易卡口运维服务项目(28个月)",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2875000.0,
+      "total_price": 2875000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 94.23,
+      "rank": 1,
+      "amount": 2875000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司东莞分公司",
+      "role": "participant",
+      "total_score": 55.5,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市华睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 30.22,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市文达工程技术有限公司",
+      "role": "participant",
+      "total_score": 29.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260610_26722121",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州莲印医疗科技有限公司）.pdf,合同包3：报价明细附件（禾得泽医疗科技（广州）有限公司）.pdf",
+  "note": "公告仅涉及合同包1、合同包3（标题明示，无包2），两包金额960,000+559,600=1,519,600与总中标金额￥151.96万一致；HTML标的信息表已含单价/总价且与附件报价明细一致；品目取标的信息表品目名称列'医用超声波仪器及设备'，概要品目列空；广州贺安贸易有限公司因★号条款符合性审查不通过，无得分/排名，均null；得分排名列明示，照填；附件正文含水印散字已忽略。复核：全部字段与原文一致。",
+  "project": {
+    "buyer": "广州医科大学附属妇女儿童医疗中心",
+    "project_name": "广州医科大学附属妇女儿童医疗中心智能AI产程监护系统等设备项目",
+    "total_amount": 1519600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能AI产程监护系统",
+        "winner": "广州莲印医疗科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "分娩检测系统",
+        "winner": "禾得泽医疗科技（广州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "医用超声波仪器及设备",
+      "item_name": "智能AI产程监护系统（注册证名称：彩色多普勒超声系统）",
+      "brand": "莲印",
+      "model": "ObEye6",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 320000.0,
+      "total_price": 960000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "医用超声波仪器及设备",
+      "item_name": "分娩检测系统",
+      "brand": "三瑞",
+      "model": "LP1000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 559600.0,
+      "total_price": 559600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州莲印医疗科技有限公司",
+      "role": "winner",
+      "total_score": 87.85,
+      "rank": 1,
+      "amount": 960000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市佳南医疗科技有限公司",
+      "role": "participant",
+      "total_score": 83.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州仟旭贸易有限公司",
+      "role": "participant",
+      "total_score": 74.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州贺安贸易有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "禾得泽医疗科技（广州）有限公司",
+      "role": "winner",
+      "total_score": 79.55,
+      "rank": 1,
+      "amount": 559600.0
+    },
+    {
+      "package_no": "3",
+      "name": "广州仟旭贸易有限公司",
+      "role": "participant",
+      "total_score": 72.24,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州拓启医疗设备有限公司",
+      "role": "participant",
+      "total_score": 61.44,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州如一医疗器械有限公司",
+      "role": "participant",
+      "total_score": 57.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

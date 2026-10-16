@@ -1,0 +1,158 @@
+{
+  "announcement_id": "t20260506_26515760",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目（分包名称：信息系统维保，原文无包号/序号），package_no=null。中标青岛熙正数字科技有限公司1,376,500元与总中标金额￥137.65万一致。HTML标的信息表（表格2）实为分项报价表：『报价(元)/费率』列仅在『服务内容』(481,500)与『服务方式』(一)~(七)七行有值，其余行（项目说明/服务范围/服务系统维护清单/服务标准/人员要求/其他要求/商务条件）报价均为0，视为非报价行未收录；8个报价行合计481500+560000+60000+150000+40000+50000+15000+20000=1,376,500元，与中标金额完全一致，证实为分项报价拆分，items按8条最细粒度照抄（『服务内容』行取自名称列；『（一）日常服务』等7条为服务方式分项，名称列为『服务方式』，item_name取行内小节标题『（一）日常服务』等原文文本）。各报价行为整包 lump-sum 报价，无数量/单价列，quantity/unit/unit_price=null（不推算）。品目列空，category=null。评分表排序列明示1~4，照抄；投标报价表（表格6『单价报价（元）』）给出4家报价，填入各bidder的amount。需视觉核验：表格2『名称』列与『报价』列的对应关系（尤其服务内容行481500）。 复核修正：note 表述微调（分项小节名实际位于服务范围列）。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "青岛市即墨区人民医院",
+    "project_name": "青岛市即墨区人民医院信息系统维保服务",
+    "total_amount": 1376500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息系统维保",
+        "winner": "青岛熙正数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "服务内容",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 481500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（一）日常服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 560000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（二）紧急服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（三）节假日服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（四）重大技术问题处理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（五） 二三线技术支持服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（六）技术支持管理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "（七）风险与应对措施",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛熙正数字科技有限公司",
+      "role": "winner",
+      "total_score": 82.8,
+      "rank": 1,
+      "amount": 1376500.0
+    },
+    {
+      "package_no": "1",
+      "name": "嘉兴市广源信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 73.45,
+      "rank": 2,
+      "amount": 1800000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南盈一信息科技有限公司",
+      "role": "participant",
+      "total_score": 60.14,
+      "rank": 3,
+      "amount": 1875000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东九州苍穹科技有限公司",
+      "role": "participant",
+      "total_score": 58.61,
+      "rank": 4,
+      "amount": 1858000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

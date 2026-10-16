@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260710_26916205",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,合同包1：中小企业声明函（四川何极生物科技有限责任公司）.pdf,合同包2：中小企业声明函（四川奔俊商贸有限公司）.pdf",
+  "note": "分2个合同包：包1=超声（何极中标975,000元）、包2=中医（奔俊中标508,600元），归属由评审情况表（评审结果栏）与中小企业声明函（标段名称+包号水印）确认；两包之和975,000+508,600=1,483,600=总成交金额￥148.36万，一致。每包单一服务标的，成交金额记为该标的total_price，数量/单价/单位原文未给均null。品目：概要品目列空，取标的信息表品目名称列『C16020300 软件集成实施服务』原样照抄（含编号前缀）。HTML标的信息表响应报价列为模板渲染错误串，不可用。rank取自评审情况表『第一/第二/第三成交候选人』明示；参与者报价金额来自评审结果栏；江西泰柠贸易有限公司参与两个包，按包各列一条。需视觉核验：评审情况表OCR叠字样式（数值清晰）。",
+  "project": {
+    "buyer": "布拖县人民医院",
+    "project_name": "人工智能辅助诊断系统项目",
+    "total_amount": 1483600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "人工智能辅助诊断系统项目（超声）",
+        "winner": "四川何极生物科技有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "人工智能辅助诊断系统项目（中医）",
+        "winner": "四川奔俊商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16020300 软件集成实施服务",
+      "item_name": "人工智能辅助诊断系统项目（超声）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 975000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C16020300 软件集成实施服务",
+      "item_name": "人工智能辅助诊断系统项目（中医）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 508600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川何极生物科技有限责任公司",
+      "role": "winner",
+      "total_score": 92.42,
+      "rank": 1,
+      "amount": 975000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江西泰柠贸易有限公司",
+      "role": "participant",
+      "total_score": 91.23,
+      "rank": 2,
+      "amount": 960000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川卡瑞尔医疗器械有限公司",
+      "role": "participant",
+      "total_score": 86.16,
+      "rank": 3,
+      "amount": 950000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江西茹楠贸易有限公司",
+      "role": "participant",
+      "total_score": 63.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川奔俊商贸有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": 1,
+      "amount": 508600.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川雄鑫慧远医疗科技有限公司",
+      "role": "participant",
+      "total_score": 67.17,
+      "rank": 2,
+      "amount": 520000.0
+    },
+    {
+      "package_no": "2",
+      "name": "江西泰柠贸易有限公司",
+      "role": "participant",
+      "total_score": 66.67,
+      "rank": 3,
+      "amount": 520000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

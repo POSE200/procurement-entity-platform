@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260703_26867490",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:JSZC-320700-JZCG-G2026-0051采购文件.doc",
+  "note": "三包服务项目，HTML 表1-3 各只列 1 家中标供应商（未中标供应商及各家得分排序未公布），bidders 仅 3 条 winner。包号 1/2/3 及包名来自采购文件（数据专线及配套/三四级网主线及配套/IDC租用及配套网络租用服务）。概要品目为单值「网络接入服务」，按层级口径填入各 item 的 category。采购文件仅含采购需求，无投标报价明细（.doc 内部 XML 均被跳过，无报价表），故 item 级 quantity/unit/unit_price 无出处填 null；total_price 取该包中标金额（单服务标的包总价）。三包金额之和=536,496+6,640,800+7,999,904=15,177,200元=总中标金额￥1517.72万，一致。服务期 2 年。需视觉核验：无重大疑点。复核：三包包名/包号出处、三包金额与得分、分项报价表为空白模板已独立核对，确认通过。",
+  "project": {
+    "buyer": "连云港市公安局（机关）",
+    "project_name": "连云港市公安局网络租用服务采购（非专门面向中小企业）",
+    "total_amount": 15177200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "连云港市公安局数据专线及配套网络租用服务采购",
+        "winner": "中国联合网络通信有限公司连云港市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "连云港市公安局三四级网主线及配套网络租用服务采购",
+        "winner": "中国电信股份有限公司连云港分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "连云港市公安局IDC租用及配套网络租用服务采购",
+        "winner": "中国移动通信集团江苏有限公司连云港分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "网络接入服务",
+      "item_name": "连云港市公安局数据专线及配套网络租用服务采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 536496.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "网络接入服务",
+      "item_name": "连云港市公安局三四级网主线及配套网络租用服务采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6640800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "网络接入服务",
+      "item_name": "连云港市公安局IDC租用及配套网络租用服务采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 7999904.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司连云港市分公司",
+      "role": "winner",
+      "total_score": 96.83,
+      "rank": null,
+      "amount": 536496.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司连云港分公司",
+      "role": "winner",
+      "total_score": 97.86,
+      "rank": null,
+      "amount": 6640800.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团江苏有限公司连云港分公司",
+      "role": "winner",
+      "total_score": 92.36,
+      "rank": null,
+      "amount": 7999904.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

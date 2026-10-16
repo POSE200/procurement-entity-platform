@@ -1,0 +1,258 @@
+{
+  "announcement_id": "t20260408_26371064",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市励得数码科技有限公司）.pdf",
+  "note": "单包（合同包1，表格3合同包号明示）。概要品目列空，category取HTML标的信息表品目名称列'其他视频节目制作和播控设备'。item_no取附件报价明细的序号1-17（HTML品目号均为1-1），条目顺序按附件。HTML与附件的规格型号列均仅写'详见投标文件\"三、分项报价表\"'，实际规格型号不可得，model=null。brand与HTML一致（附件另含制造商名称，未单列字段）。17条明细合计1,749,700元与总中标金额174.97万元一致。第3名钲成世纪（广州）新媒体科技有限公司得分排名列为3（推荐排名列空），rank按得分排名列填3。附件OCR有水印字符穿插（如'6 2 0 H H3C'），已按语义辨认。",
+  "project": {
+    "buyer": "汕头市潮南区融媒体中心",
+    "project_name": "潮南区“媒体+”电视高清制播系统升级项目",
+    "total_amount": 1749700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "潮南区“媒体+”电视高清制播系统升级项目",
+        "winner": "深圳市励得数码科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "高性能万兆网络存储（物理容量288T）",
+      "brand": "德拓信息",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "万兆交换机",
+      "brand": "H3C",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 27000.0,
+      "total_price": 54000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "融合媒体平台集群服务器",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "超高清有卡非线性编辑系统",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 125000.0,
+      "total_price": 125000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "后台处理服务软件",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "移动非编",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "非编工作站软件",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 7000.0,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "配音工作站软件",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 5000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "AI智能媒资系统核心中台（物理容量：240TB）",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 236300.0,
+      "total_price": 236300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "智能媒资应用平台",
+      "brand": "索贝数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "智能虚拟演播室系统",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 355000.0,
+      "total_price": 355000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "节目播出主机",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 90500.0,
+      "total_price": 181000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "播出操控机",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 45000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "节目单编辑机",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 13700.0,
+      "total_price": 27400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "数据处理平台",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31000.0,
+      "total_price": 31000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "集成服务",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": "其他视频节目制作和播控设备",
+      "item_name": "施工及材料费",
+      "brand": "励得数码",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市励得数码科技有限公司",
+      "role": "winner",
+      "total_score": 98.0,
+      "rank": 1,
+      "amount": 1749700.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市荣俊影视器材有限公司",
+      "role": "participant",
+      "total_score": 89.51,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "钲成世纪（广州）新媒体科技有限公司",
+      "role": "participant",
+      "total_score": 86.22,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

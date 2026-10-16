@@ -1,0 +1,135 @@
+{
+  "announcement_id": "t20260507_26515992",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第2轮-北京慕华信息科技有限公司).pdf,报价明细表(第3轮-北京龙远鼎晟科技有限公司).pdf",
+  "note": "单一来源采购，两个采购包各自成交：包1（中国大学MOOC在线开放课程、优质资源应用）北京龙远鼎晟科技有限公司197,500元（数字资源平台98,750+优质资源应用服务98,750=197,500）；包2（智慧教学工具平台（雨课堂）升级）北京慕华信息科技有限公司194,000元（模块1~5报价48,900/28,000/38,700/28,900/49,500合计194,000）；两包合计391,500元=总中标金额￥39.15万元。包号取HTML标的信息表品目号前缀（1-1/1-2、2-1~2-5）及附件包(1)/包(2)文件名，包1对应龙远鼎晟、包2对应慕华（其报价明细表逐项吻合，评审价格列名称亦印证）。概要品目列空，category取标的信息表品目名称列\"平台运营服务\"。HTML标的信息表无价格列，各item单价/总价取自附件报价明细表（数量均1项）。得分排名/推荐排名两列原文为空，total_score/rank=null。需视觉核验：附件\"报价明细表(第2轮-慕华)\"中模块4单价28,900.0000、模块5单价49,500.0000的小数位；包(1)/包(2)开标一览表PDF为空模板无数据。",
+  "project": {
+    "buyer": "山东工商学院",
+    "project_name": "山东工商学院2026年中国大学MOOC在线开放课程、优质资源应用及智慧教学工具平台（雨课堂）升级项目",
+    "total_amount": 391500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年中国大学MOOC在线开放课程、优质资源应用",
+        "winner": "北京龙远鼎晟科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年智慧教学工具平台（雨课堂）升级",
+        "winner": "北京慕华信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "数字资源平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 98750.0,
+      "total_price": 98750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "平台运营服务",
+      "item_name": "优质资源应用服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 98750.0,
+      "total_price": 98750.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "平台运营服务",
+      "item_name": "模块1：互动教学服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 48900.0,
+      "total_price": 48900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "平台运营服务",
+      "item_name": "模块2：在线考试服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28000.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "平台运营服务",
+      "item_name": "模块3：教学管理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 38700.0,
+      "total_price": 38700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "平台运营服务",
+      "item_name": "模块4：数据统计分析服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28900.0,
+      "total_price": 28900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "平台运营服务",
+      "item_name": "模块5：AI赋能课堂教学服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 49500.0,
+      "total_price": 49500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京龙远鼎晟科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 197500.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京慕华信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 194000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

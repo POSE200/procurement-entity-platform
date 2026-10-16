@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260811_27115299",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南华峻科技有限公司).pdf",
+  "note": "已强制核对报价明细表(第1轮-济南华峻科技有限公司).pdf：3条明细单价297000/219000/216000元各1套，合计732000元=总中标金额732000.00元，数学成立；品目取自HTML标的信息表品目名称列（概要品目列空）→其他电工、电子生产设备；文件集内包(1)_投标（响应）报价明细表.pdf仅解析出1条残缺行且被{供应商响应}占位符污染，真值以第1轮报价明细表为准；中标人得分排名列空白故rank=null（不推定第1），未中标人无排名明示；中小企业声明函OCR「数字化虚拟色储中心」（应为仓储）及签章处「珠南华俊」（应为济南华峻）均为声明函内错字，不涉及任何gold字段取值，无需视觉核验。",
+  "project": {
+    "buyer": "青岛酒店管理职业技术学院",
+    "project_name": "青岛酒店管理职业技术学院智慧物流仿真平台项目",
+    "total_amount": 732000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南华峻科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电工、电子生产设备",
+      "item_name": "物流中心规划与数智化运营产教融合平台",
+      "brand": "百蝶",
+      "model": "百蝶物流中心规划与运营课程软件V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 297000.0,
+      "total_price": 297000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他电工、电子生产设备",
+      "item_name": "数字化虚拟仓储中心运营平台",
+      "brand": "百蝶",
+      "model": "百蝶仓储管理课程软件V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 219000.0,
+      "total_price": 219000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他电工、电子生产设备",
+      "item_name": "数字化供应链产教融合实战平台",
+      "brand": "易木",
+      "model": "易木供应链时代实战平台V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 216000.0,
+      "total_price": 216000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南华峻科技有限公司",
+      "role": "winner",
+      "total_score": 98.01,
+      "rank": null,
+      "amount": 732000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南雷吉欧电子科技有限公司",
+      "role": "participant",
+      "total_score": 84.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东财瑞恪德科技有限公司",
+      "role": "participant",
+      "total_score": 84.25,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

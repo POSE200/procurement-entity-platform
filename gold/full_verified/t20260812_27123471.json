@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123471",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-聊城市丰超康信息有限公司).pdf",
+  "note": "强制检查项已核对：附件『报价明细表(第1轮-聊城市丰超康信息有限公司).pdf』解析文本存在，单价1496000元/数量1.0000宗/响应报价1496000元，1496000×1=1496000，与总中标金额￥149.600000万元一致。品目取 HTML 标的信息表『品目编号及品目名称』列『硬件集成实施服务』（概要品目列空）。采购包号取标题『采购包1』。bidders 4 家均过审查，得分排名列空，rank 全 null。异常情形：响应文件内的『包(1)_开标（报价）一览表.pdf』『包(1)_投标（响应）报价明细表.pdf』解析结果仅有表头无数据行，『分项报价表.docx』为空白模板，价格字段全部依赖第1轮报价明细表；附件含磋商文件 OCR 叠字不影响数值。金额信息表金额列为空，以附件为准。",
+  "project": {
+    "buyer": "聊城市公路事业发展中心",
+    "project_name": "聊城市普通国省道公路养护智能监测系统建设项目",
+    "total_amount": 1496000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "聊城市丰超康信息有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件集成实施服务",
+      "item_name": "聊城市普通国省道公路养护智能监测系统建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1496000.0,
+      "total_price": 1496000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "聊城市丰超康信息有限公司",
+      "role": "winner",
+      "total_score": 93.16,
+      "rank": null,
+      "amount": 1496000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东深柏雅信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城市明阳网络科技有限公司",
+      "role": "participant",
+      "total_score": 84.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城正杰网络技术有限公司",
+      "role": "participant",
+      "total_score": 83.51,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

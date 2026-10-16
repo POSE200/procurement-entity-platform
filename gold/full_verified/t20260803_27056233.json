@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27056233",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市做地工程技术服务有限公司）.pdf",
+  "note": "单包单条服务明细：附件报价明细单价249900×1项=249900与总价/总中标金额一致（HTML标的信息表金额列为空，金额取自附件）。品目取HTML标的信息表'品目名称'列（其他专业技术服务），概要品目列为空。得分排名/推荐排名列明示1/2/3，已照抄；第3名推荐排名为空但得分排名明示为3。",
+  "project": {
+    "buyer": "广州市规划和自然资源局白云区分局（广州市白云区林业局）",
+    "project_name": "2026年度政务服务建设和业务监督项目(二次)",
+    "total_amount": 249900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年度政务服务建设和业务监督项目",
+        "winner": "广州市做地工程技术服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "2026年度政务服务建设和业务监督项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 249900.0,
+      "total_price": 249900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市做地工程技术服务有限公司",
+      "role": "winner",
+      "total_score": 92.81,
+      "rank": 1,
+      "amount": 249900.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州启云科技有限公司",
+      "role": "participant",
+      "total_score": 77.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市整合土地规划设计院",
+      "role": "participant",
+      "total_score": 66.14,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

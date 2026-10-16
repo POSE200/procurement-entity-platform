@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27107312",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南弈维信息技术有限公司).pdf",
+  "note": "单包服务项目。package_no=1依公告标题'（采购包1）'推断。强制核查项已确认：报价明细表(第1轮-济南弈维信息技术有限公司).pdf已解析——单价399200元、数量1.0000、单位项、最高限价400000元，与中标金额一致。文件集中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有水印叠字表头、无数据行。HTML标的信息表服务时间原文OCR缺字（'2026年12?31?前'），不影响金额字段。HTML评分表'得分排名/推荐排名'列空白，rank全null。品目取标的信息表'品目编号及品目名称'列末级名'其他信息技术咨询服务'（概要品目列为空）。",
+  "project": {
+    "buyer": "无棣县自然资源和规划局",
+    "project_name": "山东省滨州市无棣县自然资源和规划局现代地籍管理项目（地籍数据库建设二期）",
+    "total_amount": 399200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南弈维信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术咨询服务",
+      "item_name": "山东省滨州市无棣县自然资源和规划局现代地籍管理项目（地籍数据库建设二期）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 399200.0,
+      "total_price": 399200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南弈维信息技术有限公司",
+      "role": "winner",
+      "total_score": 77.0,
+      "rank": null,
+      "amount": 399200.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东正昊信息科技有限公司",
+      "role": "participant",
+      "total_score": 60.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南中安数码科技有限公司",
+      "role": "participant",
+      "total_score": 55.66,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260810_27104288",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市实信达科技开发有限公司）.pdf",
+  "note": "总中标金额栏为占位值\"￥0.000000万元\"→total_amount=null；中标（成交）金额栏公布的是\"折扣率：97.00%\"而非金额→winner的amount=null；报价明细附件列单价3,794,000元、数量1(项)、折扣率97、总价3,794,000.00元——折扣率与总价未按97%折算系公告原文如此，字段照抄原文值；广东汉普法务服务有限公司符合性审查未通过（无得分/排名），仍收录为participant；得分排名/推荐排名均有明示，照抄。复核修正：附件三个数值（单价/折扣率/总价）文本清晰无OCR歧义，矛盾属原文口径，无需视觉核验。",
+  "project": {
+    "buyer": "佛山市顺德区人民法院",
+    "project_name": "佛山市顺德区人民法院2026-2027年电子卷宗随案生成及档案数字化服务",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市顺德区人民法院2026-2027年电子卷宗随案生成及档案数字化服务",
+        "winner": "深圳市实信达科技开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "佛山市顺德区人民法院2026-2027年电子卷宗随案生成及档案数字化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3794000.0,
+      "total_price": 3794000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市实信达科技开发有限公司",
+      "role": "winner",
+      "total_score": 98.9,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东鼎华科技股份有限公司",
+      "role": "participant",
+      "total_score": 92.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东力迅信息技术有限公司",
+      "role": "participant",
+      "total_score": 90.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "同略科技有限公司",
+      "role": "participant",
+      "total_score": 87.6,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市玖洲信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.85,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京量子伟业信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 72.05,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汉普法务服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

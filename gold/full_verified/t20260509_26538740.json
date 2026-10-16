@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260509_26538740",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列为空，category取HTML标的信息表「品目名称」列（三条均为呼叫中心服务）；标的信息表金额列全部为空，附件仅为中小企业声明函（无报价明细），数量/单价/总价均无出处填null（服务标的仅一个总中标金额，不推算quantity=1）；标的信息表三条品目号原文均为「1-1」；得分排名列原文明示故填rank；胜通和科技有限公司符合性审查不通过，得分排名为null；附件声明函文本含大量水印噪声字符。",
+  "project": {
+    "buyer": "佛山市人民政府行政服务中心",
+    "project_name": "佛山市12345政务服务便民热线（市长直通车）运营服务外包项目（2026年-2028年）",
+    "total_amount": 67990000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "呼叫中心服务",
+      "item_name": "分项二“热线运营服务”其他人工成本",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "呼叫中心服务",
+      "item_name": "分项二“热线运营服务”-人员工资报酬总额",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "呼叫中心服务",
+      "item_name": "分项一“通信租赁及支撑服务”",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 95.11,
+      "rank": 1,
+      "amount": 67990000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "participant",
+      "total_score": 94.48,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 94.37,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市人力资本（集团）有限公司",
+      "role": "participant",
+      "total_score": 60.91,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海华盖科技发展股份有限公司",
+      "role": "participant",
+      "total_score": 55.27,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海新积域信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 55.0,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "胜通和科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

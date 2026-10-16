@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260812_27123357",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,附件.pdf",
+  "note": "items取中标人投标文件附件'附件.pdf'内分项报价表（最细粒度3条：实训台5台×78,000元=390,000元、综合实训平台1台×78,800元、其他配套设备设施1宗×30,000元，合计498,800元与总中标金额一致，单价×数量=总价校验通过）；3条的品目沿用HTML标的信息表品目名称列'教学仪器'（概要品目列空）；brand'力控'与制造商'浙江力控科技有限公司'来自'投标（响应）报价明细表.pdf'，第1/2条规格型号HKWD-1B型、第3条'定制'来自'附件.pdf'分项表；公告标题明示'（采购包1）'且附件名为'包(1)_开标（报价）一览表'，package_no取'1'；评分表'得分排名'列值为空，rank一律null。",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院变频器与伺服驱动技术实训系统项目",
+    "total_amount": 498800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛启航新时代智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "变频器与伺服驱动实训台",
+      "brand": "力控",
+      "model": "HKWD-1B型",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 78000.0,
+      "total_price": 390000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "变频器与伺服驱动技术综合实训平台",
+      "brand": "力控",
+      "model": "HKWD-1B型",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 78800.0,
+      "total_price": 78800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "其他配套设备设施",
+      "brand": "力控",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛启航新时代智能科技有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 498800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东海澜克斯智能装备有限公司",
+      "role": "participant",
+      "total_score": 75.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛百思特立佳智能制造有限公司",
+      "role": "participant",
+      "total_score": 74.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东精上信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.58,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

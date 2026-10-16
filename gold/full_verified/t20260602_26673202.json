@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260602_26673202",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东国档科技有限公司）.pdf,合同包2：报价明细附件（广东全数信息科技有限公司）.pdf",
+  "note": "报价明细附件zip已解包解析，两包单价、数量（1项）由附件明示；两包之和900000+966700=1866700元与总成交金额一致；品目概要列为空，category取HTML标的表品目名称列'档案管理服务'；金额(元)列在HTML标的表中为空，total_price取附件报价明细总价。复核：两包单价/数量/总价与附件明示一致，得分排名为原文明示列，全部字段核对无误。",
+  "project": {
+    "buyer": "广州铁路运输法院",
+    "project_name": "档案数字化服务、随案生成服务项目",
+    "total_amount": 1866700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "档案数字化服务",
+        "winner": "广东国档科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "随案生成服务",
+        "winner": "广东全数信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "档案管理服务",
+      "item_name": "档案数字化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "档案管理服务",
+      "item_name": "随案生成服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 966700.0,
+      "total_price": 966700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东国档科技有限公司",
+      "role": "winner",
+      "total_score": 94.96,
+      "rank": 1,
+      "amount": 900000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州慧信档案技术有限公司",
+      "role": "participant",
+      "total_score": 85.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东全数信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.29,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东芯创信息技术有限公司",
+      "role": "participant",
+      "total_score": 63.28,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东全数信息科技有限公司",
+      "role": "winner",
+      "total_score": 94.29,
+      "rank": 1,
+      "amount": 966700.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东国档科技有限公司",
+      "role": "participant",
+      "total_score": 87.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州慧信档案技术有限公司",
+      "role": "participant",
+      "total_score": 86.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东芯创信息技术有限公司",
+      "role": "participant",
+      "total_score": 61.28,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

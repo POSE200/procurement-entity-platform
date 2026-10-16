@@ -1,0 +1,251 @@
+{
+  "announcement_id": "t20260703_26871027",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本次公告只覆盖采购包2（合同包4，佳杰中标4,742,000元）和采购包3（合同包5，农投中标5,216,000元），包号取自HTML代理服务费表的'合同包号'列（2/3）；两包金额之和9,958,000元恰等于总中标金额995.8万元，各包明细之和与中标金额一致；概要品目列为空，category取标的信息表'品目名称'列照抄（原文把PCR仪、元素分析仪等品目写作'显微镜'，系原文如此未改动）；哈尔滨雷勃商贸有限公司符合性审查不通过（无得分/报价）仍按participant收录；得分排名4而推荐排名为0的供应商rank按明示的得分排名=4填。需视觉核验：无重大疑点（附件招标文件仅解析前30页，仅提供包结构佐证，未用于填值）。",
+  "project": {
+    "buyer": "黑龙江八一农垦大学",
+    "project_name": "2026年设备管理中心智慧农业教学及科研能力提升设备更新采购项目(二次)",
+    "total_amount": 9958000.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "2026年设备管理中心智慧农业教学及科研能力提升设备更新采购-合同包4",
+        "winner": "大庆市佳杰科技开发有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "2026年设备管理中心智慧农业教学及科研能力提升设备更新采购-合同包5",
+        "winner": "黑龙江农投大数据科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他分析仪器",
+      "item_name": "4标段 三重四极杆气质联用仪",
+      "brand": "安捷伦",
+      "model": "8890-7000E",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1493000.0,
+      "total_price": 1493000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "其他分析仪器",
+      "item_name": "4标段 氨基酸分析仪",
+      "brand": "日立",
+      "model": "LA8080",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 916000.0,
+      "total_price": 916000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "显微镜",
+      "item_name": "4标段 倒置荧光显微镜（电动）",
+      "brand": "蔡司",
+      "model": "Axiovert 7",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 661000.0,
+      "total_price": 661000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "显微镜",
+      "item_name": "4标段 正置荧光显微成像系统",
+      "brand": "蔡司",
+      "model": "Axio Imager.M2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 648000.0,
+      "total_price": 648000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "显微镜",
+      "item_name": "4标段 高通量荧光定量PCR仪",
+      "brand": "applied biosystems by Thermo Fisher Scientific",
+      "model": "QuantStudio 5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 613000.0,
+      "total_price": 613000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-6",
+      "category": "显微镜",
+      "item_name": "4标段 荧光定量PCR仪",
+      "brand": "applied biosystems by Thermo Fisher Scientific",
+      "model": "QuantStudio 1 Plus",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 411000.0,
+      "total_price": 411000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "显微镜",
+      "item_name": "5标段 元素分析仪",
+      "brand": "赛默飞",
+      "model": "FlashSmart CHNS/O Plus",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "显微镜",
+      "item_name": "5标段 总有机碳/总氮分析系统",
+      "brand": "赛默飞",
+      "model": "Xpert-TOC/TN",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 540000.0,
+      "total_price": 540000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "显微镜",
+      "item_name": "5标段 全自动纳米粒度及ZETA电位滴定分析系统",
+      "brand": "麦奇克",
+      "model": "STABINO ZETA",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 750000.0,
+      "total_price": 750000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-4",
+      "category": "离心机",
+      "item_name": "5标段 智能型超速离心机",
+      "brand": "贝克曼库尔特",
+      "model": "Optima XPN-100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1000000.0,
+      "total_price": 1000000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-5",
+      "category": "生化分离分析仪器",
+      "item_name": "5标段 分析型流式细胞仪",
+      "brand": "贝克曼库尔特",
+      "model": "CytoFLEX S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1543000.0,
+      "total_price": 1543000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-6",
+      "category": "其他仪器仪表",
+      "item_name": "5标段 实验动物灭菌系统",
+      "brand": "新华医疗",
+      "model": "BIST-A-D910-D-B",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 483000.0,
+      "total_price": 483000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "大庆市佳杰科技开发有限公司",
+      "role": "winner",
+      "total_score": 91.11,
+      "rank": 1,
+      "amount": 4742000.0
+    },
+    {
+      "package_no": "2",
+      "name": "黑龙江省麦和科技开发有限公司",
+      "role": "participant",
+      "total_score": 62.15,
+      "rank": 2,
+      "amount": 3595895.0
+    },
+    {
+      "package_no": "2",
+      "name": "勤行科技（大庆）有限公司",
+      "role": "participant",
+      "total_score": 59.47,
+      "rank": 3,
+      "amount": 4754950.0
+    },
+    {
+      "package_no": "2",
+      "name": "大庆市鹏锐经贸有限公司",
+      "role": "participant",
+      "total_score": 59.34,
+      "rank": 4,
+      "amount": 4703500.0
+    },
+    {
+      "package_no": "3",
+      "name": "黑龙江农投大数据科技有限公司",
+      "role": "winner",
+      "total_score": 97.68,
+      "rank": 1,
+      "amount": 5216000.0
+    },
+    {
+      "package_no": "3",
+      "name": "黑龙江佰鑫睿科科技有限公司",
+      "role": "participant",
+      "total_score": 96.52,
+      "rank": 2,
+      "amount": 5240000.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨昂轩科技发展有限公司",
+      "role": "participant",
+      "total_score": 95.72,
+      "rank": 3,
+      "amount": 5230000.0
+    },
+    {
+      "package_no": "3",
+      "name": "沈阳瑞伊德商贸有限公司",
+      "role": "participant",
+      "total_score": 82.56,
+      "rank": 4,
+      "amount": 4997000.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨雷勃商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

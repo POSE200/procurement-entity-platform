@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260812_27123449",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-深圳京柏医疗科技股份有限公司).pdf,报价明细表(第1轮-北京爱生信科技有限公司).pdf",
+  "note": "单一来源采购，两包各唯一供应商：包1智慧产科系统维保（深圳京柏37500元）、包2随访系统维保（北京爱生信44600元），37500+44600=82100元与总中标金额8.21万吻合；表格2'评审价格：随访系统维保（总价）40140元'=44600×0.9，为小微企业价格扣除后的评审价，'中标（成交）金额'列明示44600元，amount按44600元计（不改原文）；数量/单价来自两家'报价明细表(第1轮-*)'附件（均已找到并核对：1.0000项）；得分/排名列原文为空，total_score与rank均null；采购人地址OCR缺字（'经？路'）。复核修正：原'评审价格40140元'一节按金额列明示值处理，不影响字段取值，无需视觉核验。",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）智慧产科系统维保、随访系统维保项目",
+    "total_amount": 82100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧产科系统维保服务",
+        "winner": "深圳京柏医疗科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "随访系统维保",
+        "winner": "北京爱生信科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "智慧产科系统维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 37500.0,
+      "total_price": 37500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "随访系统维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 44600.0,
+      "total_price": 44600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳京柏医疗科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 37500.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京爱生信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 44600.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

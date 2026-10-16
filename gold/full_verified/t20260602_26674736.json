@@ -1,0 +1,147 @@
+{
+  "announcement_id": "t20260602_26674736",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:开标记录表、最终排名表.pdf",
+  "note": "品目列为空，category 取 null。已通过OCR补齐：开标记录表、最终排名表.pdf（扫描件）已OCR，A/B两包各4家投标人的总分与投标报价已填入 bidders（同一供应商在两包各一条）。开标记录表OCR存在行错位（公司名与金额错开一行），以HTML已知中标金额校准对齐：A包和泰549000、B包众合547500 分别与「中标（成交）金额」吻合，据此各包金额按错位一行归位——A包：国泰549800/滨州绿科546000/众合548960/和泰549000；B包：国泰549800/滨州绿科545000/众合547500/和泰549600。总分取自「最终排名」表（A包：和泰87.15/众合86.15/滨州78.40/国泰78.13；B包：众合88.35/和泰81.72/国泰77.91/滨州77.80）；排名列OCR仅捕获中标人的「第一中标候选人」（rank=1），其余各家数字排名未见于OCR，置null（商务标/技术标分项列亦有错位，未采用）。中小微企业声明函（A/B包 png）、劳务报酬支付表（jpg）已OCR，均不含标的明细。两包金额 549000+547500=1,096,500 与总中标金额一致；服务类标的不填数量/单价。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "日照市生态环境局",
+    "project_name": "日照市控地表水站运维项目",
+    "total_amount": 1096500.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "日照市控地表水站运维项目A包",
+        "winner": "山东和泰环境科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "日照市控地表水站运维项目B包",
+        "winner": "北京众合智能检测技术服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "日照市控地表水站运维项目A包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 549000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "日照市控地表水站运维项目B包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 547500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东和泰环境科技有限公司",
+      "role": "winner",
+      "total_score": 87.15,
+      "rank": 1,
+      "amount": 549000.0
+    },
+    {
+      "package_no": "A",
+      "name": "北京众合智能检测技术服务有限公司",
+      "role": "participant",
+      "total_score": 86.15,
+      "rank": null,
+      "amount": 548960.0
+    },
+    {
+      "package_no": "A",
+      "name": "滨州绿科环境技术有限公司",
+      "role": "participant",
+      "total_score": 78.4,
+      "rank": null,
+      "amount": 546000.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东国泰环保科技有限公司",
+      "role": "participant",
+      "total_score": 78.13,
+      "rank": null,
+      "amount": 549800.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京众合智能检测技术服务有限公司",
+      "role": "winner",
+      "total_score": 88.35,
+      "rank": 1,
+      "amount": 547500.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东和泰环境科技有限公司",
+      "role": "participant",
+      "total_score": 81.72,
+      "rank": null,
+      "amount": 549600.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东国泰环保科技有限公司",
+      "role": "participant",
+      "total_score": 77.91,
+      "rank": null,
+      "amount": 549800.0
+    },
+    {
+      "package_no": "B",
+      "name": "滨州绿科环境技术有限公司",
+      "role": "participant",
+      "total_score": 77.8,
+      "rank": null,
+      "amount": 545000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "source_audit_20261015": {
+      "reason": "按原文留存完整编号与短包标签的对应关系",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260602_26674736\\逐项对照.json"
+      ]
+    }
+  },
+  "source_package_aliases": [
+    {
+      "canonical": "A",
+      "aliases": [
+        "SDGP371100000202602000141-FW6626"
+      ],
+      "evidence": "标段编号：SDGP371100000202602000141-FW6626 标段名称：日照市控地表水站运维项目A包",
+      "source": "原始公告/附件，旧运行复核引文"
+    },
+    {
+      "canonical": "B",
+      "aliases": [
+        "SDGP371100000202602000141-FW6627"
+      ],
+      "evidence": "标段编号：SDGP371100000202602000141-FW6627 标段名称：日照市控地表水站运维项目B包",
+      "source": "原始公告/附件，旧运行复核引文"
+    }
+  ]
+}

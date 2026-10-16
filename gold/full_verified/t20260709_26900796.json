@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260709_26900796",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "A/B两个成交包，成交金额410000+30800=440800元，与总成交金额￥44.08万元一致。品目列（公告概要）为空，标的信息无品目名称列，category=null。主要标的信息为A/B两包合并表述（服务类），仅有「项目名称」字段，服务范围/要求/时间/标准均为「详见磋商文件」，故两包各写一条item，item_name照抄项目名称，数量/单价无线索填null，total_price取该包成交金额。公告只列成交供应商，无未中标主体、无评分排名，bidders仅2条winner，rank/total_score=null。无附件。",
+  "project": {
+    "buyer": "安丘市公安局交通管理大队",
+    "project_name": "山东省潍坊市安丘市公安局交通管理大队电子警察运维服务项目",
+    "total_amount": 440800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "潍坊广盾电子工程有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "潍坊增光电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省潍坊市安丘市公安局交通管理大队电子警察运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 410000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省潍坊市安丘市公安局交通管理大队电子警察运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 30800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "潍坊广盾电子工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 410000.0
+    },
+    {
+      "package_no": "B",
+      "name": "潍坊增光电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 30800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "announcement_id": "t20260507_26518736",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个标项分别成交：标项一（白蚁药物采购）由天长市卡夫卡化工商贸有限公司以148,500元中标，标项二（白蚁监控装置）由宁波捷尔玛塑料科技有限公司以274,420元中标，合计422,920元=总中标金额￥42.292万元。HTML标的信息表无品目名称列且概要品目列为空，category=null；标项名称（白蚁药物采购/白蚁监控装置）是标项不是品目，未当品目填。标的信息表无总价列，各item总价按单价×数量推得（唯一互推情形），并与两标项报价合计核对一致（148,500/274,420）。package_no取HTML中标表序号1/2（对应标项一/标项二，属推断，特此声明）。本篇无评分汇总表、无参与供应商名单，total_score/rank均null，bidders仅两名winner。数量\"1吨\"按quantity=1、unit=吨拆分。需视觉核验：单价24/68/273元的小数位；\"5%联苯菊酯\"与\"100克/升联苯菊酯悬浮剂\"的规格型号串。",
+  "project": {
+    "buyer": "宁波市镇海区白蚁防治所",
+    "project_name": "2026年镇海区白蚁药物、监控装置采购项目",
+    "total_amount": 422920.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "白蚁药物采购",
+        "winner": "天长市卡夫卡化工商贸有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "白蚁监控装置",
+        "winner": "宁波捷尔玛塑料科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "5%联苯菊酯水乳剂",
+      "brand": "白拜",
+      "model": "规格：20Kg/桶（塑料桶） 型号：5%联苯菊酯",
+      "quantity": 1,
+      "unit": "吨",
+      "unit_price": 51500.0,
+      "total_price": 51500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "100 克/升联苯菊酯悬浮剂",
+      "brand": "白拜",
+      "model": "规格：20Kg/桶（塑料桶） 型号：100 克/升联苯菊酯",
+      "quantity": 1,
+      "unit": "吨",
+      "unit_price": 97000.0,
+      "total_price": 97000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": null,
+      "item_name": "普通地下型白蚁监控装置",
+      "brand": "捷尔玛",
+      "model": "Φ115*220mm、JRM-3",
+      "quantity": 4000,
+      "unit": "套",
+      "unit_price": 24.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "4",
+      "category": null,
+      "item_name": "0.5%氟铃脲地下型杀白蚁饵剂监控装置",
+      "brand": "捷尔玛",
+      "model": "Φ115*220mm、JRM-3（含0.5%氟铃脲饵剂）",
+      "quantity": 215,
+      "unit": "套",
+      "unit_price": 68.0,
+      "total_price": 14620.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "5",
+      "category": null,
+      "item_name": "智能地下型白蚁监控装置",
+      "brand": "捷尔玛",
+      "model": "Φ100*230mm、JRM-4",
+      "quantity": 600,
+      "unit": "套",
+      "unit_price": 273.0,
+      "total_price": 163800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天长市卡夫卡化工商贸有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 148500.0
+    },
+    {
+      "package_no": "2",
+      "name": "宁波捷尔玛塑料科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 274420.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

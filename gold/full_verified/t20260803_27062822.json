@@ -1,0 +1,151 @@
+{
+  "announcement_id": "t20260803_27062822",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "复核修正：两包对应关系已复核确认，无需视觉核验——附件明细表[1]投标人明写上海申博、采购包'船舶主辅机装调实训室建设项目'（=表格2申博395000）；包1中小企业声明函（智讯谷盖章）所列3项货物与表格3一致且合计447800=表格1智讯谷中标金额；招标文件正文明示'A包段：液压与气压传动综合实训系统项目、B包段：船舶主辅机装调实训室建设项目'，包1/包2名称据此取值。两包之和447800+395000=842800元=总中标金额84.28万元，单价×数量均一致。概要品目列空，category取主要标的信息表'品目编号及品目名称'列的'教学仪器'。得分排名/推荐排名列原文为空→rank=null；未中标原因表序号非排名。浙江天煌科技实业有限公司包1资格性审查未通过，无得分。包(1)/(2)开标一览表及包(2)投标报价明细表因体积超限被丢弃（包(1)报价明细表仅余模板占位符，未中标人报价不可得→amount=null）。附件OCR中部分品牌型号栏与HTML表格略有断字差异，以HTML表格值为准。",
+  "project": {
+    "buyer": "威海职业学院（威海市技术学院）",
+    "project_name": "液压与气动系统及船舶主辅机装调实训室建设项目",
+    "total_amount": 842800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "液压与气压传动综合实训系统项目",
+        "winner": "青岛智讯谷智能科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "船舶主辅机装调实训室建设项目",
+        "winner": "上海申博信息系统工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "液压与气压传动综合实训系统",
+      "brand": "仪迈",
+      "model": "YTHYQ-2型",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 179000.0,
+      "total_price": 179000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "液压与气压传动综合实训装置（二）",
+      "brand": "仪迈",
+      "model": "YTHYQ-1型",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 102800.0,
+      "total_price": 205600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "透明液压传动与PLC控制实训装置",
+      "brand": "仪迈",
+      "model": "YTHYC-3型",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 63200.0,
+      "total_price": 63200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教学仪器",
+      "item_name": "船舶主辅机装调实训室建设",
+      "brand": "华东、南通伟思、申博",
+      "model": "4DMD、上海申博6300柴油机仿真V1、D-23、W6FA、SHBOS11、KCB-135、4A(Z)、D46、G30-1、2W、3G42、CP5-0.3T、WB1-0.75/5、CZ-10/30F、申博定制CZT、申博定制CCJ",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 323500.0,
+      "total_price": 323500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "教学仪器",
+      "item_name": "6135型船用柴油机及教学设备",
+      "brand": "南通伟思/申博",
+      "model": "伟思定制6135G教学设备、申博定制集成设备FZ、申博SPNavis、申博SAA、申博定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 71500.0,
+      "total_price": 71500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛智讯谷智能科技有限公司",
+      "role": "winner",
+      "total_score": 91.2,
+      "rank": null,
+      "amount": 447800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛东显科技有限公司",
+      "role": "participant",
+      "total_score": 77.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "合世纪（山东）智能科技有限公司",
+      "role": "participant",
+      "total_score": 77.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "浙江天煌科技实业有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "上海申博信息系统工程有限公司",
+      "role": "winner",
+      "total_score": 96.7,
+      "rank": null,
+      "amount": 395000.0
+    },
+    {
+      "package_no": "2",
+      "name": "上海浦显电子科技有限公司",
+      "role": "participant",
+      "total_score": 80.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "上海点持信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.45,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

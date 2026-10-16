@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260401_26350526",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包项目（附件名'1包招标文件.pdf'、正文'第1包'，package_no=1，HTML未明示包号）。概要品目列空且无品目名称列，category=null。第3、4条item_name原文带'●'核心产品标记（●非名称组成部分，已去除）。明细9条数学自洽：各条1套×单价，合计1179700=总中标金额117.97万元。rank取自评标结果表'排序'列（原文明示）；participant的amount取开标记录表投标报价。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "青岛工程职业学院智能控制新能源综合实训室项目",
+    "total_amount": 1179700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛工程职业学院智能控制新能源综合实训室项目",
+        "winner": "青岛欧盛船舶与海洋工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "汽车营销策划模拟沙盘教学系统（网络版）",
+      "brand": "运华科技",
+      "model": "YHKJ1883D01",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 139800.0,
+      "total_price": 139800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "机动车鉴定评估师教学考培系统（网络版）",
+      "brand": "运华科技",
+      "model": "YHKJ2284D28",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 149800.0,
+      "total_price": 149800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "汽车电商服务平台运营与管理教学培训系统（高级）（网络版）",
+      "brand": "运华科技",
+      "model": "YHKJ2382C13",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 158000.0,
+      "total_price": 158000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "车险理赔估损考核系统（网络版）",
+      "brand": "运华科技",
+      "model": "YHKJ2084D12",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 138000.0,
+      "total_price": 138000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数字化汽车六方位介绍VR平台（含配套设备）",
+      "brand": "运华科技",
+      "model": "YHKJ1883C22",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 97500.0,
+      "total_price": 97500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数字化汽车配件识别AR平台",
+      "brand": "运华科技",
+      "model": "YHKJ1883C17",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 79000.0,
+      "total_price": 79000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "新能源汽车故障诊断与排除仿真教学软件",
+      "brand": "世纪龙",
+      "model": "SJL-BYDQC-V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 139800.0,
+      "total_price": 139800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "新能源汽车结构原理与拆装仿真教学软件",
+      "brand": "世纪龙",
+      "model": "SJL-BYACZ-V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 139800.0,
+      "total_price": 139800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能网联汽车仿真与道路测试教学软件",
+      "brand": "世纪龙",
+      "model": "SJL-ZNDL-V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 138000.0,
+      "total_price": 138000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛欧盛船舶与海洋工程有限公司",
+      "role": "winner",
+      "total_score": 84.56,
+      "rank": 1,
+      "amount": 1179700.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛风驰卓越汽车设备科技有限公司",
+      "role": "participant",
+      "total_score": 84.42,
+      "rank": 2,
+      "amount": 976800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛安特威商贸有限公司",
+      "role": "participant",
+      "total_score": 66.98,
+      "rank": 3,
+      "amount": 985000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南翌辰经贸有限公司",
+      "role": "participant",
+      "total_score": 66.6,
+      "rank": 4,
+      "amount": 958000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛艾贝克电子工程有限公司",
+      "role": "participant",
+      "total_score": 64.39,
+      "rank": 5,
+      "amount": 1197900.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东蓝鲸软件有限公司",
+      "role": "participant",
+      "total_score": 64.36,
+      "rank": 6,
+      "amount": 1189640.0
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊艺影秀教育装备有限公司",
+      "role": "participant",
+      "total_score": 62.09,
+      "rank": 7,
+      "amount": 1193000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

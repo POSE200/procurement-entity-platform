@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260803_27062594",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf",
+  "note": "分3个采购包（1/2/5，包号取自HTML品目号前缀及标题'采购包1、2、5'），包名取自报价明细附件'采购包'字段；单价/总价取自zip解包的报价明细表；三包金额之和142800+57200+248100=448100元与总中标金额44.81万元一致；评分表得分排名列为空，所有rank均null（评审总得分仅中标金额表给出）；山东品蓝聚成医疗科技有限公司仅见于未中标原因表（资格性审查未通过），按包1、包2各计一条participant；报价明细附件为zip容器已解包解析。",
+  "project": {
+    "buyer": "青岛大学附属医院",
+    "project_name": "青岛大学附属医院信息货物采购项目01(二次)",
+    "total_amount": 448100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络液晶一体机55寸",
+        "winner": "山东钦泽软件有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "网络液晶一体机22寸",
+        "winner": "山东钦泽软件有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "数据加密系统",
+        "winner": "山东元竞信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他终端设备",
+      "item_name": "网络液晶一体机55寸",
+      "brand": "钦泽软件",
+      "model": "Chinz-55H",
+      "quantity": 21,
+      "unit": "台",
+      "unit_price": 6800.0,
+      "total_price": 142800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他终端设备",
+      "item_name": "网络液晶一体机22寸",
+      "brand": "钦泽软件",
+      "model": "Chinz-22H",
+      "quantity": 22,
+      "unit": "台",
+      "unit_price": 2600.0,
+      "total_price": 57200.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "应用软件",
+      "item_name": "数据加密系统",
+      "brand": "佰倬",
+      "model": "佰倬数安文件系统密码模块Advanced V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 248100.0,
+      "total_price": 248100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东钦泽软件有限公司",
+      "role": "winner",
+      "total_score": 84.49,
+      "rank": null,
+      "amount": 142800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东星时空信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东齐川信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东品蓝聚成医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东钦泽软件有限公司",
+      "role": "winner",
+      "total_score": 83.42,
+      "rank": null,
+      "amount": 57200.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东星时空信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东齐川信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.75,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东品蓝聚成医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东元竞信息科技有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": 248100.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东道测信息工程技术有限公司",
+      "role": "participant",
+      "total_score": 63.43,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "思而听（山东）网络科技有限公司",
+      "role": "participant",
+      "total_score": 61.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东方庆信息技术有限公司",
+      "role": "participant",
+      "total_score": 57.54,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

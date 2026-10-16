@@ -1,0 +1,296 @@
+{
+  "announcement_id": "t20260710_26916809",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf",
+  "note": "三个货物包共12条明细（每包4条）；包号映射：包1=数据中心网络安全防护（天融信，1128100元）、包2=校园网网关全光网适配升级（网瑞达，855000元）、包3=数据中心数据安全防护（贝利特，657800元），依据HTML标的信息表品目号前缀1/2/3及附件内'采购包：'名称对应；注意报价明细附件文件序号与包号不对应（[1]=包3、[2]=包1、[3]=包2）。各条单价×数量与响应报价全部吻合，三包之和2640900元=总中标金额264.09万元，核对一致；品目取自HTML标的信息表品目名称列（三包均为'入侵防御设备'），公告概要品目列为空；青岛方天科技股份有限公司同时参与包2、包3，bidders按包各一条。需视觉核验疑点：附件[2]段首OCR串行段中天融信防火墙单价'200,000.0000元×2.00台=400,000元'与段内另一处'数据 000, 400, 中心 000 防火 墙'混排已核对一致；附件[2]蜜罐行产地'北京市'与制造商'杭州默安科技有限公司'不一致，原文如此照抄。",
+  "project": {
+    "buyer": "山东青年政治学院",
+    "project_name": "山东青年政治学院学校网络安全防护体系建设项目",
+    "total_amount": 2640900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "数据中心网络安全防护",
+        "winner": "北京天融信网络安全技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "校园网网关全光网适配升级",
+        "winner": "北京网瑞达科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "数据中心数据安全防护",
+        "winner": "山东贝利特信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "入侵防御设备",
+      "item_name": "数据中心防火墙",
+      "brand": "天融信",
+      "model": "天融信防火墙系统V3 NGFW4000-UF(HG-A80)(万兆)V3",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "入侵防御设备",
+      "item_name": "态势感知平台",
+      "brand": "天融信",
+      "model": "天融信态势分析与安全运营系统V3 TopSA(备注：包含态势感知平台探针 探针型号：天融信APT安全监测系统V3 TopAPT3000)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 255600.0,
+      "total_price": 255600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "入侵防御设备",
+      "item_name": "EDR",
+      "brand": "天融信",
+      "model": "天融信终端威胁防御系统V1 TopEDR",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "入侵防御设备",
+      "item_name": "蜜罐",
+      "brand": "默安",
+      "model": "幻阵欺骗防御系统 MoreSec-H/V4.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 387500.0,
+      "total_price": 387500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "入侵防御设备",
+      "item_name": "IT资源管理系统升级",
+      "brand": "网瑞达",
+      "model": "IT资源管理系统V9.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "入侵防御设备",
+      "item_name": "智能DNS设备",
+      "brand": "网瑞达",
+      "model": "ITMS-DNS-4600",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 145000.0,
+      "total_price": 145000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "入侵防御设备",
+      "item_name": "资源访问控制网关",
+      "brand": "网瑞达",
+      "model": "ITMS-SDP-4600-2000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "入侵防御设备",
+      "item_name": "应用交付安全网关升级",
+      "brand": "网瑞达",
+      "model": "ITMS-ADSG-4600",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-1",
+      "category": "入侵防御设备",
+      "item_name": "数据库加密系统",
+      "brand": "安华金和",
+      "model": "DES-520B-G",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 139550.0,
+      "total_price": 139550.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-2",
+      "category": "入侵防御设备",
+      "item_name": "数据库审计系统",
+      "brand": "安华金和",
+      "model": "安华金和数据库安全审计系统 DAS V3.2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 156540.0,
+      "total_price": 156540.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-3",
+      "category": "入侵防御设备",
+      "item_name": "API接口安全防护系统",
+      "brand": "安华金和",
+      "model": "AAS-3250B-G",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 186600.0,
+      "total_price": 186600.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-4",
+      "category": "入侵防御设备",
+      "item_name": "数据资产管理系统",
+      "brand": "安华金和",
+      "model": "DICS-P",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 175110.0,
+      "total_price": 175110.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京天融信网络安全技术有限公司",
+      "role": "winner",
+      "total_score": 84.69,
+      "rank": null,
+      "amount": 1128100.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东方云软件技术有限公司",
+      "role": "participant",
+      "total_score": 72.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛骏成信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华普信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.07,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京网瑞达科技有限公司",
+      "role": "winner",
+      "total_score": 86.08,
+      "rank": null,
+      "amount": 855000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东久辉信息科技有限公司",
+      "role": "participant",
+      "total_score": 60.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛方天科技股份有限公司",
+      "role": "participant",
+      "total_score": 59.73,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛海佳翔信息技术有限公司",
+      "role": "participant",
+      "total_score": 59.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东贝利特信息科技有限公司",
+      "role": "winner",
+      "total_score": 76.48,
+      "rank": null,
+      "amount": 657800.0
+    },
+    {
+      "package_no": "3",
+      "name": "杭州安恒信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "德州云泰信息技术有限公司",
+      "role": "participant",
+      "total_score": 64.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "青岛方天科技股份有限公司",
+      "role": "participant",
+      "total_score": 60.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东厚普信息技术有限公司",
+      "role": "participant",
+      "total_score": 53.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南磐桓信息科技有限公司",
+      "role": "participant",
+      "total_score": 48.64,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

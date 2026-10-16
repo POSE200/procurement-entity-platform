@@ -1,0 +1,314 @@
+{
+  "announcement_id": "t20260401_26348394",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件。单包项目，原文仅给分包名称「城轨机电专业实训室项目」，未给包号，package_no=null。公告概要品目为空且主要标的信息表无品目列，category=null。主要标的信息表无总价列，total_price按单价×数量推算（规范允许的唯一互推）；21条推算总价之和=748,000元=中标金额，数学一致。供应商投标报价取HTML投标报价表（表格6）；rank取HTML评审结果排序列（明示1-4）。；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "智能装备虚拟仿真实训基地项目",
+    "total_amount": 748000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "城轨机电专业实训室项目",
+        "winner": "郑州捷安科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-滑动门",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-固定门",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-门槛",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-门承重结构",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-门机传统系统",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-就地控制盒PSL",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 19000.0,
+      "total_price": 19000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-中央控制盘PSC",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 114000.0,
+      "total_price": 114000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-IBP操作台",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-故障模拟柜",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 86000.0,
+      "total_price": 86000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-工具箱及工具",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "站台门检修实训系统-备品备件",
+      "brand": "捷安",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4300.0,
+      "total_price": 4300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-Web管理系统",
+      "brand": "捷安",
+      "model": "线上实训与竞赛平台V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-Web学生端",
+      "brand": "捷安",
+      "model": "线上实训与竞赛平台V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-客户端应用系统",
+      "brand": "捷安",
+      "model": "线上实训与竞赛平台V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-虚拟仿真基础模块",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 36000.0,
+      "total_price": 36000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-站台门标准作业模块",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 52000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-通风空调标准作业模块",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 52000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-给排水标准作业模块",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 36000.0,
+      "total_price": 36000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-低压配电标准作业模块",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 38000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨机电维检修仿真实训系统-考培辅助系统",
+      "brand": "捷安",
+      "model": "城轨机电检修工综合实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5000.0,
+      "total_price": 5000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城轨机电虚拟拆装仿真实训系统",
+      "brand": "捷安",
+      "model": "城市轨道交通机电设备虚拟拆装软件系统V1.0",
+      "quantity": 45,
+      "unit": "节点",
+      "unit_price": 1460.0,
+      "total_price": 65700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "郑州捷安科技有限公司",
+      "role": "winner",
+      "total_score": 71.48,
+      "rank": 1,
+      "amount": 748000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河北雄安容智科技有限公司",
+      "role": "participant",
+      "total_score": 63.6,
+      "rank": 2,
+      "amount": 710000.0
+    },
+    {
+      "package_no": "1",
+      "name": "三易途（洛阳）网络科技有限公司",
+      "role": "participant",
+      "total_score": 61.31,
+      "rank": 3,
+      "amount": 755000.0
+    },
+    {
+      "package_no": "1",
+      "name": "金凤凰科技（天津）有限公司",
+      "role": "participant",
+      "total_score": 60.94,
+      "rank": 4,
+      "amount": 759620.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

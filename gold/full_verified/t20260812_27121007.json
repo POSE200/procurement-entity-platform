@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27121007",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列空，品目取自HTML标的信息表品目名称列；HTML标的表金额列为空，单价/数量/总价取自附件报价明细（单价6,410,000元×数量1项=总价6,410,000元，与总中标金额一致）；rank取自HTML评分表'得分排名'列（1-4名）。",
+  "project": {
+    "buyer": "广东省工业和信息化厅",
+    "project_name": "2026-2027年度广东省无线电监测专网线路租赁及无线电管理一体化平台运营运维服务项目",
+    "total_amount": 6410000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2027年度广东省无线电监测专网线路租赁及无线电管理一体化平台运营运维服务项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "2026-2027年度广东省无线电监测专网线路租赁及无线电管理一体化平台运营运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 6410000.0,
+      "total_price": 6410000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 92.68,
+      "rank": 1,
+      "amount": 6410000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 78.39,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中航智信科技有限公司",
+      "role": "participant",
+      "total_score": 36.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东网安科技有限公司",
+      "role": "participant",
+      "total_score": 30.37,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

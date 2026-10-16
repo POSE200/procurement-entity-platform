@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260811_27115533",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:服务明细表.pdf",
+  "note": "items按附件「服务明细表.pdf」3条明细输出（499000+55000+382000=936000，与包中标金额一致），单位\"项\"来自招标文件服务明细表；品目两处均空（概要品目列空、HTML无标的信息品目列），category=null；品牌/型号原文无。附件「公示数据.pdf」仅列5位评委对每家的逐项打分（如国泰新点93.98/86.98/99.98/95.98/96.98），未给出综合得分或排名，故所有bidders的total_score/rank=null（禁止自行求平均或推定排名）。包号\"A\"为HTML包号明示（SDGP370000000202601006693-A）。",
+  "project": {
+    "buyer": "山东省公共资源交易中心",
+    "project_name": "专家云签系统运维、全省公共资源交易智能化监管信息共享整治和提升项目(2)",
+    "total_amount": 936000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "国泰新点软件股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "2.1",
+      "category": null,
+      "item_name": "系统对接数据汇聚",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 499000.0,
+      "total_price": 499000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2.2",
+      "category": null,
+      "item_name": "云智监管系统与数据安全保密加固系统（区块链系统）对接",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 55000.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2.3",
+      "category": null,
+      "item_name": "数据监测考核及治理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 382000.0,
+      "total_price": 382000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "国泰新点软件股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 936000.0
+    },
+    {
+      "package_no": "A",
+      "name": "北京航星永志科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "光典信息发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "南京舜智软件科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

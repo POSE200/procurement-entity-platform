@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260612_26740585",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州倬创办公设备有限公司）.pdf",
+  "note": "单包（合同包1）。2条明细：1-1网络广播中心主机（品目『通信(控制)处理机』，DSPPA AVP8200，24,500元×1台）；1-2在HTML与附件的采购标的/品牌/规格型号列均为『详见投标文件中的分项报价表』占位文本（投标文件未随公告发布，分项明细不可见），item_name照抄原文占位文本、brand/model=null，单价/总价2,660,500元×1项。2条之和=2,685,000元=成交金额=概要总中标金额268.5万元。得分排名列明示，rank按原文填1-4（第4名推荐排名列空，仍按得分排名列填4）。附件OCR列错位（『是否进口』列混入乱码、品牌列断字），数值以HTML为准。复核修正：原note遗留『需视觉核验：1-2的分项报价表明细是否在其他未发布附件中』，经核对标注包附件处理声明（附件文件1个，成功解析1、跳过0、待OCR0），公告随附附件仅报价明细附件1份且已全文解析，投标文件确未随公告发布、分项明细在本包内不可见（非OCR/剔除导致），无遗留视觉核验项，改status=verified。",
+  "project": {
+    "buyer": "河源技师学院",
+    "project_name": "河源技师学院校园广播系统改造项目",
+    "total_amount": 2685000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "河源技师学院校园广播系统改造项目",
+        "winner": "广州倬创办公设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "通信(控制)处理机",
+      "item_name": "网络广播中心主机",
+      "brand": "DSPPA",
+      "model": "AVP8200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 24500.0,
+      "total_price": 24500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "详见投标文件中的分项报价表",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2660500.0,
+      "total_price": 2660500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州倬创办公设备有限公司",
+      "role": "winner",
+      "total_score": 90.94,
+      "rank": 1,
+      "amount": 2685000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州网远信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.86,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东方瑞信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.89,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河源市锐安智能实业有限公司",
+      "role": "participant",
+      "total_score": 66.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260512_26548722",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且HTML无品目名称列，category=null；两个服务包均未提供数量/单价，item仅填名称并将包中标金额记入total_price；两包之和89093.5元与总中标金额8.9094万元一致。",
+  "project": {
+    "buyer": "临沂市人民医院",
+    "project_name": "临沂市人民医院标识导向系统制作服务采购项目",
+    "total_amount": 89093.5,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "北城院区标识导向系统制作服务采购项目",
+        "winner": "山东大海创意广告标识工程有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "解放路院区、河东院区标识导向系统制作服务采购项目",
+        "winner": "临沂新起点文化传媒有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "北城院区标识导向系统制作服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 43248.7
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "解放路院区、河东院区标识导向系统制作服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 45844.8
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东大海创意广告标识工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 43248.7
+    },
+    {
+      "package_no": "B",
+      "name": "临沂新起点文化传媒有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 45844.8
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

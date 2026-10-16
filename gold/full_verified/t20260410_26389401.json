@@ -1,0 +1,1184 @@
+{
+  "announcement_id": "t20260410_26389401",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+  "note": "原标注明细整体错包：旧包1两条实为需求第2包，旧包2十条实为需求第3包。已从原DOCX重建requirement_items：第1包18行（位于技术要求单元格内嵌表），第2包2行，第3包10行。纵向合并序号、办公区及带宽按XML vMerge解析；第3包明细并未缺失。items仅保存公告明确披露的3条包级服务标的，数量、单价与明细总价未披露，保持null；成交包金额仍见bidders.amount，不分摊到需求行。需求表item_name使用原“标的物名称”，需求描述另列description，带宽保留原值及列标题于specification，不伪装品牌型号。采购需求与实际成交明细口径已隔离。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "山西省检验检测中心 （山西省标准计量技术研究院）",
+    "project_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+    "total_amount": 1477600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+        "winner": "中国联合网络通信有限公司太原市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+        "winner": "中国联合网络通信有限公司晋中市分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+        "winner": "中国移动通信集团山西有限公司太原分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "source_role": "award_announcement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_html.zip!t20260410_26389401.html",
+          "location": "四、主要标的信息",
+          "quote": "1 采购包1 山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目"
+        }
+      ]
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "source_role": "award_announcement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_html.zip!t20260410_26389401.html",
+          "location": "四、主要标的信息",
+          "quote": "2 采购包2 山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目"
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "source_role": "award_announcement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_html.zip!t20260410_26389401.html",
+          "location": "四、主要标的信息",
+          "quote": "3 采购包3 山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目"
+        }
+      ]
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司太原市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 447800.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司晋中市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 79800.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团山西有限公司太原分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 950000.0
+    }
+  ],
+  "requirement_items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "长治路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "中心财务专线第一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行1",
+          "quote": "1 | 长治路办公区 | 信息传输业 | 中心财务专线第一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "1",
+            "长治路办公区",
+            "信息传输业",
+            "中心财务专线第一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "桃园南路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "医械所互联网专线",
+      "specification": {
+        "bandwidth_raw": "100",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行2",
+          "quote": "2 | 桃园南路办公区 |  | 医械所互联网专线 | 100 | 1",
+          "merged_cells_resolved": [
+            "2",
+            "桃园南路办公区",
+            "信息传输业",
+            "医械所互联网专线",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "长治路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "特检财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行3",
+          "quote": "3 | 长治路办公区 |  | 特检财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "3",
+            "长治路办公区",
+            "信息传输业",
+            "特检财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "长治路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "食检财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行4",
+          "quote": " |  |  | 食检财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "3",
+            "长治路办公区",
+            "信息传输业",
+            "食检财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "坞城南路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "计量财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行5",
+          "quote": "4 | 坞城南路办公区 |  | 计量财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "4",
+            "坞城南路办公区",
+            "信息传输业",
+            "计量财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "能检财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行6",
+          "quote": "5 | 太太路办公区 |  | 能检财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "5",
+            "太太路办公区",
+            "信息传输业",
+            "能检财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "纤监财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行7",
+          "quote": " |  |  | 纤监财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "5",
+            "太太路办公区",
+            "信息传输业",
+            "纤监财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "质检财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行8",
+          "quote": " |  |  | 质检财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "5",
+            "太太路办公区",
+            "信息传输业",
+            "质检财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "并州西街办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "标准所财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行9",
+          "quote": "6 | 并州西街办公区 |  | 标准所财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "6",
+            "并州西街办公区",
+            "信息传输业",
+            "标准所财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "龙城大街办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "药检所互联网专线",
+      "specification": {
+        "bandwidth_raw": "400",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行10",
+          "quote": "7 | 龙城大街办公区 |  | 药检所互联网专线 | 400 | 1",
+          "merged_cells_resolved": [
+            "7",
+            "龙城大街办公区",
+            "信息传输业",
+            "药检所互联网专线",
+            "400",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "龙城大街办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "药检所财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行11",
+          "quote": " |  |  | 药检所财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "7",
+            "龙城大街办公区",
+            "信息传输业",
+            "药检所财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "桃园南路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "医械财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行12",
+          "quote": "8 | 桃园南路办公区 |  | 医械财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "8",
+            "桃园南路办公区",
+            "信息传输业",
+            "医械财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "晋源办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "农检财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行13",
+          "quote": "9 | 晋源办公区 |  | 农检财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "9",
+            "晋源办公区",
+            "信息传输业",
+            "农检财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "北中环办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "畜检所财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行14",
+          "quote": "10 | 北中环办公区 |  | 畜检所财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "10",
+            "北中环办公区",
+            "信息传输业",
+            "畜检所财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "北中环办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "畜检所互联网专线一条",
+      "specification": {
+        "bandwidth_raw": "200",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行15",
+          "quote": " |  |  | 畜检所互联网专线一条 | 200 | 1",
+          "merged_cells_resolved": [
+            "10",
+            "北中环办公区",
+            "信息传输业",
+            "畜检所互联网专线一条",
+            "200",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": null,
+      "item_name": "大营盘办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "度量衡财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行16",
+          "quote": "11 | 大营盘办公区 |  | 度量衡财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "11",
+            "大营盘办公区",
+            "信息传输业",
+            "度量衡财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": null,
+      "item_name": "鸣李办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "鸣李财务专线一条",
+      "specification": {
+        "bandwidth_raw": "2",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行17",
+          "quote": "12 | 鸣李办公区 |  | 鸣李财务专线一条 | 2 | 1",
+          "merged_cells_resolved": [
+            "12",
+            "鸣李办公区",
+            "信息传输业",
+            "鸣李财务专线一条",
+            "2",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": null,
+      "item_name": "抽样队办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "抽样队办公区互联网专线一条",
+      "specification": {
+        "bandwidth_raw": "100",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行18",
+          "quote": "13 | 抽样队办公区 |  | 抽样队办公区互联网专线一条 | 100 | 1",
+          "merged_cells_resolved": [
+            "13",
+            "抽样队办公区",
+            "信息传输业",
+            "抽样队办公区互联网专线一条",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "鸣李办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "粮食检验互联网专线",
+      "specification": {
+        "bandwidth_raw": "100",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[23]，前一段第2包，数据行1",
+          "quote": "1 | 鸣李办公区 | 信息传输业 | 粮食检验互联网专线 | 100 | 1",
+          "merged_cells_resolved": [
+            "1",
+            "鸣李办公区",
+            "信息传输业",
+            "粮食检验互联网专线",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "特检培训基地",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "特检所晋中培训中心互联网专线",
+      "specification": {
+        "bandwidth_raw": "100",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[23]，前一段第2包，数据行2",
+          "quote": "2 | 特检培训基地 |  | 特检所晋中培训中心互联网专线 | 100 | 1",
+          "merged_cells_resolved": [
+            "2",
+            "特检培训基地",
+            "信息传输业",
+            "特检所晋中培训中心互联网专线",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "长治路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "中心机关、特检、食检互联网专线",
+      "specification": {
+        "bandwidth_raw": "1.2G",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行1",
+          "quote": "1 | 长治路办公区 | 信息传输业 | 中心机关、特检、食检互联网专线 | 1.2G | 1",
+          "merged_cells_resolved": [
+            "1",
+            "长治路办公区",
+            "信息传输业",
+            "中心机关、特检、食检互联网专线",
+            "1.2G",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "长治路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "中心财务专线第二条",
+      "specification": {
+        "bandwidth_raw": "10",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行2",
+          "quote": " |  |  | 中心财务专线第二条 | 10 | 1",
+          "merged_cells_resolved": [
+            "1",
+            "长治路办公区",
+            "信息传输业",
+            "中心财务专线第二条",
+            "10",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "质检所互联网专线",
+      "specification": {
+        "bandwidth_raw": "600",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行3",
+          "quote": "2 | 太太路办公区 |  | 质检所互联网专线 | 600 | 1",
+          "merged_cells_resolved": [
+            "2",
+            "太太路办公区",
+            "信息传输业",
+            "质检所互联网专线",
+            "600",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "纤监所互联网专线",
+      "specification": {
+        "bandwidth_raw": "600",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行4",
+          "quote": " |  |  | 纤监所互联网专线 |  | 1",
+          "merged_cells_resolved": [
+            "2",
+            "太太路办公区",
+            "信息传输业",
+            "纤监所互联网专线",
+            "600",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "太太路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "能检所互联网专线",
+      "specification": {
+        "bandwidth_raw": "600",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行5",
+          "quote": " |  |  | 能检所互联网专线 |  | 1",
+          "merged_cells_resolved": [
+            "2",
+            "太太路办公区",
+            "信息传输业",
+            "能检所互联网专线",
+            "600",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "坞城南路办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "计量所互联网专线",
+      "specification": {
+        "bandwidth_raw": "600",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行6",
+          "quote": "3 | 坞城南路办公区 |  | 计量所互联网专线 | 600 | 1",
+          "merged_cells_resolved": [
+            "3",
+            "坞城南路办公区",
+            "信息传输业",
+            "计量所互联网专线",
+            "600",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "4",
+      "category": null,
+      "item_name": "并州西街办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "标准所互联网专线",
+      "specification": {
+        "bandwidth_raw": "200",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行7",
+          "quote": "4 | 并州西街办公区 |  | 标准所互联网专线 | 200 | 1",
+          "merged_cells_resolved": [
+            "4",
+            "并州西街办公区",
+            "信息传输业",
+            "标准所互联网专线",
+            "200",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "5",
+      "category": null,
+      "item_name": "晋源办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "农检所互联网专线",
+      "specification": {
+        "bandwidth_raw": "200",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行8",
+          "quote": "5 | 晋源办公区 |  | 农检所互联网专线 | 200 | 1",
+          "merged_cells_resolved": [
+            "5",
+            "晋源办公区",
+            "信息传输业",
+            "农检所互联网专线",
+            "200",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "6",
+      "category": null,
+      "item_name": "大营盘办公区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "度量衡所互联网专线",
+      "specification": {
+        "bandwidth_raw": "100",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行9",
+          "quote": "6 | 大营盘办公区 |  | 度量衡所互联网专线 | 100 | 1",
+          "merged_cells_resolved": [
+            "6",
+            "大营盘办公区",
+            "信息传输业",
+            "度量衡所互联网专线",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "package_no": "3",
+      "item_no": "7",
+      "category": null,
+      "item_name": "特检所",
+      "brand": null,
+      "model": null,
+      "quantity": 900,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null,
+      "description": "游乐设施平台用物联网卡900张",
+      "specification": {
+        "bandwidth_raw": "1G/张/月",
+        "column_header": "单位（配置带宽（M））"
+      },
+      "source_role": "procurement_requirement",
+      "quantity_basis": "procurement_requirement",
+      "evidence": [
+        {
+          "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+          "location": "word/document.xml/body/*[26]，前一段第3包，数据行10",
+          "quote": "7 | 特检所 |  | 游乐设施平台用物联网卡900张 | 1G/张/月 | 900",
+          "merged_cells_resolved": [
+            "7",
+            "特检所",
+            "信息传输业",
+            "游乐设施平台用物联网卡900张",
+            "1G/张/月",
+            "900"
+          ]
+        }
+      ]
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      {
+        "field": "awarded_line_item_details",
+        "reason": "原包仅提供采购文件需求表，未提供供应商已填分项报价；不能确认30条需求对应的实际成交数量、品牌型号或分项金额。已用requirement_items隔离，items保留公告三条包级服务，不标记全字段已修复。",
+        "evidence": [
+          {
+            "source": "赛题五.基准测试数据_html.zip!t20260410_26389401.html",
+            "location": "四、主要标的信息",
+            "quote": "1 采购包1 山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目"
+          },
+          {
+            "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+            "location": "word/document.xml/body/*[21]/技术要求单元格内嵌table，第1包，数据行1",
+            "quote": "1 | 长治路办公区 | 信息传输业 | 中心财务专线第一条 | 2 | 1",
+            "merged_cells_resolved": [
+              "1",
+              "长治路办公区",
+              "信息传输业",
+              "中心财务专线第一条",
+              "2",
+              "1"
+            ]
+          },
+          {
+            "source": "赛题五.基准测试数据_file.zip!t20260410_26389401.zip!山西省检验检测中心2026年互联网专线财务专线和物联网卡续费项目采购文件.docx",
+            "location": "word/document.xml/body/*[26]，前一段第3包，数据行10",
+            "quote": "7 | 特检所 |  | 游乐设施平台用物联网卡900张 | 1G/张/月 | 900",
+            "merged_cells_resolved": [
+              "7",
+              "特检所",
+              "信息传输业",
+              "游乐设施平台用物联网卡900张",
+              "1G/张/月",
+              "900"
+            ]
+          }
+        ]
+      }
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

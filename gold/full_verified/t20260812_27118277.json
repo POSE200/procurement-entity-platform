@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27118277",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（健康数据（北京）科技有限公司）.pdf",
+  "note": "附件报价明细表仅首行有价格（487,000×1(项)=487,000.00，与总中标金额48.7万一致），其后两行为服务要求的跨页续文（无品目号/价格），不另列item；标的表服务要求中「品牌：品高；型号：融合科研云平台V4.0」指采购人现有云平台（第10条对接对象），非本项目采购标的品牌型号，故brand/model=null；4家供应商综合得分与得分排名原文明示；品目取HTML标的表「品目名称」列（概要品目列为空）。",
+  "project": {
+    "buyer": "广州医科大学",
+    "project_name": "广州医科大学智慧医疗专病科研一体化平台运维等服务项目",
+    "total_amount": 487000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州医科大学智慧医疗专病科研一体化平台运维等服务",
+        "winner": "健康数据（北京）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广州医科大学智慧医疗专病科研一体化平台运维等服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 487000.0,
+      "total_price": 487000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "健康数据（北京）科技有限公司",
+      "role": "winner",
+      "total_score": 93.11,
+      "rank": 1,
+      "amount": 487000.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州璞睿生命科技有限公司",
+      "role": "participant",
+      "total_score": 73.64,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "玖焱数智（广州）科技有限公司",
+      "role": "participant",
+      "total_score": 67.46,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "韶关市星橙网络科技有限公司",
+      "role": "participant",
+      "total_score": 57.87,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

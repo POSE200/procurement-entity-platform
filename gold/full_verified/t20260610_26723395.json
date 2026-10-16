@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260610_26723395",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函和投标价格明细表.pdf",
+  "note": "概要品目列给出'A02010105,A02020800'两个编码但未逐条对应到标的，逐条 category 取自 HTML 标的信息表品目名称列（台式计算机/触控一体机）。数量/单价/总价以附件投标价格明细表为准：医疗用计算机 265台×4400元=1166000元，触控一体机 1×9800元，合计1175800.00 与中标金额及总中标金额 ￥117.580000万 一致；HTML 标的信息表的单价/总价两列均误填总价1175800，未采用。item 1 规格型号以附件为准（主机：智微华光E700-ED0722；显示器：J24-1FPB），HTML 仅列显示器型号 J24-1FPB。item 1 标的名称 HTML 为'电脑'、附件为'医疗用计算机（核心产品）'，item_name 取附件。计量单位原文未给，unit=null。单包项目无包号，package_no=null。评分表仅'得分'列、无排名列，rank=null。复核修正：原OCR疑点已确认——附件明细表第1条'单价4400.00/数量265/总价1166000.00'碎片可辨且与合计1,175,800.00算术闭环，无需视觉核验。",
+  "project": {
+    "buyer": "中卫市沙坡头区卫生健康局",
+    "project_name": "中卫市沙坡头区卫生健康局沙坡头区基层医疗卫生机构台式计算机采购项目",
+    "total_amount": 1175800.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "宁夏芯东方科贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": "台式计算机",
+      "item_name": "医疗用计算机（核心产品）",
+      "brand": "Jwipc",
+      "model": "主机：智微华光E700-ED0722；显示器：J24-1FPB",
+      "quantity": 265,
+      "unit": null,
+      "unit_price": 4400.0,
+      "total_price": 1166000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": "触控一体机",
+      "item_name": "触控一体机",
+      "brand": "Hite Vision",
+      "model": "HD-86HS",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 9800.0,
+      "total_price": 9800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "宁夏芯东方科贸有限公司",
+      "role": "winner",
+      "total_score": 97.13,
+      "rank": null,
+      "amount": 1175800.0
+    },
+    {
+      "package_no": null,
+      "name": "宁夏航明博智能科技有限公司",
+      "role": "participant",
+      "total_score": 91.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "中国联合网络通信有限公司宁夏回族自治区分公司",
+      "role": "participant",
+      "total_score": 80.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏好望角信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏凯帝数智科技有限公司",
+      "role": "participant",
+      "total_score": 81.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260807_27097574",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（分包数量1个），package_no=1系由HTML中标情况表序号1/分包数量1个推断，特此声明。品目概要列与标的信息表均无品目列，分包名称「其他信息化设备」为分包名称而非品目，按口径category=null，item_no无序号为null。表2列名「明细报价」未标明单价或总价，按行明细总价处理（unit_price=null）：分布式存储3台324000、存储交换机2台29500、生产数据存储1台892000、存储管理软件1套20000，四行合计1265500≠中标金额1943000，差额67.75万公告未说明，未改原文。表4「排序」列视为明示得分排名。附件专家支付费用表仅含评审劳务信息（分包数量1个、中标成交金额1943000.0互证）。复核：bidders得分/排序/报价、明细品牌/型号/数量均核对无误。需视觉核验：表2「明细报价」列语义（单价vs总价）及与中标金额的合计差额——按行明细总价处理时四行合计1265500（差677500），若按单价处理（324000×3+29500×2+892000+20000）合计1443000（差500000），两种口径均对不上1943000，疑公告表格自身漏行或金额列残缺。视觉核验：已打开tmp/html/t20260807_27097574.html原始页面核对表2完整源码——该表列头为「企业名称|名称|品牌|产地|规格要求|数量/单位|明细报价」，数据行仅4条（HTML源码完整无截断），列头原文即「明细报价」未标明单价/总价；附件《评审劳务报酬支付表》（250DPI渲染目验）仅载项目编号SDGP370200000202602000697、分包数量1个、预算金额2000000.0元、中标成交金额1943000.0元，无标的明细可补。结论：确认原文表格就只有4行且「明细报价」列语义无法消歧，两种口径与1943000的差额（677500/500000）公告全文未作任何说明，不改值维持现状，保持draft（裁定过程如上）。；终审：原始HTML表2完整核对，列头即「明细报价」、数据行仅4条无截断，两种口径差额原文均无解释——源件固有歧义，按照抄口径维持现状",
+  "project": {
+    "buyer": "青岛市第八人民医院",
+    "project_name": "核心服务信创采购项目",
+    "total_amount": 1943000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "其他信息化设备",
+        "winner": "山东迅维科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "分布式存储",
+      "brand": "深信服",
+      "model": "aStor-EDS-GK1250",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": 324000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "存储交换机",
+      "brand": "新华三",
+      "model": "H3C S6530X-24Y8C",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": 29500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "生产数据存储",
+      "brand": "新华三",
+      "model": "H3C CF22845",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": 892000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "存储管理软件",
+      "brand": "卓豪",
+      "model": "存储管理软件OpManager",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东迅维科技发展有限公司",
+      "role": "winner",
+      "total_score": 86.4,
+      "rank": 1,
+      "amount": 1943000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东合力共创信息科技有限公司",
+      "role": "participant",
+      "total_score": 55.92,
+      "rank": 2,
+      "amount": 1961000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东世纪黄河电子工程有限公司",
+      "role": "participant",
+      "total_score": 52.77,
+      "rank": 3,
+      "amount": 1985000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛汉德瑞程信息技术有限公司",
+      "role": "participant",
+      "total_score": 45.52,
+      "rank": 4,
+      "amount": 1988100.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

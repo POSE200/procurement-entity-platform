@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260610_26725891",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "项目分两个包：包1平板电离室（深圳市锐康安科技开发有限公司 1,216,900.00元）、包2调强验证系统（广东省医药集团有限公司 920,000.00元），包号由代理服务费表'合同包号1/2'及附件'合同包1/2：报价明细附件'明示，包名同表。两包金额之和 2136900.0 与总中标金额 ￥213.690000万 一致，各包单价=总价、合计=各包中标金额。品目概要列为空，category 取 HTML 标的信息表品目名称列（医用射线监检测设备及用具），与招标文件需求一览表品目名称一致。深圳市锐康安科技开发有限公司同时参与两包（包1中标、包2综合得分72.57列第2），按口径分两条。rank 取自评分表'得分排名'列。附件报价明细zip内两个pdf解析成功，数值与 HTML 一致；招标文件.pdf 仅前30页（需求文本已在docx可见）。需视觉核验：无重大疑点（附件OCR中品牌'德国PTW/SunNuclear'夹水印字符，以 HTML 为准）。复核：全部字段与原文一致。",
+  "project": {
+    "buyer": "中山市人民医院",
+    "project_name": "中山市人民医院平板电离室、调强验证系统采购项目",
+    "total_amount": 2136900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "平板电离室",
+        "winner": "深圳市锐康安科技开发有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "调强验证系统",
+        "winner": "广东省医药集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "医用射线监检测设备及用具",
+      "item_name": "平板电离室",
+      "brand": "德国PTW",
+      "model": "OCTAVIUS I 1600 SRS",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1216900.0,
+      "total_price": 1216900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "医用射线监检测设备及用具",
+      "item_name": "调强验证系统（注册证名称：射线束扫描系统）",
+      "brand": "SunNuclear",
+      "model": "1220",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 920000.0,
+      "total_price": 920000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市锐康安科技开发有限公司",
+      "role": "winner",
+      "total_score": 92.23,
+      "rank": 1,
+      "amount": 1216900.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖北精放医疗科技有限公司",
+      "role": "participant",
+      "total_score": 76.88,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大翔（中山）医药有限公司",
+      "role": "participant",
+      "total_score": 67.96,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省医药集团有限公司",
+      "role": "winner",
+      "total_score": 92.44,
+      "rank": 1,
+      "amount": 920000.0
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市锐康安科技开发有限公司",
+      "role": "participant",
+      "total_score": 72.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "江西富汇安药业有限公司",
+      "role": "participant",
+      "total_score": 71.62,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

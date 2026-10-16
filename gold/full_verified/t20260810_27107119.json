@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260810_27107119",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第3轮-东华医为科技有限公司).pdf,报价明细表(第3轮-济南盈一信息科技有限公司).pdf,报价明细表(第3轮-山东谦牧生物科技有限公司).pdf,报价明细表(第3轮-杭州调鼎数据有限公司).pdf,报价明细表(第3轮-青岛海信数字医疗科技有限公司).pdf",
+  "note": "单一来源采购，5个采购包各仅1家供应商成交，无参与者。附件「报价明细表(第3轮-*)」5份均在附件内容中找到并核对（单价×数量1.0000项=响应报价，与各包成交金额一致）；5包金额之和780000+19000+68200+69000+66000=1002200元，与总中标金额￥100.220000万一致。概要品目列为空，category取标的信息表品目名称列（包1-4为「软件运维服务」，包5为「硬件运维服务」）。得分排名列空白，rank=null。专家评审劳务报酬支付表为多项目合并表（含01-3、02-2等项目），不提供本篇字段值。",
+  "project": {
+    "buyer": "青岛大学附属医院",
+    "project_name": "青岛大学附属医院信息服务项目采购01-1",
+    "total_amount": 1002200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "HIS驻场维护服务",
+        "winner": "东华医为科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "公卫管理信息系统维护服务",
+        "winner": "济南盈一信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "生殖中心病历系统维护服务",
+        "winner": "山东谦牧生物科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "全流程体检智能导检系统维保费",
+        "winner": "杭州调鼎数据有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "数字化手术室维保",
+        "winner": "青岛海信数字医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "HIS驻场维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 780000.0,
+      "total_price": 780000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "公卫管理信息系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 19000.0,
+      "total_price": 19000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "软件运维服务",
+      "item_name": "生殖中心病历系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 68200.0,
+      "total_price": 68200.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "软件运维服务",
+      "item_name": "全流程体检智能导检系统维保费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 69000.0,
+      "total_price": 69000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "硬件运维服务",
+      "item_name": "数字化手术室维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 66000.0,
+      "total_price": 66000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东华医为科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 780000.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南盈一信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 19000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东谦牧生物科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 68200.0
+    },
+    {
+      "package_no": "4",
+      "name": "杭州调鼎数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 69000.0
+    },
+    {
+      "package_no": "5",
+      "name": "青岛海信数字医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 66000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

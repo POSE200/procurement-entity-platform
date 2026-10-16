@@ -1,0 +1,171 @@
+{
+  "announcement_id": "t20260609_26719757",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-江西新余国科科技股份有限公司).pdf,报价明细表(第1轮-陕西中天火箭技术股份有限公司).pdf",
+  "note": "两包项目：包1中标江西新余国科（2,110,000元）、包2中标陕西中天（517,000元），包金额之和=2,627,000元与总中标金额￥262.7万一致；单价/数量取第1轮报价明细表（包内各明细之和恰等于各包中标金额，明细无包号栏，包归属按HTML品目号1-x/2-x与明细内容对应判定）；品目取HTML标的信息表品目名称列'其他专用车辆'，概要品目列空；包(1)/(2)_开标一览表为空白模板（含{供应商响应}占位符），未中标供应商无投标报价可取，amount=null；附件为双页扫描呈现（列名重复字）已按语义认列；得分排名列空，rank一律null。复核：全部字段与原文一致（包内明细之和=各包中标金额，包(1)/(2)_开标（报价）一览表确认仅表头无数据）。",
+  "project": {
+    "buyer": "山东省气象局机关(中央编制)",
+    "project_name": "人影工程-移动式火箭发射平台",
+    "total_amount": 2627000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "江西新余国科科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "陕西中天火箭技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专用车辆",
+      "item_name": "人工影响天气火箭作业车",
+      "brand": "国科耕耘牌",
+      "model": "XGT5030TRT",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 238075.0,
+      "total_price": 1904600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他专用车辆",
+      "item_name": "弹药临时储运箱",
+      "brand": "百灵",
+      "model": "WBG-2",
+      "quantity": 8,
+      "unit": "个",
+      "unit_price": 19175.0,
+      "total_price": 153400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他专用车辆",
+      "item_name": "液压升降平台",
+      "brand": "百灵",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 6500.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专用车辆",
+      "item_name": "人工影响天气火箭作业车",
+      "brand": "华专一",
+      "model": "EHY5034TRTZN6A",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 237500.0,
+      "total_price": 475000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "其他专用车辆",
+      "item_name": "弹药临时储运箱",
+      "brand": "四凯",
+      "model": "BX-98-12",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 15000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "其他专用车辆",
+      "item_name": "液压升降平台",
+      "brand": "四凯",
+      "model": "PT-01",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6000.0,
+      "total_price": 12000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江西新余国科科技股份有限公司",
+      "role": "winner",
+      "total_score": 85.28,
+      "rank": null,
+      "amount": 2110000.0
+    },
+    {
+      "package_no": "1",
+      "name": "陕西中天火箭技术股份有限公司",
+      "role": "participant",
+      "total_score": 77.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊金源江铃汽车销售服务有限公司",
+      "role": "participant",
+      "total_score": 75.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江西恒金智能科技有限公司",
+      "role": "participant",
+      "total_score": 57.89,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "陕西中天火箭技术股份有限公司",
+      "role": "winner",
+      "total_score": 81.71,
+      "rank": null,
+      "amount": 517000.0
+    },
+    {
+      "package_no": "2",
+      "name": "潍坊金源江铃汽车销售服务有限公司",
+      "role": "participant",
+      "total_score": 76.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "江西恒金智能科技有限公司",
+      "role": "participant",
+      "total_score": 61.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "江西新余国科科技股份有限公司",
+      "role": "participant",
+      "total_score": 83.81,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

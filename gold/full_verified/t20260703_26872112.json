@@ -1,0 +1,300 @@
+{
+  "announcement_id": "t20260703_26872112",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-上海万方数据有限公司).pdf",
+  "note": "单一来源多包项目（采购包1、2、3、4、5、6、7、8、11、12、13），每包一家成交供应商；HTML中标信息表与标的信息表均未直接标包号，package_no按标的信息表品目号前缀（1-1/2-1/.../13-1）推断，并与公告标题包清单、采购文件各包预算金额（包4=320000→世纪读秀限价、包8=560000→中图限价、包11/12=60000）交叉验证一致，属推断取值；11包中标金额之和=2061800与总中标金额206.18万元一致；各包单价/数量/响应报价与各自附件报价明细表(第1轮)一致；概要品目列为空，category取标的信息表品目名称列（互联网信息服务）；评分表得分排名列为空，rank一律null；采购文件PDF仅前30页，另有两zip容器未解析；gold_source列一个报价明细表作代表，实际各包价格同源。",
+  "project": {
+    "buyer": "德州学院",
+    "project_name": "德州学院图书馆电子资源采购项目（1792）",
+    "total_amount": 2061800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "可知知识服务平台",
+        "winner": "北京万物可知技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "中国知网-中国学术期刊网络出版总库",
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "万方数据系列产品数据库",
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "学术资源搜索综合平台",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "全球大学生创新创业与就业升学视频资源平台",
+        "winner": "济南旭林科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "视频资源库平台",
+        "winner": "北京爱迪科森教育科技股份有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "维普中文期刊服务平台",
+        "winner": "重庆维普智图数据科技有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "Web of Science核心合集",
+        "winner": "中国图书进出口（集团）有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": "国道外文特色数据库",
+        "winner": "北京中加国道科技有限责任公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": "星火数媒资源库",
+        "winner": "济南星火数媒教育信息有限公司"
+      },
+      {
+        "package_no": "13",
+        "package_name": "畅想之星数字资源阅读平台",
+        "winner": "北京畅想之星信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "互联网信息服务",
+      "item_name": "可知知识服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "互联网信息服务",
+      "item_name": "中国知网-中国学术期刊网络出版总库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 405000.0,
+      "total_price": 405000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "互联网信息服务",
+      "item_name": "万方数据系列产品数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "互联网信息服务",
+      "item_name": "学术资源搜索综合平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 319800.0,
+      "total_price": 319800.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "互联网信息服务",
+      "item_name": "全球大学生创新创业与就业升学视频资源平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "互联网信息服务",
+      "item_name": "视频资源库平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "互联网信息服务",
+      "item_name": "维普中文期刊服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "互联网信息服务",
+      "item_name": "Web of Science核心合集",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 557000.0,
+      "total_price": 557000.0
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1",
+      "category": "互联网信息服务",
+      "item_name": "国道外文特色数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "12",
+      "item_no": "12-1",
+      "category": "互联网信息服务",
+      "item_name": "星火数媒资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": "13-1",
+      "category": "互联网信息服务",
+      "item_name": "畅想之星数字资源阅读平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京万物可知技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 100000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 405000.0
+    },
+    {
+      "package_no": "3",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 250000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 319800.0
+    },
+    {
+      "package_no": "5",
+      "name": "济南旭林科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 50000.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京爱迪科森教育科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "7",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "8",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 557000.0
+    },
+    {
+      "package_no": "11",
+      "name": "北京中加国道科技有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "12",
+      "name": "济南星火数媒教育信息有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "13",
+      "name": "北京畅想之星信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 100000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

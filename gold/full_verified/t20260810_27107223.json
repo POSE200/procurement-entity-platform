@@ -1,0 +1,180 @@
+{
+  "announcement_id": "t20260810_27107223",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf",
+  "note": "3包各1条标的。package_no=1/2/3依公告标题'（采购包1、2、3）'及标的信息表品目号前缀推断，无独立分包含名列；package_name取附件报价明细表'采购包：'字段（包1/包3均为'硬件运维服务'，包2为'安全运维服务'）。单价/数量/单位取自已解包解析的3份投标（响应）报价明细表PDF（zip容器本身被跳过但其内容已解包可见，强制核查项已确认）：包1必应550000元/1项、包2华鲁数智499000元/1项、包3合力共创392000元/1项，三包合计1441000元与总中标金额￥144.1万一致。HTML评分表'得分排名/推荐排名'列空白，故全部rank=null（禁止中标即第1）。包2未中标名单另含杭州安恒信息技术股份有限公司、北京升鑫网络科技有限公司（符合性审查未通过，无得分无报价）。品目取标的信息表品目名称列。",
+  "project": {
+    "buyer": "青岛大学附属医院",
+    "project_name": "青岛大学附属医院信息服务项目采购02-3",
+    "total_amount": 1441000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "硬件运维服务",
+        "winner": "青岛必应信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "安全运维服务",
+        "winner": "华鲁数智信息技术（北京）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "硬件运维服务",
+        "winner": "山东合力共创信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "网络驻场服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 550000.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "安全运维服务",
+      "item_name": "安全驻场服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 499000.0,
+      "total_price": 499000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "硬件运维服务",
+      "item_name": "服务器驻场服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 392000.0,
+      "total_price": 392000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛必应信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.4,
+      "rank": null,
+      "amount": 550000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东世纪黄河电子工程有限公司",
+      "role": "participant",
+      "total_score": 78.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联云（山东）大数据有限公司",
+      "role": "participant",
+      "total_score": 61.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": 88.6,
+      "rank": null,
+      "amount": 499000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东同域信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东盈满瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南智融信息科技有限公司",
+      "role": "participant",
+      "total_score": 65.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "杭州安恒信息技术股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京升鑫网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东合力共创信息科技有限公司",
+      "role": "winner",
+      "total_score": 88.98,
+      "rank": null,
+      "amount": 392000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东森特信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "青岛通祥电子工程有限公司",
+      "role": "participant",
+      "total_score": 65.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "青岛惠创联成电子科技有限公司",
+      "role": "participant",
+      "total_score": 62.45,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

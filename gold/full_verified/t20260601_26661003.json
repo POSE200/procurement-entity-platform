@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260601_26661003",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:1401992026CGK00281公开招标采购文件.docx",
+  "note": "两个采购包各1条服务标的。品目列空且标的信息表无品目名称列，category=null；标的名称取自HTML标的信息表，数量取自附件招标文件采购需求表（数量/单位列仅给1、无单位），无单价/总价（单包仅一个总金额，按规范不推算单价）。包1+包2金额1197000+298700=1495700元=总中标金额￥149.57万元，数学一致。核验结论：联通（包1）与电信（包2）分属不同采购包，83.6与88.0系各自包内评审得分、不可跨包比较，不构成异常；公告未给排名列，rank一律null；除两名中标人外公告未列其他投标主体；废标标项表为空；附件仅为docx招标文件无扫描件。item_name备选：附件采购需求中标的名为『互联网专线及网络安全服务』(包1)/『互联网专线』(包2)。",
+  "project": {
+    "buyer": "太原市图书馆",
+    "project_name": "太原市图书馆互联网光纤专线租用项目公开招标采购",
+    "total_amount": 1495700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1",
+        "winner": "中国联合网络通信有限公司太原市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购包2",
+        "winner": "中国电信集团有限公司太原分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "太原市图书馆互联网光纤专线租用项目公开招标采购标项1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "太原市图书馆互联网光纤专线租用项目公开招标采购标项2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司太原市分公司",
+      "role": "winner",
+      "total_score": 83.6,
+      "rank": null,
+      "amount": 1197000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信集团有限公司太原分公司",
+      "role": "winner",
+      "total_score": 88.0,
+      "rank": null,
+      "amount": 298700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

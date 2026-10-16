@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260805_27073763",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东泉景建设有限公司).pdf",
+  "note": "单包（标题'采购包1'，附件文件夹'包(1)'，品目号1-1）。工程类（装修工程），无品牌/规格型号，brand/model=null；HTML标的信息表无金额列，单价121104.11元、数量1.0000宗、响应报价121104.11元、最高限价174677.9元取自附件'报价明细表(第1轮-山东泉景建设有限公司).pdf'（合计121104.11元，与HTML中标（成交）金额121,104.11元一致）；概要'总中标金额￥12.110400万元'=121104.00元系四位小数万元口径的四舍五入截断，project.total_amount按更精确的121104.11元取值（相差0.11元，已核对非数据矛盾）；附件内'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有表头无数据行；评分表得分排名/推荐排名列存在但值为空，rank全部null；概要品目列空，category取标的信息表品目名称列'装修工程'。",
+  "project": {
+    "buyer": "山东中医药大学",
+    "project_name": "山东中医药大学智慧图书馆升级与馆舍提升改造项目（一）",
+    "total_amount": 121104.11,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东泉景建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "装修工程",
+      "item_name": "智慧图书馆升级与馆舍提升改造项目（一）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 121104.11,
+      "total_price": 121104.11
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东泉景建设有限公司",
+      "role": "winner",
+      "total_score": 94.5,
+      "rank": null,
+      "amount": 121104.11
+    },
+    {
+      "package_no": "1",
+      "name": "山东益通安装有限公司",
+      "role": "participant",
+      "total_score": 89.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东尚邦建设集团有限公司",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东嬴辉建设发展有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东邦泰裕隆控股有限公司",
+      "role": "participant",
+      "total_score": 84.3,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

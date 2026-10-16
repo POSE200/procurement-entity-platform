@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260602_26672439",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函_2.pdf,中小企业声明函.pdf,（招标文件）2026年中国-上海合作组织数字技术合作交流服务项目.doc",
+  "note": "HTML未标明标项与中标供应商的对应关系：附件中小企业声明函_2.pdf明示领航智链对应『活动宣传及接待服务』，剩余标项一『活动核心综合服务』由排除法对应北京荣诺（其报价3632000≤标项一预算3655000，领航智链1710000≤标项二预算1725000，与招标文件预算吻合）；package_no 1/2取表格序号（推断）；品目列空→category=null；仅有各标项报价总额，无数量单价明细，故quantity/unit_price=null（不推算）；两标项报价之和5342000=总中标金额5342000自洽；原文仅有评审总得分列（94.2/98.8），无排名列，rank=null。",
+  "project": {
+    "buyer": "克拉玛依市工业和信息化局",
+    "project_name": "2026年中国-上海合作组织数字技术合作交流服务项目",
+    "total_amount": 5342000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "活动核心综合服务",
+        "winner": "北京荣诺咨询服务有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "活动宣传及接待服务",
+        "winner": "克拉玛依市领航智链商贸物流有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "活动核心综合服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3632000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "活动宣传及接待服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1710000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京荣诺咨询服务有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": null,
+      "amount": 3632000.0
+    },
+    {
+      "package_no": "2",
+      "name": "克拉玛依市领航智链商贸物流有限公司",
+      "role": "winner",
+      "total_score": 98.8,
+      "rank": null,
+      "amount": 1710000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

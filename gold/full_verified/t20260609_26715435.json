@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260609_26715435",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件-北京物资学院图书与信息中心（档案馆）2026中文数字资源采购项目 第一包 5.15new(1).pdf,招标文件-北京物资学院图书与信息中心（档案馆）2026中文数字资源采购项目 第二包 5.15new.pdf,第一包中小企业声明函.png,第二包中小企业声明函.png",
+  "note": "两包服务类项目（数据库订阅）。HTML 中标结果表未标注各中标人所属包，包-中标人对应关系依据：第一包最高限价94.50万元=北京汇智易读中标金额94.5万元、第二包最高限价99.19万元≈深圳希施玛中标金额99.18万元，且两包各自的中小企业声明函（第一包声明函承接企业=北京汇智易读、标的=中文数据库一；第二包声明函=深圳希施玛、标的=中文数据库二）相互印证；包号01/02为招标文件附件明示。items 的数量=1、单价=总价为 HTML 主要标的信息表明示值（非推算），unit 原文未给→null。品目概要列与标的信息表均无品目名称列→category=null。rank 原文未明示→null。第一包声明函OCR盖章名『北京汇翟易读科技有限公司』与公告正文『北京汇智易读科技有限公司』不一致（OCR误读），以公告HTML为准。99.18+94.5=193.68万=总中标金额，数学自洽。需视觉核验：两包声明函盖章企业名。 复核修正：2026-09-23独立复核通过；声明函盖章名OCR差异不影响任何gold取值（供应商名以公告HTML为准），无需视觉核验。",
+  "project": {
+    "buyer": "北京物资学院",
+    "project_name": "北京物资学院图书与信息中心（档案馆）2026中文数字资源采购项目",
+    "total_amount": 1936800.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "中文数据库一",
+        "winner": "北京汇智易读科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "中文数据库二",
+        "winner": "深圳希施玛数据科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文数据库一（电子学术知识资源平台、多媒体学习库、网络资源文库、全球科研项目数据库、财经数据库）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 945000.0,
+      "total_price": 945000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文数据库二（上市公司财务研究数据库、数据知识服务平台、案例教学资源平台、数据统计分析平台、法律信息数据库、学术搜索系统、云图书馆、知识发现系统、中国共产党思想理论数据库）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 991800.0,
+      "total_price": 991800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京汇智易读科技有限公司",
+      "role": "winner",
+      "total_score": 84.4,
+      "rank": null,
+      "amount": 945000.0
+    },
+    {
+      "package_no": "02",
+      "name": "深圳希施玛数据科技有限公司",
+      "role": "winner",
+      "total_score": 82.6,
+      "rank": null,
+      "amount": 991800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

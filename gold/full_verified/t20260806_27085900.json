@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27085900",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司阳江分公司）.pdf",
+  "note": "单包（合同包1）。概要品目列空，category 取HTML标的表品目名称列'行业应用软件开发服务'。HTML标的表金额(元)列空，单价/数量/总价取自附件报价明细（单价1,488,000、数量1(项)、总价1,488,000均为附件明示）。明细合计1,488,000元=总中标金额￥148.800000万元。得分排名列明示1-4（第4名利源科技推荐排名为空），rank照抄。",
+  "project": {
+    "buyer": "阳江市阳东区水务局",
+    "project_name": "阳江市阳东区农村供水县域统管信息化平台项目",
+    "total_amount": 1488000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "阳江市阳东区农村供水县域统管信息化平台项目",
+        "winner": "中国移动通信集团广东有限公司阳江分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "阳江市阳东区农村供水县域统管信息化平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1488000.0,
+      "total_price": 1488000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司阳江分公司",
+      "role": "winner",
+      "total_score": 89.13,
+      "rank": 1,
+      "amount": 1488000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司阳江分公司",
+      "role": "participant",
+      "total_score": 84.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市粤安科技有限公司",
+      "role": "participant",
+      "total_score": 44.13,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市利源科技有限公司",
+      "role": "participant",
+      "total_score": 42.29,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260408_26370550",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "双包（标包A/B）。包金额：A包26.8万元=268000元、B包4.96万元=49600元，合计317600元与总中标金额31.76万元一致。主要标的信息表无金额/数量/单价列，各item的total_price取对应包中标（成交）金额（包内唯一标的），quantity/unit/unit_price无原文依据填null。评审专家名单节仅列各评委个人评分（如A包鸿宇86.00、80.00、92.00），未给综合得分与排名，故total_score/rank均为null（不做平均推算）。无附件，participant无投标报价可填。",
+  "project": {
+    "buyer": "临沂市市政管理服务中心",
+    "project_name": "临沂城区智慧防汛系统和城市道路桥梁养护信息管理系统运维项目",
+    "total_amount": 317600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "智慧防汛系统运维项目",
+        "winner": "山东鸿宇科技信息有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "市政设施智慧养护项目",
+        "winner": "山东思索数据技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧防汛系统运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 268000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "市政设施智慧养护项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 49600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东鸿宇科技信息有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 268000.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东迪派网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东弘远智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东思索数据技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 49600.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东迪派网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "临沂旭晨电子工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

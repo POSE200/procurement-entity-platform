@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260410_26389688",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东智通人才连锁股份有限公司）.pdf",
+  "note": "单包（合同包1）。概要品目列空，category取HTML标的信息表'品目名称'列'其他就业服务'。items单价/数量/总价取自附件报价明细（11条，合计2,950,000元=中标金额，数学一致；附件文本被'ZFJ2026''智慧政府采购平台'等水印字符穿插污染，已按语义清理，item_name与服务金额可确认）。数量列形如'3 (个)'，数字入quantity、单位入unit。rank取评分表'得分排名'列（明示），参与未中标供应商的投标金额原文未给为null。复核：11条item与附件报价明细逐行核对一致，求和=2,950,000=中标金额；4条bidder与评分表一致；通过。",
+  "project": {
+    "buyer": "佛山市南海区劳动就业服务中心",
+    "project_name": "佛山市南海区2026年就业公共服务能力提升示范项目——AI赋能“全民就业”计划",
+    "total_amount": 2950000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市南海区2026年就业公共服务能力提升示范项目——AI赋能“全民就业”计划",
+        "winner": "广东智通人才连锁股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他就业服务",
+      "item_name": "项目方案策划",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他就业服务",
+      "item_name": "项目实施跟进",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他就业服务",
+      "item_name": "提供基础信息采集服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他就业服务",
+      "item_name": "新搭建或提升改造就业驿站以及零工市场",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 350000.0,
+      "total_price": 350000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他就业服务",
+      "item_name": "A级就业驿站运营",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 100000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他就业服务",
+      "item_name": "B级就业驿站运营",
+      "brand": null,
+      "model": null,
+      "quantity": 12,
+      "unit": "个",
+      "unit_price": 60000.0,
+      "total_price": 720000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他就业服务",
+      "item_name": "C级就业驿站运营",
+      "brand": null,
+      "model": null,
+      "quantity": 19,
+      "unit": "个",
+      "unit_price": 30000.0,
+      "total_price": 570000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他就业服务",
+      "item_name": "零工市场运营",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 51000.0,
+      "total_price": 153000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他就业服务",
+      "item_name": "开展活动及宣传工作",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他就业服务",
+      "item_name": "组建专业运营团队",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 317000.0,
+      "total_price": 317000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "其他就业服务",
+      "item_name": "完善智慧就业服务体系",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东智通人才连锁股份有限公司",
+      "role": "winner",
+      "total_score": 92.2,
+      "rank": 1,
+      "amount": 2950000.0
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市人力资源服务产业园运营有限公司",
+      "role": "participant",
+      "total_score": 69.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市好工作网络科技有限公司",
+      "role": "participant",
+      "total_score": 54.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市明安人力资源服务有限公司",
+      "role": "participant",
+      "total_score": 51.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

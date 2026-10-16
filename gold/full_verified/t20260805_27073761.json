@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27073761",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东尚邦建设集团有限公司).pdf",
+  "note": "单包（标题'采购包1'，附件文件夹'包(1)'，品目号1-1）。工程类（装修工程），无品牌/规格型号，brand/model=null；HTML标的信息表无金额列，单价85000元、数量1.0000宗、响应报价85000.00元、最高限价101499.01元取自附件'报价明细表(第1轮-山东尚邦建设集团有限公司).pdf'（合计85000元，与HTML中标（成交）金额85,000.00元一致）；附件内'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有表头无数据行；评分表得分排名/推荐排名列存在但值为空，rank全部null；概要品目列空，category取标的信息表品目名称列'装修工程'。",
+  "project": {
+    "buyer": "山东中医药大学",
+    "project_name": "山东中医药大学医学信息工程学院智慧中医计算中心更新及改造项目",
+    "total_amount": 85000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东尚邦建设集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "装修工程",
+      "item_name": "医学信息工程学院智慧中医计算中心更新及改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东尚邦建设集团有限公司",
+      "role": "winner",
+      "total_score": 88.64,
+      "rank": null,
+      "amount": 85000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东嬴辉建设发展有限公司",
+      "role": "participant",
+      "total_score": 85.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东邦泰裕隆控股有限公司",
+      "role": "participant",
+      "total_score": 85.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东泉景建设有限公司",
+      "role": "participant",
+      "total_score": 85.02,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

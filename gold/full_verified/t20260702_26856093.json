@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260702_26856093",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "3包项目同一中标人。概要品目列给出两条完整路径（货物/图书和档案/期刊/其他期刊,货物/图书和档案/期刊/普通期刊/其他普通期刊），无法与3个包一一对应，按口径原样填入各item并在此声明择歧。表格列名为货物单价(元)且数量列为/，故total_price=null；但3个单价之和578900+509430+758737=1847067恰等于总中标金额184.7067万，疑似该列实为包总价，需视觉核验原表列含义。品牌/型号/数量原文均为/，填null。无排名、无得分，rank/total_score=null。附件为招标文件（仅前30页），不提供中标字段值。复核：HTML表格1三行数值与包名已独立核对无误，确认通过。",
+  "project": {
+    "buyer": "中国地质图书馆_中国地质调查局地学文献中心",
+    "project_name": "中国地质图书馆2026-2027年度外文电子资源采购项目",
+    "total_amount": 1847067.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "springer电子期刊",
+        "winner": "中国国际图书贸易集团有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "美国工程索引EI数据库",
+        "winner": "中国国际图书贸易集团有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "SCI引文数据库",
+        "winner": "中国国际图书贸易集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "货物/图书和档案/期刊/其他期刊,货物/图书和档案/期刊/普通期刊/其他普通期刊",
+      "item_name": "springer电子期刊",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 578900.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/图书和档案/期刊/其他期刊,货物/图书和档案/期刊/普通期刊/其他普通期刊",
+      "item_name": "美国工程索引EI数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 509430.0,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "货物/图书和档案/期刊/其他期刊,货物/图书和档案/期刊/普通期刊/其他普通期刊",
+      "item_name": "SCI引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 758737.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国国际图书贸易集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 578900.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国国际图书贸易集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 509430.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国国际图书贸易集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 758737.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

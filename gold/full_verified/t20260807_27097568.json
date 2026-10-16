@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260807_27097568",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国联合网络通信有限公司德州市分公司).pdf",
+  "note": "单包（附件名「包(1)_」明示包号1）。强制检查已完成：附件「报价明细表(第1轮-中国联合网络通信有限公司德州市分公司).pdf」解析完整，1行明细：单价360144元×数量1.0000项=响应报价360144元，与HTML金额360,144.00元及总中标金额￥36.0144万一致（单价/数量为附件明示，非推算）。品目概要列空，category取HTML标的信息表「品目编号及品目名称」列「电信和其他信息传输服务」。得分排名列空，rank一律null。需视觉核验：无重大疑点。复核：单价/数量/响应报价与附件逐字核对一致，bidder得分核对无误。",
+  "project": {
+    "buyer": "禹城市公安局本级",
+    "project_name": "禹城市公安局天网二期信号传输服务",
+    "total_amount": 360144.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司德州市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "电信和其他信息传输服务",
+      "item_name": "禹城市公安局天网二期信号传输服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 360144.0,
+      "total_price": 360144.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司德州市分公司",
+      "role": "winner",
+      "total_score": 89.77,
+      "rank": null,
+      "amount": 360144.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信集团有限公司德州分公司",
+      "role": "participant",
+      "total_score": 79.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东大州信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.94,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

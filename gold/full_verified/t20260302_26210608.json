@@ -1,0 +1,209 @@
+{
+  "announcement_id": "t20260302_26210608",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件为两家供应商的本国产品标准声明函（已OCR），不提供字段值。中标公告仅列各子包'核心产品'，5条items合计383.6万≠总中标金额905.27万属正常（非全部标的）；各子包中标金额公告未披露→bidders.amount=null。items总价由单价×数量唯一互推（每条数量1台）。评分表（表格2-5）未标明所属子包，按其包含各子包中标人分别对应到子包1-4（推断，需视觉核验）。'Ge1View 5000 Pro II'疑为'GelView'之误照抄原文，需视觉核验。品目取概要列完整路径'货物/设备/信息化设备/网络设备/其他网络设备'。子包2一行含两种货物，拆为2条item，共用序号2。",
+  "project": {
+    "buyer": "暨南大学",
+    "project_name": "暨南大学生物医学高等研究院平台建设设备采购项目",
+    "total_amount": 9052700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广州隆泽生物科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "广州云星科学仪器有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "锦万美（广州）实验器材有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "杭州宝诚生物技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "分析型流式细胞仪（核心产品）",
+      "brand": "BD",
+      "model": "LSRForte ssa X-20",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2500000.0,
+      "total_price": 2500000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "智能危化品柜（含配套承重系统）（核心产品）",
+      "brand": "上海烨煊",
+      "model": "KC-104S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "凝胶成像分析系统（核心产品）",
+      "brand": "博鹭腾",
+      "model": "Ge1View 5000 Pro II",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "生物组织HE染色封片一体机（核心产品）",
+      "brand": "LEICA",
+      "model": "HistoCore CHROMAX",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 395000.0,
+      "total_price": 395000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "多功能活细胞显微成像扫描仪（核心产品）",
+      "brand": "基恩士",
+      "model": "BZ-X1000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 836000.0,
+      "total_price": 836000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州隆泽生物科技有限公司",
+      "role": "winner",
+      "total_score": 82.43,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市晞灵国际贸易有限公司",
+      "role": "participant",
+      "total_score": 70.31,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市可诺马仪器有限公司",
+      "role": "participant",
+      "total_score": 67.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州云星科学仪器有限公司",
+      "role": "winner",
+      "total_score": 92.1,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州一盒供应链有限公司",
+      "role": "participant",
+      "total_score": 62.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "湛江壹齐科技有限公司",
+      "role": "participant",
+      "total_score": 60.64,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "锦万美（广州）实验器材有限公司",
+      "role": "winner",
+      "total_score": 86.27,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州博仕达仪器有限公司",
+      "role": "participant",
+      "total_score": 71.08,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "厦门蔚成大观科技有限公司",
+      "role": "participant",
+      "total_score": 69.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "杭州宝诚生物技术有限公司",
+      "role": "winner",
+      "total_score": 71.12,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "浙江博众医学科技有限公司",
+      "role": "participant",
+      "total_score": 58.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州灵均生物医药科技有限公司",
+      "role": "participant",
+      "total_score": 48.85,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州步前生物科技有限公司",
+      "role": "participant",
+      "total_score": 46.2,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

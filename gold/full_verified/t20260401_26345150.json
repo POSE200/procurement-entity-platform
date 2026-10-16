@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260401_26345150",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:A包中小,B包中小",
+  "note": "附件名显示A包/B包两个包，HTML结果表按行序列两条中标记录；A/B与两系统的对应关系经视觉核验确认：将附件'A包中小'、'B包中小'（OLE2旧版doc，图片型）转PDF渲染后查阅，A包中小企业声明函载明'3D精密铸造系统采购项目二次'、盖章为北京宏博广源科技有限公司，B包载明'木基材料加工系统采购项目二次'、盖章为北京衽金科技有限公司。1288200+508800=1797000元与总中标金额179.7万元一致。品牌列'北京宏博'为照抄原文。",
+  "project": {
+    "buyer": "燕山大学",
+    "project_name": "燕山大学2024年度教育领域重大设备更新项目—3D精密铸造系统和木基材料加工系统采购项目",
+    "total_amount": 1797000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "3D精密铸造系统",
+        "winner": "北京宏博广源科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "木基材料加工系统",
+        "winner": "北京衽金科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "3D精密铸造系统",
+      "brand": "北京宏博",
+      "model": "HB-JMZZ-03",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1288200.0,
+      "total_price": 1288200.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "木基材料加工系统",
+      "brand": "RIKON锐肯",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 508800.0,
+      "total_price": 508800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京宏博广源科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1288200.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京衽金科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 508800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

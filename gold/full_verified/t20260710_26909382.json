@@ -1,0 +1,334 @@
+{
+  "announcement_id": "t20260710_26909382",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件【中国移动通信集团广东有限公司佛山分公司（联合体成员：中国电信股份有限公司佛山分公司）】.pdf",
+  "note": "仅合同包1，中标人为联合体（名称按原文保留'中国移动通信集团广东有限公司佛山分公司(联合体成员：中国电信股份有限公司佛山分公司)'）。22条明细HTML标的信息表与附件报价明细一致（行序不同，item_no=品目号-附件序号）；21条品目号1-1合计7,575,162元+1-2机框式核心层交换机524,838元=8,100,000元=中标金额810万元，单价×数量=总价，数学一致。品目取HTML品目名称列'其他信息化设备'。品目号1-1各行品牌/规格型号原文均为'详见投标文件第十七章技术和服务要求响应表'（该响应表未含于本包），置null。bidders中潍坊九虎智能科技有限公司、佛山市浩海通信工程有限公司因符合性审查不通过无得分，total_score/rank=null。附件2本国产品声明函仅列锐捷设备型号清单（RG-RSR30-XA-24、RG-S5000-48GT4XS等），无分项价格，不构成额外明细。需视觉核验：附件水印噪声（'第1包'、公司名竖排水印混入单元格）。",
+  "project": {
+    "buyer": "佛山市三水区白坭镇宣传文体旅游和教育办公室",
+    "project_name": "白坭镇产业园配套公共服务设施建设工程–信息化建设项目采购",
+    "total_amount": 8100000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "白坭镇产业园配套公共服务设施建设工程–信息化建设项目采购",
+        "winner": "中国移动通信集团广东有限公司佛山分公司(联合体成员：中国电信股份有限公司佛山分公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他信息化设备",
+      "item_name": "校园网络设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 338120.0,
+      "total_price": 338120.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他信息化设备",
+      "item_name": "网络机房建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 315018.0,
+      "total_price": 315018.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他信息化设备",
+      "item_name": "无线校园",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 226281.0,
+      "total_price": 226281.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他信息化设备",
+      "item_name": "弱电管道敷设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 374555.0,
+      "total_price": 374555.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他信息化设备",
+      "item_name": "网络综合布线系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 399708.0,
+      "total_price": 399708.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他信息化设备",
+      "item_name": "智慧黑板电教平台配套建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 128000.0,
+      "total_price": 128000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他信息化设备",
+      "item_name": "监控安防系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1066526.0,
+      "total_price": 1066526.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他信息化设备",
+      "item_name": "中考视频巡考系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 393370.0,
+      "total_price": 393370.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "其他信息化设备",
+      "item_name": "校园广播及中考听力备用系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 481561.0,
+      "total_price": 481561.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "其他信息化设备",
+      "item_name": "中考理化生标准考点考场建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 412300.0,
+      "total_price": 412300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "其他信息化设备",
+      "item_name": "英语听说考试电脑教室建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 170258.0,
+      "total_price": 170258.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "其他信息化设备",
+      "item_name": "AI智慧全自动跟踪精品录播室和校园电视台系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 638210.0,
+      "total_price": 638210.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "其他信息化设备",
+      "item_name": "多功能报告厅设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 157155.0,
+      "total_price": 157155.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "其他信息化设备",
+      "item_name": "多功能会议室设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 92289.0,
+      "total_price": 92289.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "其他信息化设备",
+      "item_name": "门卫安全及停车场管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 266810.0,
+      "total_price": 266810.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "其他信息化设备",
+      "item_name": "智慧校园管理整合软件系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 398642.0,
+      "total_price": 398642.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "其他信息化设备",
+      "item_name": "云办公建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 561150.0,
+      "total_price": 561150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "其他信息化设备",
+      "item_name": "云课堂电脑室",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 373365.0,
+      "total_price": 373365.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-19",
+      "category": "其他信息化设备",
+      "item_name": "班级显示系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 82230.0,
+      "total_price": 82230.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-20",
+      "category": "其他信息化设备",
+      "item_name": "办公设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 13405.0,
+      "total_price": 13405.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-21",
+      "category": "其他信息化设备",
+      "item_name": "系统集成服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 686209.0,
+      "total_price": 686209.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-1",
+      "category": "其他信息化设备",
+      "item_name": "校园网络设备-机框式核心层交换机",
+      "brand": "锐捷",
+      "model": "RG-S7805C",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 262419.0,
+      "total_price": 524838.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司佛山分公司(联合体成员：中国电信股份有限公司佛山分公司)",
+      "role": "winner",
+      "total_score": 96.38,
+      "rank": 1,
+      "amount": 8100000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东怡创汇科技有限公司",
+      "role": "participant",
+      "total_score": 73.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东华志高科技术有限公司",
+      "role": "participant",
+      "total_score": 59.96,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊九虎智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市浩海通信工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

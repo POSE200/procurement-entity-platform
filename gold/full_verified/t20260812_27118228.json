@@ -1,0 +1,254 @@
+{
+  "announcement_id": "t20260812_27118228",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京智行者科技股份有限公司）.pdf",
+  "note": "16项明细合计2,460,000.0元与总中标金额246万一致；附件报价明细与HTML标的表品牌/型号/单价/数量逐条一致；1-1原文即写作「多传器融合AGV车」（附件与声明函同），未改为「多传感器」；附件1-11行前有一行重复的「易飒（广州）智能科技有限」残影行（OCR表格换页残缺，无独立价格行），不构成独立item，复核已确认；品目取HTML标的表「品目名称」列（概要品目列为空）。",
+  "project": {
+    "buyer": "广州科技贸易职业学院",
+    "project_name": "具身智能与智能无人汽车二次开发创新中心建设项目",
+    "total_amount": 2460000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "具身智能与智能无人汽车二次开发创新中心建设项目",
+        "winner": "北京智行者科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电气机械设备",
+      "item_name": "激光SLAM自动导航LM举升智能车(多传器融合AGV车）",
+      "brand": "智行者",
+      "model": "ZXZ-LM-JG",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他电气机械设备",
+      "item_name": "3D导航激光SLAM叉取FM堆高智能车(多传感器融合低速车）",
+      "brand": "智行者",
+      "model": "ZXZ-FM-JG",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他电气机械设备",
+      "item_name": "LM充电桩",
+      "brand": "智行者",
+      "model": "ZXZ-LM-CDZ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他电气机械设备",
+      "item_name": "FM充电桩",
+      "brand": "智行者",
+      "model": "ZXZ-FM-CDZ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他电气机械设备",
+      "item_name": "手持终端及多功能绝缘检测仪",
+      "brand": "博世",
+      "model": "BIT1000",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他电气机械设备",
+      "item_name": "呼叫器",
+      "brand": "智行者",
+      "model": "ZXZ-HJ",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他电气机械设备",
+      "item_name": "现场部署实施工具包",
+      "brand": "易飒",
+      "model": "EISA-GJB",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他电气机械设备",
+      "item_name": "现场部署实施工作台",
+      "brand": "智行者",
+      "model": "ZXZ-GZT",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 20800.0,
+      "total_price": 20800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他电气机械设备",
+      "item_name": "智能车调度控制系统",
+      "brand": "智行者",
+      "model": "ZXZ-DD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 117000.0,
+      "total_price": 117000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他电气机械设备",
+      "item_name": "自动驾驶智能车辆实训平台",
+      "brand": "易飒",
+      "model": "EISA-ROS-BC",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 120000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "其他电气机械设备",
+      "item_name": "视觉在环测试综合平台",
+      "brand": "易飒",
+      "model": "EISA-SD-SIM-HIL-CAM-TS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 197000.0,
+      "total_price": 197000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "其他电气机械设备",
+      "item_name": "多传感器融合实验平台",
+      "brand": "易飒",
+      "model": "EISA-SS-PE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 208000.0,
+      "total_price": 208000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他电气机械设备",
+      "item_name": "仓储制造场景模拟环境包",
+      "brand": "易飒",
+      "model": "EISA-HJB",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 118000.0,
+      "total_price": 118000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "其他电气机械设备",
+      "item_name": "标准型电芯充放电系统",
+      "brand": "德达",
+      "model": "B-WE012",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 218000.0,
+      "total_price": 218000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "其他电气机械设备",
+      "item_name": "数字化智能制造综合应用平台",
+      "brand": "艾视维",
+      "model": "ASV-DTTP-23-C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 678000.0,
+      "total_price": 678000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "其他电气机械设备",
+      "item_name": "电芯电池",
+      "brand": "德达",
+      "model": "AWH-EW",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 2300.0,
+      "total_price": 9200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京智行者科技股份有限公司",
+      "role": "winner",
+      "total_score": 84.81,
+      "rank": 1,
+      "amount": 2460000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳博岚智汽科技有限公司",
+      "role": "participant",
+      "total_score": 78.71,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "厦门科睿云智能科技有限公司",
+      "role": "participant",
+      "total_score": 64.74,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东匠心教育科技有限公司",
+      "role": "participant",
+      "total_score": 63.55,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

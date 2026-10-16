@@ -1,0 +1,604 @@
+{
+  "announcement_id": "t20260501_26507688",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件.zip/附件/附件.pdf第6、10页各21条成交报价明细；包1、2分别保留。名称、单位、工程量、单价、合价逐行核对。项目特征为施工描述，品牌及规格型号留空。各页逐行合价与印刷合计相差0.01元，逐行保留原值；项目概要金额与分包合计有0.43元舍入差异。",
+  "project": {
+    "buyer": "枣庄市薛城区住房和城乡建设局机关",
+    "project_name": "薛城区老旧小区电气线路改造（智慧）服务项目",
+    "total_amount": 36245481.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "枣庄恒东建筑工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "枣庄恒东建筑工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "线路拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 2979045.77,
+      "unit": "米",
+      "unit_price": 1.1,
+      "total_price": 3276950.35
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "配电箱拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 3483.0,
+      "unit": "台",
+      "unit_price": 60.0,
+      "total_price": 208980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "电表拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 2457.0,
+      "unit": "套",
+      "unit_price": 11.0,
+      "total_price": 27027.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "灯具拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 2017.0,
+      "unit": "盏",
+      "unit_price": 5.0,
+      "total_price": 10085.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "电缆敷设",
+      "brand": null,
+      "model": null,
+      "quantity": 5133.13,
+      "unit": "米",
+      "unit_price": 8.0,
+      "total_price": 41065.04
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "电线敷设",
+      "brand": null,
+      "model": null,
+      "quantity": 2594305.09,
+      "unit": "米",
+      "unit_price": 3.3,
+      "total_price": 8561206.8
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "配电箱安装",
+      "brand": null,
+      "model": null,
+      "quantity": 3483.0,
+      "unit": "台",
+      "unit_price": 230.0,
+      "total_price": 801090.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "电表安装",
+      "brand": null,
+      "model": null,
+      "quantity": 2457.0,
+      "unit": "套",
+      "unit_price": 60.0,
+      "total_price": 147420.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "灯具安装",
+      "brand": null,
+      "model": null,
+      "quantity": 2017.0,
+      "unit": "盏",
+      "unit_price": 30.0,
+      "total_price": 60510.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "配电室改造",
+      "brand": null,
+      "model": null,
+      "quantity": 58.0,
+      "unit": "台",
+      "unit_price": 30000.0,
+      "total_price": 1740000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": null,
+      "item_name": "更换开关",
+      "brand": null,
+      "model": null,
+      "quantity": 5041.0,
+      "unit": "只",
+      "unit_price": 3.0,
+      "total_price": 15123.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": null,
+      "item_name": "电缆沟维修",
+      "brand": null,
+      "model": null,
+      "quantity": 3529.02,
+      "unit": "米",
+      "unit_price": 120.0,
+      "total_price": 423482.4
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": null,
+      "item_name": "路灯改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1155.0,
+      "unit": "套",
+      "unit_price": 115.0,
+      "total_price": 132825.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": null,
+      "item_name": "高压线改造",
+      "brand": null,
+      "model": null,
+      "quantity": 3529.02,
+      "unit": "米",
+      "unit_price": 215.0,
+      "total_price": 758739.3
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": null,
+      "item_name": "应急灯",
+      "brand": null,
+      "model": null,
+      "quantity": 1120.0,
+      "unit": "盏",
+      "unit_price": 35.0,
+      "total_price": 39200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": null,
+      "item_name": "更换避雷线",
+      "brand": null,
+      "model": null,
+      "quantity": 2429.07,
+      "unit": "米",
+      "unit_price": 5.5,
+      "total_price": 13359.89
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": null,
+      "item_name": "更换开关",
+      "brand": null,
+      "model": null,
+      "quantity": 4766.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 47660.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": null,
+      "item_name": "更换插座",
+      "brand": null,
+      "model": null,
+      "quantity": 4812.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 48120.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "19",
+      "category": null,
+      "item_name": "充电桩安装",
+      "brand": null,
+      "model": null,
+      "quantity": 501.0,
+      "unit": "台",
+      "unit_price": 1780.0,
+      "total_price": 891780.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "20",
+      "category": null,
+      "item_name": "非机动车充电插座",
+      "brand": null,
+      "model": null,
+      "quantity": 2383.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 23830.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "21",
+      "category": null,
+      "item_name": "线路维修维护",
+      "brand": null,
+      "model": null,
+      "quantity": 352902.34,
+      "unit": "米",
+      "unit_price": 1.5,
+      "total_price": 529353.51
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "线路拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 3088277.45,
+      "unit": "米",
+      "unit_price": 1.1,
+      "total_price": 3397105.2
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "配电箱拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 3611.0,
+      "unit": "台",
+      "unit_price": 60.0,
+      "total_price": 216660.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": null,
+      "item_name": "电表拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 2546.0,
+      "unit": "套",
+      "unit_price": 11.0,
+      "total_price": 28006.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "4",
+      "category": null,
+      "item_name": "灯具拆除",
+      "brand": null,
+      "model": null,
+      "quantity": 2090.0,
+      "unit": "盏",
+      "unit_price": 5.0,
+      "total_price": 10450.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "5",
+      "category": null,
+      "item_name": "电缆敷设",
+      "brand": null,
+      "model": null,
+      "quantity": 5321.33,
+      "unit": "米",
+      "unit_price": 8.0,
+      "total_price": 42570.64
+    },
+    {
+      "package_no": "2",
+      "item_no": "6",
+      "category": null,
+      "item_name": "电线敷设",
+      "brand": null,
+      "model": null,
+      "quantity": 2689429.62,
+      "unit": "米",
+      "unit_price": 3.3,
+      "total_price": 8875117.75
+    },
+    {
+      "package_no": "2",
+      "item_no": "7",
+      "category": null,
+      "item_name": "配电箱安装",
+      "brand": null,
+      "model": null,
+      "quantity": 3611.0,
+      "unit": "台",
+      "unit_price": 230.0,
+      "total_price": 830530.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "8",
+      "category": null,
+      "item_name": "电表安装",
+      "brand": null,
+      "model": null,
+      "quantity": 2546.0,
+      "unit": "套",
+      "unit_price": 60.0,
+      "total_price": 152760.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "9",
+      "category": null,
+      "item_name": "灯具安装",
+      "brand": null,
+      "model": null,
+      "quantity": 2090.0,
+      "unit": "盏",
+      "unit_price": 30.0,
+      "total_price": 62700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "10",
+      "category": null,
+      "item_name": "配电室改造",
+      "brand": null,
+      "model": null,
+      "quantity": 60.0,
+      "unit": "台",
+      "unit_price": 30000.0,
+      "total_price": 1800000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "11",
+      "category": null,
+      "item_name": "更换开关",
+      "brand": null,
+      "model": null,
+      "quantity": 5227.0,
+      "unit": "只",
+      "unit_price": 3.0,
+      "total_price": 15681.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "12",
+      "category": null,
+      "item_name": "电缆沟维修",
+      "brand": null,
+      "model": null,
+      "quantity": 3658.42,
+      "unit": "米",
+      "unit_price": 120.0,
+      "total_price": 439010.4
+    },
+    {
+      "package_no": "2",
+      "item_no": "13",
+      "category": null,
+      "item_name": "路灯改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1197.0,
+      "unit": "套",
+      "unit_price": 115.0,
+      "total_price": 137655.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "14",
+      "category": null,
+      "item_name": "高压线改造",
+      "brand": null,
+      "model": null,
+      "quantity": 3658.42,
+      "unit": "米",
+      "unit_price": 215.0,
+      "total_price": 786560.3
+    },
+    {
+      "package_no": "2",
+      "item_no": "15",
+      "category": null,
+      "item_name": "应急灯",
+      "brand": null,
+      "model": null,
+      "quantity": 1161.0,
+      "unit": "盏",
+      "unit_price": 35.0,
+      "total_price": 40635.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "16",
+      "category": null,
+      "item_name": "更换避雷线",
+      "brand": null,
+      "model": null,
+      "quantity": 2518.13,
+      "unit": "米",
+      "unit_price": 5.5,
+      "total_price": 13849.72
+    },
+    {
+      "package_no": "2",
+      "item_no": "17",
+      "category": null,
+      "item_name": "更换开关",
+      "brand": null,
+      "model": null,
+      "quantity": 4942.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 49420.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "18",
+      "category": null,
+      "item_name": "更换插座",
+      "brand": null,
+      "model": null,
+      "quantity": 4989.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 49890.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "19",
+      "category": null,
+      "item_name": "充电桩安装",
+      "brand": null,
+      "model": null,
+      "quantity": 520.0,
+      "unit": "台",
+      "unit_price": 1780.0,
+      "total_price": 925600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "20",
+      "category": null,
+      "item_name": "非机动车充电插座",
+      "brand": null,
+      "model": null,
+      "quantity": 2471.0,
+      "unit": "只",
+      "unit_price": 10.0,
+      "total_price": 24710.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "21",
+      "category": null,
+      "item_name": "线路维修维护",
+      "brand": null,
+      "model": null,
+      "quantity": 365842.1,
+      "unit": "米",
+      "unit_price": 1.5,
+      "total_price": 548763.15
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "枣庄恒东建筑工程有限公司",
+      "role": "winner",
+      "total_score": 87.71,
+      "rank": null,
+      "amount": 17797807.28
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄市永建建安工程有限公司",
+      "role": "participant",
+      "total_score": 81.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东众成社区服务有限公司",
+      "role": "participant",
+      "total_score": 80.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "枣庄恒东建筑工程有限公司",
+      "role": "winner",
+      "total_score": 87.42,
+      "rank": null,
+      "amount": 18447674.15
+    },
+    {
+      "package_no": "2",
+      "name": "枣庄市永建建安工程有限公司",
+      "role": "participant",
+      "total_score": 81.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东众成社区服务有限公司",
+      "role": "participant",
+      "total_score": 80.36,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "member": "附件.zip/附件/附件.pdf",
+            "pages": [
+              6,
+              7,
+              10,
+              11
+            ],
+            "rows": 42
+          }
+        ]
+      }
+    ]
+  }
+}

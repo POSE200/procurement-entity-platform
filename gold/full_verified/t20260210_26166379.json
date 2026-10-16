@@ -1,0 +1,134 @@
+{
+  "announcement_id": "t20260210_26166379",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目概要列为空，category 取标的信息表『品目名称』列（教学仪器）。附件『合同包1：报价明细附件（广东星振科技有限公司）.pdf』被跳过未解析，但 HTML 标的信息表已含完整 6 条分项明细，无需 OCR 待补。6 条明细总价合计 5,475,000 元，与中标金额及总中标金额 547.5 万元一致。bidders 得分排名列明示，rank 照抄。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "数字化设计与检测中心（二期）设备采购",
+    "total_amount": 5475000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "数字化设计与检测中心（二期）设备采购",
+        "winner": "广东星振科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "高精度三坐标测量机",
+      "brand": "海克斯康",
+      "model": "GLOBAL S 07.10.07",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1794000.0,
+      "total_price": 1794000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "实训型三坐标测量机",
+      "brand": "海克斯康",
+      "model": "FUSION 05.06.05",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 549000.0,
+      "total_price": 549000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "复合式影像测量仪",
+      "brand": "海克斯康",
+      "model": "OPTIV ADVANCE 4.5.2PLUS",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 743000.0,
+      "total_price": 743000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "智能手持3D扫描仪",
+      "brand": "海克斯康",
+      "model": "HaloScan",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 299000.0,
+      "total_price": 1196000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "数控五轴模拟训练机",
+      "brand": "海克斯康",
+      "model": "HxGN Machine Trainer Performance",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 298000.0,
+      "total_price": 596000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "全息测量仿真教学系统",
+      "brand": "海克斯康",
+      "model": "VisualCMM",
+      "quantity": 30,
+      "unit": "节点",
+      "unit_price": 19900.0,
+      "total_price": 597000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东星振科技有限公司",
+      "role": "winner",
+      "total_score": 89.22,
+      "rank": 1,
+      "amount": 5475000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市点创教育科技有限公司",
+      "role": "participant",
+      "total_score": 66.13,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东琨耀信息科技有限公司",
+      "role": "participant",
+      "total_score": 55.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南源强教育科技有限公司",
+      "role": "participant",
+      "total_score": 53.96,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

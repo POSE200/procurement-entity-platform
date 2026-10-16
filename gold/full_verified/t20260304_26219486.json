@@ -1,0 +1,184 @@
+{
+  "announcement_id": "t20260304_26219486",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:【定稿02.03】编号260109国家税务总局陕西省税务局2025年网络线路租用服务项目招标文件 .pdf",
+  "note": "结果公告只披露第1、2、3、4、6包的中标结果（中标供应商与线路条数），第5、7包在HTML结果表中未出现中标供应商，其采购内容与线路条数取自招标文件附件；全部包均无单独中标金额（仅有总中标金额1470.2544万元），故各bidders的amount与各item的total_price/unit_price为null且包金额之和无法与total_amount核对；品目取公告概要品目列完整路径；无评分/排名信息，rank一律null。",
+  "project": {
+    "buyer": "国家税务总局陕西省税务局",
+    "project_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目",
+    "total_amount": 14702544.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目第1包",
+        "winner": "中国移动通信集团陕西有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目第2包",
+        "winner": "中国电信股份有限公司陕西分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目第3包",
+        "winner": "中国联合网络通信有限公司陕西省分公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目第4包",
+        "winner": "中国电信股份有限公司陕西分公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "省局外联网备线路，计3条",
+        "winner": null
+      },
+      {
+        "package_no": "6",
+        "package_name": "国家税务总局陕西省税务局2025年网络线路租用服务项目第6包",
+        "winner": "中国移动通信集团陕西有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "市到县区（含所）备线路，计381条",
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "省到市税务业务专网主线路、省局机房及办公区主线路、省局办公互联网线路及业务互联网线路1",
+      "brand": null,
+      "model": null,
+      "quantity": 19,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "省市税务业务专网备线路、省局机房及办公区备线路、省局办公互联网线路及业务互联网线路2",
+      "brand": null,
+      "model": null,
+      "quantity": 17,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "业务互联网线路3",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "省局外联网主线路",
+      "brand": null,
+      "model": null,
+      "quantity": 13,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "省局外联网备线路",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "6",
+      "item_no": "5",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "市到县区（含所）主线路（包括市到县（区）主线路、市到县（区）大厅主线路、市到分局（所）主线路、市局或县局多个办公区之间主线路）",
+      "brand": null,
+      "model": null,
+      "quantity": 864,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "7",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "市到县区（含所）备线路（包括市到县（区）备线路、市到县（区）大厅备线路、部分市到分局（所）备线路、市局或县局多个办公区之间备线路）",
+      "brand": null,
+      "model": null,
+      "quantity": 381,
+      "unit": "条",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团陕西有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司陕西分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司陕西省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中国电信股份有限公司陕西分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "中国移动通信集团陕西有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "announcement_id": "t20260812_27118381",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东暨通信息发展有限公司）.pdf",
+  "note": "重要：附件报价明细与HTML标的信息在1-1（附件2,500,000 / HTML 2,495,000）与1-2（附件28,000 / HTML 25,000）不一致，两者恰差8,000元；采用HTML值后18项合计=3,290,000.0元与总成交金额329万完全一致（采用附件值则为3,298,000元），故1-1/1-2以HTML为准——本项目为竞争性磋商，附件为第1轮报价明细、HTML为成交结果，二者差异为磋商调价，非OCR错读（两个数值在文本层均清晰可辨，复核确认）；1-15数据处理、1-18系统集成单价仅见附件（212,000/145,000，HTML金额列空）；1-16/1-17金额HTML表格4与附件一致（各8,000）；1-14规格型号原文为「/」，填null；1-8品牌列受水印污染，按HTML「金山毒霸」抄录；合同包名称栏原文仅「1」，package_name=null；7家供应商得分与得分排名原文明示，rank照抄。",
+  "project": {
+    "buyer": "中国共产党广州市南沙区纪律检查委员会",
+    "project_name": "2026年算力服务器及配套设备采购项目",
+    "total_amount": 3290000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广东暨通信息发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "AI算力服务器",
+      "brand": "百信恒山",
+      "model": "百信恒山AI386RA3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2495000.0,
+      "total_price": 2495000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "AI集中控制软件",
+      "brand": "华鲲振宇",
+      "model": "天巡 CubeX 智擎平台",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "服务器",
+      "item_name": "应用服务器",
+      "brand": "华鲲振宇",
+      "model": "HuaKun TG225 B1",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "防火墙",
+      "item_name": "应用域防火墙",
+      "brand": "华为",
+      "model": "HiSecEngine USG6615F",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 94500.0,
+      "total_price": 94500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交换设备",
+      "item_name": "25GE交换机（核心）",
+      "brand": "华为",
+      "model": "CloudEngine 6885-48YS8CQ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 108000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "交换设备",
+      "item_name": "运维域交换机",
+      "brand": "华为",
+      "model": "CloudEngine 5855-48T4XS",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 12500.0,
+      "total_price": 12500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "基础软件",
+      "item_name": "安全保密套件",
+      "brand": "中孚",
+      "model": "中孚安全保密套件管理系统(网络版)客户端",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "基础软件",
+      "item_name": "防病毒软件",
+      "brand": "金山毒霸",
+      "model": "V9.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 300.0,
+      "total_price": 600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "机柜",
+      "item_name": "屏蔽机柜",
+      "brand": "华建",
+      "model": "HJ-37U",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "不间断电源",
+      "item_name": "UPS主机",
+      "brand": "科华",
+      "model": "YTR3120",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "蓄电池及充电装置",
+      "item_name": "蓄电池",
+      "brand": "奥克莱",
+      "model": "6-GFM-38",
+      "quantity": 16,
+      "unit": "节",
+      "unit_price": 800.0,
+      "total_price": 12800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "其他机房辅助设备",
+      "item_name": "电池柜",
+      "brand": "丰创",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他机房辅助设备",
+      "item_name": "电池开关箱",
+      "brand": "正泰",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1400.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "其他机房辅助设备",
+      "item_name": "电池连接线",
+      "brand": "广州电缆",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1400.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "其他数据处理服务",
+      "item_name": "数据处理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 212000.0,
+      "total_price": 212000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "其他智能化安装工程",
+      "item_name": "配电系统改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "其他智能化安装工程",
+      "item_name": "综合布线改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "硬件集成实施服务",
+      "item_name": "系统集成",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 145000.0,
+      "total_price": 145000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东暨通信息发展有限公司",
+      "role": "winner",
+      "total_score": 90.85,
+      "rank": 1,
+      "amount": 3290000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 83.59,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 72.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 58.29,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州阳光耐特电子有限公司",
+      "role": "participant",
+      "total_score": 51.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "星颖（广州）科技有限公司",
+      "role": "participant",
+      "total_score": 48.02,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市盛保电子科技有限公司",
+      "role": "participant",
+      "total_score": 46.33,
+      "rank": 7,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

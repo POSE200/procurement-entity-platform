@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27088811",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列为空，category 取 HTML 标的信息表品目名称列『软件运维服务』；附件『包(1)_开标（报价）一览表.pdf』『包(1)_投标（响应）报价明细表.pdf』均为仅有表头的空白模板，无成交供应商分项报价，unit_price=null；quantity=1、unit=项 取自招标文件标的信息表『1.00（项）』（该表标的金额96,000.00为预算/最高限价，非成交价）；total_price 取中标金额95000元（单标的单包）；package_no=1 来自公告标题『（采购包1）』；得分排名/推荐排名列空白，rank 未明示填 null；需视觉核验：无重大疑点。复核：HTML各字段、招标文件标的信息表（1.00（项）、预算96000为限价）及3家供应商得分均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）2026年医院分级诊疗双向转诊平台系统维保",
+    "total_amount": 95000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "沈阳睿影云科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "2026年医院分级诊疗双向转诊平台系统维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 95000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "沈阳睿影云科技有限公司",
+      "role": "winner",
+      "total_score": 86.47,
+      "rank": null,
+      "amount": 95000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东星垣国土空间规划有限公司",
+      "role": "participant",
+      "total_score": 76.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东众仁志合信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.78,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

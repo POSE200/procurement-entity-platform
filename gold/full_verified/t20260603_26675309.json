@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260603_26675309",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一来源采购分三个标段，各标段一名供应商：结果表（表格1）供应商顺序与标的信息表（表格2）标段顺序金额一一对应（电信740000/移动433900/联通468000），供应商与标段的对应关系系按金额与行序匹配推断，需视觉核验。品目按G1取概要品目列代码C17010300（三标段同码）；标的信息表品目名称列为『其他增值电信服务』可作备选。数量列为纯数字1无计量单位，unit=null。三标段金额之和1641900=总中标金额164.19万。附件招标文件正文（仅前30页）所载预算471100元与结果金额不一致（疑似系某一标段此前预算），未采用。复核：三个成交金额740000/433900/468000在表格1与表格2中均为唯一值，供应商与标段按金额一一对应是确定性匹配而非猜测，需视觉核验一项解除；全部字段核对无误。",
+  "project": {
+    "buyer": "宁夏回族自治区财政厅",
+    "project_name": "宁夏回族自治区财政厅自治区电子政务公共云平台宁夏财政安全增值服务项目",
+    "total_amount": 1641900.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（一标段）",
+        "winner": "中国电信股份有限公司宁夏分公司"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（二标段）",
+        "winner": "中国移动通信集团宁夏有限公司"
+      },
+      {
+        "package_no": "三标段",
+        "package_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（三标段）",
+        "winner": "中国联合网络通信有限公司宁夏回族自治区分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "C17010300",
+      "item_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（一标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 740000.0,
+      "total_price": 740000.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "C17010300",
+      "item_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（二标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 433900.0,
+      "total_price": 433900.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "C17010300",
+      "item_name": "自治区电子政务公共云平台宁夏财政安全增值服务项目（三标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 468000.0,
+      "total_price": 468000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "中国电信股份有限公司宁夏分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 740000.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "中国移动通信集团宁夏有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 433900.0
+    },
+    {
+      "package_no": "三标段",
+      "name": "中国联合网络通信有限公司宁夏回族自治区分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 468000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

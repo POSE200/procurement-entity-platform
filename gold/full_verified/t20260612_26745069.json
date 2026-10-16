@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260612_26745069",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf",
+  "note": "3个采购包各1条标的（宗）；品目概要列与标的信息表品目列均空，category=null；包2/包3品牌型号列原文为\"详见(详细的)报价清单\"（指针非实值）故null；评审表得分排名列空，rank一律null（不推定中标即第1）；附件中招标清单xlsx为招标需求清单（单价空、非中标报价），未抽为items；包金额之和8197832+7153809+7771396=23123037与总中标金额2312.3037万一致。",
+  "project": {
+    "buyer": "枣庄市峄城区交通运输局",
+    "project_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目",
+    "total_amount": 23123037.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目1包",
+        "winner": "烟台市泰运交通设施有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目2包",
+        "winner": "国建（枣庄）建设开发有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目3包",
+        "winner": "中移系统集成有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目1包",
+      "brand": "聚杰",
+      "model": "JJ40SYCGQ、JJ-12TD、VDS604S、JJ-40-35",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 8197832.0,
+      "total_price": 8197832.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目2包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 7153809.0,
+      "total_price": 7153809.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "峄城区公路交通运输执法基础设施数字化转型升级改造项目3包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 7771396.0,
+      "total_price": 7771396.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "烟台市泰运交通设施有限公司",
+      "role": "winner",
+      "total_score": 95.29,
+      "rank": null,
+      "amount": 8197832.0
+    },
+    {
+      "package_no": "1",
+      "name": "山西长达交通设施有限公司",
+      "role": "participant",
+      "total_score": 86.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东远通公路工程集团有限公司",
+      "role": "participant",
+      "total_score": 75.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台市诚信交通设施有限公司",
+      "role": "participant",
+      "total_score": 75.29,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "国建（枣庄）建设开发有限公司",
+      "role": "winner",
+      "total_score": 94.71,
+      "rank": null,
+      "amount": 7153809.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东诚合致捷信息工程有限公司",
+      "role": "participant",
+      "total_score": 86.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "枣庄尚云电子科技发展有限公司",
+      "role": "participant",
+      "total_score": 75.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中移系统集成有限公司",
+      "role": "winner",
+      "total_score": 94.46,
+      "rank": null,
+      "amount": 7771396.0
+    },
+    {
+      "package_no": "3",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 82.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东诚合致捷信息工程有限公司",
+      "role": "participant",
+      "total_score": 78.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东东瑾信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东顺付信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.99,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

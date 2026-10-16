@@ -1,0 +1,459 @@
+{
+  "announcement_id": "t20260806_27088651",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第2轮-山东鄃华信息科技有限公司).pdf,报价明细表(第2轮-山东拓澍商贸有限公司).pdf",
+  "note": "概要品目列空，category 取标的信息表'品目编号及品目名称'列（包1=虚拟演播室设备，包2=电子白板）；package_no=1/2 取自品目号1-1-x/2-1-x及标的'…项目1包/2包'；条目1-1-24（墙面地面吊顶装修）HTML 规格型号有 OCR 乱码，采用附件报价明细表(第2轮-鄃华)完整文本；两包各条目单价×数量与附件响应报价一致，包1合计423500、包2合计339800，与各包中标金额及总分763300一致；评审劳务报酬支付表最高限价栏 OCR 残缺（不影响取值）；济南峻亚贸易有限公司两包均投标（包1符合性审查未通过、包2未按要求提交最后报价），无得分，participant 收录；得分排名列空白，rank 全 null。",
+  "project": {
+    "buyer": "夏津第一中学",
+    "project_name": "夏津一中新建教学楼录播室、AI自修室及其他内配项目",
+    "total_amount": 763300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东鄃华信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东拓澍商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "虚拟演播室设备",
+      "item_name": "网络同传软件",
+      "brand": "希沃",
+      "model": "希沃云桌面系统V1.0",
+      "quantity": 120,
+      "unit": "套",
+      "unit_price": 330.0,
+      "total_price": 39600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "虚拟演播室设备",
+      "item_name": "电子教室软件",
+      "brand": "希沃",
+      "model": "希沃易启学系统V1.3",
+      "quantity": 120,
+      "unit": "套",
+      "unit_price": 330.0,
+      "total_price": 39600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "虚拟演播室设备",
+      "item_name": "耳机",
+      "brand": "漫步者",
+      "model": "USB K5000",
+      "quantity": 120,
+      "unit": "个",
+      "unit_price": 329.0,
+      "total_price": 39480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "虚拟演播室设备",
+      "item_name": "自修室交换机",
+      "brand": "光为视讯",
+      "model": "ZSTX-8000A-24G02GFI",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 1800.0,
+      "total_price": 10800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "虚拟演播室设备",
+      "item_name": "精品录播主机",
+      "brand": "希沃",
+      "model": "SV32P",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 18600.0,
+      "total_price": 18600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "虚拟演播室设备",
+      "item_name": "高清云台摄像机",
+      "brand": "希沃",
+      "model": "VC33",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 7950.0,
+      "total_price": 31800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "虚拟演播室设备",
+      "item_name": "麦克风",
+      "brand": "希沃",
+      "model": "AC21M",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 2180.0,
+      "total_price": 6540.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "虚拟演播室设备",
+      "item_name": "控制面板",
+      "brand": "希沃",
+      "model": "PA21",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1130.0,
+      "total_price": 1130.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "虚拟演播室设备",
+      "item_name": "功放",
+      "brand": "希沃",
+      "model": "PA30A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1835.0,
+      "total_price": 1835.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "虚拟演播室设备",
+      "item_name": "音响",
+      "brand": "希沃",
+      "model": "PA30S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2130.0,
+      "total_price": 2130.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "虚拟演播室设备",
+      "item_name": "教学互动电视",
+      "brand": "希沃",
+      "model": "PA01A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3530.0,
+      "total_price": 3530.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "虚拟演播室设备",
+      "item_name": "录播资源管理平台",
+      "brand": "希沃",
+      "model": "三个课堂校级应用管理平台V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 25980.0,
+      "total_price": 25980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "虚拟演播室设备",
+      "item_name": "精品课程抠像系统",
+      "brand": "希沃",
+      "model": "智能抠像系统V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 28157.0,
+      "total_price": 28157.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "虚拟演播室设备",
+      "item_name": "Ai课堂分析摄像机",
+      "brand": "希沃",
+      "model": "VC13S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3930.0,
+      "total_price": 3930.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "虚拟演播室设备",
+      "item_name": "Ai课堂分析系统",
+      "brand": "希沃",
+      "model": "课堂智能反馈系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6200.0,
+      "total_price": 6200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "虚拟演播室设备",
+      "item_name": "导播键盘",
+      "brand": "希沃",
+      "model": "PA20",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 5350.0,
+      "total_price": 5350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "虚拟演播室设备",
+      "item_name": "监听有源音箱",
+      "brand": "希沃",
+      "model": "SS23C",
+      "quantity": 1,
+      "unit": "对",
+      "unit_price": 755.0,
+      "total_price": 755.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "虚拟演播室设备",
+      "item_name": "听课观摩电视",
+      "brand": "希沃",
+      "model": "PA01A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3530.0,
+      "total_price": 3530.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-19",
+      "category": "虚拟演播室设备",
+      "item_name": "录播主机桌面支架",
+      "brand": "希沃",
+      "model": "PA40",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 440.0,
+      "total_price": 440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-20",
+      "category": "虚拟演播室设备",
+      "item_name": "资源存储设备",
+      "brand": "希沃",
+      "model": "DF01C",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 28155.0,
+      "total_price": 28155.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-21",
+      "category": "虚拟演播室设备",
+      "item_name": "电源时序器",
+      "brand": "东玛克",
+      "model": "EP8100",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1700.0,
+      "total_price": 1700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-22",
+      "category": "虚拟演播室设备",
+      "item_name": "录播室交换机",
+      "brand": "光为视讯",
+      "model": "GW-P16G02G02GFI",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1133.0,
+      "total_price": 1133.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-23",
+      "category": "虚拟演播室设备",
+      "item_name": "机柜",
+      "brand": "瀚亿",
+      "model": "HY012",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 625.0,
+      "total_price": 625.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-24",
+      "category": "虚拟演播室设备",
+      "item_name": "录播室观摩室墙面、地面及吊顶",
+      "brand": "定制",
+      "model": "75平方米精品录播教室装修交钥匙项目，含墙面聚酯纤维吸声处理、50系列轻钢龙骨吊顶、自流平地面找平、≥2.6mm厚PVC地胶地面静音处理、观摩室隔音墙。",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 122500.0,
+      "total_price": 122500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "电子白板",
+      "item_name": "电子班牌",
+      "brand": "希沃",
+      "model": "SK06B",
+      "quantity": 60,
+      "unit": "台",
+      "unit_price": 2960.0,
+      "total_price": 177600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "电子白板",
+      "item_name": "交换机1",
+      "brand": "光为视讯",
+      "model": "ZSTX-8000A-16G02GFI",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 4900.0,
+      "total_price": 29400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "电子白板",
+      "item_name": "交换机2",
+      "brand": "光为视讯",
+      "model": "ZSTX-IND9224Wb",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2830.0,
+      "total_price": 2830.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "电子白板",
+      "item_name": "窗帘",
+      "brand": "和兴",
+      "model": "HX-DZ（定制款）",
+      "quantity": 200,
+      "unit": "个",
+      "unit_price": 239.0,
+      "total_price": 47800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-5",
+      "category": "电子白板",
+      "item_name": "电话机",
+      "brand": "中诺",
+      "model": "HCD6238(20)P/TSDL16",
+      "quantity": 30,
+      "unit": "部",
+      "unit_price": 99.0,
+      "total_price": 2970.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-6",
+      "category": "电子白板",
+      "item_name": "屏蔽仪",
+      "brand": "天人兴",
+      "model": "ZM-1008N",
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 990.0,
+      "total_price": 79200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鄃华信息科技有限公司",
+      "role": "winner",
+      "total_score": 94.04,
+      "rank": null,
+      "amount": 423500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东北大信安软件技术有限公司",
+      "role": "participant",
+      "total_score": 88.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中安金路环境工程有限公司",
+      "role": "participant",
+      "total_score": 83.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东拓澍商贸有限公司",
+      "role": "winner",
+      "total_score": 94.84,
+      "rank": null,
+      "amount": 339800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东融轩文化科技发展有限公司",
+      "role": "participant",
+      "total_score": 86.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "陕西太和科教设备有限公司",
+      "role": "participant",
+      "total_score": 84.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

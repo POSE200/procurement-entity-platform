@@ -1,0 +1,142 @@
+{
+  "announcement_id": "t20260612_26744783",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:报价明细表(第1轮-江西华鑫环宇科技集团有限公司).pdf",
+  "note": "公告概要「品目」列空，category 填 null；磋商文件中标的1「采购品目名称」为“文件柜”，仅供择歧参考。标的名称取自第一轮报价明细表（HTML 表格2 的采购标的列写的是项目名）。单价取附件精细值 590.8509（HTML 四舍五入为 590.85），590.8509×587.27≈346989.01 与总价 346989 在 1% 容差内；两分项合计 351969.00 与总中标金额一致。综合得分表「得分排名/推荐排名」列原文为空，全部供应商 rank 置 null。已通过OCR补齐：开标记录表.pdf 已OCR，11家供应商的开标报价已填入 participant 的 amount（华鑫677991.42/顺辉677364.15/中泽兰台650997/威尔677404.15/玺智677961.42/恒安679165.96/新万保676189.61/金虎591830/阳光679135.96/远大677324.15/新宇545038.40元）；中标人 amount 仍为中标金额351969（多轮磋商后第1轮开标报价677991.42与最终成交价不同属正常）。山东省政府采购评审劳务报酬支付表.pdf 已OCR，与标的无关。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "禹城市自然资源局本级",
+    "project_name": "禹城市自然资源局不动产档案室档案存储设备购置项目",
+    "total_amount": 351969.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "江西华鑫环宇科技集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "移动式档案存储柜",
+      "brand": "华钢",
+      "model": "按采购需求、HX-DACCG-001",
+      "quantity": 587.27,
+      "unit": "立方米",
+      "unit_price": 590.8509,
+      "total_price": 346989.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "轨道预埋",
+      "brand": "华钢",
+      "model": "按采购需求",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4980.0,
+      "total_price": 4980.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江西华鑫环宇科技集团有限公司",
+      "role": "winner",
+      "total_score": 94.1,
+      "rank": null,
+      "amount": 351969.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖南新宇金属制品有限公司",
+      "role": "participant",
+      "total_score": 92.92,
+      "rank": null,
+      "amount": 545038.4
+    },
+    {
+      "package_no": "1",
+      "name": "山东玺智商贸有限公司",
+      "role": "participant",
+      "total_score": 88.43,
+      "rank": null,
+      "amount": 677961.42
+    },
+    {
+      "package_no": "1",
+      "name": "江西金虎保险设备集团有限公司",
+      "role": "participant",
+      "total_score": 88.08,
+      "rank": null,
+      "amount": 591830.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东中泽兰台智能科技有限公司",
+      "role": "participant",
+      "total_score": 87.03,
+      "rank": null,
+      "amount": 650997.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东威尔柜业有限公司",
+      "role": "participant",
+      "total_score": 85.36,
+      "rank": null,
+      "amount": 677404.15
+    },
+    {
+      "package_no": "1",
+      "name": "江西远大保险设备实业集团有限公司",
+      "role": "participant",
+      "total_score": 84.19,
+      "rank": null,
+      "amount": 677324.15
+    },
+    {
+      "package_no": "1",
+      "name": "青岛恒安档案设备有限公司",
+      "role": "participant",
+      "total_score": 83.45,
+      "rank": null,
+      "amount": 679165.96
+    },
+    {
+      "package_no": "1",
+      "name": "江西阳光安全设备集团有限公司",
+      "role": "participant",
+      "total_score": 77.84,
+      "rank": null,
+      "amount": 679135.96
+    },
+    {
+      "package_no": "1",
+      "name": "宁波新万保金融设备有限公司",
+      "role": "participant",
+      "total_score": 77.81,
+      "rank": null,
+      "amount": 676189.61
+    },
+    {
+      "package_no": "1",
+      "name": "宁波顺辉箱柜有限公司",
+      "role": "participant",
+      "total_score": 66.97,
+      "rank": null,
+      "amount": 677364.15
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

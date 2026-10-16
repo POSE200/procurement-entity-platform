@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260811_27113013",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司汕头分公司）.pdf",
+  "note": "单包项目。items取附件报价明细5条（品目号均为1-1，item_no取附件序号1-5）；概要品目列空，category取HTML标的信息表品目名称列「平台运营服务」。附件OCR有水印噪声但关键字段（单价/数量/总价）清晰，5项之和441,000+185,916+11,744.10+2,259,494.61+299,841.58=3,197,996.29元，与表格1中标金额3,197,996.29元一致（概要栏￥319.799600万为四舍五入值，total_amount取表格1精确值）；各行单价×数量=总价一致。bidders 4家来自评分表，得分排名列明示故rank照填，仅中标人有金额。附件服务范围列OCR乱序文字不影响取值；5条服务名称已与HTML标的信息表采购标的列逐条互证一致，无需视觉核验。",
+  "project": {
+    "buyer": "汕头市数字化城市管理指挥中心",
+    "project_name": "汕头市数字化城市管理项目（运营租赁）",
+    "total_amount": 3197996.29,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "汕头市数字化城市管理项目（运营租赁）",
+        "winner": "中国电信股份有限公司汕头分公司(联合体成员：深圳市乾言科技有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "平台运营服务",
+      "item_name": "数字城管链路租赁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 441000.0,
+      "total_price": 441000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "平台运营服务",
+      "item_name": "手持终端通信租赁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 185916.0,
+      "total_price": 185916.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "平台运营服务",
+      "item_name": "短信平台通信租赁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 11744.1,
+      "total_price": 11744.1
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "平台运营服务",
+      "item_name": "信息采集和数字城管平台及配套软件运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2259494.61,
+      "total_price": 2259494.61
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "平台运营服务",
+      "item_name": "数字城管自建硬件运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 299841.58,
+      "total_price": 299841.58
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司汕头分公司(联合体成员：深圳市乾言科技有限公司)",
+      "role": "winner",
+      "total_score": 93.56,
+      "rank": 1,
+      "amount": 3197996.29
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 65.16,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司汕头分公司",
+      "role": "participant",
+      "total_score": 59.66,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州慧信档案技术有限公司",
+      "role": "participant",
+      "total_score": 30.2,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

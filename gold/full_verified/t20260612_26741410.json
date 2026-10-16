@@ -1,0 +1,180 @@
+{
+  "announcement_id": "t20260612_26741410",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目择歧：概要品目列给出3个代码（C16010301,C16060000,C16060000），按公告标题标段顺序（一、三、四）对应到各标段标的，与HTML品目名称列（通用应用软件开发服务/测试评估认证服务/测试评估认证服务）方向一致；三张得分表按中标人归属对应标段（表格3含四标段中标人凯信特、表格4含三标段中标人网信创安、表格5含一标段中标人联通宁夏）；rank取自备注列明示的'综合得分排名第一/二/三'，无备注者rank=null；附件招标文件正文.pdf仅前30页且为招标条款，不提供结果字段值；各标段金额之和=2,415,000元=总中标金额，相符。无视觉核验疑点。",
+  "project": {
+    "buyer": "宁夏回族自治区市场监督管理厅",
+    "project_name": "宁夏回族自治区市场监督管理厅宁夏回族自治区法人单位基础数据资源库建设项目（一标段、三标段、四标段）",
+    "total_amount": 2415000.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": "通用应用软件开发服务",
+        "winner": "中国联合网络通信有限公司宁夏回族自治区分公司"
+      },
+      {
+        "package_no": "三标段",
+        "package_name": "信息安全等级保护及商用密码测评服务",
+        "winner": "宁夏网信创安信息技术服务有限公司"
+      },
+      {
+        "package_no": "四标段",
+        "package_name": "第三方软件测评及数据安全风险评估测评服务",
+        "winner": "宁夏凯信特信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "C16010301",
+      "item_name": "通用应用软件开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2230000.0,
+      "total_price": 2230000.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "信息安全等级保护及商用密码测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 95000.0,
+      "total_price": 95000.0
+    },
+    {
+      "package_no": "四标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "第三方软件测评及数据安全风险评估测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "中国联合网络通信有限公司宁夏回族自治区分公司",
+      "role": "winner",
+      "total_score": 86.39,
+      "rank": 1,
+      "amount": 2230000.0
+    },
+    {
+      "package_no": "一标段",
+      "name": "中国移动通信集团宁夏有限公司",
+      "role": "participant",
+      "total_score": 82.62,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "中电云计算技术有限公司",
+      "role": "participant",
+      "total_score": 81.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "中电科普天科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": 65.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "winner",
+      "total_score": 83.6,
+      "rank": 1,
+      "amount": 95000.0
+    },
+    {
+      "package_no": "三标段",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 81.03,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "湖南省金盾信息安全等级保护评估中心有限公司",
+      "role": "participant",
+      "total_score": 74.92,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "winner",
+      "total_score": 86.2,
+      "rank": 1,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "四标段",
+      "name": "广东赛辰检测服务股份有限公司",
+      "role": "participant",
+      "total_score": 85.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 84.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "长春市博鸿科技服务有限责任公司",
+      "role": "participant",
+      "total_score": 61.48,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

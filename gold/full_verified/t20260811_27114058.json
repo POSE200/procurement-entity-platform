@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260811_27114058",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（石家庄途隆机械设备销售有限公司）.pdf",
+  "note": "单包（合同包1，附件名与表格3合同包号明示）。品目取HTML标的信息表品目名称列「教学仪器」。报价明细附件仅2行且与HTML表格2一致：品目1-1为「除核心产品」打包行，其品牌/规格型号/产地/制造商均写「详见投标文件三、分项报价表」，该分项报价表未随包提供，故brand/model=null，单价=总价=4,902,824（数量1项）为原文原值非推算；品目1-2多轴数控机床（威达/DMC500u，2台×881,000）。两行之和4,902,824+1,762,000=6,664,824元=表格1中标金额（概要￥666.482400万一致）。本国产品声明函列66种产品名称/型号/生产厂但无价格，不作为报价明细来源。bidders 5家：前4家有得分与得分排名（1-4），广州福慧智能科技资格性审查不通过、无得分无排名（全null）。附件报价明细表带水印噪声但关键字段清晰可读，无需视觉核验；分项报价表未随公告提供（非待OCR文件），其明细本包内不可得。",
+  "project": {
+    "buyer": "广东省机械技师学院",
+    "project_name": "2026年广东省机械技师学院南海校区智能制造学院实训设备设施采购项目",
+    "total_amount": 6664824.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广东省机械技师学院南海校区智能制造学院实训设备设施采购项目",
+        "winner": "石家庄途隆机械设备销售有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "南海校区智能制造学院实训设备设施采购项目（除核心产品）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4902824.0,
+      "total_price": 4902824.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "多轴数控机床",
+      "brand": "威达",
+      "model": "DMC500u",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 881000.0,
+      "total_price": 1762000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "石家庄途隆机械设备销售有限公司",
+      "role": "winner",
+      "total_score": 91.05,
+      "rank": 1,
+      "amount": 6664824.0
+    },
+    {
+      "package_no": "1",
+      "name": "重庆西动科技有限公司",
+      "role": "participant",
+      "total_score": 76.4,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "安徽博诺机器人有限公司",
+      "role": "participant",
+      "total_score": 70.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南广数数控设备有限公司",
+      "role": "participant",
+      "total_score": 68.51,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州福慧智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

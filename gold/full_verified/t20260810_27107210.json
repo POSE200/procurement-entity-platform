@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260810_27107210",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东维平信息安全测评技术有限公司).pdf,报价明细表(第1轮-山东正中信息技术股份有限公司).pdf",
+  "note": "2包各1条服务标的。package_no=1/2依公告标题'（采购包1、2）'及品目号前缀推断。强制核查项已确认：报价明细附件.zip虽标记跳过，但其解包内容'报价明细表(第1轮-*)'两份PDF已解析可见——包1维平单价218600元/数量1.0000/项，包2正中单价9880元/数量1.0000/项，两包合计228480元与总中标金额￥22.848万一致。文件集中另存的'包(1)/包(2)_开标（报价）一览表.pdf'与'包(1)/包(2)_投标（响应）报价明细表.pdf'仅有水印叠字表头无数据行。成交公告附件.docx为空模板（仅'采购包1：/采购包2：'字样）。HTML评分表'得分排名/推荐排名'列空白，rank全null。品目取标的信息表品目名称列（概要品目列为空）。",
+  "project": {
+    "buyer": "山东省教育厅",
+    "project_name": "山东省教育厅政务信息系统测试测评及监理服务项目",
+    "total_amount": 228480.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东维平信息安全测评技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东正中信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "山东省教育厅政务信息系统测试测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 218600.0,
+      "total_price": 218600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息化工程监理服务",
+      "item_name": "山东省高等教育人工智能通识课教学实训管理系统监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 9880.0,
+      "total_price": 9880.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "winner",
+      "total_score": 92.99,
+      "rank": null,
+      "amount": 218600.0
+    },
+    {
+      "package_no": "1",
+      "name": "新潮睿石信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "信元网络技术股份有限公司",
+      "role": "participant",
+      "total_score": 70.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 69.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 89.63,
+      "rank": null,
+      "amount": 9880.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "participant",
+      "total_score": 83.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东艾发信创设计院有限公司",
+      "role": "participant",
+      "total_score": 76.61,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

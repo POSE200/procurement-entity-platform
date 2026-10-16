@@ -1,0 +1,164 @@
+{
+  "announcement_id": "t20260604_26687104",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个标段（四/五/六）。品目概要列为分类代码『C16060000,C16060000,C20039900』，按顺序对应四/五/六标段填入category（HTML主要标的信息表品目名称列分别为测试评估认证服务/测试评估认证服务/其他咨询服务，与代码一一对应，推断声明）。主要标的信息表数量列=1（明示），未给计量单位，unit=null。三张得分表（表格3/4/5）无标段标注，按『各表备注列第1名=该标段中标人』配对：表格5→四标段（凯信特）、表格4→五标段（智巡密码）、表格3→六标段（永宏），与表格1中标人逐一吻合（推断声明）；备注列数值为排名（明示），西安长盛信安与山东新潮备注列为空，rank=null。三标段金额之和220000+51800+52498=324298元与总中标金额32.4298万一致。附件招标文件正文.pdf仅前30页，仅提供预算信息；中小企业声明函为空壳。需视觉核验：品目代码与标段的对应、得分表与标段的配对。复核：得分表与标段配对已由三重互证确认（表格5备注1=四标段中标人凯信特、表格4备注1=五标段中标人智巡密码、表格3备注1=六标段中标人永宏）；品目代码与HTML品目名称列（测试评估认证服务×2/其他咨询服务）类别吻合；三标段金额之和324,298元与总额一致。但rank取自备注列数值的解读仍未决（该列标注为最低评标价法评审报价，与26681176同类），维持draft待视觉核验。；终审：评分表\"备注\"列数字（9处）列名明文为最低价法说明、语义未经证实，按G3严格口径rank置null（备注观察值保留在本note）；verified",
+  "project": {
+    "buyer": "银川市数据局",
+    "project_name": "银川市数据局银川市城市智能感知数字底座新型基础设施项目的配套服务（四至六标段）",
+    "total_amount": 324298.0,
+    "packages": [
+      {
+        "package_no": "四标段",
+        "package_name": "第三方测评服务（数据安全风险评估）",
+        "winner": "宁夏凯信特信息科技有限公司"
+      },
+      {
+        "package_no": "五标段",
+        "package_name": "密码测评服务",
+        "winner": "智巡密码（上海）检测技术有限公司"
+      },
+      {
+        "package_no": "六标段",
+        "package_name": "结算审核",
+        "winner": "永宏（宁夏）项目管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "四标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "四标段：第三方测评服务（数据安全风险评估）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "五标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "五标段：密码测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 51800.0,
+      "total_price": 51800.0
+    },
+    {
+      "package_no": "六标段",
+      "item_no": null,
+      "category": "C20039900",
+      "item_name": "六标段：结算审核",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 52498.0,
+      "total_price": 52498.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "四标段",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "winner",
+      "total_score": 80.64,
+      "rank": null,
+      "amount": 220000.0
+    },
+    {
+      "package_no": "四标段",
+      "name": "广东赛辰检测服务股份有限公司",
+      "role": "participant",
+      "total_score": 74.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 69.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 59.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "五标段",
+      "name": "智巡密码（上海）检测技术有限公司",
+      "role": "winner",
+      "total_score": 83.6,
+      "rank": null,
+      "amount": 51800.0
+    },
+    {
+      "package_no": "五标段",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 81.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "五标段",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 75.38,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "五标段",
+      "name": "西安长盛信安信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.37,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "六标段",
+      "name": "永宏（宁夏）项目管理有限公司",
+      "role": "winner",
+      "total_score": 76.6,
+      "rank": null,
+      "amount": 52498.0
+    },
+    {
+      "package_no": "六标段",
+      "name": "源海（宁夏）项目管理咨询有限公司",
+      "role": "participant",
+      "total_score": 66.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "六标段",
+      "name": "宁夏盛豪工程项目管理有限公司",
+      "role": "participant",
+      "total_score": 54.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

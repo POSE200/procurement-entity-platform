@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260512_26554749",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "工程类项目，HTML主要标的信息表无数量/单价列，quantity/unit/unit_price=null，total_price取金额列；两条之和1087870.88元与总成交金额108.7871万元及附件最终报价一致；两家未通过资格性审查的供应商无得分/排名/金额；附件报价明细为已OCR扫描件且仅含投标总报价，与HTML一致。",
+  "project": {
+    "buyer": "广东省博物馆（广州鲁迅纪念馆）",
+    "project_name": "广东省博物馆(广州鲁迅纪念馆)消防系统更新四期项目(二次)",
+    "total_amount": 1087870.88,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省博物馆(广州鲁迅纪念馆) 消防系统更新四期项目",
+        "winner": "广东华海建设集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "消防工程和安防工程",
+      "item_name": "广东省博物馆(广州鲁迅纪念馆) 消防系统更新四期项目（不含安全生产措施费）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1072222.96
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "消防工程和安防工程",
+      "item_name": "安全生产措施费（不含税固定报价）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 15647.92
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东华海建设集团有限公司",
+      "role": "winner",
+      "total_score": 92.57,
+      "rank": 1,
+      "amount": 1087870.88
+    },
+    {
+      "package_no": "1",
+      "name": "广东创杰消防机电工程有限公司",
+      "role": "participant",
+      "total_score": 89.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东裕方建设工程有限公司",
+      "role": "participant",
+      "total_score": 84.06,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东源立建设工程有限公司",
+      "role": "participant",
+      "total_score": 58.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东诚安时代建设有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东铭昌消防机电工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

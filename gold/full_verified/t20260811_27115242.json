@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115242",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-沈阳市新辽科技有限公司).pdf",
+  "note": "单包（公告标题明示采购包1，package_no=1）。品目取HTML标的信息表品目名称列「环境监测仪器及综合分析装置」。已核验附件「报价明细表(第1轮-沈阳市新辽科技有限公司).pdf」：1条明细，单价866,000元×数量1.0000套=响应报价866,000元=中标金额866,000.00元（概要￥86.600000万一致），数学一致；但该明细表中品牌/规格型号/制造商列仍写「详见报价明细表」（循环引用，底层明细未随包提供），故brand/model=null。另一附件「包(1)_投标（响应）报价明细表.pdf」仅解析出表头、无数据行（疑似图片内容未解析）。items仅1条（无更细明细可得）。bidders 4家：综合得分有值（95.00/88.55/88.19/74.80）但表格3得分排名、推荐排名列全空，rank按规范不推定一律null；仅成交人有金额，其余3家无报价记录，amount=null。OCR待补：「包(1)_投标（响应）报价明细表.pdf」仅解析出表头、数据行为图片内容未解析，疑似含品牌/规格型号/制造商明细，brand/model暂空，需视觉核验后回填。视觉核验：以fitz将「包(1)_投标（响应）报价明细表.pdf」整页渲染为PNG（300DPI）目视，该PDF仅1页，系磋商文件附带的空白报价明细表模板——投标人名称空白，数据行仅1条：货物名称「生鲜农产品冷链物流追溯管理与数据分析平台」、最高限价880000元、数量1.0000套/计量单位套、单价与响应报价为公式占位，而规格型号/品牌/制造商名称/产地四列均为未填写的模板占位符「{供应商响应}」，不含任何真实品牌/规格型号/制造商信息，故brand/model无源可取、保持null；最高限价880000元>响应报价866000元，旁证价格合理性，866,000元维持不变；全部附件渠道已穷尽，证据闭合，status=verified。",
+  "project": {
+    "buyer": "山东商业职业技术学院",
+    "project_name": "山东商业职业技术学院冷链物流与供应链系生鲜农产品冷链物流追溯管理与数据分析平台(三次)",
+    "total_amount": 866000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "沈阳市新辽科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "环境监测仪器及综合分析装置",
+      "item_name": "生鲜农产品冷链物流追溯管理与数据分析平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 866000.0,
+      "total_price": 866000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "沈阳市新辽科技有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": null,
+      "amount": 866000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东云腾网络科技有限公司",
+      "role": "participant",
+      "total_score": 88.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南思成网络科技有限公司",
+      "role": "participant",
+      "total_score": 88.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中帆商贸有限公司",
+      "role": "participant",
+      "total_score": 74.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

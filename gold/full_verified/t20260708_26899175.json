@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260708_26899175",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南亚微软件有限公司).pdf,报价明细表(第1轮-山东蜗牛生态科技有限责任公司).pdf",
+  "note": "2个采购包。各包中标金额897,500+358,600=1,256,100元，与总中标金额￥125.61万元一致。品目列（公告概要）为空，标的信息表「品目编号及品目名称」列也为空，category=null。各包单条服务标的：数量1.0000、单位项、单价=响应报价，取自中标人报价明细表附件（包1济南亚微897500元、包2山东蜗牛358600元）。评审结果表「得分排名」列为空，所有rank=null。participant投标报价原文未披露，amount=null。附件「山东省政府采购评审劳务报酬支付表」为OCR扫描件且数字明显错乱（如「A包:89.75元」「B包:35.86元」），未采用，金额均以HTML公告与报价明细表为准；包2标的信息表服务时间列有OCR漏字（?合同签订?效之?起?2027年2?28?），需视觉核验。",
+  "project": {
+    "buyer": "济南市人民政府办公厅",
+    "project_name": "OA办公系统运行维护服务和短信催办督办服务",
+    "total_amount": 1256100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南亚微软件有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东蜗牛生态科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "OA办公系统运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 897500.0,
+      "total_price": 897500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "OA办公系统短信催办督办服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 358600.0,
+      "total_price": 358600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南亚微软件有限公司",
+      "role": "winner",
+      "total_score": 95.34,
+      "rank": null,
+      "amount": 897500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东中创软件商用中间件股份有限公司",
+      "role": "participant",
+      "total_score": 72.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛朗诚智能科技有限公司",
+      "role": "participant",
+      "total_score": 71.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省菲利航空科技有限公司",
+      "role": "participant",
+      "total_score": 69.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东蜗牛生态科技有限责任公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": null,
+      "amount": 358600.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东赢联互通通信科技有限公司",
+      "role": "participant",
+      "total_score": 79.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南得韬通信科技有限公司",
+      "role": "participant",
+      "total_score": 78.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南迈永云网络科技有限公司",
+      "role": "participant",
+      "total_score": 75.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

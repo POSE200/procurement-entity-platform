@@ -1,0 +1,210 @@
+{
+  "announcement_id": "t20260811_27115704",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（公告标题注明采购包1；附件采购包：教学仪器）。HTML标的信息表无单价总价，13条明细的价格/货物名称/制造商均取自中标人投标（响应）报价明细表.pdf，13项合计1,218,900=中标金额1,218,900.00元，单价×数量逐项吻合。品目取HTML品目名称列『教学仪器』，item_no取HTML品目号（1-1-1~1-1-13，与附件序号1~13一一对应）。F-WL-07E（智慧实验AI交互终端）附件标注为核心产品。评分表得分排名/推荐排名列空→rank全null。OCR疑点（需视觉核验）：报价明细表数字分栏严重错位（62,0/00/000→62,000.00元等，均已按单价×数量=响应报价交叉验证；制造商名『久源新能源(宁波)有限公司』『福建利利普光电科技有限公司』为OCR拼接）。",
+  "project": {
+    "buyer": "山东第一医科大学",
+    "project_name": "山东第一医科大学（山东省医学科学院）医学信息与人工智能学院电子信息类专业基础课程教学实验室新建项目",
+    "total_amount": 1218900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "教学仪器",
+        "winner": "山东信则立实验设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "数智化集成实验台",
+      "brand": "久源",
+      "model": "FIX-T16080-8B",
+      "quantity": 20,
+      "unit": "套",
+      "unit_price": 3100.0,
+      "total_price": 62000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "模电实验板",
+      "brand": "浩埔",
+      "model": "F102",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2630.0,
+      "total_price": 105200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "教学仪器",
+      "item_name": "电路实验板",
+      "brand": "浩埔",
+      "model": "F103",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2630.0,
+      "total_price": 105200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "教学仪器",
+      "item_name": "数电实验板",
+      "brand": "浩埔",
+      "model": "F104",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2630.0,
+      "total_price": 105200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "教学仪器",
+      "item_name": "智慧实验AI交互终端",
+      "brand": "浩埔",
+      "model": "F-WL-07E",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 7480.0,
+      "total_price": 299200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "教学仪器",
+      "item_name": "智能流转柜",
+      "brand": "浩埔",
+      "model": "F-WL-06",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 75500.0,
+      "total_price": 75500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "教学仪器",
+      "item_name": "数字化网络终端",
+      "brand": "浩埔",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5600.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "教学仪器",
+      "item_name": "数字示波器",
+      "brand": "利利普",
+      "model": "ADS4252A",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 140000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "教学仪器",
+      "item_name": "可编程线性直流电源",
+      "brand": "利利普",
+      "model": "ODP8353",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2350.0,
+      "total_price": 94000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "教学仪器",
+      "item_name": "台式万用表",
+      "brand": "利利普",
+      "model": "NDM3051",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2350.0,
+      "total_price": 94000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "教学仪器",
+      "item_name": "函数信号发生器",
+      "brand": "利利普",
+      "model": "NDG2060",
+      "quantity": 40,
+      "unit": "套",
+      "unit_price": 2550.0,
+      "total_price": 102000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "教学仪器",
+      "item_name": "教师实验AI智能终端",
+      "brand": "希沃",
+      "model": "BH86EC",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 16800.0,
+      "total_price": 16800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "教学仪器",
+      "item_name": "智能焊台",
+      "brand": "正点原子",
+      "model": "T100",
+      "quantity": 40,
+      "unit": "台",
+      "unit_price": 355.0,
+      "total_price": 14200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东信则立实验设备有限公司",
+      "role": "winner",
+      "total_score": 94.42,
+      "rank": null,
+      "amount": 1218900.0
+    },
+    {
+      "package_no": "1",
+      "name": "南京润众科技有限公司",
+      "role": "participant",
+      "total_score": 88.38,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫众杰信息系统技术有限公司",
+      "role": "participant",
+      "total_score": 83.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

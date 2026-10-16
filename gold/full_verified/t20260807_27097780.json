@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260807_27097780",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东赛宝电子信息工程有限责任公司).pdf,报价明细表(第1轮-山东维平信息安全测评技术有限公司).pdf",
+  "note": "本公告仅涉及采购包1、4（标题明示），分包总数4个但包2、3无任何信息，故packages/bidders只列包1、4。包号取标题及标的信息表品目号（1-1/4-1）推断；中标人与包的对应关系由报价明细表内容锚定：赛宝明细为'监理'（183000元×1项）对应包1监理标的，维平明细为'商用密码应用安全性评估'（186000元×1项）对应包4标的。已核验强制检查项'报价明细表(第1轮-*)'两个附件，明细各1条，183000+186000=369000元=总中标金额￥36.9000万，数学一致。category取标的信息表'品目名称'列=测试评估认证服务；package_name按包内唯一标的名称填（监理/商用密码应用安全性评估）。劳务报酬表OCR严重错位（'包1：183万元''包中：18.6元元'等），未采用，以报价明细表为准，需视觉核验。得分表'得分排名'列空，rank=null（含中标人）；未中标供应商报价不可见，participant.amount=null。复核：包(2)/包(3)附件确认仅有重复表头无数据行；两条明细、两包bidder得分逐项核对无误；劳务报酬表OCR错位不涉及任何gold字段，无未决疑点。",
+  "project": {
+    "buyer": "山东省应急管理厅机关",
+    "project_name": "应急管理数智化综合能力提升工程（二期）项目监理、第三方软件测试、等级保护测评、商用密码应用安全性评估项目",
+    "total_amount": 369000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "监理",
+        "winner": "山东赛宝电子信息工程有限责任公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "商用密码应用安全性评估",
+        "winner": "山东维平信息安全测评技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "监理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 183000.0,
+      "total_price": 183000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "测试评估认证服务",
+      "item_name": "商用密码应用安全性评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 186000.0,
+      "total_price": 186000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东赛宝电子信息工程有限责任公司",
+      "role": "winner",
+      "total_score": 83.65,
+      "rank": null,
+      "amount": 183000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京得网时代信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 70.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 66.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "winner",
+      "total_score": 84.33,
+      "rank": null,
+      "amount": 186000.0
+    },
+    {
+      "package_no": "4",
+      "name": "高维密码测评技术（山东）有限公司",
+      "role": "participant",
+      "total_score": 83.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 71.69,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

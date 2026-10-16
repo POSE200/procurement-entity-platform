@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260610_26726165",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_中标通知书/8569f8dc7f3692e853b371323ec7a8ad.pdf",
+  "note": "HTML 公告无中标结果表，中标人（中电信数智科技有限公司）与中标金额（517.317200万元）仅见于附件中标通知书（zip解包pdf）。单包项目无包号，package_no=null。主要投标标的表仅列核心产品两条（机架式服务器1/2，安擎 EG920H-G31）；两条均只给数量与单价、未给总价，按'单价×数量唯一互推'口径推出 total_price=1870000.0 与 735000.0 并在此声明；两条合计 2605000 元小于总中标金额 5173172 元（主要标的非全部明细，属正常）。品目概要列为空、标的信息表无品目名称列，category=null；数量无计量单位，unit=null。投标人得分排序表.doc 跳过解析，total_score/rank 均不可得；表格1 为被拒绝投标人名单（4家，含3家串通投标认定），计入 participant。附件采购文件.pdf 仅前30页。需视觉核验：中标通知书金额 517.317200万元；服务器1数量11、服务器2数量6。复核修正：两处疑点均可由明示文本解除——中标通知书（zip解包PDF）正文明文'中标金额：人民币517.317200万元'；数量11/6为HTML主要投标标的表数量列明示，无需视觉核验。",
+  "project": {
+    "buyer": "国家药品监督管理局药品评价中心(国家药品不良反应监测中心)",
+    "project_name": "国家药品不良反应监测系统完善项目基础环境软硬件采购项目",
+    "total_amount": 5173172.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "中电信数智科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "机架式服务器1",
+      "brand": "安擎",
+      "model": "EG920H-G31",
+      "quantity": 11,
+      "unit": null,
+      "unit_price": 170000.0,
+      "total_price": 1870000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "机架式服务器2",
+      "brand": "安擎",
+      "model": "EG920H-G31",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 122500.0,
+      "total_price": 735000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中电信数智科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 5173172.0
+    },
+    {
+      "package_no": null,
+      "name": "安陆市零距计算机科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京零距科创科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "瑞兴云信息技术（北京）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京芯之力科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27064104",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "复核修正：附件'服务名称'列的水印清理已复核确认——清理后item_name与HTML主要标的信息表'采购标的'列逐字一致（2026年广州市城市视频专网之公安视频网升级改造），无需视觉核验。单包项目（合同包1）。概要品目列空，category取HTML主要标的信息表品目名称列'基础设施运营服务'。附件单价26228637.6元×1项=总价26,228,637.60元，与HTML中标金额26,228,637.60元一致。评审表给出综合得分与得分排名列，rank按明示填写。",
+  "project": {
+    "buyer": "广州市公安局",
+    "project_name": "广州市公安局科信支队2026年广州市城市视频专网之公安视频网升级改造项目",
+    "total_amount": 26228637.6,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广州市城市视频专网之公安视频网升级改造",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "2026年广州市城市视频专网之公安视频网升级改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 26228637.6,
+      "total_price": 26228637.6
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 95.43,
+      "rank": 1,
+      "amount": 26228637.6
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 93.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 77.48,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州同潮信息科技有限公司",
+      "role": "participant",
+      "total_score": 51.97,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

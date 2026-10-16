@@ -1,0 +1,155 @@
+{
+  "announcement_id": "t20260303_26212764",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，items.category 照抄标的信息表「品目名称」列（其他运行维护服务）。标的信息表金额(元)列为空，包金额取自中标信息表（合同包1 1,037,000 元、合同包2 400,000 元，合计 1,437,000 与总成交金额一致）。报价明细附件.zip 被整体跳过，分项报价明细不可得。复核修正：按新口径9，bidders改为同一供应商×每个采购包各一条——前6条为合同包1评分表（表格6）全部6家、后6条为合同包2评分表（表格7）全部6家，中国移动通信集团广东有限公司（包1得分94.32/排名2、包2得分90.43/排名2）、广东省信息工程有限公司（包1 88.32/排名3、包2 85.44/排名3）、广州市祺能电子科技有限公司（包1 29.00/排名5、包2 25.00/排名6）各按所在包展开；rank取两表'得分排名'列，有出处。；复核修正：bidders 补 package_no 字段；多包条目按标注包评分表（各包一节）顺序归组定 package_no",
+  "project": {
+    "buyer": "广东省粮食和物资储备局",
+    "project_name": "省粮食和储备局政务信息化运维类（2026年）项目",
+    "total_amount": 1437000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "基础设施运行维护、软件系统运行维护服务",
+        "winner": "数字广东网络建设有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "软件系统运行维护服务（广东省粮食和物资储备局OA系统运行维护服务，不含安全服务）",
+        "winner": "京华信息科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "基础设施运行维护、软件系统运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1037000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运行维护服务",
+      "item_name": "软件系统运行维护服务（广东省粮食和物资储备局OA系统运行维护服务，不含安全服务）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 400000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 97.64,
+      "rank": 1,
+      "amount": 1037000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 94.32,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省信息工程有限公司",
+      "role": "participant",
+      "total_score": 88.32,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州盛祺信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 36.63,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市祺能电子科技有限公司",
+      "role": "participant",
+      "total_score": 29.0,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州物象科技有限公司",
+      "role": "participant",
+      "total_score": 26.96,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "京华信息科技股份有限公司",
+      "role": "winner",
+      "total_score": 94.42,
+      "rank": 1,
+      "amount": 400000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 90.43,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省信息工程有限公司",
+      "role": "participant",
+      "total_score": 85.44,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东清汇信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 35.82,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州鑫晟信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 31.41,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市祺能电子科技有限公司",
+      "role": "participant",
+      "total_score": 25.0,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

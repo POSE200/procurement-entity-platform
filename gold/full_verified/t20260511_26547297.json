@@ -1,0 +1,178 @@
+{
+  "announcement_id": "t20260511_26547297",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市宏方网络科技有限公司）.pdf",
+  "note": "品目取自HTML主要标的信息表品目名称列（公告概要品目为空）；附件报价明细与HTML一致，九项单价×数量均相符，合计1725600元=总中标金额；附件1-5班牌管理终端品牌列为\"五舟 南翼\"（两制造商合并列），照抄。",
+  "project": {
+    "buyer": "广州市公用事业技师学院",
+    "project_name": "市公用事业技师学院智慧教学设备、学习工作站更新项目",
+    "total_amount": 1725600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市公用事业技师学院智慧教学设备、学习工作站更新项目",
+        "winner": "广州市宏方网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "双创实训工作站",
+      "brand": "联想",
+      "model": "慧天M5-A098 慧天V24",
+      "quantity": 17,
+      "unit": "台",
+      "unit_price": 5990.0,
+      "total_price": 101830.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "学习工作站",
+      "brand": "联想",
+      "model": "慧天M5-A098 慧天V24",
+      "quantity": 105,
+      "unit": "台",
+      "unit_price": 9980.0,
+      "total_price": 1047900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "交换设备",
+      "item_name": "交换机",
+      "brand": "华三",
+      "model": "S5130S-52P-EI-R",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 4990.0,
+      "total_price": 9980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "电子班牌",
+      "brand": "南翼",
+      "model": "NY-LED-BPH",
+      "quantity": 115,
+      "unit": "台",
+      "unit_price": 4192.0,
+      "total_price": 482080.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他信息化设备",
+      "item_name": "班牌管理终端",
+      "brand": "五舟 南翼",
+      "model": "S423G3 V4.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 24960.0,
+      "total_price": 49920.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "LED 显示屏",
+      "item_name": "排队叫号系统",
+      "brand": "丽锐",
+      "model": "R32MB",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2245.0,
+      "total_price": 2245.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "LED 显示屏",
+      "item_name": "多媒体信息发布系统",
+      "brand": "丽锐",
+      "model": "R85DB",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 15081.0,
+      "total_price": 15081.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "LED 显示屏",
+      "item_name": "医务信息显示系统",
+      "brand": "丽锐",
+      "model": "R21MB",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 3093.0,
+      "total_price": 9279.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "LED 显示屏",
+      "item_name": "校医信息显示系统",
+      "brand": "丽锐",
+      "model": "R65DB",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 7285.0,
+      "total_price": 7285.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市宏方网络科技有限公司",
+      "role": "winner",
+      "total_score": 84.08,
+      "rank": 1,
+      "amount": 1725600.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州炬隆信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.37,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市建璟科技有限公司",
+      "role": "participant",
+      "total_score": 59.05,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "林创慧教（广东）科技有限公司",
+      "role": "participant",
+      "total_score": 55.78,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 47.02,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

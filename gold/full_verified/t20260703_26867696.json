@@ -1,0 +1,258 @@
+{
+  "announcement_id": "t20260703_26867696",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "合同包1成交；概要品目列为空，category 取主要标的信息表'品目名称'列（1-13为'其他文教用品'，其余17条均为'教学仪器'）；17条明细之和 3,565,000 元恰等于中标金额，单价×数量与总价逐条自洽；附件'报价明细附件.pdf'与HTML标的信息表数值一致（其OCR存在水印噪声但可互证）；附件声明函还给出各制造商全称（如1-1制造商为宇通客车股份有限公司），未录入 schema 字段。需视觉核验：无重大疑点。",
+  "project": {
+    "buyer": "广州市交通技师学院（广州市交通高级技工学校）",
+    "project_name": "市交通技师学院新能源与智能网联汽车产教融合实训基地建设项目（智能网联）",
+    "total_amount": 3565000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市交通技师学院新能源与智能网联汽车产教融合实训基地建设项目（智能网联）",
+        "winner": "广州万维视景科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "自动驾驶科研实践小巴",
+      "brand": "宇通牌",
+      "model": "ZK6551BEVW1",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2195000.0,
+      "total_price": 2195000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "产业级L4自动驾驶车载自动驾驶软件系统套件",
+      "brand": "文远知行",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 355000.0,
+      "total_price": 355000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "V2X可视化平台",
+      "brand": "高新兴",
+      "model": "GoBrain",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "5G-V2X 路侧通信单元（RSU）",
+      "brand": "高新兴",
+      "model": "ZLITS 7900",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "MEC路侧边缘计算设备",
+      "brand": "高新兴",
+      "model": "GoV2X-Platformk",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 54000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "路侧激光雷达及算法",
+      "brand": "万集科技",
+      "model": "WLR-733",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 40000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "教学仪器",
+      "item_name": "路侧毫米波雷达",
+      "brand": "海康智联",
+      "model": "HKZL-RSP-RDE80250-C",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 21000.0,
+      "total_price": 84000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "教学仪器",
+      "item_name": "摄像机",
+      "brand": "海康威视",
+      "model": "iDS-TCM800-HKZL",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2800.0,
+      "total_price": 11200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学仪器",
+      "item_name": "智能联网协调式信号机",
+      "brand": "普乐",
+      "model": "XHJ-CW-GA-PL7GSN",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 53000.0,
+      "total_price": 53000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学仪器",
+      "item_name": "机动车满屏三灯",
+      "brand": "普乐",
+      "model": "JD400-3-3S88",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学仪器",
+      "item_name": "移动式升降龙门架1",
+      "brand": "泽恒重工",
+      "model": "YSLM-500-A",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 38000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "教学仪器",
+      "item_name": "移动式升降龙门架2",
+      "brand": "泽恒重工",
+      "model": "YSLM-500-B",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 55000.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他文教用品",
+      "item_name": "工业交换机",
+      "brand": "鸿普惠",
+      "model": "Hermes3000-2GF8GE-LI-DCW24",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 600.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "教学仪器",
+      "item_name": "抱杆机箱",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "教学仪器",
+      "item_name": "5G OBU",
+      "brand": "高新兴",
+      "model": "GTX70",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 19000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "实训交互显示终端",
+      "brand": "海康智联",
+      "model": "HKZL-CVI-WT02",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "教学仪器",
+      "item_name": "授时终端",
+      "brand": "星旗科技",
+      "model": "PTP-XQ-MIN",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州万维视景科技有限公司",
+      "role": "winner",
+      "total_score": 82.58,
+      "rank": 1,
+      "amount": 3565000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳益源教育科技有限公司",
+      "role": "participant",
+      "total_score": 56.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州沃视信息科技有限公司",
+      "role": "participant",
+      "total_score": 56.0,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

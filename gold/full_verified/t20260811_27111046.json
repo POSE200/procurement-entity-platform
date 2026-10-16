@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27111046",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东省电子商务认证有限公司）.pdf",
+  "note": "品目概要列为空，品目取自HTML标的信息表「品目名称」列；附件报价明细附件明示单价1,961,000元、数量1(项)、总价1,961,000元，与总成交金额一致（此为附件原文数值，非推算）；rank取自评分表「得分排名」列（原文明示）；其余附件为声明函/财务审计报告（OCR水印噪声），不含价格字段。",
+  "project": {
+    "buyer": "佛山市教育局",
+    "project_name": "佛山市普通高中和初中学业水平考试计算机辅助考试服务项目",
+    "total_amount": 1961000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市普通高中和初中学业水平考试计算机辅助考试服务项目",
+        "winner": "广东省电子商务认证有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "考试服务",
+      "item_name": "佛山市普通高中和初中学业水平考试计算机辅助考试服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1961000.0,
+      "total_price": 1961000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东省电子商务认证有限公司",
+      "role": "winner",
+      "total_score": 90.42,
+      "rank": 1,
+      "amount": 1961000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州世讯科技有限公司",
+      "role": "participant",
+      "total_score": 39.28,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州融朋信息科技有限公司",
+      "role": "participant",
+      "total_score": 36.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州耀瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 28.9,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

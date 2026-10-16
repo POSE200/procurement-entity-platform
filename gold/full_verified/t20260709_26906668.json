@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260709_26906668",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:（开标7.8）330000263030050000041-ZXZB-2026007GD（2）浙江海洋大学中西文数字资源（SCIE+ESI+EBSCO+Springer+鼎秀+知网）单一来源采购文件.doc",
+  "note": "单一来源采购，3个标项即3个包，package_no取自HTML中标结果表/标项表的序号1/2/3（HTML序号推断为包号）。三包中标供应商均为北京中科进出口有限责任公司，中标金额650692/49900/186586元，之和恰为总中标金额￥88.717800万元。概要品目列为空，标的信息表也无品目列，category=null。数量1项来自采购文件项目概况表（每标项1项），unit_price由总价÷数量唯一互推（单价×数量互推口径）。项目名称含「鼎秀+知网」但公告与采购文件的标项、金额表中均无对应明细，未见其单独金额。需视觉核验：无（数值关系全部吻合）。",
+  "project": {
+    "buyer": "浙江海洋大学",
+    "project_name": "浙江海洋大学中西文数字资源（SCIE+ESI+EBSCO+Springer+鼎秀+知网）",
+    "total_amount": 887178.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "SCIE科学引文索引+ESI基本科学指标数据库",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "EBSCO ASP+BSP",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "springer电子期刊",
+        "winner": "北京中科进出口有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "SCIE科学引文索引+ESI基本科学指标数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 650692.0,
+      "total_price": 650692.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "EBSCO ASP+BSP",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 49900.0,
+      "total_price": 49900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "springer电子期刊",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 186586.0,
+      "total_price": 186586.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 650692.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 49900.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 186586.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

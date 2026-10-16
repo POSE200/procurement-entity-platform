@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260602_26673628",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "OCR待补：三、开标分项一览表(1).pdf（unknown类型被跳过）疑似含标的物明细，字段暂空；另一附件为招标文件亦被跳过。HTML标的表仅一行汇总（'货物类'为分节类型非品目），专业安防显示终端与支架等多标的被压缩为一行，数量'2、2等'与单价'0.225、0.058等（万元）'为列举值无法拆分为单条数字，quantity/unit/unit_price/total_price均置null；品目概要列与标的表品目列均空，category=null；表格2'排序'列为明示排名，rank据此填写；未中标供应商金额取其评审报价（万元换算元）。需视觉核验：开标分项一览表中各标的的品目/品牌/型号/数量/单价明细。；终审：开标分项一览表文件魔数未知无法解析，明细按原文不可得保持null（TN不计分母），verified",
+  "project": {
+    "buyer": "天津市宝坻区教育教学保障服务中心",
+    "project_name": "天津市南开中学中关村科技城学校监控等设备采购项目",
+    "total_amount": 1956582.4,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "天津市南开中学中关村科技城学校监控等设备采购项目",
+        "winner": "天津金明科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "专业安防显示终端、支架等具体详见附件",
+      "brand": "海信、海信等具体详见附件",
+      "model": "HX-8K、LPA57-686A等具体详见附件",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津金明科技有限公司",
+      "role": "winner",
+      "total_score": 96.49,
+      "rank": 1,
+      "amount": 1956582.4
+    },
+    {
+      "package_no": "1",
+      "name": "天津旭昊建筑工程有限公司",
+      "role": "participant",
+      "total_score": 94.3,
+      "rank": 2,
+      "amount": 1962079.4
+    },
+    {
+      "package_no": "1",
+      "name": "天津百事通广告装饰有限公司",
+      "role": "participant",
+      "total_score": 93.85,
+      "rank": 3,
+      "amount": 1912178.5
+    },
+    {
+      "package_no": "1",
+      "name": "天津移联电信工程有限公司",
+      "role": "participant",
+      "total_score": 93.2,
+      "rank": 4,
+      "amount": 1889879.2
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

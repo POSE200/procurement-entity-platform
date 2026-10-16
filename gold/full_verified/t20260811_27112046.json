@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27112046",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（佛山市测绘地理信息研究院有限公司）.pdf",
+  "note": "品目概要列为空，品目取自HTML标的信息表「品目名称」列（其他服务）；附件报价明细给出单价1,080,000元、数量1(项)、总价1,080,000元，与总中标金额一致；rank取自评分表「得分排名」列（原文明示，欧科推荐排名为空不影响）；附件声明函中营业收入一处OCR作99205.10万、另一处9920.10万，属声明函内部数据且与结果字段无关，不影响取值。",
+  "project": {
+    "buyer": "佛山市自然资源局",
+    "project_name": "佛山市控制性详细规划及村庄规划批前数据服务、数据入库及维护（2026）",
+    "total_amount": 1080000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市控制性详细规划及村庄规划批前数据服务、数据入库及维护（2026）",
+        "winner": "佛山市测绘地理信息研究院有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "佛山市控制性详细规划及村庄规划批前数据服务、数据入库及维护（2026）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1080000.0,
+      "total_price": 1080000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "佛山市测绘地理信息研究院有限公司",
+      "role": "winner",
+      "total_score": 97.81,
+      "rank": 1,
+      "amount": 1080000.0
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市三水国盛测绘有限公司",
+      "role": "participant",
+      "total_score": 74.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州欧科信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 69.88,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

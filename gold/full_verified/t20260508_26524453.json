@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260508_26524453",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司汕头分公司）.pdf,合同包2：报价明细附件（中国移动通信集团广东有限公司汕头分公司）.pdf",
+  "note": "品目列在公告概要为空，取自HTML标的信息表「品目名称」列（其他电信和信息传输服务）；附件单价/数量/总价与HTML中标金额一致；两包金额之和1,434,700元=总中标金额143.47万元，数学自洽；报价明细.zip容器内两个PDF已解析成功，无OCR缺失。",
+  "project": {
+    "buyer": "汕头市潮阳区政务服务和数据管理局",
+    "project_name": "潮阳区电子政务外网升级改造租赁服务项目",
+    "total_amount": 1434700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "潮阳区电子政务外网升级改造租赁服务项目-路由1",
+        "winner": "中国电信股份有限公司汕头分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "潮阳区电子政务外网升级改造租赁服务项目-路由2",
+        "winner": "中国移动通信集团广东有限公司汕头分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "潮阳区电子政务外网升级改造租赁服务项目-路由1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 754700.0,
+      "total_price": 754700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "潮阳区电子政务外网升级改造租赁服务项目-路由2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 680000.0,
+      "total_price": 680000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司汕头分公司",
+      "role": "winner",
+      "total_score": 98.2,
+      "rank": 1,
+      "amount": 754700.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司汕头分公司",
+      "role": "participant",
+      "total_score": 91.42,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司汕头市分公司",
+      "role": "participant",
+      "total_score": 43.1,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司汕头市分公司",
+      "role": "participant",
+      "total_score": 26.5,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司汕头分公司",
+      "role": "winner",
+      "total_score": 99.09,
+      "rank": 1,
+      "amount": 680000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司汕头分公司",
+      "role": "participant",
+      "total_score": 94.21,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司汕头市分公司",
+      "role": "participant",
+      "total_score": 35.96,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国铁塔股份有限公司汕头市分公司",
+      "role": "participant",
+      "total_score": 22.9,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260810_27107089",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-泛喜健康科技有限公司).pdf,报价明细表(第1轮-山东众航医联信息科技有限公司).pdf,报价明细表(第1轮-北京中科恒业科技有限公司).pdf,报价明细表(第1轮-广州海鹚网络科技有限公司).pdf",
+  "note": "单一来源采购，4个采购包各仅1家供应商成交，无参与者。4包成交金额之和38700+299800+28000+15000=381500元，与总中标金额￥38.150000万一致。附件「报价明细表(第1轮-*)」4份均在附件内容中找到并核对（单价/数量/总价齐全，数量均为1.0000项）。中小企业声明函-采购包4为OCR件且有错字（写作「广州海网络科支有限公司」「虫型企业」），供应商名称以HTML结果表「广州海鹚网络科技有限公司」为准。概要品目列为空，category取标的信息表品目名称列「软件运维服务」。得分排名列空白，rank=null。",
+  "project": {
+    "buyer": "山东中医药大学第二附属医院(中西医结合医院)",
+    "project_name": "山东中医药大学第二附属医院(中西医结合医院)业务信息系统维保项目",
+    "total_amount": 381500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "预约平台维保",
+        "winner": "泛喜健康科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "信息系统维保",
+        "winner": "山东众航医联信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "体检系统维护",
+        "winner": "北京中科恒业科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "微信公众号维保",
+        "winner": "广州海鹚网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "预约平台维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 38700.0,
+      "total_price": 38700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "信息系统维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 299800.0,
+      "total_price": 299800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "软件运维服务",
+      "item_name": "体检系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28000.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "软件运维服务",
+      "item_name": "微信公众号维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "泛喜健康科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 38700.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东众航医联信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 299800.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科恒业科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 28000.0
+    },
+    {
+      "package_no": "4",
+      "name": "广州海鹚网络科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 15000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

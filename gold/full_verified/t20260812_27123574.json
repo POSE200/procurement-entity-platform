@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260812_27123574",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "采购包1结果公告；附件.pdf(OCR)含投标（响应）报价明细表：单价168,000.00元×1套=响应报价168,000.00元，与中标金额一致，且品牌AetherAge/型号v1.0/数量1套均与HTML标的信息表交叉印证，OCR虽错位拼列但字段值可确认；评分表'得分排名/推荐排名'两列值空缺，所有rank=null；河南中福康信息技术有限公司资格性审查未通过、无综合得分。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "山东医药大学附属医院",
+    "project_name": "山东医药大学附属医院老年综合评估系统采购项目",
+    "total_amount": 168000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "长沙颐路创新科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "老年综合评估系统",
+      "brand": "AetherAge",
+      "model": "v1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 168000.0,
+      "total_price": 168000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "长沙颐路创新科技有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 168000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东品智商贸有限公司",
+      "role": "participant",
+      "total_score": 84.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊立健贸易有限公司",
+      "role": "participant",
+      "total_score": 67.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "滨州睿腾泰商贸有限公司",
+      "role": "participant",
+      "total_score": 61.91,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南中福康信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

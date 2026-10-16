@@ -1,0 +1,77 @@
+{
+  "announcement_id": "t20260501_26507414",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "原始HTML明确披露A/B包成交供应商及各包金额；包划分为原文明示，不是推断的单包。A/B各有唯一标的，items.total_price关联本包成交金额；数量、单位和单价未明示，保留null。 原文无明示综合得分及排名时保留null。正文列有附件链接，但本地file ZIP未提供该ID附件包，不得把附件缺包描述为公告无附件。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "烟台市城市水源工程运行维护中心",
+    "project_name": "大沽夹河宫家岛等橡胶坝大修工程",
+    "total_amount": 3608800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "大沽夹河宫家岛等橡胶坝大修工程A包",
+        "winner": "烟台市水利勘测设计研究院有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "大沽夹河宫家岛等橡胶坝大修工程B包",
+        "winner": "烟台水利建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "大沽夹河宫家岛等橡胶坝大修工程A包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 48800
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "大沽夹河宫家岛等橡胶坝大修工程B包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3560000
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "烟台市水利勘测设计研究院有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 48800
+    },
+    {
+      "package_no": "B",
+      "name": "烟台水利建设有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3560000
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "公告列有附件链接，但提供的赛题五.基准测试数据_file.zip没有该ID附件包；未能核验附件所载进一步参与者、报价明细等，不据此宣称完整附件级覆盖。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

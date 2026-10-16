@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260703_26870819",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "工程类粉刷项目无标的分项明细，items 按两个标段各写一条总称记录（数量/单价未公布为 null）；成交公告只公布总成交金额132.8万元，两个标段各自的成交金额未公布，包金额无法与 total_amount 核对；package_no 依工程名称'一标段/二标段'取'1'/'2'；rank 未公布故为 null。",
+  "project": {
+    "buyer": "山东大学",
+    "project_name": "山东大学2026年兴隆山校区和软件园校区新生公寓粉刷",
+    "total_amount": 1328000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山东大学2026年兴隆山校区和软件园校区新生公寓粉刷一标段",
+        "winner": "山东京沅橙建筑工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "山东大学2026年兴隆山校区和软件园校区新生公寓粉刷二标段",
+        "winner": "山东朴淳建筑安装工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "工程/装修工程",
+      "item_name": "山东大学2026年兴隆山校区和软件园校区新生公寓粉刷一标段",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "工程/装修工程",
+      "item_name": "山东大学2026年兴隆山校区和软件园校区新生公寓粉刷二标段",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东京沅橙建筑工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东朴淳建筑安装工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

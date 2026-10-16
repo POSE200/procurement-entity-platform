@@ -1,0 +1,140 @@
+{
+  "announcement_id": "t20260511_26544501",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三份采购文件第1页明确包号及名称。公告第八部分的逐包评审总得分94.48、90、96.8与供应商表中的得分唯一对应，再关联同一供应商的数量、单价和成交金额，补齐三条标的名称、包号及中标供应商关联。",
+  "project": {
+    "buyer": "北京市政务服务和数据管理局（本级）",
+    "project_name": "数据资源建设与评估评价服务",
+    "total_amount": 2226000.0,
+    "packages": [
+      {
+        "package_no": "2641STC61216/01",
+        "package_name": "高质量数据集流通利用效能评估",
+        "winner": "中国信息通信研究院",
+        "amount": 768000.0
+      },
+      {
+        "package_no": "2641STC61216/02",
+        "package_name": "北京市数据资源调查咨询服务",
+        "winner": "国家工业信息安全发展研究中心",
+        "amount": 1068000.0
+      },
+      {
+        "package_no": "2641STC61216/03",
+        "package_name": "公共数据资源授权运营成效评价",
+        "winner": "北京市工程咨询股份有限公司",
+        "amount": 390000.0
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2641STC61216/01",
+      "item_no": null,
+      "category": null,
+      "item_name": "高质量数据集流通利用效能评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 768000.0,
+      "total_price": 768000.0
+    },
+    {
+      "package_no": "2641STC61216/02",
+      "item_no": null,
+      "category": null,
+      "item_name": "北京市数据资源调查咨询服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1068000.0,
+      "total_price": 1068000.0
+    },
+    {
+      "package_no": "2641STC61216/03",
+      "item_no": null,
+      "category": null,
+      "item_name": "公共数据资源授权运营成效评价",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 390000.0,
+      "total_price": 390000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2641STC61216/01",
+      "name": "中国信息通信研究院",
+      "role": "winner",
+      "total_score": 94.48,
+      "rank": null,
+      "amount": 768000.0
+    },
+    {
+      "package_no": "2641STC61216/02",
+      "name": "国家工业信息安全发展研究中心",
+      "role": "winner",
+      "total_score": 90.0,
+      "rank": null,
+      "amount": 1068000.0
+    },
+    {
+      "package_no": "2641STC61216/03",
+      "name": "北京市工程咨询股份有限公司",
+      "role": "winner",
+      "total_score": 96.8,
+      "rank": null,
+      "amount": 390000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "package_no": "2641STC61216/01",
+            "package_name": "高质量数据集流通利用效能评估",
+            "supplier": "中国信息通信研究院",
+            "score": 94.48,
+            "amount": 768000.0,
+            "cover_file": "2641STC61216_招标文件01包发售稿_数据资源建设与评估评价服务 高质量数据集流通利用效能评估.pdf",
+            "cover_page": 1,
+            "join": "公告逐包评审得分 → 供应商评审得分唯一对应 → 供应商标的信息及成交金额"
+          },
+          {
+            "package_no": "2641STC61216/02",
+            "package_name": "北京市数据资源调查咨询服务",
+            "supplier": "国家工业信息安全发展研究中心",
+            "score": 90.0,
+            "amount": 1068000.0,
+            "cover_file": "2641STC61216_招标文件02包发售稿_数据资源建设与评估评价服务 北京市数据资源调查咨询服务.pdf",
+            "cover_page": 1,
+            "join": "公告逐包评审得分 → 供应商评审得分唯一对应 → 供应商标的信息及成交金额"
+          },
+          {
+            "package_no": "2641STC61216/03",
+            "package_name": "公共数据资源授权运营成效评价",
+            "supplier": "北京市工程咨询股份有限公司",
+            "score": 96.8,
+            "amount": 390000.0,
+            "cover_file": "2641STC61216_招标文件03包发售稿_数据资源建设与评估评价服务 公共数据资源授权运营成效评价.pdf",
+            "cover_page": 1,
+            "join": "公告逐包评审得分 → 供应商评审得分唯一对应 → 供应商标的信息及成交金额"
+          }
+        ]
+      }
+    ]
+  }
+}

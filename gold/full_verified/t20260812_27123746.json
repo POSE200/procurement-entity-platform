@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260812_27123746",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-福鑫数科（杭州）人工智能有限公司).pdf",
+  "note": "附件'报价明细表(第1轮-福鑫数科（杭州）人工智能有限公司).pdf'已核对：单价598000元×数量1.0000项=响应报价598000.00元（最高限价720000元），与成交金额598000元一致；采购包1在磋商文件多处明示，package_no=1；评分表'得分排名/推荐排名'列空，rank均null；国药集团山东鲁西南医疗器械有限公司符合性审查未通过、无综合得分。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "济宁医学院",
+    "project_name": "济宁医学院2026附院医保基金使用全流程管理系统开发服务",
+    "total_amount": 598000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "福鑫数科（杭州）人工智能有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "2026附院医保基金使用全流程管理系统开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 598000.0,
+      "total_price": 598000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "福鑫数科（杭州）人工智能有限公司",
+      "role": "winner",
+      "total_score": 89.89,
+      "rank": null,
+      "amount": 598000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东数昶数字技术有限公司",
+      "role": "participant",
+      "total_score": 87.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛万斯迈技术有限公司",
+      "role": "participant",
+      "total_score": 83.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东圣坤智医健康科技有限公司",
+      "role": "participant",
+      "total_score": 77.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南珍云信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "国药集团山东鲁西南医疗器械有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

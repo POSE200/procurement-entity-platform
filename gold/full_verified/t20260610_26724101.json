@@ -1,0 +1,169 @@
+{
+  "announcement_id": "t20260610_26724101",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "原始HTML明确列出采购包编号，已补齐主体包号。原备注关于包号未披露、附件不可解析的断言撤回；采购附件可读取不等于已核验所有成交明细。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "江苏省质量和标准化研究院",
+    "project_name": "江苏省质量和标准化研究院标准数据采购（二次）",
+    "total_amount": 3142000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "国家市场监督管理总局国家标准技术审评中心"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "四川省质量和标准化研究院"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "上海市质量和标准化研究院"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "浙江省质量科学研究院"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "上海市质量和标准化研究院"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "深圳市标准技术研究院"
+      },
+      {
+        "package_no": "7",
+        "package_name": null,
+        "winner": "四川省质量和标准化研究院"
+      },
+      {
+        "package_no": "8",
+        "package_name": null,
+        "winner": "深圳市标准技术研究院"
+      },
+      {
+        "package_no": "9",
+        "package_name": null,
+        "winner": "中国质量标准出版传媒有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": null,
+        "winner": "中国质量标准出版传媒有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "特种文献资料",
+      "item_name": "江苏省质量和标准化研究院标准数据采购（二次）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3142000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "国家市场监督管理总局国家标准技术审评中心",
+      "role": "winner",
+      "total_score": 90,
+      "rank": null,
+      "amount": 394000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川省质量和标准化研究院",
+      "role": "winner",
+      "total_score": 90,
+      "rank": null,
+      "amount": 199000.0
+    },
+    {
+      "package_no": "3",
+      "name": "上海市质量和标准化研究院",
+      "role": "winner",
+      "total_score": 86,
+      "rank": null,
+      "amount": 197800.0
+    },
+    {
+      "package_no": "4",
+      "name": "浙江省质量科学研究院",
+      "role": "winner",
+      "total_score": 92,
+      "rank": null,
+      "amount": 390000.0
+    },
+    {
+      "package_no": "5",
+      "name": "上海市质量和标准化研究院",
+      "role": "winner",
+      "total_score": 86,
+      "rank": null,
+      "amount": 198300.0
+    },
+    {
+      "package_no": "6",
+      "name": "深圳市标准技术研究院",
+      "role": "winner",
+      "total_score": 91.33,
+      "rank": null,
+      "amount": 976300.0
+    },
+    {
+      "package_no": "7",
+      "name": "四川省质量和标准化研究院",
+      "role": "winner",
+      "total_score": 88.67,
+      "rank": null,
+      "amount": 199000.0
+    },
+    {
+      "package_no": "8",
+      "name": "深圳市标准技术研究院",
+      "role": "winner",
+      "total_score": 90.67,
+      "rank": null,
+      "amount": 189300.0
+    },
+    {
+      "package_no": "9",
+      "name": "中国质量标准出版传媒有限公司",
+      "role": "winner",
+      "total_score": 84.24,
+      "rank": null,
+      "amount": 199200.0
+    },
+    {
+      "package_no": "10",
+      "name": "中国质量标准出版传媒有限公司",
+      "role": "winner",
+      "total_score": 85,
+      "rank": null,
+      "amount": 199100.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "采购附件内容尚未完成逐字段成交明细复核"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

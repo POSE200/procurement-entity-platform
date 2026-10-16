@@ -1,0 +1,278 @@
+{
+  "announcement_id": "t20260811_27115553",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-华鲁数智信息技术（北京）有限公司)([1][2][3]).pdf,报价明细表(第1轮-山东华数信息技术股份有限公司)([1][2]).pdf",
+  "note": "5包项目（兼投兼中）。概要品目列为空，category 取HTML标的信息表『品目名称』列。单价/数量/总价来自各包中标人报价明细表附件（已核对：包3单价42350×2台=84700，其余为1套）。华鲁数智中包2/3/4、华数中包1/5，与5张中标金额表及评分表一一对应；包金额之和1590120元=总中标金额￥159.012000万元。评分表『得分排名/推荐排名』列均为空，rank一律null。",
+  "project": {
+    "buyer": "山东省立第三医院",
+    "project_name": "山东省立第三医院信息安全设备采购",
+    "total_amount": 1590120.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东华数信息技术股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "华鲁数智信息技术（北京）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "华鲁数智信息技术（北京）有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "华鲁数智信息技术（北京）有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "山东华数信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "容灾备份设备",
+      "item_name": "持续数据保护",
+      "brand": "数存",
+      "model": "数存容灾云管理平台AOB-Cloud-50L（包含持续数据保护节点设备）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 470000.0,
+      "total_price": 470000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "网络隔离设备",
+      "item_name": "网络安全微隔离",
+      "brand": "亚信安全",
+      "model": "亚信安全云主机深度安全防护系统应用软件(防病毒)Deep SecurityV20.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 375710.0,
+      "total_price": 375710.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "防火墙",
+      "item_name": "防毒墙",
+      "brand": "亚信安全",
+      "model": "亚信安全信舷防毒墙系统AISEDGE/V7.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 42350.0,
+      "total_price": 84700.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "防火墙",
+      "item_name": "EDR(终端检测响应)",
+      "brand": "亚信安全",
+      "model": "亚信安全信端端点安全管理软件 TrustOne V9.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 289710.0,
+      "total_price": 289710.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "容灾备份设备",
+      "item_name": "容灾可视化",
+      "brand": "数存",
+      "model": "Datapp-Order容灾统一管理平台",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 370000.0,
+      "total_price": 370000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东华数信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 94.34,
+      "rank": null,
+      "amount": 470000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南鲁泉盛丰信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.89,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南富通伟业科技有限公司",
+      "role": "participant",
+      "total_score": 86.07,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": 85.82,
+      "rank": null,
+      "amount": 375710.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东勤睿信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东佳方信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南嘉略信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东儒风信息技术有限公司",
+      "role": "participant",
+      "total_score": 58.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东盈满瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 58.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": 94.34,
+      "rank": null,
+      "amount": 84700.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东盈满瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 88.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南嘉略信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东大语信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": 94.34,
+      "rank": null,
+      "amount": 289710.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东中测信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东盈满瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东儒风信息技术有限公司",
+      "role": "participant",
+      "total_score": 80.27,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "山东华数信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 91.96,
+      "rank": null,
+      "amount": 370000.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东钦点达讯智能科技有限公司",
+      "role": "participant",
+      "total_score": 91.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "济南鲁泉盛丰信息技术有限公司",
+      "role": "participant",
+      "total_score": 82.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "济南富通伟业科技有限公司",
+      "role": "participant",
+      "total_score": 82.27,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

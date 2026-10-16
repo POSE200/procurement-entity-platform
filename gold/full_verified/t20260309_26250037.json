@@ -1,0 +1,387 @@
+{
+  "announcement_id": "t20260309_26250037",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf,中标结果公告.pdf",
+  "note": "两个包。中标人与包的对应：分项报价表.pdf由凤舞星河盖章、27项设备明细合计1,100,000元=其报价110万元，对应第一包（设备采购）；中电华安81.0151万元对应第二包（配套安装工程）。品目：概要列空且标的信息表无品目名称列，category=null（附件「货物类」为分节标题未采用）。第一包items为分项报价表27条明细，单价×数量均与合价一致，合计1,100,000元=第一包中标金额；第二包分项明细原文未公布，仅写一条总称记录（total_price=第二包中标金额810151元，其余null）。包金额110万+81.0151万=191.0151万与总中标金额一致。rank原文未明示，null。视觉核验：①分项报价表第21行品牌列确为「航天广电」（同页制造商列「南昌航天广信科技有限责任公司」，「广信」出现在制造商名而非品牌列），brand不改；②第13行型号原文跨行断为「IPC-S6612-IR@M-X25-V」/「D2」，拼接为「IPC-S6612-IR@M-X25-VD2」，与草稿一致；③报价表逐页盖章「北京凤舞星河科技发展有限公司」，印证第一包winner=凤舞星河。",
+  "project": {
+    "buyer": "北京市大兴区安定镇人民政府",
+    "project_name": "安定镇外围防线105国道市界至检查站区段视频监控建设",
+    "total_amount": 1910151.0,
+    "packages": [
+      {
+        "package_no": "第一包",
+        "package_name": "安定镇外围防线105国道市界至检查站区段视频监控建设项目设备采购（第一包）",
+        "winner": "北京凤舞星河科技发展有限公司"
+      },
+      {
+        "package_no": "第二包",
+        "package_name": "安定镇外围防线105国道市界至检查站区段视频监控建设项目配套安装工程（第二包）",
+        "winner": "北京中电华安科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "第一包",
+      "item_no": "1",
+      "category": null,
+      "item_name": "区镇接入交换机",
+      "brand": "光桥",
+      "model": "F6-5800-M24GT6X",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 10000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "2",
+      "category": null,
+      "item_name": "室外光汇聚交换机",
+      "brand": "光桥",
+      "model": "F6-MTX4FX4G-M8GT24GX",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 4100.0,
+      "total_price": 12300.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "3",
+      "category": null,
+      "item_name": "周界光端机",
+      "brand": "光桥",
+      "model": "F6-MTX4FX4G-4GT1GX",
+      "quantity": 29,
+      "unit": "套",
+      "unit_price": 700.0,
+      "total_price": 20300.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "4",
+      "category": null,
+      "item_name": "千兆光模块",
+      "brand": "光桥",
+      "model": "FB-420D",
+      "quantity": 29,
+      "unit": "对",
+      "unit_price": 150.0,
+      "total_price": 4350.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "5",
+      "category": null,
+      "item_name": "48盘位云存储节点",
+      "brand": "宇视",
+      "model": "CX1848-V3@BAS-C",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 87270.0,
+      "total_price": 87270.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "6",
+      "category": null,
+      "item_name": "云存储电源模块",
+      "brand": "宇视",
+      "model": "PWR-800A-AC-NB",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 2500.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "7",
+      "category": null,
+      "item_name": "云存储电池模块",
+      "brand": "宇视",
+      "model": "BAT-LA5800-NB",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1600.0,
+      "total_price": 1600.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "8",
+      "category": null,
+      "item_name": "云存储专用硬盘",
+      "brand": "宇视",
+      "model": "NI-HD8000V-A-S-N-01",
+      "quantity": 12,
+      "unit": "块",
+      "unit_price": 3200.0,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "9",
+      "category": null,
+      "item_name": "400万智能双光警戒枪机",
+      "brand": "宇视",
+      "model": "IPC-B2A4-FW@JSF",
+      "quantity": 18,
+      "unit": "台",
+      "unit_price": 2000.0,
+      "total_price": 36000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "10",
+      "category": null,
+      "item_name": "抱杆支架",
+      "brand": "宇视",
+      "model": "TR-UP06-IN",
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 1710.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "11",
+      "category": null,
+      "item_name": "枪机三维支架",
+      "brand": "宇视",
+      "model": "TR-UV06-A-IN",
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 80.0,
+      "total_price": 1440.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "12",
+      "category": null,
+      "item_name": "枪机电源",
+      "brand": "宇视",
+      "model": "PWR-DC1202-NB",
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 90.0,
+      "total_price": 1620.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "13",
+      "category": null,
+      "item_name": "路口球机",
+      "brand": "宇视",
+      "model": "IPC-S6612-IR@M-X25-VD2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 6000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "14",
+      "category": null,
+      "item_name": "路口球机吊装盘",
+      "brand": "宇视",
+      "model": "TR-UF45-G",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 90.0,
+      "total_price": 90.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "15",
+      "category": null,
+      "item_name": "路口球机抱杆支架",
+      "brand": "宇视",
+      "model": "TR-UP06-IN",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 95.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "16",
+      "category": null,
+      "item_name": "400万40倍变焦球机",
+      "brand": "宇视",
+      "model": "IPC-E6824-IR@H40",
+      "quantity": 19,
+      "unit": "台",
+      "unit_price": 9000.0,
+      "total_price": 171000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "17",
+      "category": null,
+      "item_name": "变焦球机球机吊装盘",
+      "brand": "宇视",
+      "model": "TR-UF45-G",
+      "quantity": 19,
+      "unit": "个",
+      "unit_price": 90.0,
+      "total_price": 1710.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "18",
+      "category": null,
+      "item_name": "变焦球机抱杆支架",
+      "brand": "宇视",
+      "model": "TR-UP06-IN",
+      "quantity": 19,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 1805.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "19",
+      "category": null,
+      "item_name": "周界雷达",
+      "brand": "宇视",
+      "model": "RVS441@2D-D30-SH",
+      "quantity": 19,
+      "unit": "台",
+      "unit_price": 20000.0,
+      "total_price": 380000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "20",
+      "category": null,
+      "item_name": "雷达抱杆支架",
+      "brand": "宇视",
+      "model": "TR-UV06-A-IN+TR-UP06-IN",
+      "quantity": 19,
+      "unit": "套",
+      "unit_price": 90.0,
+      "total_price": 1710.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "21",
+      "category": null,
+      "item_name": "智能防水音柱（内置功放）",
+      "brand": "航天广电",
+      "model": "HT-9922Y",
+      "quantity": 19,
+      "unit": "台",
+      "unit_price": 1900.0,
+      "total_price": 36100.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "22",
+      "category": null,
+      "item_name": "雷达周界视频联动报警服务模块",
+      "brand": "宇视",
+      "model": "LIS-BSP-PPS@RA",
+      "quantity": 19,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 66500.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "23",
+      "category": null,
+      "item_name": "视频接入引擎",
+      "brand": "宇视",
+      "model": "LIS-Video Manager 3.0-Cam-100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "24",
+      "category": null,
+      "item_name": "视频数据中心主机",
+      "brand": "宇视",
+      "model": "VS-VDC12508@U-I",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "25",
+      "category": null,
+      "item_name": "数据中心电源",
+      "brand": "宇视",
+      "model": "PWR-DC12-1600",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 14000.0,
+      "total_price": 14000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "26",
+      "category": null,
+      "item_name": "智能分析板卡",
+      "brand": "宇视",
+      "model": "FB-IA15806@AX",
+      "quantity": 1,
+      "unit": "张",
+      "unit_price": 98000.0,
+      "total_price": 98000.0
+    },
+    {
+      "package_no": "第一包",
+      "item_no": "27",
+      "category": null,
+      "item_name": "全结构化分析授权",
+      "brand": "宇视",
+      "model": "LIS-IA15800-FVAS-1",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 5300.0,
+      "total_price": 26500.0
+    },
+    {
+      "package_no": "第二包",
+      "item_no": null,
+      "category": null,
+      "item_name": "安定镇外围防线105国道市界至检查站区段视频监控建设项目配套安装工程（第二包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 810151.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "第一包",
+      "name": "北京凤舞星河科技发展有限公司",
+      "role": "winner",
+      "total_score": 93.63,
+      "rank": null,
+      "amount": 1100000.0
+    },
+    {
+      "package_no": "第二包",
+      "name": "北京中电华安科技股份有限公司",
+      "role": "winner",
+      "total_score": 92.4,
+      "rank": null,
+      "amount": 810151.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

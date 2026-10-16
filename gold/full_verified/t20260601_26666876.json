@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260601_26666876",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([1]).pdf",
+  "note": "两包：HTML未明示包号，按标题\"采购包1、2\"及标的信息品目号前缀（1-1样本库/2-1林业样地）对应：包1=山东省自然资源样本库建设（济南市勘察测绘研究院620600元/90.85分），包2=林业样地数据获取（山东省地质测绘院349000元/90.61分）；两包金额合计969600元与总中标金额96.96万一致；items单价/数量1项为报价明细表附件原文照抄；评分表得分排名列为空rank=null；附件14个docx/zip被跳过，但报价明细均已解析不影响取值。",
+  "project": {
+    "buyer": "山东省国土测绘院",
+    "project_name": "山东省国土测绘院2026年自然资源调查监测专业技术服务（三）样本库建设及林业样地数据获取",
+    "total_amount": 969600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山东省自然资源样本库建设",
+        "winner": "济南市勘察测绘研究院"
+      },
+      {
+        "package_no": "2",
+        "package_name": "林业样地数据获取",
+        "winner": "山东省地质测绘院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测绘服务",
+      "item_name": "山东省自然资源样本库建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 620600.0,
+      "total_price": 620600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测绘服务",
+      "item_name": "林业样地数据获取",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 349000.0,
+      "total_price": 349000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南市勘察测绘研究院",
+      "role": "winner",
+      "total_score": 90.85,
+      "rank": null,
+      "amount": 620600.0
+    },
+    {
+      "package_no": "1",
+      "name": "浙江泰乐地理信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 85.38,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "杭州今奥信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东瑞鑫时空信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省地质测绘院",
+      "role": "winner",
+      "total_score": 90.61,
+      "rank": null,
+      "amount": 349000.0
+    },
+    {
+      "package_no": "2",
+      "name": "浙江泰乐地理信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 84.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东亿华天产业发展集团有限公司",
+      "role": "participant",
+      "total_score": 82.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省物化探勘查院",
+      "role": "participant",
+      "total_score": 79.6,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

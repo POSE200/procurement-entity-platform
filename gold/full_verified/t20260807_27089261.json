@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260807_27089261",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（东莞市低空经济发展有限公司）.pdf",
+  "note": "单包项目；附件报价明细表给出单价2,100,000×1(项)=总价2,100,000与总中标金额￥210万一致；HTML概要品目列为空，品目取HTML标的表品目名称列『其他服务』；附件服务范围列有水印字符污染，不影响取值；5家投标人排名取自评分表『得分排名』列。复核：附件报价明细1条（2100000×1项）、联合体写法、评分表5家得分排名均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "东莞市樟木头镇经济发展局",
+    "project_name": "东莞市樟木头镇政务“一网统飞”系统服务项目",
+    "total_amount": 2100000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "东莞市樟木头镇政务“一网统飞”系统服务项目",
+        "winner": "东莞市低空经济发展有限公司(联合体成员：联通（广东）产业互联网有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "东莞市樟木头镇政务“一网统飞”系统服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2100000.0,
+      "total_price": 2100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东莞市低空经济发展有限公司(联合体成员：联通（广东）产业互联网有限公司)",
+      "role": "winner",
+      "total_score": 97.42,
+      "rank": 1,
+      "amount": 2100000.0
+    },
+    {
+      "package_no": "1",
+      "name": "浪潮通信信息系统有限公司",
+      "role": "participant",
+      "total_score": 70.7,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司东莞分公司",
+      "role": "participant",
+      "total_score": 48.54,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东云鹰航空科技有限公司",
+      "role": "participant",
+      "total_score": 37.09,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市龙信数码科技有限公司",
+      "role": "participant",
+      "total_score": 30.05,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

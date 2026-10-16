@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115610",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东弘毅节能服务有限公司).pdf",
+  "note": "单包1服务项目。概要品目列为空，category取HTML标的信息表『品目名称』列。单价368000元×1项=368000元来自中标人第1轮报价明细表（最高限价430000元，响应报价=合计=中标金额368,000.00元，一致；HTML标的表『金额(元)』列为空）。评分表『得分排名/推荐排名』列空，rank=null。",
+  "project": {
+    "buyer": "山东交通学院",
+    "project_name": "山东交通学院长清校区学生公寓浴室运维服务采购项目",
+    "total_amount": 368000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东弘毅节能服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "长清校区学生公寓浴室运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 368000.0,
+      "total_price": 368000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东弘毅节能服务有限公司",
+      "role": "winner",
+      "total_score": 91.23,
+      "rank": null,
+      "amount": 368000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南耀晟节能科技有限公司",
+      "role": "participant",
+      "total_score": 89.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东康之洁环保技术有限公司",
+      "role": "participant",
+      "total_score": 86.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州名能节能科技有限公司",
+      "role": "participant",
+      "total_score": 82.19,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

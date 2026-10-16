@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260205_26151858",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:陕西秦药卓越科技有限公司.pdf,陕西瑞铭尔医疗器械有限公司.pdf",
+  "note": "2个标段。标段2中标人陕西秦药卓越科技有限公司（投标总报价463,000元，4条明细之和一致）；标段4中标人陕西瑞铭尔医疗器械有限公司（投标总报价128,000元，2条明细之和一致）；两包之和591,000元=总中标金额￥59.100000万元。分项报价表为OCR扫描PDF，但其数值与HTML主要标的信息表（数字文本）逐项互证一致，且单价×数量=总价全部成立，故未做渲染视觉核验。品目取公告概要品目列完整路径「货物/设备/医疗设备/中医器械设备」，6条共用。item_no取招标文件需求一览表中各标段的①②③④序号。原文无评审得分与排名，total_score/rank=null。",
+  "project": {
+    "buyer": "西安交通大学第二附属医院",
+    "project_name": "西安交通大学第二附属医院背部仿真针刺练习平台等采购项目",
+    "total_amount": 591000.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "标段2",
+        "winner": "陕西秦药卓越科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "标段4",
+        "winner": "陕西瑞铭尔医疗器械有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "①",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "经颅磁刺激器",
+      "brand": "河南智领",
+      "model": "ZL-N-800",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 48000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "②",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "立体动态干扰电治疗仪",
+      "brand": "好博",
+      "model": "HB-ZP6",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 122000.0,
+      "total_price": 122000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "③",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "超短波治疗仪",
+      "brand": "博创",
+      "model": "SL-CDB-A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 33000.0,
+      "total_price": 33000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "④",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "低频治疗仪",
+      "brand": "佳时正通",
+      "model": "ZWLZ-VIII",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 52000.0,
+      "total_price": 260000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "①",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "红外偏振光治疗仪",
+      "brand": "庄志",
+      "model": "ZZIR-ID",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 52000.0,
+      "total_price": 104000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "②",
+      "category": "货物/设备/医疗设备/中医器械设备",
+      "item_name": "红外治疗仪",
+      "brand": "仙鹤",
+      "model": "CQ-61",
+      "quantity": 30,
+      "unit": "台",
+      "unit_price": 800.0,
+      "total_price": 24000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "陕西秦药卓越科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 463000.0
+    },
+    {
+      "package_no": "4",
+      "name": "陕西瑞铭尔医疗器械有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 128000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260804_27072000",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_附件/附件/中小企业声明函.pdf+报酬支付表.pdf",
+  "note": "附件.zip为压缩容器未解析，其中疑似含标的物明细（报价/品目/数量单价），OCR待补：附件.zip（页数未知）疑似含标的物明细，字段暂空。已解析的中小企业声明函提及'德医学教育实习管理软件'与承建企业'广州市德懂电子有限公司'（OCR不清，疑有错字），非标的信息表，未作为标的信息采用（需视觉核验）。HTML无标的信息明细表，品目列空→items仅一条总称记录全null。包号A为HTML明示（'标包：A'）。成交金额27.866万元与HTML总中标金额一致。解析核验：附件.zip用zipfile完整解包（cp437转GBK文件名），仅含2个文件：中小企业声明函.pdf（扫描件1页，标题[十一、政府采购政策]）与报酬支付表.pdf（评审劳务报酬支付表，照片件1页），无标的物明细/报价清单——原[疑似含标的物明细]不成立。视觉核验：声明函载明标的名称[德慷医学教育实习管理软件]（修正原OCR[德医学教育实习管理软件]）、承建（承接）企业[广州市德慷电子有限公司]（修正原OCR[德懂]）、从业人员16人/营业收入2532万元/资产总额2924万元/小型企业，盖章主体为众游（济南）科技有限公司，与中标人一致；报酬支付表载项目编号SDGP371700000202502000250、采购人菏泽家政职业学院、代理机构山东兴基项目管理咨询有限公司、预算金额28.00万元、成交金额27.866万元、分包数量1个，与HTML成交金额27.866万元互证。据此items补item_name=德慷医学教育实习管理软件（声明函标的名称原文）；声明函未给出品牌/型号/数量/单价，维持null，明细级拆分无证据不猜。品目列空→category=null；包号A为HTML明示。",
+  "project": {
+    "buyer": "菏泽家政职业学院",
+    "project_name": "菏泽家政职业学院学生实习系统采购项目",
+    "total_amount": 278660.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "众游（济南）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "德慷医学教育实习管理软件",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "众游（济南）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 278660.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260701_26848502",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "2个采购包；包号归属已由独立复核确认：招标文件载明采购包1预算/最高限价360,000元、采购包2为300,000元，而报价明细表([2])（短视频制作及活动组织，单价290,000元）最高限价360,000元、报价明细表([1])（IP深化设计与服务，单价279,000元）最高限价300,000元，且[1]明示'采购包：数字强省宣传推广IP深化设计与服务''投标人名称：山东佰城仟物文化产业发展有限公司'，故包1=短视频=新鲁影传媒（山东）有限公司（290,000元）、包2=IP深化=佰城仟物（279,000元）；报价明细表([2])正文未印投标人名称，其响应报价290,000元与包1中标金额一致；品目概要列为空，category取HTML标的信息表品目名称列'新闻服务'；评分表得分排名列空，rank=null（不推定中标即第1）；包金额之和290000+279000=569000=总中标金额56.9万元。两条item的单价/数量(1.0000)/计量单位(宗)均直接出自附件报价明细表，非由总价推算。复核修正：字段无改动；note中'需视觉核验'两处疑点（包号映射、[1]投标人归属）经限价交叉验证与[1]明示投标人名称消除，status由draft转verified。",
+  "project": {
+    "buyer": "山东省大数据局",
+    "project_name": "数字强省宣传推介项目",
+    "total_amount": 569000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "短视频制作及活动组织",
+        "winner": "新鲁影传媒（山东）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "数字强省宣传推广IP深化设计与服务",
+        "winner": "山东佰城仟物文化产业发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "新闻服务",
+      "item_name": "短视频制作及活动组织",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "新闻服务",
+      "item_name": "数字强省宣传推广IP深化设计与服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 279000.0,
+      "total_price": 279000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "新鲁影传媒（山东）有限公司",
+      "role": "winner",
+      "total_score": 88.4,
+      "rank": null,
+      "amount": 290000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东维七文化传媒有限公司",
+      "role": "participant",
+      "total_score": 86.13,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东澜灵传媒有限公司",
+      "role": "participant",
+      "total_score": 76.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "麦芒（济南）广告有限公司",
+      "role": "participant",
+      "total_score": 68.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南宏卓文化传媒有限公司",
+      "role": "participant",
+      "total_score": 65.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东佰城仟物文化产业发展有限公司",
+      "role": "winner",
+      "total_score": 87.4,
+      "rank": null,
+      "amount": 279000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东则灵创意文化有限公司",
+      "role": "participant",
+      "total_score": 87.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东乐迈文化发展有限公司",
+      "role": "participant",
+      "total_score": 80.94,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

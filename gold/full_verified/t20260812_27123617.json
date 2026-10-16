@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123617",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表.pdf,最后报价表.pdf",
+  "note": "最后报价表明示'采购包包号：1、轮次：1、响应报价548,000.00元'；报价明细表单价548000元×数量1.0000宗=响应报价548000元，与成交金额一致（单价数量均为原文值）；评分表'得分排名/推荐排名'列值空缺，rank均null；开标（报价）一览表仅存表头无数据行，未中标供应商报价不可得。山东省政府采购评审劳务报酬支付表OCR成交金额字段残缺（'54%万元''55.55万元'），但成交金额已由公告总中标金额/中标金额表/报价明细表/最后报价表四处独立印证为548000元，OCR残差不影响gold取值。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "淄博市生态环境局",
+    "project_name": "淄博市生态环境局孝妇河淄博市段入河排污口规范化建设智慧化平台项目",
+    "total_amount": 548000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京金水永利科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "城镇水域治理服务",
+      "item_name": "淄博市生态环境局孝妇河淄博市段入河排污口规范化建设智慧化平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 548000.0,
+      "total_price": 548000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京金水永利科技有限公司",
+      "role": "winner",
+      "total_score": 93.28,
+      "rank": null,
+      "amount": 548000.0
+    },
+    {
+      "package_no": "1",
+      "name": "雪城数智科技（河南）有限公司",
+      "role": "participant",
+      "total_score": 89.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河北汉德普科技有限公司",
+      "role": "participant",
+      "total_score": 82.53,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南天迅环保科技有限公司",
+      "role": "participant",
+      "total_score": 75.54,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "announcement_id": "t20260604_26684357",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf,投标（响应）报价明细表([4]).pdf",
+  "note": "四个采购包。HTML按顺序给出各包中标人表（表格1-4）与标的信息表（表格5-8）及评审表（表格9-12），包号配对依据：品目号1-1厅机关运维/2-1戒毒软件系统运维/3-1等保/4-1密评，与招标文件各包预算（包1=2,290,000、包2=820,000、包3=430,000、包4=580,000）及各包中标人报价明细表的最高限价一一吻合（推断声明）。quantity=1、unit=宗、unit_price=响应报价均来自各包中标人投标（响应）报价明细表（明示，非互推）。四包金额之和2,278,800+808,800+405,000+557,000=4,049,600元与总中标金额404.96万一致。评审表综合得分列有值但得分排名/推荐排名列为空，rank一律null。中国移动（包2参与）与联通（包1参与）互为对方包参与人；道普信息技术同时参与包3、包4，bidders各一条。复核：四张报价明细表表头明示采购包名（等保/厅机关运维/密评/戒毒软件系统运维），包-中标人-单价-数量（1.000宗）-合计逐表核实，quantity/unit/unit_price为明示非互推；四包之和4,049,600元与总额一致；评分表得分排名/推荐排名列确为空，rank=null正确；确认verified。",
+  "project": {
+    "buyer": "山东省司法厅机关",
+    "project_name": "2026年度山东省司法厅机关政务信息化运维",
+    "total_amount": 4049600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "厅机关运维",
+        "winner": "中国移动通信集团山东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "戒毒软件系统运维",
+        "winner": "联通（山东）产业互联网有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "等保",
+        "winner": "北方实验室（沈阳）股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "密评",
+        "winner": "高维密码测评技术（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "厅机关运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 2278800.0,
+      "total_price": 2278800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "戒毒软件系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 808800.0,
+      "total_price": 808800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他运行维护服务",
+      "item_name": "等保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 405000.0,
+      "total_price": 405000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他运行维护服务",
+      "item_name": "密评",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 557000.0,
+      "total_price": 557000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 92.77,
+      "rank": null,
+      "amount": 2278800.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 91.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东恒诺网络科技有限责任公司",
+      "role": "participant",
+      "total_score": 72.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东贝驰信息科技有限公司",
+      "role": "participant",
+      "total_score": 65.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 93.5,
+      "rank": null,
+      "amount": 808800.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 91.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中城工联信息产业有限公司",
+      "role": "participant",
+      "total_score": 72.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南乐恩信息技术有限公司",
+      "role": "participant",
+      "total_score": 67.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "winner",
+      "total_score": 92.87,
+      "rank": null,
+      "amount": 405000.0
+    },
+    {
+      "package_no": "3",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 89.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "御维网络安全技术有限公司",
+      "role": "participant",
+      "total_score": 88.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": 87.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "高维密码测评技术（山东）有限公司",
+      "role": "winner",
+      "total_score": 93.48,
+      "rank": null,
+      "amount": 557000.0
+    },
+    {
+      "package_no": "4",
+      "name": "苏州市软件评测中心有限公司",
+      "role": "participant",
+      "total_score": 86.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中互金认证有限公司",
+      "role": "participant",
+      "total_score": 86.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "participant",
+      "total_score": 83.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "济南时代确信信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 83.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "信元网络技术股份有限公司",
+      "role": "participant",
+      "total_score": 79.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "鼎铉商用密码测评技术（深圳）有限公司",
+      "role": "participant",
+      "total_score": 72.43,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

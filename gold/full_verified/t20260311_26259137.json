@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260311_26259137",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "2个采购包：包1=CA系统（成都远夏788,000元中标），包2=综合预约管理平台（河南方和1,100,000元中标），包与标的对应关系由HTML标的信息表及各包中小企业声明函确认。未中标人及其报价/得分取自供应商评审情况表附件（'第一/二/三中标候选人'有明示故rank照抄）；包2的成都诺格宇、四川星辉熠熠未通过符合性审查，得分/排名/报价原文未给均null。品目名称照抄HTML（含编码前缀）。788000+1100000=1888000元与总中标金额一致。报价表附件仅有表头无数据行。",
+  "project": {
+    "buyer": "简阳市人民医院",
+    "project_name": "CA系统及综合预约管理平台采购项目",
+    "total_amount": 1888000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "CA系统",
+        "winner": "成都远夏科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "综合预约管理平台",
+        "winner": "河南方和信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "C16020300",
+      "category": "C16020300 软件集成实施服务",
+      "item_name": "CA系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 788000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "C16010302",
+      "category": "C16010302 行业应用软件开发服务",
+      "item_name": "综合预约管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都远夏科技有限公司",
+      "role": "winner",
+      "total_score": 94.53,
+      "rank": 1,
+      "amount": 788000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都途行者科技有限公司",
+      "role": "participant",
+      "total_score": 61.3,
+      "rank": 2,
+      "amount": 500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都聚立创智科技有限公司",
+      "role": "participant",
+      "total_score": 58.4,
+      "rank": 3,
+      "amount": 800000.0
+    },
+    {
+      "package_no": "2",
+      "name": "河南方和信息科技有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 1100000.0
+    },
+    {
+      "package_no": "2",
+      "name": "河北医影科技有限公司",
+      "role": "participant",
+      "total_score": 76.38,
+      "rank": 2,
+      "amount": 1430000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川三图科技有限公司",
+      "role": "participant",
+      "total_score": 34.11,
+      "rank": 3,
+      "amount": 1446000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都诺格宇电子商务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川星辉熠熠工程项目管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

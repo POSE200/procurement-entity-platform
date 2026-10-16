@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260803_27056673",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州林智智能科技有限公司）.pdf",
+  "note": "单包两条明细：747800+288200=1036000与总中标金额一致，单价×数量逐条相符。HTML与附件报价明细数值一致（品牌列带水印字'G 8 4 2 6否…'，按语义识别为山石/网瑞达）；附件另给出制造商名称（北京山石网科信息技术有限公司、北京网瑞达科技有限公司），非schema字段故未单列。得分排名/推荐排名列明示1/2/3，已照抄。",
+  "project": {
+    "buyer": "广东第二师范学院",
+    "project_name": "广东第二师范学院校园网出口网关和DNS更新项目",
+    "total_amount": 1036000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "出口网关和DNS更新",
+        "winner": "广州林智智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "网关",
+      "item_name": "出口网关",
+      "brand": "山石",
+      "model": "SG-6000-X8180-CN",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 747800.0,
+      "total_price": 747800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他网络设备",
+      "item_name": "智能DNS系统",
+      "brand": "网瑞达",
+      "model": "ITMS-DNS-5700",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 288200.0,
+      "total_price": 288200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州林智智能科技有限公司",
+      "role": "winner",
+      "total_score": 98.4,
+      "rank": 1,
+      "amount": 1036000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州科韵智慧科技有限公司",
+      "role": "participant",
+      "total_score": 52.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中科诺泰技术有限公司",
+      "role": "participant",
+      "total_score": 49.79,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

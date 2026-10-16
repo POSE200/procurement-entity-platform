@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260808_27099752",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司).pdf",
+  "note": "单包（公告标题'采购包1'、附件'包(1)_'明示包号1）；品目取自HTML标的表'品目编号及品目名称'列；数量1.0000项、单价1252000元、响应报价1252000.00元来自附件报价明细表(第1轮-中国移动通信集团山东有限公司)（最高限价1255367元）；评审表得分排名列为空，各bidders rank=null，未中标供应商投标报价未公布→amount=null。",
+  "project": {
+    "buyer": "高密市化工产业发展服务中心",
+    "project_name": "山东省潍坊市高密市化工产业发展服务中心高密仁和化工产业园智能化管控平台优化升级服务项目",
+    "total_amount": 1252000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "高密仁和化工产业园智能化管控平台优化升级服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1252000.0,
+      "total_price": 1252000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 90.59,
+      "rank": null,
+      "amount": 1252000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司潍坊市分公司",
+      "role": "participant",
+      "total_score": 84.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "高密市骁飞网络科技有限公司",
+      "role": "participant",
+      "total_score": 68.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台中创联信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.24,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

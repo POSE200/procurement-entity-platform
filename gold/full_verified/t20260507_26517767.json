@@ -1,0 +1,73 @@
+{
+  "announcement_id": "t20260507_26517767",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告概要为0万元，但正文A/B包分别成交523000.00元和526000.00元；归一化项目总额按Decimal合计1049000.00元，概要零值另存total_amount_basis.raw_overview。主要标的信息只披露项目名称，未披露数量或单价，不将包级金额分摊到未知明细。其余字段本次未重新核验。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "东营市大数据局本级",
+    "project_name": "2026年市政务云维保服务项目",
+    "total_amount": 1049000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司东营分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "中国电信集团有限公司东营分公司"
+      }
+    ],
+    "total_amount_basis": {
+      "type": "computed_sum_awarded_packages",
+      "formula": "523000.00 + 526000.00",
+      "decimal_result": "1049000.00",
+      "raw_overview": {
+        "value": 0,
+        "unit": "万元",
+        "display": "￥0.000000 万元（人民币）"
+      }
+    }
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年市政务云维保服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国移动通信集团山东有限公司东营分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 523000.0
+    },
+    {
+      "package_no": "B",
+      "name": "中国电信集团有限公司东营分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 526000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "announcement_id": "t20260812_27117233",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山西同方知网数字出版技术有限公司).pdf,报价明细表(第1轮-同方知网数字科技有限公司).pdf,报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf,报价明细表(第1轮-中创思潮（广东）人工智能研究有限公司).pdf,报价明细表(第1轮-上海万方数据有限公司).pdf,报价明细表(第1轮-北京国研网信息股份有限公司).pdf,报价明细表(第1轮-世纪博图信息技术（北京）有限公司).pdf",
+  "note": "单一来源采购，7个采购包（1/2/3/4/5/6/8，无包7；包(7)仅有空白模板无结果），每包仅1家供应商通过审查（评分表无未中标名单），bidders全部为winner且无participant。7份『报价明细表(第1轮-*)』附件已全部找到并核对：单价/数量1.0000(项)/响应报价均为附件明示（单价=总价非推算），与HTML中标金额逐包一致，7包合计1,879,790=总中标金额187.979万。得分排名/推荐排名列空且无综合得分列→rank、total_score全null。包2/3/8成交价低于最高限价（120,000/520,000/50,000）。复核修正：包8品牌列『世界名校精品课V5.0』HTML与附件一致（附件明示制造商为西安数图网络科技有限公司），照抄无歧义，无未决视觉核验项。",
+  "project": {
+    "buyer": "山东理工大学",
+    "project_name": "山东理工大学ACJJDI2026年度中文数字资源",
+    "total_amount": 1879790.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "中创思潮（广东）人工智能研究有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "北京国研网信息股份有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": null,
+        "winner": "世纪博图信息技术（北京）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "结构化数据",
+      "item_name": "中国知网CNKI",
+      "brand": "CNKI",
+      "model": "2026年度，托管或租用模式",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 950000.0,
+      "total_price": 950000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "结构化数据",
+      "item_name": "知网学术检测系统",
+      "brand": "CNKI",
+      "model": "2026年",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 119900.0,
+      "total_price": 119900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "结构化数据",
+      "item_name": "超星数据库(读秀+超星名师讲坛+移动图书馆+汇雅电子书+超星期刊+闻道科学导航)",
+      "brand": "读秀",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 519900.0,
+      "total_price": 519900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "结构化数据",
+      "item_name": "全球创新知识平台",
+      "brand": "创新树",
+      "model": "V9.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "结构化数据",
+      "item_name": "万方数据知识服务平台",
+      "brand": "万方",
+      "model": "V4.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "结构化数据",
+      "item_name": "国研网",
+      "brand": "国研网",
+      "model": "教育版",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "结构化数据",
+      "item_name": "国际教育视频数据库",
+      "brand": "世界名校精品课V5.0",
+      "model": "网络包库",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 49990.0,
+      "total_price": 49990.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 950000.0
+    },
+    {
+      "package_no": "2",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 119900.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 519900.0
+    },
+    {
+      "package_no": "4",
+      "name": "中创思潮（广东）人工智能研究有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "5",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 100000.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京国研网信息股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "8",
+      "name": "世纪博图信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 49990.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

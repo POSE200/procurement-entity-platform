@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260601_26666772",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-国评检测（山东）有限公司).pdf,报价明细表(第1轮-山东省煤田地质局第五勘探队).pdf",
+  "note": "两包：包1中标国评检测（山东）1055000元、包2中标山东省煤田地质局第五勘探队(联合体成员：山东省环科院股份有限公司)1057000元，合计2112000元与总中标金额211.2万一致；items取与中标金额完全一致的报价明细表PDF（单价/数量1项为原文照抄）；附件包1/包2分项报价表.png（OCR）列有分项（包1：抽查400000+抽测659000=1059000；包2：8个分项合计1058000）均与各自包中标金额不符（差4000元/1000元）且OCR残缺（数量/单价列错位、部分行数量不可辨），故未采用其分项行，仅在此存疑记录；评分表得分排名/推荐排名列为空，rank全部填null；品目取HTML品目名称列。",
+  "project": {
+    "buyer": "山东省土壤污染防治中心",
+    "project_name": "山东省建设用地安全利用质量监控项目",
+    "total_amount": 2112000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "国评检测（山东）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东省煤田地质局第五勘探队(联合体成员：山东省环科院股份有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他生态环境保护服务",
+      "item_name": "山东省建设用地安全利用质量监控",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1055000.0,
+      "total_price": 1055000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他生态环境保护服务",
+      "item_name": "山东省建设用地安全利用质量监控",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1057000.0,
+      "total_price": 1057000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "国评检测（山东）有限公司",
+      "role": "winner",
+      "total_score": 88.32,
+      "rank": null,
+      "amount": 1055000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东邦林检测有限公司",
+      "role": "participant",
+      "total_score": 75.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中衡环境检测有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城市环科院检测有限公司",
+      "role": "participant",
+      "total_score": 64.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省煤田地质局第五勘探队(联合体成员：山东省环科院股份有限公司)",
+      "role": "winner",
+      "total_score": 89.81,
+      "rank": null,
+      "amount": 1057000.0
+    },
+    {
+      "package_no": "2",
+      "name": "国评检测（山东）有限公司",
+      "role": "participant",
+      "total_score": 83.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛斯坦德衡立环境技术研究院有限公司",
+      "role": "participant",
+      "total_score": 70.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东众诚国辉环保科技有限责任公司",
+      "role": "participant",
+      "total_score": 42.29,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

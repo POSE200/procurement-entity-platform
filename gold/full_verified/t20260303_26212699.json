@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260303_26212699",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:FE6121-多包组-中标公告-多路传输测试设备及系统采购项目1.pdf",
+  "note": "buyer字段原文即为平台用户名『zycgr21071303』（采购人信息、HTML采购单位均如此），真实单位名称不可考，照抄；品目取概要列完整路径『货物/设备/仪器仪表/其他仪器仪表』；品牌列原文填的是供应商自身名称（品牌=供应商名），照抄；各包仅一条标的，包名称按该包标的名称对应填写；两包中标金额之和430000+416534=846534元与总中标金额￥84.653400万元一致；评分表的『综合得分/综合排名』列被OCR为『综合得 分/综合排 名』；中标公告PDF内嵌OCR夹带全角空格等噪声（如『电子信息技 术有限 公司』），已按语义拼合；1包候选中标人为杭州永谐、滁州润翰，2包为西安华恒智禾、北京坤驰，与评分排名一致。",
+  "project": {
+    "buyer": "zycgr21071303",
+    "project_name": "多路传输测试设备及系统采购项目",
+    "total_amount": 846534.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "矩阵衰减器",
+        "winner": "杭州永谐科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "多路高速信号采集系统",
+        "winner": "西安华恒智禾电子信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "矩阵衰减器",
+      "brand": "杭州永谐科技有限公司",
+      "model": "HBTE-PAM-32X32-0.7-6-127-0.5-S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 430000.0,
+      "total_price": 430000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "多路高速信号采集系统",
+      "brand": "西安华恒智禾电子信息技术有限公司",
+      "model": "HH-6235",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 416534.0,
+      "total_price": 416534.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "杭州永谐科技有限公司",
+      "role": "winner",
+      "total_score": 93.96,
+      "rank": 1,
+      "amount": 430000.0
+    },
+    {
+      "package_no": "1",
+      "name": "滁州润翰微波科技有限公司",
+      "role": "participant",
+      "total_score": 85.0,
+      "rank": 2,
+      "amount": 433400.0
+    },
+    {
+      "package_no": "1",
+      "name": "上海仪想电子科技有限公司",
+      "role": "participant",
+      "total_score": 84.99,
+      "rank": 3,
+      "amount": 433495.0
+    },
+    {
+      "package_no": "2",
+      "name": "西安华恒智禾电子信息技术有限公司",
+      "role": "winner",
+      "total_score": 97.5,
+      "rank": 1,
+      "amount": 416534.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京坤驰科技有限公司",
+      "role": "participant",
+      "total_score": 95.1,
+      "rank": 2,
+      "amount": 419000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州安波通信科技有限公司",
+      "role": "participant",
+      "total_score": 89.7,
+      "rank": 3,
+      "amount": 425500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080456",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第2轮-山东世纪读秀信息科技有限公司).pdf",
+  "note": "单包（采购包1）。中标人明细来自附件'报价明细表(第2轮-山东世纪读秀信息科技有限公司).pdf'（第2轮最终报价）：单价398800元×1.0000项=响应报价398800元（原文明示，最高限价450000元）。品目概要列空，category取HTML标的信息表'品目名称'列=其他教育服务。三家未成交供应商仅有综合得分（87.67/70.98/68.80），未中标原因未明示名次、得分排名列为空，rank=null；开标（报价）一览表仅解析出表头，参与人投标报价不可得，amount=null（复核确认附件文本清晰、无未决疑点）。",
+  "project": {
+    "buyer": "山东城市服务职业学院",
+    "project_name": "山东城市服务职业学院高水平专业群平台建设项目",
+    "total_amount": 398800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他教育服务",
+      "item_name": "高水平专业群平台建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "项",
+      "unit_price": 398800.0,
+      "total_price": 398800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 88.98,
+      "rank": null,
+      "amount": 398800.0
+    },
+    {
+      "package_no": "1",
+      "name": "苏州青颖飞帆软件科技股份有限公司",
+      "role": "participant",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东妙朋教育咨询有限公司",
+      "role": "participant",
+      "total_score": 70.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台乐柠数字科技有限公司",
+      "role": "participant",
+      "total_score": 68.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

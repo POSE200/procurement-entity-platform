@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260805_27080531",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "品目概要列空，category 取 HTML 标的信息表'品目编号及品目名称'列（应用软件）；6条明细的数量/单价/总价 HTML 与附件投标（响应）报价明细表完全一致，6项之和=710000元与中标金额吻合；package_no='1'（公告标题'采购包1'）；评分表'得分排名/推荐排名'列空白，rank 全 null；四川逸航星云科技有限公司仅出现在未中标原因表（符合性审查未通过），无得分记录，total_score=null。需视觉核验：劳务报酬支付表.jpg 的 OCR 较乱（预算金额疑为72万元），不影响本次字段。",
+  "project": {
+    "buyer": "济南市图书馆",
+    "project_name": "济南市图书馆智慧化管理系统（二期）建设项目",
+    "total_amount": 710000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广州图创计算机软件开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "电子资源远程访问系统",
+      "brand": "图创",
+      "model": "DL-ITA-UX",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 87000.0,
+      "total_price": 87000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "积分管理系统",
+      "brand": "图创",
+      "model": "AS2-ITA-SCE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "应用软件",
+      "item_name": "手机扫码借书系统",
+      "brand": "图创",
+      "model": "AS-ITA-WLC",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "RFID自助借还管理系统",
+      "brand": "图创",
+      "model": "RFID-ITA-ILS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 275000.0,
+      "total_price": 275000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "应用软件",
+      "item_name": "数据分析系统",
+      "brand": "图创",
+      "model": "AS-ITA-MID-D1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 99000.0,
+      "total_price": 99000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "应用软件",
+      "item_name": "济南市图书馆门户网站",
+      "brand": "超星",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 99000.0,
+      "total_price": 99000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州图创计算机软件开发有限公司",
+      "role": "winner",
+      "total_score": 84.85,
+      "rank": null,
+      "amount": 710000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京金盘鹏图软件技术有限公司",
+      "role": "participant",
+      "total_score": 84.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "武汉蓝育信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.79,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州杰图信息科技有限公司",
+      "role": "participant",
+      "total_score": 70.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛思齐软件技术有限公司",
+      "role": "participant",
+      "total_score": 70.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川逸航星云科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

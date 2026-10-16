@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260511_26546043",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:西南林业大学图书馆书刊与电子资源数据库采购项目-纸质中文图书采购中标结果公告.doc",
+  "note": "HTML总中标金额栏为￥0.000000万元，系公告占位值不可作真值，total_amount=null；各标段仅公告综合折扣率（A标段65%、B标段58%、C标段56%）未给中标金额，各包amount=null；总价由单价×数量唯一互推（原文数量1批、单价630000/590000/580000元）；品牌列原文为\"/\"故brand=null；公告概要品目为空且标的信息表无品目列，category=null；中标人/得分/折扣率来自附件中标结果公告.doc。",
+  "project": {
+    "buyer": "西南林业大学",
+    "project_name": "西南林业大学图书馆书刊与电子资源数据库采购项目-纸质中文图书采购",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "西南林业大学图书馆书刊与电子资源数据库采购项目-纸质中文图书采购（A标段）",
+        "winner": "北京人天书店集团股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "西南林业大学图书馆书刊与电子资源数据库采购项目-纸质中文图书采购（B标段）",
+        "winner": "湖北三新文化传媒有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "西南林业大学图书馆书刊与电子资源数据库采购项目-纸质中文图书采购（C标段）",
+        "winner": "辽宁北方出版物配送有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文纸质图书（自然科学图书）",
+      "brand": null,
+      "model": "自然科学图书",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 630000.0,
+      "total_price": 630000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文纸质图书（社会科学图书）",
+      "brand": null,
+      "model": "社会科学图书",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 590000.0,
+      "total_price": 590000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文纸质图书（综合图书）",
+      "brand": null,
+      "model": "综合图书",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 580000.0,
+      "total_price": 580000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京人天书店集团股份有限公司",
+      "role": "winner",
+      "total_score": 97.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "湖北三新文化传媒有限公司",
+      "role": "winner",
+      "total_score": 95.05,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "辽宁北方出版物配送有限公司",
+      "role": "winner",
+      "total_score": 94.59,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

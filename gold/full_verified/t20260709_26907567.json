@@ -1,0 +1,195 @@
+{
+  "announcement_id": "t20260709_26907567",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([1]).pdf",
+  "note": "两个采购包（公告标题明示采购包1、2）。包1网络安全设备：中标人山东思勤信息技术有限公司1,258,000元，7条明细取自其报价明细表，单价×数量之和恰为1,258,000元，与HTML品目号1-1-1至1-1-7的品牌/型号/数量逐条一致；包2等保测评：中标人道普信息技术有限公司58,000元，1条服务明细（单价58,000×1项=58,000，报价明细表([1])明示）。两包之和1,316,000元=总中标金额￥131.600000万元，数学一致。概要品目列空，category取标的信息表品目名称列（包1「信息安全设备」、包2「测试评估认证服务」）；HTML采购标的列均为泛称（网络安全设备/等保测评），item_name以报价明细表为准。包1第6条「边界防火墙（核心产品）」为核心产品标注随名称保留。评分表「得分排名」「推荐排名」列空，rank=null。包名「网络安全设备」取自附件目录「包1(网络安全设备)」。需视觉核验：报价明细表([2])OCR断行严重（第4/5/6/7行单价数量列错位已按响应报价读齐）；「AISEDGE/V7.0」原文断行为AISE DG E/V7.0。",
+  "project": {
+    "buyer": "山东省人民检察院机关",
+    "project_name": "山东省人民检察院检察工作网网络安全设备建设项目",
+    "total_amount": 1316000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络安全设备",
+        "winner": "山东思勤信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "道普信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "信息安全设备",
+      "item_name": "防火墙",
+      "brand": "网御星云",
+      "model": "网御防火墙系统 Power V6000（千兆）V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 63000.0,
+      "total_price": 63000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "信息安全设备",
+      "item_name": "入侵检测",
+      "brand": "网御星云",
+      "model": "网御入侵检测系统（千兆）/V3.2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 62000.0,
+      "total_price": 62000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "信息安全设备",
+      "item_name": "日志审计",
+      "brand": "网御星云",
+      "model": "网御安全管理系统-日志审计 V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 57000.0,
+      "total_price": 57000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "信息安全设备",
+      "item_name": "数据边界",
+      "brand": "网御星云",
+      "model": "网御数据安全交换系统 Leadsec-DC/V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 140000.0,
+      "total_price": 140000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "信息安全设备",
+      "item_name": "光闸",
+      "brand": "网御星云",
+      "model": "网御安全隔离与信息单向导入系统 UDGAP/V2.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 120000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "信息安全设备",
+      "item_name": "边界防火墙（核心产品）",
+      "brand": "迪普",
+      "model": "FW1000-TC-G",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 110000.0,
+      "total_price": 440000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "信息安全设备",
+      "item_name": "防病毒网关",
+      "brand": "亚信",
+      "model": "AISEDGE/V7.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 128000.0,
+      "total_price": 256000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "等保测评",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 58000.0,
+      "total_price": 58000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东思勤信息技术有限公司",
+      "role": "winner",
+      "total_score": 95.1,
+      "rank": null,
+      "amount": 1258000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东金达科技有限公司",
+      "role": "participant",
+      "total_score": 64.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南友腾信息技术有限公司",
+      "role": "participant",
+      "total_score": 62.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东海连祥达信息科技有限公司",
+      "role": "participant",
+      "total_score": 60.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": 90.42,
+      "rank": null,
+      "amount": 58000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": 71.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都创信华通信息技术有限公司",
+      "role": "participant",
+      "total_score": 61.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "江西和尔惠信息技术有限公司",
+      "role": "participant",
+      "total_score": 60.56,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

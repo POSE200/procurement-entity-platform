@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260807_27090448",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "公告无采购包划分，package_no 取 null（附件分项报价表无包号列，品目号1-1/1-2为条目号非包号）；概要品目列给出完整分类路径，category 原样保留（1-1对应货物/设备/信息化设备/其他信息化设备，1-2对应货物/设备/信息化设备/存储设备/其他存储设备，按条目对应关系分配）；两包金额1,527,000+94,080=1,621,080与总中标金额￥162.108万一致；附件分项报价表表头有水印字符（如『DD G C R4』、品牌列『1 C 6 2 D 江波龙』含水印数字），型号以HTML标的表干净值 32GB/2RX4/DDR4/RDIMM内存 为准，无需视觉核验。复核修正：category 由HTML品目末级名改为概要品目列完整路径（规范首选概要列）；其余字段核对一致。",
+  "project": {
+    "buyer": "广东省农垦中心医院",
+    "project_name": "广东省农垦中心医院数据治理与指标管理系统建设项目",
+    "total_amount": 1621080.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "武汉瑞康永创科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1-1",
+      "category": "货物/设备/信息化设备/其他信息化设备",
+      "item_name": "数据治理与指标管理系统",
+      "brand": "瑞康永创",
+      "model": "V1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1527000.0,
+      "total_price": 1527000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-2",
+      "category": "货物/设备/信息化设备/存储设备/其他存储设备",
+      "item_name": "内存条",
+      "brand": "江波龙",
+      "model": "32GB/2RX4/DDR4/RDIMM内存",
+      "quantity": 16,
+      "unit": "条",
+      "unit_price": 5880.0,
+      "total_price": 94080.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "武汉瑞康永创科技发展有限公司",
+      "role": "winner",
+      "total_score": 96.15,
+      "rank": 1,
+      "amount": 1621080.0
+    },
+    {
+      "package_no": null,
+      "name": "南京云麦尚博信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.12,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "湖北冠医云科技有限公司",
+      "role": "participant",
+      "total_score": 64.64,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广州火龙果信息科技有限公司",
+      "role": "participant",
+      "total_score": 63.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

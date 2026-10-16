@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27115503",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件无报价明细：「最终报价.pdf」仅一句\"最终报价同首次报价同比例下调\"，「报酬表.pdf」为专家劳务报酬表。HTML标的信息表金额(元)列空，quantity/unit_price按规范不填；total_price按该唯一标的对应包的中标金额446500.00元填入并在此声明。品目取HTML标的信息表\"品目编号及品目名称\"列\"通用应用软件开发服务\"（概要品目列为空）。HTML评分表得分排名列空白，所有rank=null；包号\"1\"来自公告标题\"（采购包1）\"。",
+  "project": {
+    "buyer": "济南职业学院",
+    "project_name": "济南职业学院学工系统学生评价体系建设项目",
+    "total_amount": 446500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "江苏金智教育信息股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "通用应用软件开发服务",
+      "item_name": "济南职业学院学工系统学生评价体系建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 446500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏金智教育信息股份有限公司",
+      "role": "winner",
+      "total_score": 85.85,
+      "rank": null,
+      "amount": 446500.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南松澜信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华御信息技术有限公司",
+      "role": "participant",
+      "total_score": 68.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南龙耀信息科技有限公司",
+      "role": "participant",
+      "total_score": 64.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东天虹软件科技有限公司",
+      "role": "participant",
+      "total_score": 60.22,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

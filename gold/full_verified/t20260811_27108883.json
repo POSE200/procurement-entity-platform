@@ -1,0 +1,106 @@
+{
+  "announcement_id": "t20260811_27108883",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,专家支付表.pdf",
+  "note": "金额分歧已定案：附件投标（响应）报价明细表的投标报价149,800元（大写壹拾肆万玖仟捌佰元整，文本层非OCR错字）系竞争性磋商前报价，成交金额以HTML三处一致值41,800元为准（总中标金额4.18万、表格1中标金额41,800.00元、专家支付表中标成交金额4.18万元），系磋商后降价成交；total_amount与item总价按41,800元取值；item单价41,800由成交金额÷数量1套唯一互推（数量1套为HTML表格2明示）。品牌/规格型号HTML写『详见附件』，已从报价明细表填出（心际空间/A1-300S；OCR断行作'A1-3 00S'，按断行重组为A1-300S）。评分表综合得分有值但得分排名列全空，故所有rank=null（禁止中标即第1推定）；山东佳树医疗科技有限公司仅出现在未中标原因表（符合性审查未通过），无得分，照录为participant。",
+  "project": {
+    "buyer": "山东省第二人民医院（山东省耳鼻喉医院、山东省耳鼻喉研究所）",
+    "project_name": "山东省第二人民医院心理测评系统采购项目",
+    "total_amount": 41800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "心理测评系统",
+        "winner": "北京心际空间管理咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "心理测评系统",
+      "brand": "心际空间",
+      "model": "A1-300S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 41800.0,
+      "total_price": 41800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京心际空间管理咨询有限公司",
+      "role": "winner",
+      "total_score": 93.33,
+      "rank": null,
+      "amount": 41800.0
+    },
+    {
+      "package_no": "1",
+      "name": "厦门小包科技有限公司",
+      "role": "participant",
+      "total_score": 78.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海北辰软件股份有限公司",
+      "role": "participant",
+      "total_score": 75.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海子帆软件有限公司",
+      "role": "participant",
+      "total_score": 68.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京正心卓越科技有限公司",
+      "role": "participant",
+      "total_score": 68.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东思正信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南一悟科技有限公司",
+      "role": "participant",
+      "total_score": 65.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东佳树医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

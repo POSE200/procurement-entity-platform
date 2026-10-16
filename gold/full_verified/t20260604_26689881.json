@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260604_26689881",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:关于符合本国产品标准的声明函.pdf",
+  "note": "三个标段各一家中标；供应商与标段的对应按HTML中标表序号1/2/3与标段序号1/2/3顺序推断（note声明），并有两处佐证：附件《本国产品声明函》中联通声明的产品（备用有线链路、互联网链路、移动警务专网、语音专线、350M专线）均为二标段内容；概要品目列空、标的信息表无品目名称列，category=null；每标段仅一条服务标的且只有包级报价，quantity/unit/unit_price=null，total_price=该标段中标报价；中标表未给排名列，rank一律null（序号为中标名单顺序不作排名）；矛盾点：总中标金额￥935.530000万(9,355,300元)与三标段报价之和9,355,280元(6815280+2000000+540000)相差20元，疑为概要页四舍五入，不改原文，需视觉核验；bidders仅中标人3条，无未中标名单。复核修正：总中标金额￥935.530000万元在包内表格0原文即为该值（非OCR疑点），20元差额系公告自身矛盾，按规范第11条不改原文值、以note记录；序号映射另获《本国产品声明函》佐证（联通声明产品均为二标段内容）；确认verified。",
+  "project": {
+    "buyer": "乌鲁木齐市公安局（本级）",
+    "project_name": "市属单位2026年度通信链路服务租用项目",
+    "total_amount": 9355300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市属单位有线链路租用",
+        "winner": "中国移动通信集团新疆有限公司乌鲁木齐市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "市属单位备用链路租用及固网通信服务租用项目",
+        "winner": "中国联合网络通信有限公司乌鲁木齐市分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "市属单位无线链路数据卡服务租用项目",
+        "winner": "中国电信股份有限公司乌鲁木齐分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "市属单位2026年度通信链路服务租用项目一标段（市属单位主用有线链路租用服务项目）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6815280.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "市属单位 2026 年度通信链路服务租用项目二标段（市属单位备用有线链路及固网通信服务租用服务项目）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2000000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "市属单位2026年度通信链路服务租用项目三标段（市属单位物联网数据卡服务租用项目）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 540000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团新疆有限公司乌鲁木齐市分公司",
+      "role": "winner",
+      "total_score": 98.86,
+      "rank": null,
+      "amount": 6815280.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司乌鲁木齐市分公司",
+      "role": "winner",
+      "total_score": 96.93,
+      "rank": null,
+      "amount": 2000000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司乌鲁木齐分公司",
+      "role": "winner",
+      "total_score": 98.43,
+      "rank": null,
+      "amount": 540000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260707_26890270",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司泰安分公司).pdf",
+  "note": "单包，包号'1'由附件目录'包1(视频监控设备)'及'合同包1'声明函文件名明示；HTML标的信息表品目号/品目编号及品目名称列均为空，category=null；item_name取附件报价明细表货物名称（比HTML'采购标的'列更细），品牌/规格型号HTML表2与附件一致；5条明细合计606100+5800+107000+8400+10500=737800元与总中标金额一致；评分表4家供应商的'得分排名/推荐排名'列均为空，rank=null。",
+  "project": {
+    "buyer": "肥城市公安局本级",
+    "project_name": "山东省泰安市肥城市公安局高点监控设备采购",
+    "total_amount": 737800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "视频监控设备",
+        "winner": "中国移动通信集团山东有限公司泰安分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "高点全景监控设备",
+      "brand": "大华",
+      "model": "DH-PSDW812ZMSJ-A270",
+      "quantity": 22,
+      "unit": "套",
+      "unit_price": 27550.0,
+      "total_price": 606100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "普通球机监控设备",
+      "brand": "大华",
+      "model": "DH-SDT-5X2433-ZM-TG",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5800.0,
+      "total_price": 5800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "云存储节点",
+      "brand": "大华",
+      "model": "DH-CSS7436S-VR",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 107000.0,
+      "total_price": 107000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "视频网",
+      "brand": "移动",
+      "model": "定制",
+      "quantity": 14,
+      "unit": "条",
+      "unit_price": 600.0,
+      "total_price": 8400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "电费",
+      "brand": "国网山东省电力公司肥城市供电公司",
+      "model": "商业用电",
+      "quantity": 1,
+      "unit": "年",
+      "unit_price": 10500.0,
+      "total_price": 10500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司泰安分公司",
+      "role": "winner",
+      "total_score": 95.41,
+      "rank": null,
+      "amount": 737800.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安益森网络科技有限公司",
+      "role": "participant",
+      "total_score": 68.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "泰安惠美网络有限公司",
+      "role": "participant",
+      "total_score": 63.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司泰安市分公司",
+      "role": "participant",
+      "total_score": 82.65,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

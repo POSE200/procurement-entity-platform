@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260606_26700713",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，原文无明示包号（表格序号仅为行号），package_no=null。品目：概要列空、标的信息表无品目名称列，category=null。品牌列为「seewo、广州市」合并写法（品牌+产地），按语义取brand=seewo，产地广州市未单列字段。数量列仅数字41无计量单位，unit=null。金额矛盾：总中标金额栏￥119.990000万元=1,199,900元，而表格1投标总价及表格3明细合计均为1,199,865元（13600×41+2988×41+2826×41+981×41+2880×41+5990×41=1,199,865），差35元；total_amount按口径取总中标金额栏1199900.0，bidders.amount取投标总价1199865.0，原文对不上未改。rank原文未明示，null。",
+  "project": {
+    "buyer": "吉木萨尔县教育局",
+    "project_name": "2026年能力提升项目-智慧黑板采购",
+    "total_amount": 1199900.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "2026年能力提升项目-智慧黑板采购",
+        "winner": "新疆庭森智能信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "智慧黑板",
+      "brand": "seewo",
+      "model": "BH86ED",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 13600.0,
+      "total_price": 557600.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "多目观察摄像机",
+      "brand": "seewo",
+      "model": "SC12S",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 2988.0,
+      "total_price": 122508.0
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": null,
+      "item_name": "教师摄像机",
+      "brand": "seewo",
+      "model": "TC15",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 2826.0,
+      "total_price": 115866.0
+    },
+    {
+      "package_no": null,
+      "item_no": "4",
+      "category": null,
+      "item_name": "阵列麦克风",
+      "brand": "seewo",
+      "model": "MC16",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 981.0,
+      "total_price": 40221.0
+    },
+    {
+      "package_no": null,
+      "item_no": "5",
+      "category": null,
+      "item_name": "智能算力服务器",
+      "brand": "seewo",
+      "model": "DF16",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 2880.0,
+      "total_price": 118080.0
+    },
+    {
+      "package_no": null,
+      "item_no": "6",
+      "category": null,
+      "item_name": "智能反馈系统",
+      "brand": "seewo",
+      "model": "希沃课堂智能反馈系统V1.2.2",
+      "quantity": 41,
+      "unit": null,
+      "unit_price": 5990.0,
+      "total_price": 245590.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "新疆庭森智能信息技术有限公司",
+      "role": "winner",
+      "total_score": 96.35,
+      "rank": null,
+      "amount": 1199865.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

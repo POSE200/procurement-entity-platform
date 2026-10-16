@@ -1,0 +1,155 @@
+{
+  "announcement_id": "t20260803_27062992",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:山东交通职业学院2026年图书馆数字资源采购项目单一来源采购文件（SDGP37000000020260200629420260720001）.docx",
+  "note": "复核修正：packages的package_name统一按采购文件3.1'报价明细要求'补齐（原稿仅包1填、包2-6为null，口径不一致）。单一来源项目，采购文件明示6个采购包及预算：包1中国知网数据库(CNKI)、'中国知网科研人事论文诚信档案管理系统'175,000元、包2超星85,000元、包3中科40,000元、包4书香中国45,000元、包5素材资源库30,000元、包6信息素养25,000元。本成交公告仅有5条成交结果（包2-包6，与标的信息表品目号2-1至6-1一致），采购包1（中国知网CNKI）无成交结果，附件包(1)报价明细表为空白模板（响应报价空），疑似流标/未成交但原因原文未载，故packages保留包1且winner=null、不出item。包2-包6各项quantity=1宗（标的表数量列明示）、total_price为成交金额，unit_price由单价×数量唯一互推。表格3-5中'评审价格'（40500/27000/22500）为中小企业价格扣除后（×90%）的评审价，非成交金额，item/bidder amount均取中标（成交）金额。各评审表无综合得分列、得分排名列为空，total_score/rank=null。",
+  "project": {
+    "buyer": "山东交通职业学院",
+    "project_name": "山东交通职业学院2026年图书馆数字资源采购项目",
+    "total_amount": 225000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中国知网数据库(CNKI)、“中国知网科研人事论文诚信档案管理系统”",
+        "winner": null
+      },
+      {
+        "package_no": "2",
+        "package_name": "超星数字图书数据库",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "中科VIPExam考试学习资源数据库",
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "中文在线“书香中国”数据库",
+        "winner": "湖北中文在线数字出版有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "多媒体教学素材资源库",
+        "winner": "山东利申教育科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "高校信息素养教育数据库",
+        "winner": "北京智信数图科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他图书",
+      "item_name": "超星数字图书数据库",
+      "brand": "读秀",
+      "model": "V2.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他图书",
+      "item_name": "中科VIPExam考试学习资源数据库",
+      "brand": "中科",
+      "model": "V8.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他图书",
+      "item_name": "中文在线“书香中国”数据库",
+      "brand": "中文在线",
+      "model": "V2.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他图书",
+      "item_name": "多媒体教学素材资源库",
+      "brand": "乐学",
+      "model": "V2.1",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "其他图书",
+      "item_name": "高校信息素养教育数据库",
+      "brand": "智信",
+      "model": "v1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 85000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "4",
+      "name": "湖北中文在线数字出版有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 45000.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东利申教育科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 30000.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京智信数图科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 25000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

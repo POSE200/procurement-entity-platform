@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260511_26543776",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州交信投科技股份有限公司）.pdf",
+  "note": "单包（合同包1，包名称见代理服务费表）。品目取HTML标的信息表『品目名称』列=其他运行维护服务（公告概要品目列为空）；HTML标的信息表5条标的品目号均为1-1，item_no取附件报价明细的序号1-5（两表按服务名称一一对应）；数学自查153000×3+4779000+2657000+327000+1280000=9502000元，与中标金额9502000元一致；评分表得分排名列有明示值，rank照抄；3家未中标供应商的投标报价原文未给，amount=null；附件PDF有水印字符噪声，已按语义识别列内容。",
+  "project": {
+    "buyer": "广州市交通运输局",
+    "project_name": "广州市交通运输局2026-2027年信息化运维项目",
+    "total_amount": 9502000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市交通运输局2026-2027年信息化运维项目",
+        "winner": "广州交信投科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他运行维护服务",
+      "item_name": "网络行为管理设备采购服务",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "项",
+      "unit_price": 153000.0,
+      "total_price": 459000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他运行维护服务",
+      "item_name": "应用类系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4779000.0,
+      "total_price": 4779000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他运行维护服务",
+      "item_name": "网络通信维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2657000.0,
+      "total_price": 2657000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他运行维护服务",
+      "item_name": "基础运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 327000.0,
+      "total_price": 327000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他运行维护服务",
+      "item_name": "网络安全服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1280000.0,
+      "total_price": 1280000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州交信投科技股份有限公司",
+      "role": "winner",
+      "total_score": 86.7,
+      "rank": 1,
+      "amount": 9502000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 79.53,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州通易科技有限公司",
+      "role": "participant",
+      "total_score": 67.78,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州广府通信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.43,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

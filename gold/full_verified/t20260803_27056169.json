@@ -1,0 +1,147 @@
+{
+  "announcement_id": "t20260803_27056169",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市点易资讯科技有限公司）.pdf,合同包2：报价明细附件（广州中长康达信息技术有限公司）.pdf",
+  "note": "双包双中标：包1启智云AI集成平台建设项目（广州市点易资讯科技有限公司，1886016元）、包2智慧校园零代码轻应用部署平台建设项目（广州中长康达信息技术有限公司，672500元），之和2558516与HTML总中标金额一致。报价明细附件.zip被标记'跳过压缩/复合容器'，但解包后的两个报价明细PDF在附件内容中可见并已采用。广州市中智软件开发有限公司、广州数微信息科技有限公司同时参与两包，按G2每包各一条。各包得分排名/推荐排名列明示1-6/1-5，已照抄；第4名以后推荐排名为空则rank仍按得分排名列填写（该列为明示排名列）。",
+  "project": {
+    "buyer": "广东工贸职业技术学院",
+    "project_name": "广东工贸职业技术学院启智云平台AI中台建设项目",
+    "total_amount": 2558516.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东工贸职业技术学院启智云AI集成平台建设项目",
+        "winner": "广州市点易资讯科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广东工贸职业技术学院智慧校园零代码轻应用部署平台建设项目",
+        "winner": "广州中长康达信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "启智云AI集成平台建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1886016.0,
+      "total_price": 1886016.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件集成实施服务",
+      "item_name": "智慧校园零代码轻应用部署平台建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 672500.0,
+      "total_price": 672500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市点易资讯科技有限公司",
+      "role": "winner",
+      "total_score": 94.89,
+      "rank": 1,
+      "amount": 1886016.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州智算信息技术有限公司",
+      "role": "participant",
+      "total_score": 87.06,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市中智软件开发有限公司",
+      "role": "participant",
+      "total_score": 84.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州数微信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.44,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市华昕信息技术有限公司",
+      "role": "participant",
+      "total_score": 55.58,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州大业信息科技有限公司",
+      "role": "participant",
+      "total_score": 55.15,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州中长康达信息技术有限公司",
+      "role": "winner",
+      "total_score": 95.03,
+      "rank": 1,
+      "amount": 672500.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州市中智软件开发有限公司",
+      "role": "participant",
+      "total_score": 91.05,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州数微信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.89,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东乾铭信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.4,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东恒莱科技有限公司",
+      "role": "participant",
+      "total_score": 60.76,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

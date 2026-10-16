@@ -1,0 +1,116 @@
+{
+  "announcement_id": "t20260805_27080791",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（标题明示B包），package_no=B。item来自『投标（响应）报价明细表.pdf』：单价508,117.00元、数量1.0000、计量单位项、响应报价508,117.00元、最高限价509,140.59元，与HTML金额列及总中标金额￥50.8117万一致。**OCR疑点**：评审劳务报酬支付表中『中标成交金额』OCR为B包:508117.02（尾数02与508117.00矛盾），需视觉核验，本篇取508117.00。品目category取HTML『品目编号及品目名称』列『其他系统集成实施服务』。综合得分89.20/71.78/49.96有值但得分排名/推荐排名列原文空白，rank=null。未中标供应商报价原文未给。",
+  "project": {
+    "buyer": "汶上县公安局",
+    "project_name": "汶上县公安局天网运维工程项目B包",
+    "total_amount": 508117.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东润韩市政工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": "1-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "汶上县公安局天网运维工程项目B包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 508117.0,
+      "total_price": 508117.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东润韩市政工程有限公司",
+      "role": "winner",
+      "total_score": 89.2,
+      "rank": null,
+      "amount": 508117.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东九天建设工程有限公司",
+      "role": "participant",
+      "total_score": 71.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "菏泽金盾安防科技有限公司",
+      "role": "participant",
+      "total_score": 49.96,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "kind": "同一公告包号别名",
+            "groups": [
+              {
+                "canonical": "B",
+                "aliases": [
+                  "1"
+                ],
+                "evidence": [
+                  {
+                    "source": "原始公告HTML",
+                    "label": "结果表编号",
+                    "text": "、项目名称：汶上县公安局天网运维工程项目B包 三、采购结果 采购包1: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东润韩市政工程有限公司 山东省济宁市梁山县经济开发区综合楼一楼 508,117.00元 89.20 四、主要标的信息 采购包1(其他系统集成实施服务): 服务类（山东润韩市政工程有限公司） 品目号 品目编号及品目名称 采购标的 报价明细内容 服务范围 服务要求 服务时间 单位 服务标准 金额(元) 1-1 其他系统集成实施服务 汶上县公安局天网运维工程项目B包 汶上县公安局天网"
+                  },
+                  {
+                    "source": "原始公告HTML",
+                    "label": "项目/采购标的中的包标识",
+                    "text": "汶上县公安局天网运维工程项目B包结果公告 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source_package_aliases": [
+    {
+      "canonical": "B",
+      "aliases": [
+        "1"
+      ],
+      "evidence": [
+        {
+          "source": "原始公告HTML",
+          "label": "结果表编号",
+          "text": "、项目名称：汶上县公安局天网运维工程项目B包 三、采购结果 采购包1: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东润韩市政工程有限公司 山东省济宁市梁山县经济开发区综合楼一楼 508,117.00元 89.20 四、主要标的信息 采购包1(其他系统集成实施服务): 服务类（山东润韩市政工程有限公司） 品目号 品目编号及品目名称 采购标的 报价明细内容 服务范围 服务要求 服务时间 单位 服务标准 金额(元) 1-1 其他系统集成实施服务 汶上县公安局天网运维工程项目B包 汶上县公安局天网"
+        },
+        {
+          "source": "原始公告HTML",
+          "label": "项目/采购标的中的包标识",
+          "text": "汶上县公安局天网运维工程项目B包结果公告 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 "
+        }
+      ]
+    }
+  ]
+}

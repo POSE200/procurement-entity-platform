@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260701_26854892",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目。概要品目列为空且HTML无标的信息表品目名称列，category=null。package_no取中标情况表序号1（推断）。明细报价表4条无序号列，item_no=null，只有明细报价无数量/单价，quantity/unit/unit_price=null。4条明细之和=5181300=总中标金额，数学一致。排序列明示排名1-4，rank照抄。附件为专家支付费用表与中小企业声明函，不提供字段值。无OCR疑点。",
+  "project": {
+    "buyer": "青岛市城阳区卫生健康局",
+    "project_name": "区卫生健康局2026年度青岛市城阳区老年人健康管理信息化智能服务采购项目",
+    "total_amount": 5181300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "区卫生健康局2026年度青岛市城阳区老年人健康管理信息化智能服务采购项目",
+        "winner": "山东沐华医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "院内数字化基础服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 82000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "院内数字化整体服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1302000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "院外移动数字化整体服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2901300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "移动DR数字化专项服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 896000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东沐华医疗科技有限公司",
+      "role": "winner",
+      "total_score": 97.53,
+      "rank": 1,
+      "amount": 5181300.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛煜辰智联医疗科技有限公司",
+      "role": "participant",
+      "total_score": 78.92,
+      "rank": 2,
+      "amount": 5185580.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东威高诺润医学检验实验室有限公司",
+      "role": "participant",
+      "total_score": 70.92,
+      "rank": 3,
+      "amount": 5184300.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东鼎康生物科技有限公司",
+      "role": "participant",
+      "total_score": 69.3,
+      "rank": 4,
+      "amount": 4936000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

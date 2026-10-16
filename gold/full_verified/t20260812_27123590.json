@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27123590",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "本项目分包数量2个，本公告为B包成交公告（A包另见t20260812_27123587）；HTML报价明细表'数量/单位=1、报价804960.0'，与附件投标明细表B包报价804960元一致，quantity=1为原文值非推算，unit_price由单价×数量唯一互推（数量1已明示）；总得分为3名评委打分之和（原文照抄），无排名列；未中标供应商无投标报价信息。专家报酬表OCR'1包：11838662包：804960'连写疑为'1包：1183866 2包：804960'，其中B包804960已与HTML中标金额表及附件投标明细表双重印证。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "济南市公安局莱芜分局",
+    "project_name": "2026年莱芜区交管大队交通设施运维项目",
+    "total_amount": 804960.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": "文化路以东（含文化路）交通设施运维服务",
+        "winner": "山东大立电子工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "文化路以东（含文化路）交通设施运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 804960.0,
+      "total_price": 804960.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东大立电子工程有限公司",
+      "role": "winner",
+      "total_score": 277.6,
+      "rank": null,
+      "amount": 804960.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东中聪智能化工程有限公司",
+      "role": "participant",
+      "total_score": 243.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东飞沃瑞特网络工程有限公司",
+      "role": "participant",
+      "total_score": 234.57,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

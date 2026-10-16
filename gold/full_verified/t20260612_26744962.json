@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260612_26744962",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf,省级新闻媒体平台设置专题专栏项目招标文件（SDGP37000000020260200324220260519002）.docx",
+  "note": "本项目共5个包，本结果公告仅含采购包1、3、4（专家报酬表明示包2、包5废标）；包-供应商-金额对应关系由附件多重印证：中标单位业绩.pdf明示采购包1=大众日报、采购包3=齐鲁壹点，报价明细[2]公章大众日报50万、[1]公章齐鲁壹点15万，包4由公告标题（采购包1、3、4）与HTML三张中标表按顺序对应山东广播电视台30万（剩余法，业绩表未列包4），报价明细[3]金额30万与标的'应急时刻'专栏吻合；包名称取招标文件1.3节明示的采购包1/3/4名称；HTML标的表无金额列，单价/数量取自报价明细附件（单价50万/15万/30万，数量列OCR为'1.000 项 0'即1.0000(项)，三张明细表写法一致）；三包金额之和=950,000元=总中标金额，相符；评分表得分排名列空，rank=null；未中标主体及未成交原因取自HTML分包表。复核修正：package_no 1/3/4的package_name由null改为招标文件明示包名，gold_source相应补充招标文件.docx；数量/单位（1项）经三张报价明细表文本比对确认，移除原需视觉核验标记。需视觉核验：无。",
+  "project": {
+    "buyer": "山东省应急管理厅机关",
+    "project_name": "省级新闻媒体平台设置专题专栏项目",
+    "total_amount": 950000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省级报纸类媒体开设应急管理专题专栏",
+        "winner": "山东大众日报融媒传播有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "省级新闻媒体平台设置“应急为民”专题专栏",
+        "winner": "山东齐鲁壹点传媒有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "省级新闻媒体平台设置“应急时刻”专栏",
+        "winner": "山东广播电视台"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "公共公益宣传服务",
+      "item_name": "省级报纸类媒体开设应急管理专题专栏",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 500000.0,
+      "total_price": 500000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "公共公益宣传服务",
+      "item_name": "省级新闻媒体平台设置“应急为民”专题专栏",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "公共公益宣传服务",
+      "item_name": "省级新闻媒体平台设置“应急时刻”专栏",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东大众日报融媒传播有限公司",
+      "role": "winner",
+      "total_score": 88.7,
+      "rank": null,
+      "amount": 500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南东道展览展示有限公司",
+      "role": "participant",
+      "total_score": 80.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东优狩品牌策划有限公司",
+      "role": "participant",
+      "total_score": 79.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东齐鲁壹点传媒有限公司",
+      "role": "winner",
+      "total_score": 90.2,
+      "rank": null,
+      "amount": 150000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东达康文化传播有限公司",
+      "role": "participant",
+      "total_score": 81.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东卡农文化传媒有限公司",
+      "role": "participant",
+      "total_score": 81.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东广播电视台",
+      "role": "winner",
+      "total_score": 88.38,
+      "rank": null,
+      "amount": 300000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东创涵文化传播有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东久易聚星文化传播有限公司",
+      "role": "participant",
+      "total_score": 81.37,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

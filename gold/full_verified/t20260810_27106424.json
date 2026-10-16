@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260810_27106424",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司阳江分公司）.pdf",
+  "note": "概要品目列空，category取自HTML标的信息表品目名称列（其他航空器及其配套设备）；1-2品牌/规格型号列原文为\"按招标文件要求\"（非实际品牌型号，视为无有效线索）→brand/model=null；1-1标的名称\"△\"前缀为原文核心产品标记，原样保留；报价明细附件明示两行单价/数量/总价，588,000+1,920,280=2,508,280元=总中标金额，一致；未中标2家投标报价原文未给→amount=null",
+  "project": {
+    "buyer": "阳江市公安局",
+    "project_name": "阳江市公安局无人值守航空器系统项目",
+    "total_amount": 2508280.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "阳江市公安局无人值守航空器系统项目",
+        "winner": "中国移动通信集团广东有限公司阳江分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "△垂直起降固定翼无人机",
+      "brand": "纵横大鹏",
+      "model": "CW-15V",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 588000.0,
+      "total_price": 588000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他航空器及其配套设备",
+      "item_name": "阳江市公安局无人值守航空器系统项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 1920280.0,
+      "total_price": 1920280.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司阳江分公司",
+      "role": "winner",
+      "total_score": 97.0,
+      "rank": 1,
+      "amount": 2508280.0
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市光海科技有限公司",
+      "role": "participant",
+      "total_score": 65.98,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市新普佳系统集成有限公司",
+      "role": "participant",
+      "total_score": 42.28,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

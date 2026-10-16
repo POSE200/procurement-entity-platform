@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260707_26890415",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-机械工业出版社有限公司).pdf",
+  "note": "单包（附件文件名'包(1)'明示包号1）；HTML主要标的信息表的品目号/品目编号及品目名称列均为空，category=null；单价/数量/总价取自附件报价明细表，3条明细合计692000元与总中标金额一致；纸质教材出版单价64833.3333元为总价389000元除以6册的除得值（单价×数量=总价成立）；评分表'得分排名/推荐排名'列为空，rank=null；HTML表格2服务文字含OCR缺字（'?'占位），不影响金额字段。",
+  "project": {
+    "buyer": "鲁中职业学院",
+    "project_name": "山东省滨州市邹平市鲁中职业学院工程科技数字图书馆建设及教材出版服务项目",
+    "total_amount": 692000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "机械工业出版社有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "纸质教材出版",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "册",
+      "unit_price": 64833.3333,
+      "total_price": 389000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "数字教材",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 79500.0,
+      "total_price": 159000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "数字图书馆数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 144000.0,
+      "total_price": 144000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "机械工业出版社有限公司",
+      "role": "winner",
+      "total_score": 90.75,
+      "rank": null,
+      "amount": 692000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江西省赣江文化发展有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南齐鲁文苑教育实业有限公司",
+      "role": "participant",
+      "total_score": 69.65,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

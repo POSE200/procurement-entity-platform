@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260410_26384405",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-诚润科技股份有限公司).pdf,报价明细表(第1轮-中科启迪网络空间安全技术有限公司).pdf,报价明细表(第1轮-泰华智慧产业集团股份有限公司).pdf",
+  "note": "三个采购包（1、3、4），包2废标（专家支付表'包二：废标'，公告标题亦为'采购包1、3、4'）。包号取自附件声明函文件名（合同包1/合同包3）及证件得分表包号'四'、专家支付表'包一：29.5万元；包三：12.85万元；包四：25.68万元'。每包1条服务明细，单价/数量(1.0000项)/总价取自zip解包的各供应商报价明细表PDF；三包之和680,300元=总中标金额68.03万元。品目概要列与HTML'品目编号及品目名称'列均为空，category=null。评分表综合得分有值但得分排名、推荐排名列均为空，rank一律null。复核：3包金额之和=总中标金额，item与附件报价明细一致，10条bidder与评分表8/9/10一致，通过。",
+  "project": {
+    "buyer": "聊城市智慧城管指挥保障中心",
+    "project_name": "聊城市智慧城管平台软硬件维护项目",
+    "total_amount": 680300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "视频监控运维服务",
+        "winner": "诚润科技股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "网络安全运维服务",
+        "winner": "中科启迪网络空间安全技术有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "系统软件运维服务",
+        "winner": "泰华智慧产业集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "视频监控运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 295000.0,
+      "total_price": 295000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "网络安全运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 128500.0,
+      "total_price": 128500.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "1",
+      "category": null,
+      "item_name": "系统软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 256800.0,
+      "total_price": 256800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "诚润科技股份有限公司",
+      "role": "winner",
+      "total_score": 86.73,
+      "rank": null,
+      "amount": 295000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东新蔚蓝智能化工程有限公司",
+      "role": "participant",
+      "total_score": 71.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "长峰（山东）信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东丰乾信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中科启迪网络空间安全技术有限公司",
+      "role": "winner",
+      "total_score": 78.56,
+      "rank": null,
+      "amount": 128500.0
+    },
+    {
+      "package_no": "3",
+      "name": "聊城博润网络科技有限公司",
+      "role": "participant",
+      "total_score": 74.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "聊城市众辉信息科技有限公司",
+      "role": "participant",
+      "total_score": 70.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "泰华智慧产业集团股份有限公司",
+      "role": "winner",
+      "total_score": 85.63,
+      "rank": null,
+      "amount": 256800.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东政通科技发展有限公司",
+      "role": "participant",
+      "total_score": 79.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东竖仁建筑技术有限公司",
+      "role": "participant",
+      "total_score": 68.14,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

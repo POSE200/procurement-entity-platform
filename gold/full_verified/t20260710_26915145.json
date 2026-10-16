@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260710_26915145",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（工业和信息化部电子第五研究所）.pdf",
+  "note": "单价3,185,000元、数量1项、总价3,185,000元取自附件报价明细附件，单价×数量=总价一致且等于总中标金额￥318.5万元；品目名称取自HTML主要标的信息表品目名称列（其他运营服务）；bidders得分排名取自HTML评分表（明示得分排名列）；附件正文有水印字符混入文字但数值清晰。",
+  "project": {
+    "buyer": "广东省政务服务和数据管理局",
+    "project_name": "省数据资源“一网共享”平台数据安全监督检查服务（2025年）项目",
+    "total_amount": 3185000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省数据资源“一网共享”平台数据安全监督检查服务（2025年）项目",
+        "winner": "工业和信息化部电子第五研究所"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "数据安全第三方评估与常态化检查服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3185000.0,
+      "total_price": 3185000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "工业和信息化部电子第五研究所",
+      "role": "winner",
+      "total_score": 97.0,
+      "rank": 1,
+      "amount": 3185000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 71.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 66.69,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 58.65,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

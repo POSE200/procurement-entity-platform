@@ -1,0 +1,242 @@
+{
+  "announcement_id": "t20260407_26369575",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包项目（附件名'1包招标文件.pdf'、正文'第1包'，package_no=1，HTML未明示包号）。概要品目列空且无品目名称列，category=null。第2条item_name原文带'●'核心产品标记（●非名称组成部分，已去除）。15条明细数学自洽：各条单价×数量合计3,680,000=总中标金额368万元。rank取自评标结果表'排序'列（原文明示）；participant的amount取开标记录表投标报价。注意：招标文件预算金额3,900,000元为预算，非中标金额。",
+  "project": {
+    "buyer": "青岛市工业和信息化局",
+    "project_name": "青岛市边海无线电监测应用系统建设",
+    "total_amount": 3680000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛市边海无线电监测应用系统建设",
+        "winner": "成都大公博创信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据感知处理设备（GNSS专用监测接收机）",
+      "brand": "大公博创",
+      "model": "DG-I2701",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 140000.0,
+      "total_price": 1120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "海上多通道控守设备（VHF水上移动业务专用监测接收机）",
+      "brand": "大公博创",
+      "model": "DG-R2110",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 1600000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "GNSS专用监测天线",
+      "brand": "大公博创",
+      "model": "BT-760",
+      "quantity": 8,
+      "unit": "副",
+      "unit_price": 800.0,
+      "total_price": 6400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "VHF水上移动业务专用监测天线",
+      "brand": "大公博创",
+      "model": "TY-AIS",
+      "quantity": 8,
+      "unit": "副",
+      "unit_price": 950.0,
+      "total_price": 7600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "远程电源控制设备",
+      "brand": "特普瑞斯",
+      "model": "XC3007",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 1000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "配套附件",
+      "brand": "大公博创",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 8750.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "ADS-B接收机",
+      "brand": "亿思德",
+      "model": "EXD51-10LG",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 14000.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "海上VHF对讲信号监测子模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-IS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "水上业务频段的控守监测子模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-MS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "水上电磁态势管控子模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-ME",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "水上GNSS干扰信号监测子模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-MG",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "船舶AIS监测子模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-AIS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "边海监测数据库",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-DB",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 125000.0,
+      "total_price": 125000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据融合模块",
+      "brand": "大公博创",
+      "model": "DG-S9ASLCB-DF",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 135000.0,
+      "total_price": 135000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "边海监测应用数据分析设备",
+      "brand": "华北工控NORCO",
+      "model": "RPC-910",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都大公博创信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": 1,
+      "amount": 3680000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市瑞迅通信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.71,
+      "rank": 2,
+      "amount": 3899000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中天飞创电子技术有限公司",
+      "role": "participant",
+      "total_score": 69.6,
+      "rank": 3,
+      "amount": 3887200.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京波尔通信技术股份有限公司",
+      "role": "participant",
+      "total_score": 64.06,
+      "rank": 4,
+      "amount": 3826000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

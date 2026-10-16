@@ -1,0 +1,171 @@
+{
+  "announcement_id": "t20260609_26715648",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件正文.pdf",
+  "note": "原始HTML中标情况明确披露A包河南咕啦克科技有限公司2385000元、88分，B包重庆友一家医疗技术有限公司4998000元、87.28分；两包合计7383000元。B包完整包名及六条货物明细均在HTML；已有items总价为数量乘单价计算值，不因补充中标人而重复分摊包金额。rank未披露，保留null。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "郑州市中心医院",
+    "project_name": "郑州市中心医院国家创伤区域医疗中心体外膜肺氧和系统（ECMO）等10种设备采购项目",
+    "total_amount": 7383000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "郑州市中心医院国家创伤区域医疗中心体外膜肺氧和系统（ECMO）等10种设备采购项目A包",
+        "winner": "河南咕啦克科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "郑州市中心医院国家创伤区域医疗中心体外膜肺氧和系统（ECMO）等10种设备采购项目B包",
+        "winner": "重庆友一家医疗技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "体外膜肺氧和系统（ECMO）",
+      "brand": "迈柯唯",
+      "model": "Rotaflow II",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 980000.0,
+      "total_price": 980000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2",
+      "category": null,
+      "item_name": "床旁血滤机（连续型）",
+      "brand": "百特",
+      "model": "PrisMax CN",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 228000.0,
+      "total_price": 456000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "3",
+      "category": null,
+      "item_name": "心肺复苏仪",
+      "brand": "安保",
+      "model": "E5",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 109000.0,
+      "total_price": 109000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "4",
+      "category": null,
+      "item_name": "主动脉球囊反搏泵（IABP）",
+      "brand": "箭牌 Arrow",
+      "model": "IAP-0601",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 840000.0,
+      "total_price": 840000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "呼吸机（含跨肺压监测）",
+      "brand": "迈瑞",
+      "model": "SV850",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 291000.0,
+      "total_price": 582000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2",
+      "category": null,
+      "item_name": "核磁专用呼吸机",
+      "brand": "易世恒",
+      "model": "MR-V1",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 277000.0,
+      "total_price": 277000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "3",
+      "category": null,
+      "item_name": "呼吸机",
+      "brand": "迈瑞",
+      "model": "SV700S",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 229000.0,
+      "total_price": 3664000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "4",
+      "category": null,
+      "item_name": "转运呼吸机（有创）",
+      "brand": "迈瑞",
+      "model": "TV80",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 181000.0,
+      "total_price": 181000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "5",
+      "category": null,
+      "item_name": "高端无创呼吸机",
+      "brand": "迈瑞",
+      "model": "SV70",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "6",
+      "category": null,
+      "item_name": "无创呼吸湿化治疗仪",
+      "brand": "迈瑞",
+      "model": "NH9S",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 36000.0,
+      "total_price": 144000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "河南咕啦克科技有限公司",
+      "role": "winner",
+      "total_score": 88.0,
+      "rank": null,
+      "amount": 2385000.0
+    },
+    {
+      "package_no": "B",
+      "name": "重庆友一家医疗技术有限公司",
+      "role": "winner",
+      "amount": 4998000,
+      "total_score": 87.28,
+      "rank": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27101136",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "工程类修缮（比选）项目，无附件、无标的明细表：items仅一条总称记录，数量/单价无线索→null，total_price取单标的项目对应的总中标金额367332.29元；品目取自概要品目列完整路径'工程/其他建筑工程'；单包且全文无明示包号→package_no=null；中选供应商及综合得分/得分排名来自评审表（推荐排名同列照抄）；无投标报价金额→bidders.amount=null。",
+  "project": {
+    "buyer": "中国民用航空汕头空中交通管理站",
+    "project_name": "航管楼一楼活动室和二楼监控大厅修缮项目",
+    "total_amount": 367332.29,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "广东汇腾建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "工程/其他建筑工程",
+      "item_name": "航管楼一楼活动室和二楼监控大厅修缮项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 367332.29
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "广东汇腾建设工程有限公司",
+      "role": "winner",
+      "total_score": 97.39,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广东耀邦泰建设集团有限公司",
+      "role": "participant",
+      "total_score": 95.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "中筑建工（河南）集团有限公司",
+      "role": "participant",
+      "total_score": 77.44,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "中简建设集团有限公司",
+      "role": "participant",
+      "total_score": 69.7,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

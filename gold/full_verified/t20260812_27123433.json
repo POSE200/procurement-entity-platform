@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27123433",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东益友消防工程有限公司).pdf",
+  "note": "品目取自主要标的信息表品目名称列'消防设备维修和保养服务'；数量/单价来自中标供应商报价明细表（73500元×1项）；评分表'得分排名'列为空，按口径rank一律null。复核修正：劳务报酬表.png(OCR)采购人显示'滨州医学院附属医院'与HTML'山东医药大学附属医院'不一致一节，按规范buyer取自HTML'采购单位'行、劳务报酬表非取值来源，该差异不影响任何字段值，仅作信息性记录，无需视觉核验。",
+  "project": {
+    "buyer": "山东医药大学附属医院",
+    "project_name": "山东医药大学附属医院图书楼消防自动报警系统项目",
+    "total_amount": 73500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东益友消防工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "消防设备维修和保养服务",
+      "item_name": "山东医药大学附属医院图书楼消防自动报警系统维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 73500.0,
+      "total_price": 73500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东益友消防工程有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": null,
+      "amount": 73500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东桓建消防工程有限公司",
+      "role": "participant",
+      "total_score": 85.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中安（山东）消防技术服务有限公司",
+      "role": "participant",
+      "total_score": 81.58,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "announcement_id": "t20260807_27090746",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市优怡科技有限公司）.pdf",
+  "note": "合同包1单包，包名称取HTML代理服务费表『合同包名称』；26条明细逐条输出（附件与HTML标的表一致）；概要品目列为空，品目取HTML标的表『品目名称』列原样照抄；附件表头/单元格有大量水印字符污染（如『Z MD-900 C 台 平』『6- 2 0 2守门神』），规格型号与品牌按语义剥离水印后取值，需视觉核验水印剥离是否正确；26条总价合计1,295,500元与总中标金额￥129.55万一致；3家投标人排名取自评分表『得分排名』列。复核：HTML标的表26条干净值与附件剥离水印后的品牌/型号/单价/数量逐条一致（水印剥离已获HTML印证），合计与中标金额一致，无需视觉核验。",
+  "project": {
+    "buyer": "广州市交通技师学院（广州市交通高级技工学校）",
+    "project_name": "市交通技师学院智能装备制造与航空服务实训室建设（交通安检）项目",
+    "total_amount": 1295500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市交通技师学院智能装备制造与航空服务实训室建设（交通安检）项目",
+        "winner": "广州市优怡科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "安检通道闸机",
+      "brand": "世宝智",
+      "model": "FD-608",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教具",
+      "item_name": "手持金属探测器",
+      "brand": "守门神",
+      "model": "MD-900",
+      "quantity": 10,
+      "unit": "台",
+      "unit_price": 520.0,
+      "total_price": 5200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "金属探测门1",
+      "brand": "守门神",
+      "model": "SMS-B8000LCD",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "X射线货检安检机（双源双视角）",
+      "brand": "守门神",
+      "model": "SOMENS-100100D",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "台式痕量爆炸物毒品探测仪",
+      "brand": "守门神",
+      "model": "QN-ED600A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 130000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他信息化设备",
+      "item_name": "安检标签终端",
+      "brand": "光电通",
+      "model": "MP2620CDNW",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "教具",
+      "item_name": "安检站台1",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 260.0,
+      "total_price": 520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "教学仪器",
+      "item_name": "验证台",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7500.0,
+      "total_price": 7500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学仪器",
+      "item_name": "开包台",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1500.0,
+      "total_price": 1500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学仪器",
+      "item_name": "X射线机教学台架",
+      "brand": "守门神",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 123510.0,
+      "total_price": 123510.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学仪器",
+      "item_name": "金属探测门教学台架",
+      "brand": "守门神",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 39000.0,
+      "total_price": 39000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "教学仪器",
+      "item_name": "文具类炸药训练箱",
+      "brand": "珍新",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31500.0,
+      "total_price": 31500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "教学仪器",
+      "item_name": "办公类电子设备炸药训练箱",
+      "brand": "珍新",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31500.0,
+      "total_price": 31500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "教学仪器",
+      "item_name": "旅行类电子设备炸药训练箱",
+      "brand": "珍新",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31500.0,
+      "total_price": 31500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "教学仪器",
+      "item_name": "工具类炸药训练箱",
+      "brand": "珍新",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31500.0,
+      "total_price": 31500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "液体安检仪",
+      "brand": "守门神",
+      "model": "YTW-2000D",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 37950.0,
+      "total_price": 37950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "教学仪器",
+      "item_name": "危险物品展示台",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "应用软件",
+      "item_name": "安检X光图像实训系统",
+      "brand": "利君成",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "教具",
+      "item_name": "60*90亚克力宣传板",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 40,
+      "unit": "块",
+      "unit_price": 450.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "教学仪器",
+      "item_name": "X射线旅检安检机（双源双视角）",
+      "brand": "守门神",
+      "model": "SOMENS-6550D",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "教学仪器",
+      "item_name": "金属探测门2",
+      "brand": "守门神",
+      "model": "SMS-B8000LCD",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "教学仪器",
+      "item_name": "验证系统（人脸识别、登机牌扫描、身份证查验）",
+      "brand": "珍新",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "教具",
+      "item_name": "安检站台2",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 260.0,
+      "total_price": 520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-24",
+      "category": "教学仪器",
+      "item_name": "开包工作站",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7800.0,
+      "total_price": 7800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-25",
+      "category": "教学仪器",
+      "item_name": "安检通道物品传递台",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1500.0,
+      "total_price": 1500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-26",
+      "category": "教学仪器",
+      "item_name": "行李接包台",
+      "brand": "欣万尊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1500.0,
+      "total_price": 1500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市优怡科技有限公司",
+      "role": "winner",
+      "total_score": 84.82,
+      "rank": 1,
+      "amount": 1295500.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东仟御信息科技有限公司",
+      "role": "participant",
+      "total_score": 62.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市建璟科技有限公司",
+      "role": "participant",
+      "total_score": 51.38,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

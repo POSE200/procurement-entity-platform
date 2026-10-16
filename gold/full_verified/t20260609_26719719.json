@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260609_26719719",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东省测绘地理信息学会).pdf,报价明细表(第1轮-山东省测绘地理信息行业协会).pdf",
+  "note": "两包项目。包号推断依据：标的信息表品目号 1-1/2-1 前缀 + 两家报价明细附件服务名称与品目号内容一一对应（学会=全省注册测绘师服务→包1；协会=全省测绘统计与测绘地理信息信用体系试行技术服务→包2），与表格1/2 中标表顺序一致。表格5/6 分别为包1/包2 评审表（各表得分与中标公告得分匹配），得分排名/推荐排名列存在但值为空 → 所有 rank=null。两家报价明细均明示 单价=响应报价、数量 1.0000 项 → 单价×数量=总价。总中标金额 595,500 元 = 298,500+297,000，吻合。广州南方测绘科技股份有限公司仅出现在包1 评审表（包2 未参与）。需视觉核验：无重大疑点；评审表得分列（技术/商务等分项）原文为空。 复核修正：2026-09-23独立复核通过。",
+  "project": {
+    "buyer": "山东省国土测绘院",
+    "project_name": "山东省国土测绘院2026年省级基础测绘项目专业技术服务项目-测绘地理信息行业服务与全省注册测绘师服务项目",
+    "total_amount": 595500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东省测绘地理信息学会"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东省测绘地理信息行业协会"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "全省注册测绘师服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 298500.0,
+      "total_price": 298500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运行维护服务",
+      "item_name": "全省测绘统计与测绘地理信息信用体系试行技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 297000.0,
+      "total_price": 297000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东省测绘地理信息学会",
+      "role": "winner",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": 298500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省测绘地理信息行业协会",
+      "role": "participant",
+      "total_score": 71.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省地质测绘院",
+      "role": "participant",
+      "total_score": 70.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州南方测绘科技股份有限公司",
+      "role": "participant",
+      "total_score": 70.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省测绘地理信息行业协会",
+      "role": "winner",
+      "total_score": 90.66,
+      "rank": null,
+      "amount": 297000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东省地质测绘院",
+      "role": "participant",
+      "total_score": 82.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省测绘地理信息学会",
+      "role": "participant",
+      "total_score": 78.92,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

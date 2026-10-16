@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260806_27082334",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司).pdf,1.评审报告.pdf",
+  "note": "强制核对附件『报价明细表(第1轮-中国移动通信集团山东有限公司)』：9条明细合计817000元，与中标（成交）金额817,000.00元、总中标金额￥81.7万、报酬支付表81.7万一致，单价×数量全部吻合；HTML标的信息表与第1轮报价明细表逐条对应（品目号1-1-N↔序号N）；评审报告有排序列1-7且第2/3名明示为第二/第三成交候选人，rank据此填写；评审报告同时给出各供应商最终报价，已填入bidders.amount；附件OCR中『一视』『户外』为异体字（⼀/⼾），已归一为规范汉字；包号取自附件『包(1)_开标（报价）一览表』及案例一览表『项目包号：采购包1』明示的包1；品目取自标的信息表『品目编号及品目名称』列。",
+  "project": {
+    "buyer": "枣庄职业学院",
+    "project_name": "枣庄职业学院智能制造专业群学生素养提升与健康监测建设采购项目",
+    "total_amount": 817000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他体育设备设施",
+      "item_name": "智慧体质健康数据系统",
+      "brand": "一视",
+      "model": "YSS-SSS-X100、智慧体育校级数据系统V2.0、智慧体育自助体侧数据平台V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他体育设备设施",
+      "item_name": "身高体重测试一体机",
+      "brand": "一视",
+      "model": "YSH-BMI-X200",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 15800.0,
+      "total_price": 31600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他体育设备设施",
+      "item_name": "肺活量测试一体机",
+      "brand": "一视",
+      "model": "YSH-VC-X200",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 16800.0,
+      "total_price": 33600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他体育设备设施",
+      "item_name": "立定跳远测试设备",
+      "brand": "一视",
+      "model": "YSP-SLJ-X100、智慧体育立定跳远测评系统V2.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他体育设备设施",
+      "item_name": "坐位体前屈测试设备",
+      "brand": "一视",
+      "model": "YSP-SAR-X100、智慧体育坐位体前屈测评系统V2.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他体育设备设施",
+      "item_name": "仰卧起坐测试设备",
+      "brand": "一视",
+      "model": "YSP-SU-X100、智慧体育仰卧起坐测评系统V2.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他体育设备设施",
+      "item_name": "引体向上测试设备",
+      "brand": "一视",
+      "model": "YSP-PU-X100、智慧体育引体向上测评系统V2.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他体育设备设施",
+      "item_name": "跑步测试系统",
+      "brand": "一视",
+      "model": "YSP-50M-X100、智慧体育50米跑体育测评系统V2.0、YSP-MDR-X100、智慧体育100米跑测评系统V2.0、YSH-MDR-DSE-X100、YSP-SR-X100、阳光跑测评系统V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 213400.0,
+      "total_price": 213400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "其他体育设备设施",
+      "item_name": "风云榜户外教学屏",
+      "brand": "一视",
+      "model": "YSH-SS5-X100",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 47200.0,
+      "total_price": 94400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 85.8,
+      "rank": 1,
+      "amount": 817000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东睿泽志信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.56,
+      "rank": 2,
+      "amount": 819386.0
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄市飞达电器有限公司",
+      "role": "participant",
+      "total_score": 57.77,
+      "rank": 3,
+      "amount": 819500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东亿维数字科技有限公司",
+      "role": "participant",
+      "total_score": 55.74,
+      "rank": 4,
+      "amount": 589000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东网擎信息科技有限公司",
+      "role": "participant",
+      "total_score": 55.67,
+      "rank": 5,
+      "amount": 502600.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东诚合致捷信息工程有限公司",
+      "role": "participant",
+      "total_score": 52.87,
+      "rank": 6,
+      "amount": 510000.0
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄道克办公设备有限公司",
+      "role": "participant",
+      "total_score": 46.48,
+      "rank": 7,
+      "amount": 624000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

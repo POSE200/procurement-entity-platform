@@ -1,0 +1,120 @@
+{
+  "announcement_id": "t20260211_26169147",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "HTML正文明确披露A/B两包winner及四个未中标供应商，已按包补全bidders。各供应商括号内为逐评委分数，未披露综合得分或排名，不计算total_score或rank。包级唯一服务标的金额维持关联本包成交价。公告有附件链接，但本地file ZIP未提供该ID附件包；不能写为无附件。概要总金额0元与正文包价合计4015400元有冲突，该金额口径问题不属于本主体补丁，未改project.total_amount。 项目归一化总额已按两包成交金额合计修正为4015400元，原概要0另行保留。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "东营市生态环境局本级",
+    "project_name": "东营市环境空气质量自动监测站第三方运维服务项目",
+    "total_amount": 4015400.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "东营市环境空气质量自动监测站第三方运维服务项目A包",
+        "winner": "山东益源环保科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "东营市环境空气质量自动监测站第三方运维服务项目B包",
+        "winner": "山东智明环保工程有限公司"
+      }
+    ],
+    "total_amount_basis": {
+      "type": "computed_sum_awarded_packages",
+      "formula": "3477200.00 + 538200.00",
+      "decimal_result": "4015400.00",
+      "raw_overview": {
+        "value": 0,
+        "unit": "万元",
+        "display": "￥0.000000 万元（人民币）"
+      }
+    }
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "东营市环境空气质量自动监测站第三方运维服务项目A包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3477200.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "东营市环境空气质量自动监测站第三方运维服务项目B包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 538200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东益源环保科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3477200.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东智明环保工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 538200.0
+    },
+    {
+      "package_no": "A",
+      "name": "东营市阳光环保科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东公用环保集团检测运营有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东致合必拓环保科技股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东嘉创环保科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "概要0元与正文两包金额合计4015400元冲突；金额类问题交由主代理合并，未擅改project.total_amount。",
+      "本地file ZIP缺该ID附件包，未核验附件的分项金额或最终综合分；正文仅逐评委分数，禁止推算排名/总分。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

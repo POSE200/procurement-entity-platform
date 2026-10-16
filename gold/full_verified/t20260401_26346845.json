@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260401_26346845",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东雍朋智能科技有限公司）.pdf,合同包2：报价明细附件（广州昕达医疗科技有限公司）.pdf",
+  "note": "2个合同包（包1数字化乳腺机/包2全身骨密度仪，包号与包名见代理服务费表及附件文件名）；品目名称取HTML标的信息表'医用 X 线诊断设备'；附件报价明细与HTML一致（品牌圣诺/GE，型号Navigator Advance Care/ProdigyAdvance），原文品牌列混有水印字符已按语义剥离；1800000+1190000=2990000元与总中标金额一致；得分排名列有明示故rank照抄。",
+  "project": {
+    "buyer": "珠海市中西医结合医院",
+    "project_name": "珠海市中西医结合医院数字化乳腺机、全身骨密度仪采购项目",
+    "total_amount": 2990000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "数字化乳腺机",
+        "winner": "广东雍朋智能科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "全身骨密度仪",
+        "winner": "广州昕达医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "医用 X 线诊断设备",
+      "item_name": "数字化乳腺机",
+      "brand": "圣诺",
+      "model": "Navigator Advance Care",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1800000.0,
+      "total_price": 1800000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "医用 X 线诊断设备",
+      "item_name": "全身骨密度仪",
+      "brand": "GE",
+      "model": "ProdigyAdvance",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1190000.0,
+      "total_price": 1190000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东雍朋智能科技有限公司",
+      "role": "winner",
+      "total_score": 79.1,
+      "rank": 1,
+      "amount": 1800000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州昕达医疗科技有限公司",
+      "role": "participant",
+      "total_score": 75.42,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市爱迈佳贸易发展有限公司",
+      "role": "participant",
+      "total_score": 53.17,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州世纪康蓝医疗设备有限公司",
+      "role": "participant",
+      "total_score": 48.99,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州昕达医疗科技有限公司",
+      "role": "winner",
+      "total_score": 83.76,
+      "rank": 1,
+      "amount": 1190000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东省科控仪器设备有限公司",
+      "role": "participant",
+      "total_score": 81.52,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州世纪康蓝医疗设备有限公司",
+      "role": "participant",
+      "total_score": 61.41,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市爱迈佳贸易发展有限公司",
+      "role": "participant",
+      "total_score": 58.1,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

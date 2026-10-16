@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27066672",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "竞争性磋商成交公告，全文无采购包号，package_no=null；品目取概要品目列完整路径「服务/信息技术服务/其他信息技术服务」；仅一张服务标的表，无数量/单价线索，quantity/unit_price=null（总价796,000元即79.6万元成交金额）；未中标人 amount 取评审表「最终报价」列；评审表「最终排名」列明示，rank 据此填写；采购预算807,744元仅为磋商文件上限价，未填入任何字段。",
+  "project": {
+    "buyer": "珠海市消防救援支队",
+    "project_name": "珠海市消防救援支队及各大队2026年信息化系统外包维护服务项目",
+    "total_amount": 796000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "广东博思信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": "服务/信息技术服务/其他信息技术服务",
+      "item_name": "珠海市消防救援支队及各大队2026年信息化系统外包维护服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 796000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "广东博思信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 96.0,
+      "rank": 1,
+      "amount": 796000.0
+    },
+    {
+      "package_no": null,
+      "name": "广东亿网通科技有限公司",
+      "role": "participant",
+      "total_score": 85.9,
+      "rank": 2,
+      "amount": 804100.0
+    },
+    {
+      "package_no": null,
+      "name": "广东博涵信息科技有限公司",
+      "role": "participant",
+      "total_score": 44.68,
+      "rank": 3,
+      "amount": 802700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

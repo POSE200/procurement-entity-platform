@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27064685",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东众智聚美文化传播有限公司).pdf",
+  "note": "单包项目（采购包1）。附件报价明细表（第1轮-山东众智聚美文化传播有限公司）明示：最高限价200000元、单价198000元、数量1.0000项、响应报价198000.00元，与HTML中标金额198,000.00元及标的信息表金额列一致。category取HTML标的信息表'品目编号及品目名称'列'行业统计分析服务'。评审表得分排名列为空，rank=null。采购文件PDF仅前30页、14个docx容器被跳过（均为声明函/承诺函类，不影响取值字段）。",
+  "project": {
+    "buyer": "日照市文化和旅游局",
+    "project_name": "日照市旅游大数据应用分析项目",
+    "total_amount": 198000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东众智聚美文化传播有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业统计分析服务",
+      "item_name": "日照市旅游大数据应用分析项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 198000.0,
+      "total_price": 198000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东众智聚美文化传播有限公司",
+      "role": "winner",
+      "total_score": 94.01,
+      "rank": null,
+      "amount": 198000.0
+    },
+    {
+      "package_no": "1",
+      "name": "安徽越行科技信息咨询有限公司",
+      "role": "participant",
+      "total_score": 91.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东达因和华信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东数智道源数字科技有限公司",
+      "role": "participant",
+      "total_score": 82.96,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

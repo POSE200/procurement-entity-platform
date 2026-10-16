@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260608_26707846",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "ERR页/占位：总中标金额栏为￥0.000000万占位值，total_amount=null。唯一附件为采购文件（招标文件，仅前30页），不含任何中标结果、报价或明细，故金额/得分/排名全部不可得。5个包（表格1序号1-5，服务名称明示'包N'，且采购文件22.2条确认分包01-05），每包中标供应商见HTML表格1。items为5条按包的标的名记录，品牌/型号/数量/单价/总价均不可见填null；category取概要品目全路径（服务/信息技术服务/测试评估认证服务）。bidders仅5家中标人（公告未列未中标主体），rank禁止'中标即第1'推定填null。需视觉核验：无（本包无明细数据）。",
+  "project": {
+    "buyer": "中国网络安全审查认证和市场监管大数据中心",
+    "project_name": "2026年云平台及多云统管体系专业技术机构安全评价项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "评估项目专业技术机构安全评价包1",
+        "winner": "华北计算技术研究所（中国电子科技集团公司第十五研究所）"
+      },
+      {
+        "package_no": "2",
+        "package_name": "评估项目专业技术机构安全评价包2",
+        "winner": "中国电子技术标准化研究院（（工业和信息化部电子工业标准化研究院）（工业和信息化部电子第四研究院））"
+      },
+      {
+        "package_no": "3",
+        "package_name": "评估项目专业技术机构安全评价包3",
+        "winner": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）"
+      },
+      {
+        "package_no": "4",
+        "package_name": "评估项目专业技术机构安全评价包4",
+        "winner": "国家信息中心（国家电子政务外网管理中心）"
+      },
+      {
+        "package_no": "5",
+        "package_name": "评估项目专业技术机构安全评价包5",
+        "winner": "国家计算机网络与信息安全管理中心"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务/信息技术服务/测试评估认证服务",
+      "item_name": "评估项目专业技术机构安全评价包1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "服务/信息技术服务/测试评估认证服务",
+      "item_name": "评估项目专业技术机构安全评价包2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "服务/信息技术服务/测试评估认证服务",
+      "item_name": "评估项目专业技术机构安全评价包3",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": "服务/信息技术服务/测试评估认证服务",
+      "item_name": "评估项目专业技术机构安全评价包4",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": "服务/信息技术服务/测试评估认证服务",
+      "item_name": "评估项目专业技术机构安全评价包5",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "华北计算技术研究所（中国电子科技集团公司第十五研究所）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电子技术标准化研究院（（工业和信息化部电子工业标准化研究院）（工业和信息化部电子第四研究院））",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "国家信息中心（国家电子政务外网管理中心）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "国家计算机网络与信息安全管理中心",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

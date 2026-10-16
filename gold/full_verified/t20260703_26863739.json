@@ -1,0 +1,350 @@
+{
+  "announcement_id": "t20260703_26863739",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（山东新之筑信息科技有限公司）.pdf",
+  "note": "单包项目（合同包1，附件明示包号）。概要品目列空，category 取自 HTML 主要标的信息表品目名称列；1-23 文化展板为服务类条目，HTML 表3 金额栏为空，单价9,950×数量12=119,400 取自附件报价明细表。明细单价/数量/总价以附件报价明细表为准。各明细金额之和=2,393,300元，与总中标金额￥239.33万一致。需视觉核验：无重大疑点，附件OCR水印字（智采购、山东新之筑信...）已按语义剔除。复核：24条明细逐条核对、合计与评分表已独立验证，确认通过。",
+  "project": {
+    "buyer": "广州市城市建设职业学校",
+    "project_name": "广州市城市建设职业学校智能检测与监测产教融合实训基地采购项目",
+    "total_amount": 2393300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市城市建设职业学校智能检测与监测产教融合实训基地采购",
+        "winner": "山东新之筑信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "建筑工程仪器",
+      "item_name": "钢筋图像扫描仪",
+      "brand": "海创高科",
+      "model": "HC-GY91",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 22850.0,
+      "total_price": 91400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "建筑工程仪器",
+      "item_name": "一体式钢筋位置测定仪",
+      "brand": "海创高科",
+      "model": "HC-GY62",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 9700.0,
+      "total_price": 38800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "建筑工程仪器",
+      "item_name": "轻便式数字超声探伤仪",
+      "brand": "SIUI",
+      "model": "Smartor X1",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 41800.0,
+      "total_price": 83600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "建筑工程仪器",
+      "item_name": "数字式超声波探伤仪",
+      "brand": "汉威",
+      "model": "HS150",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 29500.0,
+      "total_price": 88500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "建筑工程仪器",
+      "item_name": "磁粉探伤仪",
+      "brand": "里博",
+      "model": "YQleeb60a",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 4900.0,
+      "total_price": 39200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "建筑工程仪器",
+      "item_name": "超声波测厚仪",
+      "brand": "里博",
+      "model": "YQleeb26",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 13600.0,
+      "total_price": 108800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "建筑工程仪器",
+      "item_name": "CNB300数显扭力扳手",
+      "brand": "东方准达",
+      "model": "CNB300",
+      "quantity": 2,
+      "unit": "把",
+      "unit_price": 2700.0,
+      "total_price": 5400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "建筑工程仪器",
+      "item_name": "CNB500数显扭力扳手",
+      "brand": "东方准达",
+      "model": "CNB500",
+      "quantity": 2,
+      "unit": "把",
+      "unit_price": 3750.0,
+      "total_price": 7500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "建筑工程仪器",
+      "item_name": "涂层测厚仪",
+      "brand": "里博",
+      "model": "YQleeb23E",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 4200.0,
+      "total_price": 33600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "建筑工程仪器",
+      "item_name": "提升力试块（45N）",
+      "brand": "里博",
+      "model": "N1",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 800.0,
+      "total_price": 1600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "建筑工程仪器",
+      "item_name": "B5型镀铬辐射裂纹考试块",
+      "brand": "里博",
+      "model": "B5",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 850.0,
+      "total_price": 1700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "建筑工程仪器",
+      "item_name": "B型镀铬试块",
+      "brand": "里博",
+      "model": "B3",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 490.0,
+      "total_price": 980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "建筑工程仪器",
+      "item_name": "CSK-IA标准试块",
+      "brand": "里博",
+      "model": "CSK-IA",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 1500.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "建筑工程仪器",
+      "item_name": "RB-2标准试块",
+      "brand": "里博",
+      "model": "RB-2",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 850.0,
+      "total_price": 1700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "建筑工程仪器",
+      "item_name": "钢结构综合测试试件",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 29500.0,
+      "total_price": 147500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "建筑工程仪器",
+      "item_name": "锚杆长度测试模型",
+      "brand": "升拓检测",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 960.0,
+      "total_price": 3840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "建筑工程仪器",
+      "item_name": "锚杆无损检测仪",
+      "brand": "升拓检测",
+      "model": "BE-WL",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 59600.0,
+      "total_price": 119200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "建筑工程仪器",
+      "item_name": "导热系数测定仪",
+      "brand": "优云谱",
+      "model": "YP-DR1-DY",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 27500.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "建筑工程仪器",
+      "item_name": "孔道灌浆模型",
+      "brand": "升拓检测",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2400.0,
+      "total_price": 9600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "建筑工程仪器",
+      "item_name": "孔道灌浆缺陷定位仪",
+      "brand": "升拓检测",
+      "model": "KE-WL",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 69500.0,
+      "total_price": 139000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "建筑工程仪器",
+      "item_name": "桥梁结构物联网监测系统",
+      "brand": "升拓检测",
+      "model": "SC-IOT-BS",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 232000.0,
+      "total_price": 464000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "图形工作站",
+      "item_name": "工作站",
+      "brand": "联想",
+      "model": "P368-C3E237",
+      "quantity": 60,
+      "unit": "套",
+      "unit_price": 13800.0,
+      "total_price": 828000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "广告宣传服务",
+      "item_name": "文化展板",
+      "brand": "定制",
+      "model": null,
+      "quantity": 12,
+      "unit": "套",
+      "unit_price": 9950.0,
+      "total_price": 119400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-24",
+      "category": "其他家具",
+      "item_name": "讲台",
+      "brand": "联存",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "张",
+      "unit_price": 990.0,
+      "total_price": 1980.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东新之筑信息科技有限公司",
+      "role": "winner",
+      "total_score": 90.53,
+      "rank": 1,
+      "amount": 2393300.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东盛哲科技有限公司",
+      "role": "participant",
+      "total_score": 70.05,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "杭州众冉鑫科技有限公司",
+      "role": "participant",
+      "total_score": 69.94,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东景辉信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.61,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

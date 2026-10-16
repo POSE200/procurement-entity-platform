@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260507_26519104",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国铁塔股份有限公司梅州市分公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（1-1软件运维服务，1-2~1-5其他航空器及其配套设备）。服务项1-1在HTML金额列为空，其单价/数量/总价（116,614元×1项）取自附件报价明细表。4条货物+1条服务总价合计1,096,000元=中标金额1,096,000.00元，数学一致。得分排名列明示（1/2/3），rank照抄。需视觉核验：附件报价明细OCR噪声较多（列名间夹水印字、序号列被拆散），规格型号DJI Matrice 4TD（中国版）SP Plus与Matrice 4E（中国版）SP Plus逐字符核对；服务项单价116,614的逗号位。",
+  "project": {
+    "buyer": "广东平远龙文－黄田省级自然保护区管理处",
+    "project_name": "广东平远龙文—黄田省级自然保护区“天空地一体化”监测网络体系建设项目",
+    "total_amount": 1096000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东平远龙文—黄田省级自然保护区“天空地一体化”监测网络体系建设",
+        "winner": "中国铁塔股份有限公司梅州市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广东平远龙文—黄田省级自然保护区“天空地一体化”监测网络体系建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 116614.0,
+      "total_price": 116614.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他航空器及其配套设备",
+      "item_name": "红外相机",
+      "brand": "优威",
+      "model": "UMQ2",
+      "quantity": 10,
+      "unit": "部",
+      "unit_price": 6791.0,
+      "total_price": 67910.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他航空器及其配套设备",
+      "item_name": "全自动无人机机库（含2台无人机）",
+      "brand": "大疆",
+      "model": "DJI Matrice 4TD（中国版）SP Plus",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 180100.0,
+      "total_price": 360200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他航空器及其配套设备",
+      "item_name": "小型巡护无人机",
+      "brand": "大疆",
+      "model": "Matrice 4E（中国版）SP Plus",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 43076.0,
+      "total_price": 86152.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他航空器及其配套设备",
+      "item_name": "无线自组网通信系统",
+      "brand": "优威",
+      "model": "UZB2",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 116281.0,
+      "total_price": 465124.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司梅州市分公司",
+      "role": "winner",
+      "total_score": 89.24,
+      "rank": 1,
+      "amount": 1096000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东振声科技集团有限公司",
+      "role": "participant",
+      "total_score": 60.4,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "梅州祺晟实业有限公司",
+      "role": "participant",
+      "total_score": 51.29,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

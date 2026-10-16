@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27069215",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（联通（广东）产业互联网有限公司）.pdf",
+  "note": "概要品目列为空，category 取标的信息表品目名称列「平台运营服务」；单价/数量/总价取自中标人报价明细附件（2,610,000元×1项）；OCR扫描件《中标供应商确定书》确认合同包1中标金额2,610,000元；两组联合体名称均原样保留；评审表得分排名列明示，rank 据此填写。",
+  "project": {
+    "buyer": "惠州市政务服务和数据管理局",
+    "project_name": "惠州市“百千万工程”数字化支撑体系（2026年）运营服务项目(二次)",
+    "total_amount": 2610000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "惠州市“百千万工程”数字化支撑体系（2026年）运营服务项目",
+        "winner": "联通（广东）产业互联网有限公司(联合体成员：广东泰一高新技术发展有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "惠州市“百千万工程”数字化支撑体系（2026年）运营服务：包含平台运营服务、数据运营服务、视频运营服务、无人机运营服务、数据安全运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2610000.0,
+      "total_price": 2610000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司(联合体成员：广东泰一高新技术发展有限公司)",
+      "role": "winner",
+      "total_score": 84.01,
+      "rank": 1,
+      "amount": 2610000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司(联合体成员：广东力航科技有限公司)",
+      "role": "participant",
+      "total_score": 61.86,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛云世纪信息科技有限公司",
+      "role": "participant",
+      "total_score": 42.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中科数能软件有限公司",
+      "role": "participant",
+      "total_score": 34.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

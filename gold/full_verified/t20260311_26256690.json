@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260311_26256690",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "ERR_PAGE: 合同包1：报价明细附件（广州市诚屹进出口有限公司）.pdf 为'系统正在维护中'错误页，附件明细不可得；items以HTML主要标的信息表2行为准。数学自查：447500×1=447500、497500×1=497500，合计945000元与总中标金额￥94.5万及中标金额945,000.00元一致。品目取品目名称列'其他分析仪器'（概要品目列空）。评分表中'佛山市众康药业有限公司.'末尾句点为表格抽取残留，公司名按'佛山市众康药业有限公司'填写。",
+  "project": {
+    "buyer": "佛山大学",
+    "project_name": "口腔医学智能创新研究平台(二次)",
+    "total_amount": 945000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "数字化口腔扫描智能终端",
+        "winner": "广州市诚屹进出口有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他分析仪器",
+      "item_name": "数字化口腔扫描智能终端1-口内扫描仪（口腔数字印模仪）",
+      "brand": "爱齐",
+      "model": "iTero Lumina Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 447500.0,
+      "total_price": 447500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他分析仪器",
+      "item_name": "数字化口腔扫描智能终端2-口腔数字化印模仪（口腔数字印模仪）",
+      "brand": "3Shape",
+      "model": "L1P-1F",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 497500.0,
+      "total_price": 497500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市诚屹进出口有限公司",
+      "role": "winner",
+      "total_score": 82.37,
+      "rank": 1,
+      "amount": 945000.0
+    },
+    {
+      "package_no": "1",
+      "name": "佛山远江医疗科技有限公司",
+      "role": "participant",
+      "total_score": 60.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市众康药业有限公司",
+      "role": "participant",
+      "total_score": 54.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市允星贸易有限公司",
+      "role": "participant",
+      "total_score": 50.84,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260807_27092880",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细附件.pdf",
+  "note": "HTML总中标金额栏为占位值『￥0.000000万元』，total_amount按口径置null；中标（成交）金额栏原文为『折扣率：95.00%』而非金额；中标人报价取附件报价明细附件：单价3,485,580.00×数量1(项)=总价3,485,580.00（含95%折扣），bidders.winner.amount=3485580.0即取该报价总价；合同包1单包；概要品目列为空，品目取HTML标的表『品目名称』列=档案管理服务；附件报价明细另含A/B类案件结算单价表（A类最高限价23.16元/宗、折扣后22.00元/宗；B类11.58元/宗、折扣后11.00元/宗），因无品目号、数量按实际工作量结算，未单列items；附件文本有大量水印字符穿插，需视觉核验3,485,580.00与折扣率95.00两处数值；7家投标人排名取自评分表『得分排名』列。复核：附件报价明细OCR文本中 3,485,580.00（单价/总价）与折扣率95.00 两处数值均清晰可辨，无需视觉核验；A/B类单价表无品目号、按工作量结算，维持不单列items。",
+  "project": {
+    "buyer": "佛山市顺德区人民法院",
+    "project_name": "佛山市顺德区人民法院2026-2027年历史档案数字化服务",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市顺德区人民法院2026-2027年历史档案数字化服务",
+        "winner": "深圳市实信达科技开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "档案管理服务",
+      "item_name": "佛山市顺德区人民法院2026-2027年历史档案数字化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3485580.0,
+      "total_price": 3485580.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市实信达科技开发有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": 1,
+      "amount": 3485580.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东创业科技有限公司",
+      "role": "participant",
+      "total_score": 88.75,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东力迅信息技术有限公司",
+      "role": "participant",
+      "total_score": 88.37,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "同略科技有限公司",
+      "role": "participant",
+      "total_score": 88.1,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东鼎华科技股份有限公司",
+      "role": "participant",
+      "total_score": 86.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京航星永志科技有限公司",
+      "role": "participant",
+      "total_score": 76.1,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市玖洲信息科技有限公司",
+      "role": "participant",
+      "total_score": 63.54,
+      "rank": 7,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

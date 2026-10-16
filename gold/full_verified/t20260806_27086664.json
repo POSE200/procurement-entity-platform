@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27086664",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1，包号见代理服务费表）。概要品目列空，category 取HTML标的表品目名称列'其他运行维护服务'。HTML标的表金额(元)列空，且附件仅有中小企业声明函（已OCR可见，无价格信息）、无报价明细附件，quantity/unit_price/total_price无线索留null；总中标金额820,000元即该唯一标的的成交金额，按口径不做数量/单价互推。得分排名列明示1/2/3（第3名笑云网络推荐排名为空），rank照抄。",
+  "project": {
+    "buyer": "广东省卫生健康委员会",
+    "project_name": "省卫生健康委财务信息系统运维运营及改造（2026年）项目",
+    "total_amount": 820000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "财务信息系统运维运营及改造（2026年）",
+        "winner": "武汉东方赛思软件股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "财务信息系统运维运营及改造（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "武汉东方赛思软件股份有限公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": 1,
+      "amount": 820000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州云念科技有限公司",
+      "role": "participant",
+      "total_score": 65.92,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州笑云网络科技有限公司",
+      "role": "participant",
+      "total_score": 63.94,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

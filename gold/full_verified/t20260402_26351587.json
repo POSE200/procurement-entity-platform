@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260402_26351587",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件-专项招标代理机构政府采购项目.pdf",
+  "note": "4个采购包，各包中标人取自HTML中标信息表（采购包1-4各一家），但各包中标金额原文未公布，仅有总中标金额11.8068万元，故各包/各bidders的amount为null。品目取公告概要品目列完整路径『服务/商务服务/采购代理服务』原样保留。每包数量1项取自附件招标文件分包表（数量列明示『1项』），单价/总价原文未给填null。无评分表/排名信息，bidders仅4家中标人，total_score/rank均为null。buyer以HTML概要『工业和信息化部』为准；附件招标文件封面载明采购人为『工业和信息化部规划司』，两者不一致已在此说明。附件招标文件仅解析前30页。",
+  "project": {
+    "buyer": "工业和信息化部",
+    "project_name": "专项招标代理机构政府采购",
+    "total_amount": 118068.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中招工业发展（北京）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中电商务（北京）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中钢招标有限责任公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "中化商务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务/商务服务/采购代理服务",
+      "item_name": "专项招标代理机构政府采购采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "服务/商务服务/采购代理服务",
+      "item_name": "专项招标代理机构政府采购采购包2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "服务/商务服务/采购代理服务",
+      "item_name": "专项招标代理机构政府采购采购包3",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": "服务/商务服务/采购代理服务",
+      "item_name": "专项招标代理机构政府采购采购包4",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中招工业发展（北京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中电商务（北京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中钢招标有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中化商务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

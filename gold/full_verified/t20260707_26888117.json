@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260707_26888117",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三包结果公告，各包仅一条标的（品目名称列均为森业经营与管理服务，取自 HTML 标的信息表，概要品目列空）；三包金额之和 283,700+200,000+200,000=683,700=总成交金额68.37万，核验一致。标的明细表无单价/数量列，quantity/unit_price 为 null（未做推算）。包1 候选人排序表中汉中欣鑫宸达园林绿化有限公司排序列为「0」，含义不明且非有效名次明示，rank 填 null（文本层清晰非 OCR 问题，null 为规范要求的保守取值）；其余 rank 取自「中标(成交)候选人排序」列（1/2/3 明示）。中华联合财产保险股份有限公司汉中中心支公司与安盟财产保险有限公司略阳支公司各参与两个包，按包分列两条。附件文件集为空白格式模板（报价表/标的清单均未填值），不提供真值字段。复核修正：去除原'排序0需视觉核验'待办。",
+  "project": {
+    "buyer": "略阳县湿地保护管理中心",
+    "project_name": "略阳县2026年度国家重点野生动物致害严重的陆生野生动物危害监测预警防控与补偿项目",
+    "total_amount": 683700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "野猪监测及防控",
+        "winner": "陕西农禾嘉农林发展有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "野生动物救助责任保险(8个镇)",
+        "winner": "安盟财产保险有限公司略阳支公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "野生动物救助责任保险(9个镇)",
+        "winner": "中华联合财产保险股份有限公司汉中中心支公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "森业经营与管理服务",
+      "item_name": "野猪监测及防控",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 283700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "森业经营与管理服务",
+      "item_name": "野生动物救助责任保险（8个镇）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "森业经营与管理服务",
+      "item_name": "野生动物救助责任保险（9个镇）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 200000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "陕西农禾嘉农林发展有限公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": 1,
+      "amount": 283700.0
+    },
+    {
+      "package_no": "1",
+      "name": "镇巴园毅农林科技有限责任公司",
+      "role": "participant",
+      "total_score": 76.76,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "汉中森拓农林发展有限公司",
+      "role": "participant",
+      "total_score": 75.73,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "汉中欣鑫宸达园林绿化有限公司",
+      "role": "participant",
+      "total_score": 71.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "安盟财产保险有限公司略阳支公司",
+      "role": "winner",
+      "total_score": 93.67,
+      "rank": 1,
+      "amount": 200000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中华联合财产保险股份有限公司汉中中心支公司",
+      "role": "participant",
+      "total_score": 90.58,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国人民财产保险股份有限公司汉中市分公司",
+      "role": "participant",
+      "total_score": 82.94,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中华联合财产保险股份有限公司汉中中心支公司",
+      "role": "winner",
+      "total_score": 92.82,
+      "rank": 1,
+      "amount": 200000.0
+    },
+    {
+      "package_no": "3",
+      "name": "安盟财产保险有限公司略阳支公司",
+      "role": "participant",
+      "total_score": 89.83,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国人民财产保险股份有限公司汉中市分公司",
+      "role": "participant",
+      "total_score": 84.61,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

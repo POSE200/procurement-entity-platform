@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260601_26665845",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单标项（无明示包号，按开标一览表子包1/中标表序号1推断package_no=1）；HTML主要标的信息表仅5行（标的名称为子系统名），无总价列，total_price按单价×数量互推并在note声明（第4行2台×93600=187200）；5行合计892016元≠中标金额1400000元，差额部分标的未在可见文本中列出（附件仅为招标文件模板，分项报价表为空白未填），金额对不上已按原文保留；品牌列带\"中国\"前缀（本国产品标记）照抄；除中标人外全文无其他投标主体及得分/排名，total_score/rank为null；品目列空category=null。",
+  "project": {
+    "buyer": "宁波大学附属妇女儿童医院",
+    "project_name": "宁波大学附属妇女儿童医院南北院区网络安全升级项目",
+    "total_amount": 1400000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "南北院区网络安全升级",
+        "winner": "宁波数汉科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "数据级容灾建设",
+      "brand": "中国美创",
+      "model": "数据级容灾建设服务",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 44000.0,
+      "total_price": 44000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "南北院数据库容灾系统",
+      "brand": "中国代维",
+      "model": "DPS 容灾系统",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 421200.0,
+      "total_price": 421200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "应用系统安全审计",
+      "brand": "中国美创",
+      "model": "API 安全监测与访问控制系统 V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 129168.0,
+      "total_price": 129168.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "负载均衡/流量编排",
+      "brand": "中国深信服",
+      "model": "AD-1000-GA150-S",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 93600.0,
+      "total_price": 187200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "北院安全产品扩容",
+      "brand": "中国天融信、中国绿盟",
+      "model": "网闸 NR-51220 万兆扩容板卡、网闸 NR-52220 万兆扩容板卡",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 110448.0,
+      "total_price": 110448.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁波数汉科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1400000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

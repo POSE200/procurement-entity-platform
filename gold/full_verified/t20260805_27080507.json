@@ -1,0 +1,238 @@
+{
+  "announcement_id": "t20260805_27080507",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "项目含包1、2、4、5、6（包3不在本公告，标题明示'采购包1、2、4、5、6'）。包-中标人对应：表1/2/3/4/5依次为包1/2/4/5/6（与品目号1-1/2-1/4-1/5-1/6-1及各包评分表得分交叉印证：盛铂88.67→包1、盛铂85.99→包2、立创85.00→包4、首捷86.67→包5、顺能84.34→包6）。五包中标金额之和=123860+76000+58300+192600+135000=585760元=总中标金额58.576万元，数学一致。items按HTML主要标的信息表每包一行填（品牌/规格型号/数量来自该表）；各包中标明细价格不可得：包(2)-(6)开标/报价明细表'因超长丢弃低密度文件'、报价明细表.docx(1)-(5)亦被丢弃、包(1)两表仅解析出表头，故unit_price=null，total_price取该包中标金额（假定主要标的信息表单行即该包全部标的，需视觉核验）。得分排名/推荐排名列均为空，未中标原因未明示名次，全部rank=null；未成交供应商投标报价不可得，amount=null。复核：主要标的信息表每包仅1个标的、结果表每包仅1个中标金额，total_price=该包中标金额为唯一一致解读（附件各包报价明细表因超长丢弃无法交叉核验，此口径已在note声明）；包5标的信息表model字段为长串'套/源启统一支付集成平台V7.0，源启医保支付服务平台v8.0'（原样照抄）。",
+  "project": {
+    "buyer": "山东第一医科大学附属眼科研究所",
+    "project_name": "山东第一医科大学附属眼科研究所2026年信息化项目（一）",
+    "total_amount": 585760.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛盛铂信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "青岛盛铂信息技术有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "青岛立创智信工贸有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "江苏首捷智能设备有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "山东顺能网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "交换设备",
+      "item_name": "核心交换机",
+      "brand": "H3C",
+      "model": "S7503X-M-G",
+      "quantity": 2.0,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": 123860.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "应用软件",
+      "item_name": "云WAF防火墙",
+      "brand": "山石网科",
+      "model": "SG-6000-WV04",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "应用软件",
+      "item_name": "麻醉临床信息系统扩容",
+      "brand": "DoCare",
+      "model": "V5.0",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 58300.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "应用软件",
+      "item_name": "自助机改造项目",
+      "brand": "武汉源启",
+      "model": "套/源启统一支付集成平台V7.0，源启医保支付服务平台v8.0",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 192600.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "应用软件",
+      "item_name": "智能体对接改造",
+      "brand": "顺能",
+      "model": "顺能数字门诊系统V1.0",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 135000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛盛铂信息技术有限公司",
+      "role": "winner",
+      "total_score": 88.67,
+      "rank": null,
+      "amount": 123860.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛海洋电子工程有限公司",
+      "role": "participant",
+      "total_score": 78.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛中科力天网络科技有限公司",
+      "role": "participant",
+      "total_score": 71.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛盛铂信息技术有限公司",
+      "role": "winner",
+      "total_score": 85.99,
+      "rank": null,
+      "amount": 76000.0
+    },
+    {
+      "package_no": "2",
+      "name": "青岛朗诚智能科技有限公司",
+      "role": "participant",
+      "total_score": 81.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东元宸信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "青岛立创智信工贸有限公司",
+      "role": "winner",
+      "total_score": 85.0,
+      "rank": null,
+      "amount": 58300.0
+    },
+    {
+      "package_no": "4",
+      "name": "青岛博康医疗器材贸易有限公司",
+      "role": "participant",
+      "total_score": 74.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东中皓嘉业商贸有限公司",
+      "role": "participant",
+      "total_score": 71.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "江苏首捷智能设备有限公司",
+      "role": "winner",
+      "total_score": 86.67,
+      "rank": null,
+      "amount": 192600.0
+    },
+    {
+      "package_no": "5",
+      "name": "济南康峻捷生物科技有限公司",
+      "role": "participant",
+      "total_score": 81.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "青岛新格奥信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东顺能网络科技有限公司",
+      "role": "winner",
+      "total_score": 84.34,
+      "rank": null,
+      "amount": 135000.0
+    },
+    {
+      "package_no": "6",
+      "name": "山东华信智慧科技有限公司",
+      "role": "participant",
+      "total_score": 83.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "青岛必应信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东德顺网络科技有限公司",
+      "role": "participant",
+      "total_score": 69.63,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

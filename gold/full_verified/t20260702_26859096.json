@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260702_26859096",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包金额之和2,497,600+744,990=3,242,590元恰等于总中标金额；items的品目号1-1/2-1分属包1/包2（品目号首位=包序，代理服务费表合同包名称佐证）；标的信息表仅给金额列，无数量/单价列，对应字段null（不推算quantity=1）；附件解包出的分项报价.docx、包(1)/(2)_标的清单.pdf、开标一览表均为空白格式模板，无明细可补；公告未附未中标供应商名单，bidders仅两名中标人。复核：两包金额/得分/品目号/包名（表格5佐证）已独立核对，附件报价模板确为空白，确认通过。",
+  "project": {
+    "buyer": "西安市不动产信息档案管理中心",
+    "project_name": "2026年资源规划系统档案电子化及装订整理服务项目",
+    "total_amount": 3242590.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "不动产档案电子化及装订整理",
+        "winner": "西安市房产测量事务所有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "资源规划行政档案管理",
+        "winner": "沈阳紫光启明软件技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "档案管理服务",
+      "item_name": "不动产档案电子化及装订整理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2497600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "档案管理服务",
+      "item_name": "资源规划行政档案管理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 744990.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "西安市房产测量事务所有限公司",
+      "role": "winner",
+      "total_score": 87.45,
+      "rank": null,
+      "amount": 2497600.0
+    },
+    {
+      "package_no": "2",
+      "name": "沈阳紫光启明软件技术有限公司",
+      "role": "winner",
+      "total_score": 89.35,
+      "rank": null,
+      "amount": 744990.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

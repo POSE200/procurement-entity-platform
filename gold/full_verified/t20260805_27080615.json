@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080615",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且标的信息表无品目名称列，category=null；本公告为该项目第2包（标的信息表名称列明示'第二包'，附件专家支付费用表亦显示分包2个：1包7498688.0元、2包4200500.0元），package_no='2'；rank 取自评分表'排序'列（原文明示）；participant 的 amount 取投标报价表报价；单条服务标仅一个明细报价总额，quantity/unit_price 不推算；total_amount 取本公告总中标金额（仅第2包），非项目全包总额。",
+  "project": {
+    "buyer": "崂山区电子政务和大数据中心",
+    "project_name": "新型智慧城市建设工程部分项目运维服务（智慧社区运维项目）",
+    "total_amount": 4200500.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "智慧社区（沙子口街道、中韩街道）项目运维服务",
+        "winner": "青岛海纳云智能系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "第二包：智慧社区（沙子口街道、中韩街道）项目运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 4200500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "青岛海纳云智能系统有限公司",
+      "role": "winner",
+      "total_score": 87.29,
+      "rank": 1,
+      "amount": 4200500.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东领讯鸿通智能科技有限公司",
+      "role": "participant",
+      "total_score": 49.0,
+      "rank": 2,
+      "amount": 4201000.0
+    },
+    {
+      "package_no": "2",
+      "name": "青岛蓝海通成信息技术有限公司",
+      "role": "participant",
+      "total_score": 48.85,
+      "rank": 3,
+      "amount": 4203000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

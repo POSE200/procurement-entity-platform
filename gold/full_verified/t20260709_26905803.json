@@ -1,0 +1,187 @@
+{
+  "announcement_id": "t20260709_26905803",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:一标段中小企业声明函.pdf,招标文件正文.pdf",
+  "note": "2个标段。中标金额462000.00元与标的信息表“机房统一运维管理平台”行总价一致，且附件一标段中小企业声明函表明“一标段：机房统一运维管理平台（重新招标）”、投标供应商为北京融汇画方科技有限公司、招标文件载明一标段预算/最高限价480000元，据此推断：一标段=北京融汇画方科技有限公司（462000元）、二标段=宁夏任我行软件科技有限公司（938999元，标的信息表其余7项硬件明细之和恰为938999）——包归属为推断（已声明），需视觉核验原网页确认两标段中标人对应关系。两包之和462000+938999=1400999=总中标金额￥140.099900万元。category取标的信息表“品目名称”列（其他网络设备/交换设备/路由器/其他机房辅助设备）；概要品目列为代码串未逐项对应，不采用。“品牌（如有）”列为品牌、型号合并列，按顿号拆分（如“华为、CloudEngineS5735-S48T4XE-V2”→品牌华为）；堡垒机型号原文为“见明细表”→model=null并说明；万兆网络交换机型号OCR空格异常“CloudE ngine S6730 - S48X6Q -V2”（疑为CloudEngine S6730-S48X6Q-V2）、内网扩容品牌/型号列均为“任我行”，均照抄待核验。序号列空→item_no=null。两张得分表归包为推断（各表最高分者=该包中标人：表格3融汇画方90.6→一标段、表格4任我行80.8→二标段）；无排名列或“第N中标候选人”，rank一律null；未中标主体amount=null。声明函为OCR件错字较多（如“科技程限公司”），不影响gold取值。终审核验：①包归属关系已在原始HTML+附件中闭合——HTML五、评审得分排名表明一标段名称为“机房统一运维管理平台（重新招标）”（融汇画方90.6分居首）、二标段为“内网网络设备采购（重新招标）”（任我行80.8分居首）；标的信息表“机房统一运维管理平台”行制造商=北京融汇画方科技有限公司、“内网扩容”行制造商=宁夏任我行软件科技有限公司；附件一标段中小企业声明函（渲染看图）明示“一标段：机房统一运维管理平台（重新招标）”投标供应商为北京融汇画方科技有限公司；附件一标段、二标段本国化产品声明及二标段投标价格明细表（渲染看图，第7-8页，宁夏任我行软件科技有限公司签章）7项货物合计938999元，与二标段中标金额938999.00完全一致——一标段=融汇画方462000、二标段=任我行938999确认无疑，二标段package_name已按原文补填。②型号看图核字：附件二标段价格明细表明示万兆网络交换机型号为CloudEngine S6730-S48X6Q-V2，HTML中“CloudE ngine S6730 - S48X6Q -V2”为文本层空格异常，已修正；堡垒机HTML型号列为“见明细表”，明细表明示为OSMSNX3-HH5100GM（单元格换行“OSMSNX/3-/HH5100/GM”拼接），已补填；声明函两处明示“画方网络准入管理系统NAM-ZX/V10.7”（带连字符），HTML“NAMZX”漏连字符，已修正；内网扩容HTML品牌/型号列均为“任我行”，附件明细表写“任我行、定制”，两源不一致，维持HTML标的信息表取值并在此记录。注：任务简报提到的“ThinkS tation P2Tower G2”经查不在本项目原文中（全文无ThinkS字样），应属其他公告的问题，本项目无此型号。462000+938999=1400999 与总中标金额￥140.099900万元一致，数学自查通过，status=verified。",
+  "project": {
+    "buyer": "宁夏回族自治区自然资源信息中心",
+    "project_name": "宁夏回族自治区自然资源信息中心自然资源云基础支撑体系建设项目 （2026年）一标段、二标段",
+    "total_amount": 1400999.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": "机房统一运维管理平台",
+        "winner": "北京融汇画方科技有限公司"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": "内网网络设备采购（重新招标）",
+        "winner": "宁夏任我行软件科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "其他网络设备",
+      "item_name": "内网扩容",
+      "brand": "任我行",
+      "model": "任我行",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 18000.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "交换设备",
+      "item_name": "千兆网络楼层交换机",
+      "brand": "华为",
+      "model": "CloudEngineS5735-S48T4XE-V2",
+      "quantity": 20,
+      "unit": null,
+      "unit_price": 8099.0,
+      "total_price": 161980.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "路由器",
+      "item_name": "路由器",
+      "brand": "华为",
+      "model": "NetEngineAR6710-H4T4X2Y7",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 62699.0,
+      "total_price": 62699.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "其他网络设备",
+      "item_name": "堡垒机",
+      "brand": "绿盟",
+      "model": "OSMSNX3-HH5100GM",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 141225.0,
+      "total_price": 141225.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "交换设备",
+      "item_name": "万兆网络交换机",
+      "brand": "华为",
+      "model": "CloudEngine S6730-S48X6Q-V2",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 45999.0,
+      "total_price": 183996.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "交换设备",
+      "item_name": "FC交换机",
+      "brand": "浪潮",
+      "model": "FS8500",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 91450.0,
+      "total_price": 365800.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "交换设备",
+      "item_name": "普通交换机",
+      "brand": "华为",
+      "model": "CloudEngineS5735-S24T4XE-V2",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 5299.0,
+      "total_price": 5299.0
+    },
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "其他机房辅助设备",
+      "item_name": "机房统一运维管理平台",
+      "brand": "画方科技",
+      "model": "画方网络准入管理系统 NAM-ZX/V10.7；画方网络交换机安全配置管理系统 V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 462000.0,
+      "total_price": 462000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "北京融汇画方科技有限公司",
+      "role": "winner",
+      "total_score": 90.6,
+      "rank": null,
+      "amount": 462000.0
+    },
+    {
+      "package_no": "一标段",
+      "name": "嘉迪伟智（北京）科技有限公司",
+      "role": "participant",
+      "total_score": 81.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "北京汇诚众信科技有限公司",
+      "role": "participant",
+      "total_score": 63.43,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏任我行软件科技有限公司",
+      "role": "winner",
+      "total_score": 80.8,
+      "rank": null,
+      "amount": 938999.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏通信规划设计院（有限责任公司）",
+      "role": "participant",
+      "total_score": 79.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏浩天软件技术有限公司",
+      "role": "participant",
+      "total_score": 72.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "宁夏世纪信通信息安全有限公司",
+      "role": "participant",
+      "total_score": 76.81,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

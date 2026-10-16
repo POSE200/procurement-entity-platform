@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260707_26890217",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国电信集团有限公司山东分公司).pdf",
+  "note": "单包（采购包1，package_no按HTML明示取'1'）；品目category取HTML主要标的信息表'品目名称'列（其他维修和保养服务），单价/数量/总价取自附件报价明细表；HTML品目号1-1-1~1-1-4与附件明细序号1~4按顺序对应；4条明细合计498000元与总中标金额一致；评分表'得分排名/推荐排名'列为空，rank=null。",
+  "project": {
+    "buyer": "山东教育电视台",
+    "project_name": "山东教育电视台2026年度教育数据中心通算资源服务项目",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国电信集团有限公司山东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "集中式存储服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他维修和保养服务",
+      "item_name": "虚拟化服务器服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他维修和保养服务",
+      "item_name": "虚拟化平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他维修和保养服务",
+      "item_name": "配套服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28000.0,
+      "total_price": 28000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信集团有限公司山东分公司",
+      "role": "winner",
+      "total_score": 91.33,
+      "rank": null,
+      "amount": 498000.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 82.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南柏滕电子科技有限公司",
+      "role": "participant",
+      "total_score": 79.95,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

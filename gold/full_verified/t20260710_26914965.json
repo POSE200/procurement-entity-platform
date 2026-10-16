@@ -1,0 +1,124 @@
+{
+  "announcement_id": "t20260710_26914965",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包2供应商评审情况表.pdf,包3供应商评审情况表.pdf,磋商文件（N510001202600154420260629002）.docx",
+  "note": "本项目共3个采购包（磋商文件明示包一/包二/包三）：包1=《采购与供应管理》AI数字教材建设（预算17万）但本公告未公布成交结果（无中标供应商、无评审情况表），packages保留该包且winner=null；包2/包3成交金额119,500+108,000=227,500=总成交金额￥22.75万，一致。包2/包3各含单一服务标的，将该包成交金额记为该标的total_price，但数量/单价/单位原文未给，均null（不许按1项反推单价）。HTML标的信息表响应报价列为模板渲染错误串（0}\\\" class=...），不可用。品目：概要品目列空，取标的信息表品目名称列『C02090000 教育课程研究与开发服务』原样照抄（含编号前缀）；包1标的品目取自磋商文件采购需求表同名品目。rank取自评审情况表『第一/第二/第三成交候选人』明示，参与者报价金额亦来自评审结果栏。需视觉核验：①评审情况表OCR为叠字样式但数值清晰；②包1是否另有终止/废标公告；③标的信息表响应报价原值。",
+  "project": {
+    "buyer": "四川邮电职业技术学院",
+    "project_name": "《采购与供应管理》AI数字教材建设、《创新创业财税通》智慧课程升级、《视觉营销》教材建设服务",
+    "total_amount": 227500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "《采购与供应管理》AI数字教材建设",
+        "winner": null
+      },
+      {
+        "package_no": "2",
+        "package_name": "《创新创业财税通》智慧课程升级",
+        "winner": "北京世纪超星信息技术发展有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "《视觉营销》数字教材建设服务",
+        "winner": "重庆大学电子音像出版社有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C02090000 教育课程研究与开发服务",
+      "item_name": "《采购与供应管理》AI数字教材建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C02090000 教育课程研究与开发服务",
+      "item_name": "《创新创业财税通》智慧课程升级",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 119500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C02090000 教育课程研究与开发服务",
+      "item_name": "《视觉营销》数字教材建设服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 108000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "北京世纪超星信息技术发展有限责任公司",
+      "role": "winner",
+      "total_score": 95.93,
+      "rank": 1,
+      "amount": 119500.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都新畅教育科技有限公司",
+      "role": "participant",
+      "total_score": 61.83,
+      "rank": 2,
+      "amount": 114550.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都恒吉通科技发展有限公司",
+      "role": "participant",
+      "total_score": 61.08,
+      "rank": 3,
+      "amount": 119600.0
+    },
+    {
+      "package_no": "3",
+      "name": "重庆大学电子音像出版社有限公司",
+      "role": "winner",
+      "total_score": 98.8,
+      "rank": 1,
+      "amount": 108000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川蓉言教育科技有限公司",
+      "role": "participant",
+      "total_score": 90.76,
+      "rank": 2,
+      "amount": 108500.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都智星达科技有限公司",
+      "role": "participant",
+      "total_score": 68.0,
+      "rank": 3,
+      "amount": 95000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260708_26898898",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）)([1]).pdf,报价明细表(第1轮-国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）)([2]).pdf,报价明细表(第1轮-山东省互联网传媒集团股份有限公司).pdf",
+  "note": "3个采购包。各包中标金额748,000+646,600+697,000=2,091,600元，与总中标金额￥209.16万元一致；国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）同时中包1、包2，bidders按包各写一条。品目列（公告概要）为空，category逐条取标的信息表「品目名称」列「公共公益宣传服务」。各包单条服务标的：数量1.0000、单位项、单价=响应报价，取自该包中标人报价明细表附件（包1报价明细为([2]).pdf网络安全和信息化人才招聘活动748000元，包2为([1]).pdf“网安e站”互动活动646600元，包3为山东省互联网传媒集团报价明细697000元；附件文件名([1])([2])顺序与包号不一致，按服务名称对应包号）。评审结果表「得分排名」列为空，所有rank=null。participant为另两家报价明细附件不存在，投标报价原文未披露，amount=null。需视觉核验：报价明细表服务范围/要求列OCR断行严重，本次仅取数值列，无影响。独立复核（0924）：三份报价明细数值列逐项核对无误，金额勾稽一致。",
+  "project": {
+    "buyer": "中共山东省委网络安全和信息化委员会办公室",
+    "project_name": "国家网络安全宣传周山东省重点活动",
+    "total_amount": 2091600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东省互联网传媒集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "公共公益宣传服务",
+      "item_name": "网络安全和信息化人才招聘活动",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 748000.0,
+      "total_price": 748000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "公共公益宣传服务",
+      "item_name": "“网安e站”互动活动",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 646600.0,
+      "total_price": 646600.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "公共公益宣传服务",
+      "item_name": "“齐鲁网安号”主题专列活动",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 697000.0,
+      "total_price": 697000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）",
+      "role": "winner",
+      "total_score": 90.95,
+      "rank": null,
+      "amount": 748000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东新一代标准化研究院有限公司",
+      "role": "participant",
+      "total_score": 73.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东青鸟工业互联网有限公司",
+      "role": "participant",
+      "total_score": 71.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）",
+      "role": "winner",
+      "total_score": 90.03,
+      "rank": null,
+      "amount": 646600.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京海博方舟视听文化发作有限公司",
+      "role": "participant",
+      "total_score": 82.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "名唐展览服务(上海)有限公司",
+      "role": "participant",
+      "total_score": 77.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东省互联网传媒集团股份有限公司",
+      "role": "winner",
+      "total_score": 90.99,
+      "rank": null,
+      "amount": 697000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东表里空间设计有限公司",
+      "role": "participant",
+      "total_score": 69.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东今视文化传媒有限公司",
+      "role": "participant",
+      "total_score": 68.64,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

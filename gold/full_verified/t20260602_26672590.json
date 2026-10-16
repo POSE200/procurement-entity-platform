@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260602_26672590",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "标的1-1的采购标的/品牌/规格型号原文均为占位文本'具体详情请见投标文件中《5.2.分项报价表》'，分项明细在投标文件中不可得（附件报价表同为此占位文本），item_name按原文照抄；附件型号/品牌列有水印字符（G、台平云等）已按语义剥离为DS-VM22S-C、海康威视；两明细之和866648+84520=951168元与总中标金额一致；需视觉核验：1-1占位文本是否确无更细标的名称。复核：附件处理声明显示2个附件均成功解析、无待OCR，报价明细附件内容即为该占位文本，确认无更细标的名称，全部字段核对无误。",
+  "project": {
+    "buyer": "广东省佛山监狱",
+    "project_name": "佛山监狱智能安防管理平台硬件采购项目",
+    "total_amount": 951168.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山监狱智能安防管理平台硬件采购项目",
+        "winner": "广州广佳信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息化设备",
+      "item_name": "具体详情请见投标文件中《5.2.分项报价表》",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 866648.0,
+      "total_price": 866648.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "服务器",
+      "item_name": "智能安防应用服务器",
+      "brand": "海康威视",
+      "model": "DS-VM22S-C",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 84520.0,
+      "total_price": 84520.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州广佳信息技术有限公司",
+      "role": "winner",
+      "total_score": 98.55,
+      "rank": 1,
+      "amount": 951168.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州腾大电子科技有限公司",
+      "role": "participant",
+      "total_score": 48.09,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州巨恒电子科技有限公司",
+      "role": "participant",
+      "total_score": 44.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州恩诺新信息科技有限公司",
+      "role": "participant",
+      "total_score": 43.01,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

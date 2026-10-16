@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260609_26714099",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一来源采购，3个合同包、每包仅1家供应商（无参与者名单）。package_no=1/2/3 取自 HTML 代理服务费表合同包号（附件开标记录表同名），package_name 取该表『齐齐哈尔市中级人民法院专网租赁（1包移动/2包联通/3包电信）』。三条服务标的：标的信息表只有金额列、无数量/单价列，按口径 quantity/unit/unit_price=null，total_price=金额列值；其中3-1（电信包888,000元）服务范围文字含两个子项——移动专网量子密信380点2026年度租费130,000元＋法院专网1000M mstp数据专线16条租费758,000元（合计888,000元），未拆分为两条item（原表为一行）。rank=1 取自表格8~10『得分排名』列（原文明示，同时推荐排名=1）；total_score 原文未给→null。293600+38400+888000=1,220,000=总成交金额122万，数学自洽。附件《报价明细附件.pdf》为未知类型跳过、内容不可见，但HTML标的信息表已给出全部金额。 复核修正：2026-09-23独立复核通过。",
+  "project": {
+    "buyer": "黑龙江省齐齐哈尔市中级人民法院",
+    "project_name": "齐齐哈尔市中级人民法院专网租赁",
+    "total_amount": 1220000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "齐齐哈尔市中级人民法院专网租赁（1包移动）",
+        "winner": "中国移动通信集团黑龙江有限公司齐齐哈尔分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "齐齐哈尔市中级人民法院专网租赁（2包联通）",
+        "winner": "中国联合网络通信有限公司齐齐哈尔市分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "齐齐哈尔市中级人民法院专网租赁（3包电信）",
+        "winner": "中国电信集团有限公司齐齐哈尔分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "网络接入服务",
+      "item_name": "专网租赁（移动）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 293600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "网络接入服务",
+      "item_name": "专网租赁（联通）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "网络接入服务",
+      "item_name": "专网租赁（电信）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 888000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团黑龙江有限公司齐齐哈尔分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 293600.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司齐齐哈尔市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 38400.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信集团有限公司齐齐哈尔分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 888000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

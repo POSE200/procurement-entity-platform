@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260708_26895964",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "原公告仅列出包1与包3两个合同包的中标结果（无包2结果，推测流标/废标，原文未说明，不作标注）：包1迈威（重庆）生物医药有限公司806,000元、包3四川联众康健科技有限公司246,000元，两包之和1,052,000元=总中标金额￥105.200000万，一致。bidders与排名取自附件供应商评审情况表：每包3家，评审结果栏明示第一/第二/第三中标候选人及其报价金额（竺先诚816,000/249,000元、平福809,000/249,500元为第二/第三候选人的投标报价，两家均同时参与两包，按包各列一条）；综合得分按各自行填写。category照抄标的信息表品目名称列「C16029900 其他系统集成实施服务」（含品目编号前缀，概要品目列空）。HTML标的信息表响应报价列被模板变量残留污染（值为「0}\" class=...」片段），无任何价格；包(1)_报价明细表与包(1)(2)(3)_报价表均为未填写的空白模板（{供应商响应}占位），故items的quantity/unit/unit_price/total_price全部null，包总价仅体现在bidders.amount。包1标的信息表3行的采购标的列相同，行间以服务范围区分（前置审方、合理用药系统/医院感染管理系统/手术麻醉系统），item_name取服务范围值并与空白报价明细表模板的(一)(二)(三)分项一致；item_no原文无序号，null。需视觉核验：包2缺失原因；评审表双字节重复OCR（序序号号等）已按语义解读。独立复核（0924）：两份评审情况表候选人/报价/得分/名次逐项核对无误；金额勾稽一致；包2缺失不影响任何gold字段取值；OCR双字节重复已按语义正确解读。",
+  "project": {
+    "buyer": "成都市金牛区沙河源社区卫生服务中心",
+    "project_name": "（金牛区第三人民医院）信息系统相关软件一批采购项目",
+    "total_amount": 1052000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "迈威（重庆）生物医药有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "四川联众康健科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "前置审方、合理用药系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "医院感染管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "手术麻醉系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "OA办公医疗协作系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "迈威（重庆）生物医药有限公司",
+      "role": "winner",
+      "total_score": 98.5,
+      "rank": 1,
+      "amount": 806000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川竺先诚医疗科技有限公司",
+      "role": "participant",
+      "total_score": 73.28,
+      "rank": 2,
+      "amount": 816000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都平福科技有限公司",
+      "role": "participant",
+      "total_score": 72.86,
+      "rank": 3,
+      "amount": 809000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川联众康健科技有限公司",
+      "role": "winner",
+      "total_score": 99.1,
+      "rank": 1,
+      "amount": 246000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川竺先诚医疗科技有限公司",
+      "role": "participant",
+      "total_score": 88.17,
+      "rank": 2,
+      "amount": 249000.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都平福科技有限公司",
+      "role": "participant",
+      "total_score": 79.54,
+      "rank": 3,
+      "amount": 249500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260812_27117225",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表.docx,二轮报价.jpg",
+  "note": "服务类单标项：报价明细表.docx仅一条总价191100.00元（税率6%），无线索推断quantity/unit_price，均null。品目列空，『服务类』为主要标的信息分节标题不算品目，category=null。包号取自投标报价表明示『包号：SDGP371100000202602000355-FW7111』。project_name照抄公告概要『经开区公安局公共安全视频监控运维服务项目』，与表格1项目名称（…运维保障项目）不一致，需视觉核验。评审专家支付表OCR疑点：预算金额19.7925万元、中标成交金额OCR为『19川万元』（疑为19.11万元），不影响total_amount（HTML明示191100.00元）。附件.rar跳过未解析（内容疑为业绩/资质文件）。复核修正：二轮报价.jpg表头虽错位但仅承载包号与总价191100，二者均与HTML/报价明细表交叉吻合，无未决视觉核验项。",
+  "project": {
+    "buyer": "日照市公安局日照经济技术开发区分局",
+    "project_name": "经开区公安局公共安全视频监控运维服务项目",
+    "total_amount": 191100.0,
+    "packages": [
+      {
+        "package_no": "SDGP371100000202602000355-FW7111",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司日照分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "SDGP371100000202602000355-FW7111",
+      "item_no": "1",
+      "category": null,
+      "item_name": "日照市公安局日照经济技术开发区分局公共安全视频监控运维保障",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 191100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "SDGP371100000202602000355-FW7111",
+      "name": "中国移动通信集团山东有限公司日照分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 191100.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

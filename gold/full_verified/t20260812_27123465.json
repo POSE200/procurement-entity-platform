@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27123465",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东渥盛信息科技有限公司).pdf",
+  "note": "强制检查项已核对：附件『报价明细表(第1轮-山东渥盛信息科技有限公司).pdf』解析文本存在，单价249500元/数量1.0000项/响应报价249500元，249500×1=249500，与总中标金额￥24.950000万元一致。品目取 HTML 标的信息表品目名称列『其他信息技术服务』（概要品目列空）。采购包号取标题『采购包1』。bidders 3 家均过审查；得分排名列空，且弘毅与安尔信并列73.66，原文未给名次，rank 全 null（未中标原因仅写『综合得分排名不是第一』，不构成明示排名）。主要标的信息表金额列为空，金额以附件为准。附件磋商文件 OCR 有叠字（如『竞竞争争』）不影响数值。",
+  "project": {
+    "buyer": "山东传媒职业学院",
+    "project_name": "山东传媒职业学院软件正版化项目",
+    "total_amount": 249500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东渥盛信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "软件正版化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 249500.0,
+      "total_price": 249500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东渥盛信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.99,
+      "rank": null,
+      "amount": 249500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东安尔信数字科技有限公司",
+      "role": "participant",
+      "total_score": 73.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "弘毅（山东）智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.66,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

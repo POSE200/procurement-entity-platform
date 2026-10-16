@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260509_26537553",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目取公告概要品目列完整路径「货物/设备/仪器仪表/教学仪器」原样保留；01包中标由附件「01包中小企业声明函（武汉中佳医疗）」锚定，02包由「02包本国产品承诺函（湖北人福）」锚定；HTML中标货物表只给单价无总价列，02包总价1626000及各包中标金额由单价×数量唯一推得（728000+542000×3=2354000与总中标金额一致）；本公告无评分/排名表，无未中标供应商名单，bidders仅两条winner记录且score/rank为null；附件为招标文件（仅前30页）与声明函/承诺函，无更多明细。",
+  "project": {
+    "buyer": "武汉大学",
+    "project_name": "武汉大学基础学科拔尖学生培养平台设备更新项目（2025）-3D互动教学虚拟导航台、数字化口内扫描仪采购项目",
+    "total_amount": 2354000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "3D互动教学虚拟导航台",
+        "winner": "武汉中佳医疗科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "数字化口内扫描仪",
+        "winner": "湖北人福医疗器械有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "3D互动教学虚拟导航台",
+      "brand": "3Dbody",
+      "model": "3Dbody-Edu-Table",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 728000.0,
+      "total_price": 728000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "2",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "数字化口内扫描仪",
+      "brand": "爱齐",
+      "model": "iTero Element 5D Plus",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 542000.0,
+      "total_price": 1626000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "武汉中佳医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 728000.0
+    },
+    {
+      "package_no": "02",
+      "name": "湖北人福医疗器械有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1626000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

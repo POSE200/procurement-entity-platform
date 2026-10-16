@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260612_26739556",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:（定稿）AIGC视觉创作全链路实训基地、人工智能通用实训室、智能应用创新开发实训基地及虚拟现实技术企业导师工作室工作站采购项目公开招标文件.pdf",
+  "note": "4个分标各1家中标：分标1广西千翔1,174,690元、分标2宇常科教1,135,680元、分标3崇高电子1,863,190元、分标4景跃科技197,850元。概要『总中标金额￥7.660000万元』（76,600元）小于任一分标总价，数学上不可能是总中标金额，判定为公告概要栏错误，total_amount取四分标总价之和4,371,410元（非OCR疑点，无需视觉核验）。package_no按招标文件『标项N（分标N）』与中标表序号1-4对应（附件本国产品声明函印证：宇常=分标2、崇高=分标3）。每分标1条明细，单价×数量=总价（55×21358=1,174,690、56×20280=1,135,680、86×21665=1,863,190、15×13190=197,850）数学一致。概要品目空且标的信息表无品目列，category=null。中标表无综合得分/排名列，total_score与rank=null。复核修正：经数学验证概要总中标金额为页面错误，移除原『需视觉核验』标记，status改verified。",
+  "project": {
+    "buyer": "广西工商职业技术学院",
+    "project_name": "AIGC视觉创作全链路实训基地、人工智能通用实训室、智能应用创新开发实训基地及虚拟现实技术企业导师工作室工作站采购项目",
+    "total_amount": 4371410.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "AIGC视觉创作全链路实训基地工作站采购项目",
+        "winner": "广西千翔科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "人工智能通用实训室图形工作站（二期）",
+        "winner": "广西南宁市宇常科教设备有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "智能应用创新开发实训基地（2间）工作站采购项目",
+        "winner": "广西崇高电子科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "虚拟现实技术企业导师工作室工作站采购项目",
+        "winner": "广西景跃科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "台式工作站",
+      "brand": "联想",
+      "model": "主机：ThinkStation P3 Tower，显示器：N27p",
+      "quantity": 55,
+      "unit": "台",
+      "unit_price": 21358.0,
+      "total_price": 1174690.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "图形工作站",
+      "brand": "主机品牌：联想、显示器品牌：联想来酷",
+      "model": "主机规格型号：ThinkStation P368-C4A310、显示器规格型号：M2729Q-R",
+      "quantity": 56,
+      "unit": "台",
+      "unit_price": 20280.0,
+      "total_price": 1135680.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "图形工作站",
+      "brand": "Lenovo（联想）",
+      "model": "主机型号：ThinkStation P2 Tower、显示器型号：TS27-40",
+      "quantity": 86,
+      "unit": "台",
+      "unit_price": 21665.0,
+      "total_price": 1863190.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": null,
+      "item_name": "工作站",
+      "brand": "联想",
+      "model": "T4900K-21IRR",
+      "quantity": 15,
+      "unit": "台",
+      "unit_price": 13190.0,
+      "total_price": 197850.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广西千翔科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1174690.0
+    },
+    {
+      "package_no": "2",
+      "name": "广西南宁市宇常科教设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1135680.0
+    },
+    {
+      "package_no": "3",
+      "name": "广西崇高电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1863190.0
+    },
+    {
+      "package_no": "4",
+      "name": "广西景跃科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 197850.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260212_26174259",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目概要列为空，category 取标的信息表『品目名称』列（其他通信设备）。品牌/规格型号列原文为『满足本项目磋商文件要求』，原样照抄未改。附件『合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf』被跳过，但 HTML 标的信息表已含 2 条明细：4320×86=371,520 元，两项合计 3,588,000 元与成交金额 358.8 万元一致。合同包号 1 明示。bidders 得分排名列明示，rank 照抄（第4名推荐排名空但得分排名=4）。",
+  "project": {
+    "buyer": "中山市公安局民众分局",
+    "project_name": "民众街道民众分局视频监控运维升级改造项目",
+    "total_amount": 3588000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "民众街道民众分局视频监控运维升级改造项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他通信设备",
+      "item_name": "民众街道民众分局视频监控运维升级改造项目",
+      "brand": "满足本项目磋商文件要求",
+      "model": "满足本项目磋商文件要求",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 3216480.0,
+      "total_price": 3216480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他通信设备",
+      "item_name": "400w高清智能球型摄像机",
+      "brand": "大华",
+      "model": "DH-SD-8A1XBCDE-XYZX-XXXX-XXXXXX",
+      "quantity": 86,
+      "unit": "台",
+      "unit_price": 4320.0,
+      "total_price": 371520.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 90.08,
+      "rank": 1,
+      "amount": 3588000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中山万鼎科技有限公司",
+      "role": "participant",
+      "total_score": 67.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 66.49,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东布恩网络有限公司",
+      "role": "participant",
+      "total_score": 36.33,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27123431",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空，category=null；package_no取自中标情况表序号'1'（推断，HTML无明示包号字母）；rank取自评分表'排序'列（原文明示）；三家投标主体报价取自投标报价表；服务类标的仅明细报价总额，quantity/unit_price无线索留null；附件为专家费用表与中小企业声明函，不含标的明细。",
+  "project": {
+    "buyer": "青岛市不动产登记中心",
+    "project_name": "市不动产登记中心所属软硬件系统年度维护服务项目",
+    "total_amount": 1355800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "硬件运维服务",
+        "winner": "青岛市房地产资源信息服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "市不动产登记中心所属软硬件系统年度维护服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1355800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛市房地产资源信息服务有限公司",
+      "role": "winner",
+      "total_score": 93.8,
+      "rank": 1,
+      "amount": 1355800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛交通科技信息有限公司",
+      "role": "participant",
+      "total_score": 64.2,
+      "rank": 2,
+      "amount": 1356000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东皓宇资讯有限公司",
+      "role": "participant",
+      "total_score": 53.4,
+      "rank": 3,
+      "amount": 1355920.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

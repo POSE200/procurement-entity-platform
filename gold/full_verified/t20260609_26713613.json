@@ -1,0 +1,480 @@
+{
+  "announcement_id": "t20260609_26713613",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "三合同包（包号1/2/3取自附件评审情况表及声明函文件名）。HTML 标的信息表的『响应报价』列为网页模板变量残留（无法解析出数值），附件包(1)(2)(3)_报价明细表/报价表均为空白模板，故各 item 的 total_price 按『单价×数量唯一互推』填出，三包分项之和（1,529,589 / 1,485,000 / 628,600）与各包中标金额完全一致，三包合计3,643,189=总中标金额364.3189万，数学自洽。category 原样照抄标的信息表『品目名称』列=A02020800 触控一体机（概要品目列空）。item 序号列原文没有→item_no=null。bidders 的 participant 名单及第二/第三中标候选人报价来自附件评审情况表：rank=2/3 为『第二/第三中标候选人』原文明示，通过审查但未进入候选名单的（包1四川精视代、成都数智凯创，包3成都广合恒昌、成都启源聚力）rank=null；数智凯创未通过符合性审查无报价；成交人 total_score 原文未给→null，其『评审价格』为扶持政策价格扣除后的价格（如包1为1,070,712.3元），amount 按中标金额填。OCR用字已规整（⻰→龙、⽴→立）。各item单价与数量取自HTML标的信息表原文（非OCR），三包分项之和与各包中标金额逐一相符，复核确认。 复核修正：2026-09-23独立复核——三个成交人在附件评审情况表中原文明示为“第一中标候选人”，按规范rank补填为1；原“需视觉核验”疑点消除（HTML直接可读+包金额总和验证）。",
+  "project": {
+    "buyer": "成都市金牛区教育局",
+    "project_name": "2026年新建校信息化教学设备(二次)",
+    "total_amount": 3643189.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川德盛兴光彩科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "四川吉庆鑫瑞科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "四川君美达物资有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "智慧黑板",
+      "brand": "GROUDCHAT",
+      "model": "XBB86200",
+      "quantity": 95,
+      "unit": "台",
+      "unit_price": 13365.0,
+      "total_price": 1269675.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "电子白板软件",
+      "brand": "GROUDCHAT",
+      "model": "鑫城电子白板软件V3.0",
+      "quantity": 95,
+      "unit": "套",
+      "unit_price": 1070.0,
+      "total_price": 101650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "算力终端",
+      "brand": "GROUDCHAT",
+      "model": "XCAI01",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 3980.0,
+      "total_price": 11940.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教师摄像机",
+      "brand": "GROUDCHAT",
+      "model": "XCXJC061T",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 630.0,
+      "total_price": 1890.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "学生摄像机",
+      "brand": "GROUDCHAT",
+      "model": "XCXJC061S",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 725.0,
+      "total_price": 2175.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "阵列拾音麦",
+      "brand": "GROUDCHAT",
+      "model": "XCMK061",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 558.0,
+      "total_price": 1674.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "分析系统",
+      "brand": "GROUDCHAT",
+      "model": "鑫城课堂智能反馈系统V1.0",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 4900.0,
+      "total_price": 14700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "展台",
+      "brand": "GROUDCHAT",
+      "model": "C6",
+      "quantity": 95,
+      "unit": "台",
+      "unit_price": 698.0,
+      "total_price": 66310.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "终端代理程序",
+      "brand": "GROUDCHAT",
+      "model": "鑫城管家软件系统V1.0",
+      "quantity": 95,
+      "unit": "套",
+      "unit_price": 490.0,
+      "total_price": 46550.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "集控管理系统",
+      "brand": "GROUDCHAT",
+      "model": "鑫城校园基座软件V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 13025.0,
+      "total_price": 13025.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "智慧黑板",
+      "brand": "科大讯飞",
+      "model": "BF86D",
+      "quantity": 85,
+      "unit": "台",
+      "unit_price": 13800.0,
+      "total_price": 1173000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "电子白板软件",
+      "brand": "科大讯飞",
+      "model": "皆成智能教学系统V5.0",
+      "quantity": 85,
+      "unit": "套",
+      "unit_price": 1100.0,
+      "total_price": 93500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "智能控制终端",
+      "brand": "科大讯飞",
+      "model": "JCPEN03",
+      "quantity": 85,
+      "unit": "套",
+      "unit_price": 280.0,
+      "total_price": 23800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教研版智慧黑板",
+      "brand": "seewo",
+      "model": "BH86EB-1A",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 14100.0,
+      "total_price": 70500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教研版电子白板软件",
+      "brand": "seewo",
+      "model": "视睿多媒体课件与展示系统",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 1140.0,
+      "total_price": 5700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教研管理系统",
+      "brand": "seewo",
+      "model": "希沃魔方软件V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2950.0,
+      "total_price": 2950.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "直播课堂软件",
+      "brand": "seewo",
+      "model": "希沃课堂智能反馈系统V1.0",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 590.0,
+      "total_price": 2950.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教师摄像机",
+      "brand": "seewo",
+      "model": "TC16",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 690.0,
+      "total_price": 3450.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "阵列拾音麦",
+      "brand": "seewo",
+      "model": "MC16",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 590.0,
+      "total_price": 2950.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "展台",
+      "brand": "seewo",
+      "model": "SC06A",
+      "quantity": 90,
+      "unit": "台",
+      "unit_price": 690.0,
+      "total_price": 62100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "终端代理程序",
+      "brand": "seewo",
+      "model": "希沃魔方-设备运维",
+      "quantity": 90,
+      "unit": "套",
+      "unit_price": 490.0,
+      "total_price": 44100.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "幼儿一体机",
+      "brand": "youboard",
+      "model": "TB-H7510",
+      "quantity": 39,
+      "unit": "台",
+      "unit_price": 8550.0,
+      "total_price": 333450.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "幼儿电子白板软件",
+      "brand": "youboard",
+      "model": "智能白板软件V1.0",
+      "quantity": 39,
+      "unit": "套",
+      "unit_price": 900.0,
+      "total_price": 35100.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "教学音箱",
+      "brand": "拓标",
+      "model": "TB-205X",
+      "quantity": 39,
+      "unit": "套",
+      "unit_price": 1500.0,
+      "total_price": 58500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "中小学触控一体机",
+      "brand": "youboard",
+      "model": "TB-H8610",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 9500.0,
+      "total_price": 152000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "电子白板软件",
+      "brand": "youboard",
+      "model": "智慧课堂软件V1.0",
+      "quantity": 16,
+      "unit": "套",
+      "unit_price": 1050.0,
+      "total_price": 16800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "一体机支架",
+      "brand": "拓标",
+      "model": "TBY-R12",
+      "quantity": 16,
+      "unit": "套",
+      "unit_price": 500.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "A02020800 触控一体机",
+      "item_name": "终端代理程序",
+      "brand": "youboard",
+      "model": "集中管理控制软件V1.0",
+      "quantity": 55,
+      "unit": "套",
+      "unit_price": 450.0,
+      "total_price": 24750.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川德盛兴光彩科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1529589.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川精视代智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川智信安达科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 1531670.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川华弘龙兴科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 1532850.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都数智凯创科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川吉庆鑫瑞科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1485000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川熙立科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 1492675.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川姬千变商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 1503700.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川君美达物资有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 628600.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都中创润和科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 646250.0
+    },
+    {
+      "package_no": "3",
+      "name": "西安易橙信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 657600.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都广合恒昌科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "成都启源聚力科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

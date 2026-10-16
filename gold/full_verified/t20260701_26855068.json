@@ -1,0 +1,728 @@
+{
+  "announcement_id": "t20260701_26855068",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "19个采购包，每包仅1家供应商且均为成交人（评审情况表只列中标人，无未中标名单）。同方知网数字科技有限公司中标第2、19两包，按口径每包各一条。19包成交金额之和=2569000=总中标金额256.9万，一致。品目取各包标的信息表品目名称列（互联网信息服务），item_no取品目号，item_name取采购标的。单行品目号的包（1/3/6/8/9/12/16/17/18/19）total_price=该包成交金额（唯一对应）；多行品目号的包（2/4/5/7/10/11/13/14/15）各行采购标的名相同、成交金额无法拆分到行，total_price=null。各包quantity/unit/unit_price原文未给，一律null。表格1~19评审价格列为落实扶持政策扣除后的评审价（多数恰为成交金额85%），非成交金额，未采用。得分排名列原文为空，rank/total_score=null。复核确认：第17包供应商名HTML原文尾部带“?”（页面污染字符），gold按“江苏华聿文化科技有限公司”录入，系去除噪声非改值。",
+  "project": {
+    "buyer": "山东石油化工学院",
+    "project_name": "山东石油化工学院2026年电子资源采购项目",
+    "total_amount": 2569000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "读者之星（天津）网络科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "重庆维普智图数据科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "山东数图科技有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": null,
+        "winner": "山东喻白信息技术有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": null,
+        "winner": "武汉鼎森电子科技有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": null,
+        "winner": "北京爱迪科森教育科技股份有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": null,
+        "winner": "济南旭林科技有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": null,
+        "winner": "济南昂融信息技术有限公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": null,
+        "winner": "北京布局未来科技发展有限公司"
+      },
+      {
+        "package_no": "13",
+        "package_name": null,
+        "winner": "山东启泰信远数据技术有限公司"
+      },
+      {
+        "package_no": "14",
+        "package_name": null,
+        "winner": "湖南纬度信息科技有限公司"
+      },
+      {
+        "package_no": "15",
+        "package_name": null,
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "16",
+        "package_name": null,
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "17",
+        "package_name": null,
+        "winner": "江苏华聿文化科技有限公司"
+      },
+      {
+        "package_no": "18",
+        "package_name": null,
+        "winner": "人民出版社"
+      },
+      {
+        "package_no": "19",
+        "package_name": null,
+        "winner": "同方知网数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "互联网信息服务",
+      "item_name": "读者之星阅读推广云服务数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 45440.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "互联网信息服务",
+      "item_name": "知网及科研成果查重",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "互联网信息服务",
+      "item_name": "知网及科研成果查重",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "互联网信息服务",
+      "item_name": "中国学术期刊数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1-1",
+      "category": "互联网信息服务",
+      "item_name": "维普知识资源系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1-2",
+      "category": "互联网信息服务",
+      "item_name": "维普知识资源系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-1",
+      "category": "互联网信息服务",
+      "item_name": "中科系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-2",
+      "category": "互联网信息服务",
+      "item_name": "中科系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-3",
+      "category": "互联网信息服务",
+      "item_name": "中科系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "互联网信息服务",
+      "item_name": "读报机系统数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 24800.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1-1",
+      "category": "互联网信息服务",
+      "item_name": "高校专业教学与通识素养综合数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1-2",
+      "category": "互联网信息服务",
+      "item_name": "高校专业教学与通识素养综合数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1-3",
+      "category": "互联网信息服务",
+      "item_name": "高校专业教学与通识素养综合数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "互联网信息服务",
+      "item_name": "博看AI书苑数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "互联网信息服务",
+      "item_name": "网上报告厅",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 57900.0
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1-1",
+      "category": "互联网信息服务",
+      "item_name": "考研及创课之星平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1-2",
+      "category": "互联网信息服务",
+      "item_name": "考研及创课之星平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1-1",
+      "category": "互联网信息服务",
+      "item_name": "国外文献整合平台及公考数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1-2",
+      "category": "互联网信息服务",
+      "item_name": "国外文献整合平台及公考数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "12",
+      "item_no": "12-1",
+      "category": "互联网信息服务",
+      "item_name": "新东方多媒体学习库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": "13-1-1",
+      "category": "互联网信息服务",
+      "item_name": "掌阅及人邮电子书平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "13",
+      "item_no": "13-1-2",
+      "category": "互联网信息服务",
+      "item_name": "掌阅及人邮电子书平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "14",
+      "item_no": "14-1-1",
+      "category": "互联网信息服务",
+      "item_name": "学科服务平台及学术资源在线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "14",
+      "item_no": "14-1-2",
+      "category": "互联网信息服务",
+      "item_name": "学科服务平台及学术资源在线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "14",
+      "item_no": "14-1-3",
+      "category": "互联网信息服务",
+      "item_name": "学科服务平台及学术资源在线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "14",
+      "item_no": "14-1-4",
+      "category": "互联网信息服务",
+      "item_name": "学科服务平台及学术资源在线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-1",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-2",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-3",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-4",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-5",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-6",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-7",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1-8",
+      "category": "互联网信息服务",
+      "item_name": "外文数据库、中国科学引文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "16",
+      "item_no": "16-1",
+      "category": "互联网信息服务",
+      "item_name": "Endnote工具数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 57160.0
+    },
+    {
+      "package_no": "17",
+      "item_no": "17-1",
+      "category": "互联网信息服务",
+      "item_name": "Total Materia全球材料性能数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "18",
+      "item_no": "18-1",
+      "category": "互联网信息服务",
+      "item_name": "中国共产党思想理论资源数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "19",
+      "item_no": "19-1",
+      "category": "互联网信息服务",
+      "item_name": "毕业设计（论文）管理系统数字资源库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 108000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "读者之星（天津）网络科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 45440.0
+    },
+    {
+      "package_no": "2",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 401000.0
+    },
+    {
+      "package_no": "3",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "4",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 86000.0
+    },
+    {
+      "package_no": "5",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 209900.0
+    },
+    {
+      "package_no": "6",
+      "name": "山东数图科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 24800.0
+    },
+    {
+      "package_no": "7",
+      "name": "山东喻白信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 159000.0
+    },
+    {
+      "package_no": "8",
+      "name": "武汉鼎森电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 45000.0
+    },
+    {
+      "package_no": "9",
+      "name": "北京爱迪科森教育科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 57900.0
+    },
+    {
+      "package_no": "10",
+      "name": "济南旭林科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 168000.0
+    },
+    {
+      "package_no": "11",
+      "name": "济南昂融信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 149000.0
+    },
+    {
+      "package_no": "12",
+      "name": "北京布局未来科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 70000.0
+    },
+    {
+      "package_no": "13",
+      "name": "山东启泰信远数据技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 202800.0
+    },
+    {
+      "package_no": "14",
+      "name": "湖南纬度信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 170000.0
+    },
+    {
+      "package_no": "15",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 433000.0
+    },
+    {
+      "package_no": "16",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 57160.0
+    },
+    {
+      "package_no": "17",
+      "name": "江苏华聿文化科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "18",
+      "name": "人民出版社",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 52000.0
+    },
+    {
+      "package_no": "19",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 108000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

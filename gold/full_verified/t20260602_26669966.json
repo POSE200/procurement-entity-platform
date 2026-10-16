@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260602_26669966",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（杭州全诊医学科技有限公司）.pdf",
+  "note": "单价×数量×5条合计1258000元与总中标金额一致；品目名称取HTML品目列末级名『应用软件』；得分排名列明示，rank照抄。",
+  "project": {
+    "buyer": "南海经济开发区人民医院（佛山市南海区老年医院）",
+    "project_name": "AI应用建设项目",
+    "total_amount": 1258000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "AI应用建设项目",
+        "winner": "杭州全诊医学科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "AI入院记录自动生成系统",
+      "brand": "全诊医学",
+      "model": "基于大语言模型的住院病历自动生成系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "AI病程记录自动生成系统",
+      "brand": "全诊医学",
+      "model": "基于大语言模型的住院病历自动生成系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "AI出院小结自动生成系统",
+      "brand": "全诊医学",
+      "model": "基于大语言模型的住院病历自动生成系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "AI手术记录自动生成系统",
+      "brand": "全诊医学",
+      "model": "基于大语言模型的手术记录自动生成系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "住院医学AI大模型及算力服务",
+      "brand": "全诊医学",
+      "model": "全诊医学大模型AI服务平台V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 558000.0,
+      "total_price": 558000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "杭州全诊医学科技有限公司",
+      "role": "winner",
+      "total_score": 84.39,
+      "rank": 1,
+      "amount": 1258000.0
+    },
+    {
+      "package_no": "1",
+      "name": "陕西和谦诚信息技术有限公司",
+      "role": "participant",
+      "total_score": 63.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东九悦科技有限公司",
+      "role": "participant",
+      "total_score": 46.38,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "announcement_id": "t20260306_26235246",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:服务明细表.pdf(A/B/C包),公示数据.pdf(A/B/C包)",
+  "note": "品目列在公告概要中为空，category 一律填 null；3 个包的服务明细表均无计量单位列且只给单价未给总价，total_price 按单价×数量（数量均为1.00）推得并与各包中标金额一致；公示数据仅给7位专家逐项打分、无综合得分与排名，bidders 的 total_score/rank 填 null；附件评委费用支付表「中标成交金额」三包均重复填同一数（如2954500.00元×3），与 HTML 各包金额不符，系填表错误，金额以 HTML 中标结果表为准；三包金额之和 2954500+3080000+2960000=8994500 与总中标金额899.45万元一致。；复核修正：bidders 补 package_no 字段；标注包附件含各包公示数据评审打分名单（包A 9家/包B 14家/包C 15家），3条winner按packages.winner及条目金额与各包中标金额一一对应定包，仅出现在单一包的participant按附件明示标注（兆坤=包B，明扬、祥汇=包C），跨包投标的 11 条 participant 无法归入单一包置 null，待按口径9拆分为每包一条",
+  "project": {
+    "buyer": "山东省监狱管理局",
+    "project_name": "山东监狱系统省属监狱消防控制室值班及消防维保外包服务项目",
+    "total_amount": 8994500.0,
+    "packages": [
+      {
+        "package_no": "SDGP370000000202602000192-A",
+        "package_name": "潍坊监狱等9个单位2026年度消防控制室值班及消防维保外包服务",
+        "winner": "山东安平消防科技有限公司"
+      },
+      {
+        "package_no": "SDGP370000000202602000192-B",
+        "package_name": "新康监狱等11个单位2026年度消防控制室值班及消防维保外包服务",
+        "winner": "山东蓝领消防科技有限公司"
+      },
+      {
+        "package_no": "SDGP370000000202602000192-C",
+        "package_name": "邹城监狱等10个单位2026年度消防控制室值班及消防维保外包服务",
+        "winner": "山东君天建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "SDGP370000000202602000192-A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "潍坊监狱等9个单位2026年度消防控制室值班及消防维保外包服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": null,
+      "unit_price": 2954500.0,
+      "total_price": 2954500.0
+    },
+    {
+      "package_no": "SDGP370000000202602000192-B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "新康监狱等11个单位2026年度消防控制室值班及消防维保外包服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": null,
+      "unit_price": 3080000.0,
+      "total_price": 3080000.0
+    },
+    {
+      "package_no": "SDGP370000000202602000192-C",
+      "item_no": "1",
+      "category": null,
+      "item_name": "邹城监狱等10个单位2026年度消防控制室值班及消防维保外包服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": null,
+      "unit_price": 2960000.0,
+      "total_price": 2960000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "SDGP370000000202602000192-A",
+      "name": "山东安平消防科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2954500.0
+    },
+    {
+      "package_no": "SDGP370000000202602000192-B",
+      "name": "山东蓝领消防科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3080000.0
+    },
+    {
+      "package_no": "SDGP370000000202602000192-C",
+      "name": "山东君天建设工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2960000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东久泰安全技术咨询有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东恒防消防技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东四季安消防技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东立诺瑞恒科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东畅宏安全技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东兄弟消防科技集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东安诺建筑工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包A/包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": "SDGP370000000202602000192-B",
+      "name": "山东兆坤消防科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东浩淼智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东泰立信安全技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东恒超消防技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": null,
+      "name": "山东幻途消防科技服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null,
+      "note": "附件公示数据显示该主体在包B/包C的评审打分名单中均出现，现有单条条目无法归入单一包，暂置null（待按口径9拆分为每包一条）"
+    },
+    {
+      "package_no": "SDGP370000000202602000192-C",
+      "name": "山东明扬建设工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "SDGP370000000202602000192-C",
+      "name": "山东祥汇建设工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

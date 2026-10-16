@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260408_26370926",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包项目（附件名'1包招标文件.pdf'、正文'第1包'，package_no=1，HTML未明示包号）。概要品目列空且无品目名称列，category=null。第1条item_name原文带'●'核心产品标记（●非名称组成部分，已去除）。2条明细数学自洽：520000+182000=702000=总中标金额70.2万元。山东通和信息技术有限公司投标后废标（符合性审查不合格：技术部分未按要求签章/盖章），未进入综合评分表，收录为participant且total_score/rank/amount均null。其余rank取自评标结果表'排序'列（原文明示），participant的amount取开标记录表投标报价。注意：招标文件预算金额1,000,000元为预算，非中标金额。",
+  "project": {
+    "buyer": "青岛市工业和信息化局",
+    "project_name": "青岛市低空无人机无线电监测与反制系统建设",
+    "total_amount": 702000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛市低空无人机无线电监测与反制系统建设",
+        "winner": "北京二十一世纪科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "可搬移低空无人机察打诱一体设备",
+      "brand": "理工全盛",
+      "model": "BAT-STJ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 520000.0,
+      "total_price": 520000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "便携式低空无人机察打诱一体设备",
+      "brand": "理工全盛",
+      "model": "BAT-H1030",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 182000.0,
+      "total_price": 182000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京二十一世纪科技发展有限公司",
+      "role": "winner",
+      "total_score": 87.79,
+      "rank": 1,
+      "amount": 702000.0
+    },
+    {
+      "package_no": "1",
+      "name": "沈阳吕尚科技有限公司",
+      "role": "participant",
+      "total_score": 65.85,
+      "rank": 2,
+      "amount": 868000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都瀚德科技有限公司",
+      "role": "participant",
+      "total_score": 60.99,
+      "rank": 3,
+      "amount": 806000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天幕网通（济南）信息科技有限公司",
+      "role": "participant",
+      "total_score": 58.2,
+      "rank": 4,
+      "amount": 580000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京波尔通信技术股份有限公司",
+      "role": "participant",
+      "total_score": 50.34,
+      "rank": 5,
+      "amount": 948800.0
+    },
+    {
+      "package_no": "1",
+      "name": "西安茂德通讯科技有限公司",
+      "role": "participant",
+      "total_score": 46.35,
+      "rank": 6,
+      "amount": 800000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东通和信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

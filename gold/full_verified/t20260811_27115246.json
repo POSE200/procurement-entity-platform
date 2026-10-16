@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260811_27115246",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目（分包数量1个），原文无包号，package_no=null，package_name取分包名称「软件集成实施服务」。概要品目列空且标的信息表（表格2）无品目名称列，category=null（分包名称为包名，不算品目）。items 4条取表格2明细报价，之和970,000+3,170,000+790,000+168,000=5,098,000元=中标金额，明细为包级分项、无数量/单价/品牌型号，均null。bidders 4家：total_score与rank取表格4（排序列明示1-4），amount取表格6各投标单位报价（泛喜5,098,000/华丰5,135,000/长烽4,300,000/中关创业5,107,000）。附件为专家劳务费表与中小企业声明函，未提供取值字段。无数学矛盾。无需视觉核验疑点。",
+  "project": {
+    "buyer": "青岛市妇女儿童医院",
+    "project_name": "智慧医院建设（2026）",
+    "total_amount": 5098000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "软件集成实施服务",
+        "winner": "泛喜健康科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "OFD文档中心建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 970000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "综合绩效管理信息系统及综合绩效管理服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3170000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "数据抽取与数据查询AI管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 790000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "拜访预约管理系统建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 168000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "泛喜健康科技有限公司",
+      "role": "winner",
+      "total_score": 92.26,
+      "rank": 1,
+      "amount": 5098000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东华丰数字科技有限公司",
+      "role": "participant",
+      "total_score": 72.96,
+      "rank": 2,
+      "amount": 5135000.0
+    },
+    {
+      "package_no": null,
+      "name": "长烽数智科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 71.2,
+      "rank": 3,
+      "amount": 4300000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东中关创业信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 71.03,
+      "rank": 4,
+      "amount": 5107000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

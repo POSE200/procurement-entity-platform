@@ -1,0 +1,139 @@
+{
+  "announcement_id": "t20260501_26507438",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-浪潮软件科技有限公司).pdf,报价明细表(第1轮-山东元鸿勘测规划设计有限公司).pdf",
+  "note": "两个采购包：包1中标浪潮软件科技有限公司1376000元（评审得分88.64），包2中标山东元鸿勘测规划设计有限公司778000元（92.50）；两包之和2154000元=总中标金额215.4万，数学一致。包1评审劳务表'中标成交金额106.00万元、77.8万元'中106.00万元与结果表及成交供应商报价明细1376000元（137.6万）不符，疑为OCR误字，以结果公告为准，需视觉核验该栏。品目category取HTML标的信息表'品目名称'列（概要品目列空）。附件报价明细'数量1.0000'→quantity=1、unit=项，单价=响应报价=包中标金额。评分表'得分排名'列空，rank=null。需视觉核验：评审劳务表中标成交金额栏、两份报价明细表数值。",
+  "project": {
+    "buyer": "山东省国土空间数据和遥感技术研究院",
+    "project_name": "2026年度山东省自然资源厅信息系统和基础环境运维服务新增运维项目",
+    "total_amount": 2154000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山东省自然资源厅信息化基础环境运维服务",
+        "winner": "浪潮软件科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "自然资源管理和国土空间规划“一张图”数据服务运维项目",
+        "winner": "山东元鸿勘测规划设计有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境运维服务",
+      "item_name": "山东省自然资源厅信息化基础环境运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1376000.0,
+      "total_price": 1376000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "自然资源管理和国土空间规划“一张图”数据服务运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 778000.0,
+      "total_price": 778000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浪潮软件科技有限公司",
+      "role": "winner",
+      "total_score": 88.64,
+      "rank": null,
+      "amount": 1376000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东云天安全技术有限公司",
+      "role": "participant",
+      "total_score": 88.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华鲁科技发展股份有限公司",
+      "role": "participant",
+      "total_score": 87.61,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东盛高电子科技有限公司",
+      "role": "participant",
+      "total_score": 77.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫柠信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东辰特商贸有限公司",
+      "role": "participant",
+      "total_score": 78.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东元鸿勘测规划设计有限公司",
+      "role": "winner",
+      "total_score": 92.5,
+      "rank": null,
+      "amount": 778000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东深科空间规划勘查设计有限公司",
+      "role": "participant",
+      "total_score": 84.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "杭州今奥信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 80.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "易智瑞信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.97,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

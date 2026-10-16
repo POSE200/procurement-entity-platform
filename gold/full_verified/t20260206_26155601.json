@@ -1,0 +1,451 @@
+{
+  "announcement_id": "t20260206_26155601",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_智能照明技术检测应用提升报价明细附件/合同包1：报价明细附件（广东誉信科技有限公司）.pdf,_unpacked_智能照明技术检测应用提升报价明细附件/合同包3：报价明细附件（广州市亿博测试设备有限公司）.pdf",
+  "note": "复核修正：报价明细附件.rar顶层被跳过，但其解包PDF已在附件区解析并与HTML标的信息表逐项互证一致。公告仅含合同包1、合同包3的中标结果与评分表（评分表按品目号1-x/3-x与中标人对应区分归属），无合同包2任何记录。包1明细5项合计382000元=中标金额；包3明细17项合计278660元=中标金额；两包之和382000+278660=660660元=总中标金额66.066万，数学全部相符。品目列空，category取标的信息表品目名称列（包3各条品目不同，逐条照抄）。未通过资格性/符合性审查的供应商收录为participant（得分排名为空）。",
+  "project": {
+    "buyer": "广东产品质量监督检验研究院",
+    "project_name": "智能照明技术检测应用提升",
+    "total_amount": 660660.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "盐雾试验箱等设备采购",
+        "winner": "广东誉信科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "数据采集仪等设备采购",
+        "winner": "广州市亿博测试设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "试验箱及气候环境试验设备",
+      "item_name": "盐雾试验箱",
+      "brand": "誉信科技",
+      "model": "YX-2342",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "试验箱及气候环境试验设备",
+      "item_name": "砂尘试验箱(IP5X、IP6X)",
+      "brand": "誉信科技",
+      "model": "YX-A-01",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "试验箱及气候环境试验设备",
+      "item_name": "垂直滴水试验装置（IPX1、IPX2)",
+      "brand": "誉信科技",
+      "model": "CB-2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "试验箱及气候环境试验设备",
+      "item_name": "防淋防溅试验装置(IPX3、IPX4)",
+      "brand": "誉信科技",
+      "model": "XSD-1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 72000.0,
+      "total_price": 72000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "试验箱及气候环境试验设备",
+      "item_name": "防喷试验装置(IPX5、IPX6)",
+      "brand": "誉信科技",
+      "model": "YX-1355",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "数字电网监测表",
+      "item_name": "数据采集仪",
+      "brand": "ABLE",
+      "model": "DAS360A 60通道",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 39500.0,
+      "total_price": 39500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "功率计",
+      "item_name": "功率计",
+      "brand": "ABLE",
+      "model": "PM310",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 22900.0,
+      "total_price": 68700.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "其他长度计量标准器具",
+      "item_name": "数显游标卡尺",
+      "brand": "deli",
+      "model": "0-150mm",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 600.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-4",
+      "category": "温度仪表",
+      "item_name": "温湿度表",
+      "brand": "SMART SENSOR",
+      "model": "AS847",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 245.0,
+      "total_price": 1470.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-5",
+      "category": "温度仪表",
+      "item_name": "数字温度计",
+      "brand": "SMART SENSOR",
+      "model": "AS857",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 660.0,
+      "total_price": 1980.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-6",
+      "category": "玻璃温度计",
+      "item_name": "水银温度计",
+      "brand": "华科",
+      "model": "0-50℃",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 330.0,
+      "total_price": 990.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-7",
+      "category": "量具",
+      "item_name": "E27螺口灯座外螺纹量规",
+      "brand": "ABLE",
+      "model": "E27",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 14950.0,
+      "total_price": 14950.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-8",
+      "category": "量具",
+      "item_name": "E14螺口灯座外螺纹量规",
+      "brand": "ABLE",
+      "model": "E14",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 12980.0,
+      "total_price": 12980.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-9",
+      "category": "其他元件器件参数测量仪",
+      "item_name": "泄漏电流仪",
+      "brand": "ABLE",
+      "model": "LCM7630",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29500.0,
+      "total_price": 29500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-10",
+      "category": "力学性能测试仪器",
+      "item_name": "300N推拉力计",
+      "brand": "艾力",
+      "model": "HF-300",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1450.0,
+      "total_price": 1450.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-11",
+      "category": "力学性能测试仪器",
+      "item_name": "球压装置",
+      "brand": "ABLE",
+      "model": "BPD-20N",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1100.0,
+      "total_price": 1100.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-12",
+      "category": "金属焊接设备",
+      "item_name": "试验链",
+      "brand": "ABLE",
+      "model": "1m",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 1150.0,
+      "total_price": 2300.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-13",
+      "category": "力学性能测试仪器",
+      "item_name": "11号探棒",
+      "brand": "ABLE",
+      "model": "AB-I11",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 780.0,
+      "total_price": 1560.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-14",
+      "category": "碰撞台",
+      "item_name": "滚桶试验机",
+      "brand": "ABLE",
+      "model": "RBT-100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7900.0,
+      "total_price": 7900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-15",
+      "category": "交直流电测量仪器",
+      "item_name": "交直流电子负载",
+      "brand": "ITECH",
+      "model": "IT8616",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 87000.0,
+      "total_price": 87000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-16",
+      "category": "力学性能测试仪器",
+      "item_name": "灯头扭力仪",
+      "brand": "Volni",
+      "model": "FD210",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4500.0,
+      "total_price": 4500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-17",
+      "category": "标准物质",
+      "item_name": "小夜灯测试用毯子和棉片",
+      "brand": "ABLE",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 490.0,
+      "total_price": 980.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东誉信科技有限公司",
+      "role": "winner",
+      "total_score": 91.5,
+      "rank": 1,
+      "amount": 382000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市创格自动化设备有限公司",
+      "role": "participant",
+      "total_score": 88.66,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天津亭华科技有限公司",
+      "role": "participant",
+      "total_score": 88.54,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市汉迪环境试验设备有限公司",
+      "role": "participant",
+      "total_score": 88.09,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市越铧电子科技有限公司",
+      "role": "participant",
+      "total_score": 87.41,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市国通测试设备有限公司",
+      "role": "participant",
+      "total_score": 84.35,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州新诺测控设备有限公司",
+      "role": "participant",
+      "total_score": 83.48,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海竟田电器检测技术有限公司",
+      "role": "participant",
+      "total_score": 80.89,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州和鑫机电科技有限公司",
+      "role": "participant",
+      "total_score": 77.92,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州华威达科技有限公司",
+      "role": "participant",
+      "total_score": 73.21,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市科翔试验设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市图为仪器设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市英泊朗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市亿博测试设备有限公司",
+      "role": "winner",
+      "total_score": 88.26,
+      "rank": 1,
+      "amount": 278660.0
+    },
+    {
+      "package_no": "3",
+      "name": "广州宇曦电子科技有限公司",
+      "role": "participant",
+      "total_score": 84.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东金易通电力建设有限公司",
+      "role": "participant",
+      "total_score": 80.57,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市富民测控科技有限公司",
+      "role": "participant",
+      "total_score": 78.8,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "东莞市科翔试验设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市英泊朗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

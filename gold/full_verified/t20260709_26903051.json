@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260709_26903051",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目（原文无标包划分），中标供应商银川市则灵科技有限公司，中标金额856850.00元=总中标金额￥85.685000万元，与3条货物明细之和14850+656000+186000=856850一致。概要品目列为代码“A02010105,A02010107,A02010106”且未逐项对应，category按层级退用主要标的信息表“品目名称”列（台式计算机/图形工作站/移动工作站）。“货物类”为分节标题未当品目。序号列空，item_no=null；数量列无计量单位列，unit=null。rank原文无排名列或“第N中标候选人”字样，一律null。需视觉核验疑点：图形工作站规格型号OCR存在空格异常“ThinkS tation P2Tower G2/ET524G1e”（疑为ThinkStation P2 Tower G2），移动工作站“ThinkBook 16pG6”疑有漏空格，均按原包文本照抄未修正；附件招标文件正文.pdf仅前30页（截断于第三章中部），不影响gold字段（明细与得分均来自HTML表格）。",
+  "project": {
+    "buyer": "六盘山实验室",
+    "project_name": "六盘山实验室2026年科研用模拟与分析计算机采购项目",
+    "total_amount": 856850.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "银川市则灵科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "台式计算机",
+      "item_name": "台式计算机",
+      "brand": "联想",
+      "model": "启天M460-A044(C )/ET524G1e",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 4950.0,
+      "total_price": 14850.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "图形工作站",
+      "item_name": "图形工作站",
+      "brand": "联想",
+      "model": "ThinkS tation P2Tower G2/ET524G1e",
+      "quantity": 50,
+      "unit": null,
+      "unit_price": 13120.0,
+      "total_price": 656000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "移动工作站",
+      "item_name": "移动工作站",
+      "brand": "联想",
+      "model": "ThinkBook 16pG6",
+      "quantity": 12,
+      "unit": null,
+      "unit_price": 15500.0,
+      "total_price": 186000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "银川市则灵科技有限公司",
+      "role": "winner",
+      "total_score": 85.8,
+      "rank": null,
+      "amount": 856850.0
+    },
+    {
+      "package_no": null,
+      "name": "宁夏华隆伟业科技有限公司",
+      "role": "participant",
+      "total_score": 72.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏华威盛通信息工程有限公司",
+      "role": "participant",
+      "total_score": 67.07,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

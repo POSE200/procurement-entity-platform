@@ -1,0 +1,12 @@
+entrypoint = "cloud_server.py"
+run = "sh -c 'pip install -r requirements.txt && python3 cloud_server.py'"
+modules = ["python-3.11"]
+
+[deployment]
+build = ["sh", "-c", "pip install -r requirements.txt"]
+run = ["python3", "cloud_server.py"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 3000
+externalPort = 80

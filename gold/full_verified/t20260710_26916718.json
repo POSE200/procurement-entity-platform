@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260710_26916718",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-深圳市华领精密机电有限公司).pdf",
+  "note": "单包（公告标题'采购包1'，专家评审报酬表载明分包数量1个），package_no=\"1\"；4条货物明细：单价/数量/单位来自报价明细表附件，72833.3333元×3台=218499.9999≈218500元（四舍五入，容差内）、199500元×1台、38000元×2台、28200元×1台，之和522200元=总中标金额52.22万元，核对一致；品目取自HTML标的信息表品目名称列（其他光学仪器），公告概要品目列为空；HTML'采购标的'列四行均为项目名重复，item_name 改采附件货物名称（气浮光学平台/桌面式主动隔振平台/单纵模光纤输出激光器/工业相机）并在此声明；无异常待核验项。",
+  "project": {
+    "buyer": "山东师范大学",
+    "project_name": "山东师范大学2026年物理与光电学院气浮光学平台设备采购项目",
+    "total_amount": 522200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "深圳市华领精密机电有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他光学仪器",
+      "item_name": "气浮光学平台",
+      "brand": "波铭科仪",
+      "model": "PDI-1812M",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 72833.3333,
+      "total_price": 218500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他光学仪器",
+      "item_name": "桌面式主动隔振平台",
+      "brand": "华领",
+      "model": "ME-0506M6",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 199500.0,
+      "total_price": 199500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他光学仪器",
+      "item_name": "单纵模光纤输出激光器",
+      "brand": "麓邦",
+      "model": "LBLFC-532-100mW",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 38000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他光学仪器",
+      "item_name": "工业相机",
+      "brand": "华领",
+      "model": "HL1936-400cm",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 28200.0,
+      "total_price": 28200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市华领精密机电有限公司",
+      "role": "winner",
+      "total_score": 74.27,
+      "rank": null,
+      "amount": 522200.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东高博科学仪器有限公司",
+      "role": "participant",
+      "total_score": 73.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市华悦天创科技有限公司",
+      "role": "participant",
+      "total_score": 72.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市悦俊科技有限公司",
+      "role": "participant",
+      "total_score": 69.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

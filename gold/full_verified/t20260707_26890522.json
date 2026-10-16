@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260707_26890522",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包（A/B）服务类公告，包号与中标信息均在HTML正文段落中；'服务类'为分节标题不算品目，标的信息仅有'X包名称'无品目名称列，category=null；A+B中标金额467700+467500=935200元与总中标金额93.52万一致；无评分/排名信息，rank与total_score=null；标的仅有包金额，不填quantity=1与unit_price。",
+  "project": {
+    "buyer": "烟台市公安局",
+    "project_name": "110、122接处警话务链路通信服务",
+    "total_amount": 935200.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "烟台市公安局110、122接处警话务链路通信服务1",
+        "winner": "中国移动通信集团山东有限公司烟台分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "烟台市公安局110、122接处警话务链路通信服务2",
+        "winner": "中国联合网络通信有限公司烟台市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市公安局110、122接处警话务链路通信服务1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 467700.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市公安局110、122接处警话务链路通信服务2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 467500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国移动通信集团山东有限公司烟台分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 467700.0
+    },
+    {
+      "package_no": "B",
+      "name": "中国联合网络通信有限公司烟台市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 467500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

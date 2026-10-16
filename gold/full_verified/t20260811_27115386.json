@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260811_27115386",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,附件.pdf",
+  "note": "items按附件.pdf（OCR）中《关于符合本国产品标准的声明函》设备明细表拆为2条（968800+30000=998800，与包中标金额一致）；HTML标的信息表规格型号列为\"详细见报价分册声明函和报价表等\"（非实际型号），实际型号YL-15B型/定制取自附件.pdf；品目沿用HTML品目号1-1\"教学仪器\"覆盖整个包；item_no取附件明细表序号1、2；包号1来自公告标题及附件包(1)命名。复核修正：附件.pdf中设备明细表数字清晰且内部自洽（484400×2=968800，968800+30000=998800=投标报价明细表合计998800.00元），YL-15B型/定制等型号文字完整可读，原'需视觉核验'待办已消除",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院工业网络智能控制与维护实训平台项目",
+    "total_amount": 998800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛启航新时代智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "工业网络智能控制与维护平台",
+      "brand": "亚龙",
+      "model": "YL-15B型",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 484400.0,
+      "total_price": 968800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "其他配套设备设施",
+      "brand": "亚龙",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛启航新时代智能科技有限公司",
+      "role": "winner",
+      "total_score": 87.39,
+      "rank": null,
+      "amount": 998800.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州乐愚科技有限公司",
+      "role": "participant",
+      "total_score": 73.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛百思特立佳智能制造有限公司",
+      "role": "participant",
+      "total_score": 72.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东精上信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.37,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

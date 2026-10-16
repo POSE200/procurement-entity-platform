@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080785",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东祺腾信息科技有限公司).pdf",
+  "note": "单包（标题明示采购包1），package_no=1。item来自『报价明细表(第1轮-山东祺腾信息科技有限公司).pdf』：单价898890元、数量1.0000、计量单位项、响应报价898890元、最高限价910000元，与总中标金额￥89.889万一致。品牌为多品牌合并值『HiteVision、海康威视、ZUU中优』照抄；规格型号原文为『详见报价明细表』（HTML同），实际型号未给出，model=null。品目category取HTML品目名称列『其他组合音像设备』。综合得分93.00/80.71/77.30有值但得分排名/推荐排名列原文空白，rank=null；山东雷王信息科技有限公司符合性审查未通过，participant无得分。未中标供应商报价原文未给。『包(1)_开标（报价）一览表.pdf』『包(1)_投标（响应）报价明细表.pdf』解析仅剩表头。",
+  "project": {
+    "buyer": "山东女子学院",
+    "project_name": "山东女子学院科创中心（北楼）智慧物联一体化集成项目",
+    "total_amount": 898890.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东祺腾信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他组合音像设备",
+      "item_name": "山东女子学院科创中心（北楼）智慧物联一体化集成项目",
+      "brand": "HiteVision、海康威视、ZUU中优",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 898890.0,
+      "total_price": 898890.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东祺腾信息科技有限公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": null,
+      "amount": 898890.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东鲁昊信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南乐豪电子科技有限公司",
+      "role": "participant",
+      "total_score": 77.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东雷王信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

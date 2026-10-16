@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27093457",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东粤财征信有限公司）.pdf",
+  "note": "单包单条明细。品目概要列为空，category 取HTML标的信息表品目名称列「其他信息技术服务」；附件报价明细给出单价1,040,000×1(项)=总价1,040,000.00，与中标金额1,040,000.00元及总中标金额￥104.00万一致。附件声明函为OCR水印打散文本，无有效字段可取。bidders 4家排名取自评分表「得分排名」列，北京大成晟业推荐排名列留空。复核：附件报价明细1条（1,040,000×1项）、评分表4家得分排名均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "肇庆市发展和改革局",
+    "project_name": "肇庆市信用信息共享平台运营运维（2025-2026年）项目(二次)",
+    "total_amount": 1040000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "肇庆市信用信息共享平台运营运维（2025-2026年）项目",
+        "winner": "广东粤财征信有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "肇庆市信用信息共享平台运营运维（2025-2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1040000.0,
+      "total_price": 1040000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东粤财征信有限公司",
+      "role": "winner",
+      "total_score": 93.1,
+      "rank": 1,
+      "amount": 1040000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏新蝶数字科技（集团）有限公司",
+      "role": "participant",
+      "total_score": 82.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都概优科技有限公司",
+      "role": "participant",
+      "total_score": 35.21,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京大成晟业科技有限公司",
+      "role": "participant",
+      "total_score": 32.44,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

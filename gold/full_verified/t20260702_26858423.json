@@ -1,0 +1,227 @@
+{
+  "announcement_id": "t20260702_26858423",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "2个合同包各1名中标人：包1成都华宇科技1556100元、包2成都双雄科技384960元，合计1941060=总中标金额194.106万，一致。每包各1条明细：单价×数量=包中标金额（3900×399=1556100；4010×96=384960）逐条互推一致。category取标的表品目名称列原样（含编号前缀“A02010108 便携式计算机”“A02010105 台式计算机”）。HTML响应报价列为未渲染模板字符串（${detail['priceSummaryList'][0]['showValue']}），无法提取，total_price按单价×数量互推并与包中标金额互相印证。表格1/2评审价格列（1089270元/269472元）为落实扶持政策扣除后的评审价（恰为中标金额70%），非成交金额，未采用。bidders按包1评审情况表12家、包2评审情况表9家逐家收录（含未通过符合性审查者）；rank仅“第N中标候选人”明示的填（包1华宇1/依蓝灵韵2/远泰恒盛3；包2双雄1/广联达2/易网无际3），其余null；total_score原文未给一律null；amount仅中标候选人报价金额明示的填。OCR疑点：评审情况表供应商名含部首变体字形（⼴→广、⽹→网、⽆→无），gold已按标准字规整，需视觉核验原件名称。复核：两包评审情况表12+9家、候选人排名与报价、明细互推已独立核对，确认通过。",
+  "project": {
+    "buyer": "成都市锦江区教育科学研究院",
+    "project_name": "锦江区教育科学研究院2026年学校教师计算机设备",
+    "total_amount": 1941060.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "成都华宇科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "成都双雄科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02010108 便携式计算机",
+      "item_name": "便携式计算机",
+      "brand": "HVLANYN",
+      "model": "HYDkx-70007",
+      "quantity": 399,
+      "unit": "台",
+      "unit_price": 3900.0,
+      "total_price": 1556100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02010105 台式计算机",
+      "item_name": "台式计算机",
+      "brand": "NEOWIN",
+      "model": "MT0101-08302060102IE: 显示器：E24V1-HHN2SHSLNO",
+      "quantity": 96,
+      "unit": "台",
+      "unit_price": 4010.0,
+      "total_price": 384960.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都华宇科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1556100.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川盈佳和科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都广联达科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都双雄科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川易网无际科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都隆华道然科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "依蓝灵韵（四川）信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 1556100.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川远泰恒盛科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 1615503.12
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司成都分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川百川尚锦科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都柒捌玖智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都伊杉信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川盈佳和科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都广联达科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 396288.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都双雄科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 384960.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川易网无际科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 397056.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川远泰恒盛科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司成都分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川百川尚锦科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都贰伍贰柒商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都伊杉信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "announcement_id": "t20260508_26525050",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东三胜智能装备有限公司）.pdf",
+  "note": "公告概要品目列为空，category 取HTML标的信息表「品目名称」列=应用软件；29条明细的品目号均为1-1，item_no按原文照抄重复为1-1，以item_name区分；附件报价明细（29条，含序号1-29）与HTML主要标的信息表逐条一致；29条总价之和恰为2,380,000元=中标金额238万元，数学自洽；未中标2家无投标报价列，amount=null。",
+  "project": {
+    "buyer": "江门职业技术学院",
+    "project_name": "江门职业技术学院智能网联汽车开放型区域产教融合实践中心项目",
+    "total_amount": 2380000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "江门职业技术学院智能网联汽车开放型区域产教融合实践中心项目",
+        "winner": "广东三胜智能装备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "《智能网联汽车环境感知技术》课程",
+      "brand": "三胜",
+      "model": "SS-XNY-GJGZKC11",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "环境感知传感器综合实训台",
+      "brand": "三胜",
+      "model": "SS-XNY-CGQ03S",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 32500.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "汽车垂类大模型知识管理应用平台",
+      "brand": "三胜",
+      "model": "SS-XNY-ZSGL10S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 33000.0,
+      "total_price": 33000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "智能网联汽车线控技术综合实训台",
+      "brand": "三胜",
+      "model": "SS-XNY-XKJS03S",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 27323.0,
+      "total_price": 54646.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "教师椅",
+      "brand": "三胜",
+      "model": "SS-SXS-JSY06",
+      "quantity": 3,
+      "unit": "张",
+      "unit_price": 300.0,
+      "total_price": 900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "定制实训工作台",
+      "brand": "三胜",
+      "model": "SS-SXS-GZT06",
+      "quantity": 30,
+      "unit": "张",
+      "unit_price": 8500.0,
+      "total_price": 255000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "机柜",
+      "brand": "三胜",
+      "model": "SS-SXS-JG06",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 3500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "教师桌",
+      "brand": "三胜",
+      "model": "SS-SXS-JSZ06",
+      "quantity": 3,
+      "unit": "张",
+      "unit_price": 4000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "传屏器",
+      "brand": "创嘉",
+      "model": "CJ-V500",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "文化建设及改造（1项）",
+      "brand": "三胜",
+      "model": "（文化建设及改造）",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "定制储物柜",
+      "brand": "三胜",
+      "model": "SS-SXS-CWG06",
+      "quantity": 11,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 22000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "智能网联汽车展示柜",
+      "brand": "三胜",
+      "model": "SS-SXS-ZSG06",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "6人位定制工作台",
+      "brand": "三胜",
+      "model": "SS-SXS-6RGZT06",
+      "quantity": 9,
+      "unit": "张",
+      "unit_price": 6500.0,
+      "total_price": 58500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "学生实训椅",
+      "brand": "三胜",
+      "model": "SS-SXS-XSY06",
+      "quantity": 158,
+      "unit": "套",
+      "unit_price": 150.0,
+      "total_price": 23700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "《智能网联汽车线控底盘技术》课程资源",
+      "brand": "三胜",
+      "model": "SS-XNY-XKDPKC11",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "自动驾驶小车（含系统）",
+      "brand": "三胜",
+      "model": "SS-XNY-ZDXC06S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29000.0,
+      "total_price": 29000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "汽车垂类AI助训平台",
+      "brand": "三胜",
+      "model": "SS-XNY-AIZX10S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29413.0,
+      "total_price": 29413.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "《智能网联汽车测试与装调》课程",
+      "brand": "三胜",
+      "model": "SS-XNY-WLQC11",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "智能网联汽车综合实训平台",
+      "brand": "三胜",
+      "model": "SS-XNY-WLQC06S",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 125000.0,
+      "total_price": 500000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "L4级无人驾驶配送实训车",
+      "brand": "三胜",
+      "model": "SS-XNY-L4PSC06S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 325000.0,
+      "total_price": 325000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "智能无人驾驶小车实训平台",
+      "brand": "三胜",
+      "model": "SS-XNY-WRXC06S",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 24500.0,
+      "total_price": 196000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "自动驾驶线控底盘（含系统）",
+      "brand": "三胜",
+      "model": "SS-XNY-XKDP06S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 20991.0,
+      "total_price": 20991.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "L4自动驾驶接驳实训车",
+      "brand": "三胜",
+      "model": "SS-XNY-L4JBC06S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 335000.0,
+      "total_price": 335000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "领夹式无线麦克风",
+      "brand": "EFOLLOWER",
+      "model": "S60",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 350.0,
+      "total_price": 1050.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "壁挂音箱",
+      "brand": "硕声",
+      "model": "SW-230PC",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 1400.0,
+      "total_price": 4200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "路由器",
+      "brand": "博达",
+      "model": "BR661",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 1200.0,
+      "total_price": 3600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "手持式无线麦克风",
+      "brand": "雅克",
+      "model": "TPM910T",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 500.0,
+      "total_price": 1500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "自动驾驶训练工作站",
+      "brand": "三胜",
+      "model": "SS-XNY-GZZ03S",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 23000.0,
+      "total_price": 138000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "24口千兆交换机",
+      "brand": "友联华",
+      "model": "UL9000-0162H-D",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 9000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东三胜智能装备有限公司",
+      "role": "winner",
+      "total_score": 93.61,
+      "rank": 1,
+      "amount": 2380000.0
+    },
+    {
+      "package_no": "1",
+      "name": "蚂蚁侠科技（深圳）有限公司",
+      "role": "participant",
+      "total_score": 89.29,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市中霏信息科技有限公司",
+      "role": "participant",
+      "total_score": 64.0,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

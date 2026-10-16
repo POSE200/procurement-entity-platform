@@ -1,0 +1,85 @@
+{
+  "announcement_id": "t20260202_26139731",
+  "annotated_at": "2026-09-22",
+  "gold_source": "html",
+  "note": "附件只有招标文件.pdf（采购人需求，不含中标价格），标的物真值在 HTML 表格；两个采购包；无总价列、无品目号列；复核修正：三条item单价×数量之和2,398,600与总中标金额3,250,310相差851,710，原文无总价列，差额构成不可得（含第4包外费用或货物费汇总口径不同），按原文值保留；复核修正：概要品目列为项目级并集（4条完整路径），标的信息表无品目号/品目列，无法逐条归属，按新口径2将各item的category改null；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "中央广播电视总台",
+    "project_name": "2023年工信部5G+8K项目-光华路办公区新建总控系统（四）制式转换设备等",
+    "total_amount": 3250310.0,
+    "packages": [
+      {
+        "package_no": "3",
+        "package_name": "总控光配线系统",
+        "winner": "北京万迪科信息技术有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "LCD显示大屏（第一部分）",
+        "winner": "北京智为视媒科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光跳纤架",
+      "brand": "康普",
+      "model": "NGFC FRAME",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 319300.0,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光熔纤柜",
+      "brand": "康普",
+      "model": "MX6",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 60480.0,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "LCD显示大屏",
+      "brand": "创维",
+      "model": "SKY55SXEPS",
+      "quantity": 52,
+      "unit": "块",
+      "unit_price": 15750.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "3",
+      "name": "北京万迪科信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京智为视媒科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

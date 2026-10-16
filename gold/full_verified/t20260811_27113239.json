@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27113239",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：最终承诺报价书（广东省科学院生态环境与土壤研究所）.pdf",
+  "note": "单包项目。概要品目列空，category取HTML标的信息表品目名称列「其他专业技术服务」。附件为最终承诺报价书，仅含投标总报价814,000元（大写捌拾壹万肆仟元整），无分项报价明细，故items仅1条标的（照抄HTML标的信息表），quantity/unit/unit_price原文未给、按规范不推算填null；total_price取成交金额814,000元（出处表格1中标成交金额）。bidders 3家来自评分表，得分排名列明示故rank照填，仅成交人有金额。报价书OCR页眉时间戳乱码（12026-09-10…），不涉及报价金额，无需视觉核验。",
+  "project": {
+    "buyer": "广东省农业农村厅",
+    "project_name": "广东省第三次全国土壤普查省级成果应用报告编制项目",
+    "total_amount": 814000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省第三次全国土壤普查省级成果应用报告编制项目",
+        "winner": "广东省科学院生态环境与土壤研究所"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "广东省第三次全国土壤普查省级成果应用报告编制项目/采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 814000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东省科学院生态环境与土壤研究所",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": 1,
+      "amount": 814000.0
+    },
+    {
+      "package_no": "1",
+      "name": "华南农业大学",
+      "role": "participant",
+      "total_score": 54.31,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省科学院生物与医学工程研究所",
+      "role": "participant",
+      "total_score": 32.63,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

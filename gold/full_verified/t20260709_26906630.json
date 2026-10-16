@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260709_26906630",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:关于符合本国产品标准的声明函.pdf",
+  "note": "单包项目，原文未给包号，package_no=null。9条标的（8货物+1服务）来自HTML标的信息表，单价×数量之和恰为889130元=总中标金额￥88.913000万元，数学一致。概要品目列为9个代码串（A02099900,A02091099,A02090504,A02090504,A02099900,A02430900,A02091099,A02099900,C19990000），与标的信息表品目名称列逐条对应，category按标的信息表品目名称列填写。品牌/型号：HTML品牌、型号列均写「见关于符合本国产品标准的声明函内容」，故brand填声明函载明的生产厂（制造商）名称、model填声明函载明的型号（如S-6320、EDWSX500、PXW-Z380、ILME-FX2等）；融媒体平台服务为服务类，无品牌型号列，brand/model=null。标的信息表序号列全空，item_no=null。得分表「备注」列数值为4/2/3/1，按列名应为价格扣除后评审报价栏但填的是整数且与得分排序完全一致，疑似排名列，规范禁止推断，故各bidder rank=null。需视觉核验：①得分表备注列4/2/3/1是否实为排名列；②声明函OCR「EDWSX500」「pocket 4P Vlog 套装」「S1A3 bundle b2」等型号串有无错字。复核修正：声明函第9条明示「融媒体平台服务 定制，生产厂为北京中视智景科技有限公司」，按附件为准补填该条brand/model（原draft误按“服务类无品牌型号列”填null）。终审核验：①得分表备注列——查原始HTML（tmp/html/t20260709_26906630.html），表头原文为「备注（如为最低评标（审）价法 请填写价格扣除后的评审报价）」，列名是“备注”而非“排名”，4/2/3/1虽与得分排序完全反向对应（得分最高者备注1），但按规范不得凭数值规律推断列语义，故维持各bidder rank=null，语义存疑已在此记录。②声明函（关于符合本国产品标准的声明函.pdf，DPI250渲染看图逐条核字）：第2条明示「新媒体编辑系统 EDWS X500」（EDWS与X500之间有空格），draft“EDWSX500”漏空格，已修正为“EDWS X500”；第8条「手持摄影机 pocket 4P Vlog 套装」与draft一致；第5条「延时轨 S1A3 bundle b2」与draft一致；其余S-6320、EDWS Mobile、PXW-Z380、ILME-FX2、DJI Mavic 4 Pro 512GB 创作者套装（DJI RC Pro 2，增强图传）、融媒体平台服务（定制，生产厂北京中视智景科技有限公司）均与draft一致；声明函落款投标供应商为北京中视智景科技有限公司（与中标人一致）。8条货物单价×数量之和689130+服务200000=889130元=总中标金额￥88.913000万元，数学自查通过，证据闭合，status=verified。",
+  "project": {
+    "buyer": "西吉县融媒体中心",
+    "project_name": "西吉县融媒体中心全媒体制播能力与技术平台建设项目",
+    "total_amount": 889130.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "北京中视智景科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他广播、电视、电影设备",
+      "item_name": "无线图传",
+      "brand": "南京奥视威电子科技股份有限公司",
+      "model": "S-6320",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 24680.0,
+      "total_price": 49360.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电视设备",
+      "item_name": "新媒体编辑系统（核心产品）",
+      "brand": "北京雷特世创科技有限公司",
+      "model": "EDWS X500",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 78700.0,
+      "total_price": 314800.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "专业摄像机和信号源设备",
+      "item_name": "超高清手持摄像机",
+      "brand": "上海索广映像有限公司",
+      "model": "PXW-Z380",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 47850.0,
+      "total_price": 95700.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "专业摄像机和信号源设备",
+      "item_name": "手持摄影机",
+      "brand": "深圳市大疆创新科技有限公司",
+      "model": "pocket 4P Vlog 套装",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 4490.0,
+      "total_price": 40410.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他广播、电视、电影设备",
+      "item_name": "延时轨",
+      "brand": "中山大山摄影器材有限公司",
+      "model": "S1A3 bundle b2",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 19640.0,
+      "total_price": 19640.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "无人机",
+      "item_name": "航拍无人机",
+      "brand": "深圳市大疆创新科技有限公司",
+      "model": "DJI Mavic 4 Pro 512GB 创作者套装（DJI RC Pro 2，增强图传）",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 27800.0,
+      "total_price": 55600.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电视设备",
+      "item_name": "便携式新媒体编辑系统",
+      "brand": "北京雷特世创科技有限公司",
+      "model": "EDWS Mobile",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 38300.0,
+      "total_price": 38300.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他广播、电视、电影设备",
+      "item_name": "全画幅电影机",
+      "brand": "上海索广映像有限公司",
+      "model": "ILME-FX2",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 37660.0,
+      "total_price": 75320.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他专业技术服务",
+      "item_name": "融媒体平台服务",
+      "brand": "北京中视智景科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "北京中视智景科技有限公司",
+      "role": "winner",
+      "total_score": 83.94,
+      "rank": null,
+      "amount": 889130.0
+    },
+    {
+      "package_no": null,
+      "name": "西安融合致盛科技有限公司",
+      "role": "participant",
+      "total_score": 67.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "陕西天行合创科技有限公司",
+      "role": "participant",
+      "total_score": 74.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京中视盛杰科技有限公司",
+      "role": "participant",
+      "total_score": 73.46,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

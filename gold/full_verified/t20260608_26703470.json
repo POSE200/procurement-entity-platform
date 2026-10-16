@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260608_26703470",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标分项报价表-02包.pdf,分项报价表-03包.pdf,分项报价表-01包.pdf,中标结果公告.doc",
+  "note": "3个包（01包系统升级改造/02包测评/03包监理），包号与包名出自三份招标文件（预算159.2万/10万/7.5万）。分项报价表-01包.pdf文本层仅剩表头，表格为图片型，经渲染整页视觉核验逐行读出：01包5条分项明细（白名单管理功能80000×1、追溯数据归集协同功能260000×1、多端应用功能980000×1、集成对接功能180000×1、系统管理功能60000×1，报价单位人民币元），明细合计=总价1560000.00元=01包中标金额（联通数字科技有限公司，表尾投标人名称盖章可读，报价日期2026年6月3日），单价×数量均与合价一致。02包2条、03包2条明细数学自查通过，明细合计90000/68500分别等于两包中标金额；03包第3行为模板占位行「…」未收录。包金额之和1560000+90000+68500=1718500元=总中标金额￥171.850000万，一致。品目：概要列空、标的信息表无品目名称列，category=null。数量列仅数字1无单位，unit=null。rank原文未明示，null。视觉核验：分项报价表-01包.pdf整页（1页）看图，01包分项明细已按上表补全，不再留总称占位记录。",
+  "project": {
+    "buyer": "北京市药品监督管理局机关",
+    "project_name": "药品追溯监管系统升级改造项目",
+    "total_amount": 1718500.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "北京市药品监督管理局药品追溯监管系统升级改造项目（01包：系统升级改造）",
+        "winner": "联通数字科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "北京市药品监督管理局药品追溯监管系统升级改造项目（02包：测评）",
+        "winner": "中国软件评测中心（工业和信息化部软件与集成电路促进中心）"
+      },
+      {
+        "package_no": "03",
+        "package_name": "北京市药品监督管理局药品追溯监管系统升级改造项目（03包：监理）",
+        "winner": "北京易柯森特科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1",
+      "category": null,
+      "item_name": "白名单管理功能",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "2",
+      "category": null,
+      "item_name": "追溯数据归集协同功能",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 260000.0,
+      "total_price": 260000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "3",
+      "category": null,
+      "item_name": "多端应用功能",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 980000.0,
+      "total_price": 980000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "4",
+      "category": null,
+      "item_name": "集成对接功能",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "5",
+      "category": null,
+      "item_name": "系统管理功能",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "1",
+      "category": null,
+      "item_name": "软件测试服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "2",
+      "category": null,
+      "item_name": "安全测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": "1",
+      "category": null,
+      "item_name": "监理服务费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 64622.64,
+      "total_price": 64622.64
+    },
+    {
+      "package_no": "03",
+      "item_no": "2",
+      "category": null,
+      "item_name": "税费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3877.36,
+      "total_price": 3877.36
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "联通数字科技有限公司",
+      "role": "winner",
+      "total_score": 83.2,
+      "rank": null,
+      "amount": 1560000.0
+    },
+    {
+      "package_no": "02",
+      "name": "中国软件评测中心（工业和信息化部软件与集成电路促进中心）",
+      "role": "winner",
+      "total_score": 89.4,
+      "rank": null,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京易柯森特科技有限公司",
+      "role": "winner",
+      "total_score": 86.8,
+      "rank": null,
+      "amount": 68500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "announcement_id": "t20260707_26885504",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "多包结果公告，HTML 中标情况表列出第1-6包中标人但无各包中标金额列、无评分表，故 bidders 仅含 6 名中标人（total_score/rank/amount 均 null，公告未给出）。items 按可见最细粒度每包一条（item_name 取服务范围列的包服务名），品目取概要品目列完整路径「服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务」照抄；该路径为项目级唯一取值，公告内无更细分品目来源，6 条共用。quantity/unit/unit_price/total_price 原文未给，全为 null，无法做包金额之和与总中标金额 1294.62万 的核对。招标文件载明本项目共7包（第7包金税四期云平台系统运维服务），但结果公告表格未列第7包中标信息，packages 不含第7包。附件为招标文件（仅前30页，含空白报价模板），不提供真值字段。复核修正：去除原'品目是否可细分需视觉核验'待办（无更细来源可核）。",
+  "project": {
+    "buyer": "国家税务总局安徽省税务局",
+    "project_name": "安徽税务2026年全国统一规范电子税务局等软件运行维护项目",
+    "total_amount": 12946200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "新电子税务局运维服务",
+        "winner": "中软信息技术创新有限公司、浙江税友信创科技有限公司、方欣科技有限公司联合体"
+      },
+      {
+        "package_no": "2",
+        "package_name": "应用支撑平台、税务人智慧办公平台运维服务",
+        "winner": "中软信息技术创新有限公司、神州数码信息系统有限公司、浙江税友信创科技有限公司、方欣科技有限公司联合体"
+      },
+      {
+        "package_no": "3",
+        "package_name": "电子发票服务平台、征纳互动系统运维服务",
+        "winner": "中软信息技术创新有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "金税四期收入规划核算业务等系统运维服务",
+        "winner": "神州数码信息系统有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "统一身份管理平台运维服务",
+        "winner": "安徽航天信息科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "税务地理信息应用系统运维服务",
+        "winner": "中煤航测遥感集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "新电子税务局运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "应用支撑平台、税务人智慧办公平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "电子发票服务平台、征纳互动系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "金税四期收入规划核算业务等系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "统一身份管理平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "6",
+      "item_no": "6",
+      "category": "服务/信息技术服务/信息技术咨询服务/信息技术管理咨询服务",
+      "item_name": "税务地理信息应用系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中软信息技术创新有限公司、浙江税友信创科技有限公司、方欣科技有限公司联合体",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中软信息技术创新有限公司、神州数码信息系统有限公司、浙江税友信创科技有限公司、方欣科技有限公司联合体",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中软信息技术创新有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "神州数码信息系统有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "安徽航天信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "中煤航测遥感集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

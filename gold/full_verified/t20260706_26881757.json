@@ -1,0 +1,234 @@
+{
+  "announcement_id": "t20260706_26881757",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "package_no 取附件路径明示'包1(窗帘及类似品)'。品目取 HTML 标的信息表品目名称列'窗帘及类似品'（概要品目列空）。11 条明细仅有品目/标的/品牌/型号/数量，无单价总价列；附件'报价明细表.docx'解析成功但仅一句'报价明细表同比例下调至成交价'，不含任何单价/总价数字，明细金额疑在被跳过的 附件.zip 内不可见，故 unit_price/total_price 全 null 待补。评分表'得分排名'列空白，所有 bidders 的 rank 均为 null（含中标人，禁止'中标即第1'推定）；投标人报价表缺失，amount 除中标人外全 null。跳过 2 个 zip 附件（本国产品相关附件.zip、附件.zip）不可见。中标金额 194440.00 元来自 HTML 表格1（劳务报酬支付表附件亦印证 19.444万）。复核修正：note 原将报价明细表.docx 误标为 OCR待补，实为 docx 已解析但无金额数字。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学(筹)窗帘采购项目",
+    "total_amount": 194440.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "窗帘及类似品",
+        "winner": "山东瀚峰装饰工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "窗帘及类似品",
+      "item_name": "阳光面料卷帘1",
+      "brand": "瀚峰",
+      "model": "JL-1",
+      "quantity": 441,
+      "unit": "平方米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "窗帘及类似品",
+      "item_name": "阳光面料卷帘2",
+      "brand": "瀚峰",
+      "model": "JL-2",
+      "quantity": 1960,
+      "unit": "平方米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "窗帘及类似品",
+      "item_name": "玻纤卷帘",
+      "brand": "瀚峰",
+      "model": "JL-3",
+      "quantity": 283,
+      "unit": "平方米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "窗帘及类似品",
+      "item_name": "柔纱帘",
+      "brand": "瀚峰",
+      "model": "RSL-01",
+      "quantity": 596,
+      "unit": "平方米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "窗帘及类似品",
+      "item_name": "单层布帘1",
+      "brand": "瀚峰",
+      "model": "BL-1",
+      "quantity": 324,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "窗帘及类似品",
+      "item_name": "单层布帘2",
+      "brand": "瀚峰",
+      "model": "BL-2",
+      "quantity": 1176,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "窗帘及类似品",
+      "item_name": "单层纱帘1",
+      "brand": "瀚峰",
+      "model": "SL-1",
+      "quantity": 63,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "窗帘及类似品",
+      "item_name": "单层纱帘2",
+      "brand": "瀚峰",
+      "model": "SL-2",
+      "quantity": 281,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "窗帘及类似品",
+      "item_name": "手动铝合金轨道",
+      "brand": "瀚峰",
+      "model": "GD-1",
+      "quantity": 1631,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "窗帘及类似品",
+      "item_name": "电动铝合金轨道",
+      "brand": "瀚峰",
+      "model": "GD-2",
+      "quantity": 18,
+      "unit": "米",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "窗帘及类似品",
+      "item_name": "开合帘电机",
+      "brand": "杜亚",
+      "model": "DT82",
+      "quantity": 6,
+      "unit": "组",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东瀚峰装饰工程有限公司",
+      "role": "winner",
+      "total_score": 85.0,
+      "rank": null,
+      "amount": 194440.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南好宜家居用品有限公司",
+      "role": "participant",
+      "total_score": 83.57,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东誉尚窗饰有限公司",
+      "role": "participant",
+      "total_score": 83.05,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南华阳纺织品有限公司",
+      "role": "participant",
+      "total_score": 81.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "永固窗饰（山东）集团有限公司",
+      "role": "participant",
+      "total_score": 81.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南美信窗饰有限公司",
+      "role": "participant",
+      "total_score": 80.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东谦尊酒店用品有限公司",
+      "role": "participant",
+      "total_score": 76.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博凯博智能家居有限公司",
+      "role": "participant",
+      "total_score": 76.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中赫遮阳科技有限公司",
+      "role": "participant",
+      "total_score": 75.78,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

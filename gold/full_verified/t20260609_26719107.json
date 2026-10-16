@@ -1,0 +1,178 @@
+{
+  "announcement_id": "t20260609_26719107",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（江门市航盛科技有限公司）.pdf",
+  "note": "总中标金额栏为『￥0.000000万』占位值 → total_amount=null（占位值口径）；中标（成交）金额为『折扣率：69.55%』而非金额，winner 的 amount=null；7 条明细单价×数量与总价全部吻合，但明细合计 991,807 元无法与总额互证（总额占位）。概要品目列空，category 取标的信息表品目名称列（均为复印纸）。广东创科捷智能技术有限公司资格性审查不通过，无得分列，total_score/rank=null。需视觉核验：①总中标金额占位值是否即无金额（带量采购按折扣率结算）；②附件声明函 OCR『江市航盛科技有限公司』疑漏『门』字，不影响字段取值。 复核修正：2026-09-23独立复核——总中标金额￥0.000000万按占位口径定为null（带量采购按折扣率69.55%结算，成交金额栏原文即无金额）；声明函盖章名OCR漏字不影响任何gold取值（供应商名以HTML为准），原“需视觉核验”疑点消除。",
+  "project": {
+    "buyer": "江门市江海区教育局",
+    "project_name": "2026年江海区教育系统复印纸带量采购项目(二次)",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年江海区教育系统复印纸带量采购项目的第1包",
+        "winner": "江门市航盛科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "复印纸",
+      "item_name": "8K速印纸（白色）",
+      "brand": "同立",
+      "model": "8K白色速印纸（60克）",
+      "quantity": 173,
+      "unit": "箱",
+      "unit_price": 220.0,
+      "total_price": 38060.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "复印纸",
+      "item_name": "A4复印纸（彩色）",
+      "brand": "同立",
+      "model": "A4彩色复印纸（70克）",
+      "quantity": 5,
+      "unit": "包",
+      "unit_price": 23.0,
+      "total_price": 115.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "复印纸",
+      "item_name": "A3复印纸（白色）",
+      "brand": "同立",
+      "model": "A3白色复印纸（70克）",
+      "quantity": 491,
+      "unit": "包",
+      "unit_price": 31.0,
+      "total_price": 15221.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "复印纸",
+      "item_name": "16K速印纸（灰色）",
+      "brand": "同立",
+      "model": "16K灰色速印纸（60克）",
+      "quantity": 4877,
+      "unit": "包",
+      "unit_price": 25.0,
+      "total_price": 121925.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "复印纸",
+      "item_name": "A4复印纸（白色）",
+      "brand": "同立",
+      "model": "A4白色复印纸（70克）",
+      "quantity": 11679,
+      "unit": "包",
+      "unit_price": 15.0,
+      "total_price": 175185.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "复印纸",
+      "item_name": "A4复印纸（粉色）",
+      "brand": "同立",
+      "model": "A4粉色复印纸（70克）",
+      "quantity": 67,
+      "unit": "包",
+      "unit_price": 23.0,
+      "total_price": 1541.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "复印纸",
+      "item_name": "8K速印纸（灰色）",
+      "brand": "同立",
+      "model": "8K灰色速印纸（60克）",
+      "quantity": 2908,
+      "unit": "箱",
+      "unit_price": 220.0,
+      "total_price": 639760.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江门市航盛科技有限公司",
+      "role": "winner",
+      "total_score": 99.16,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东天章信息纸品有限公司",
+      "role": "participant",
+      "total_score": 95.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江门市源峰办公用品有限公司",
+      "role": "participant",
+      "total_score": 93.83,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江门市君信办公系统有限公司",
+      "role": "participant",
+      "total_score": 92.74,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "新会区永健文具体育总汇",
+      "role": "participant",
+      "total_score": 89.76,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市田木纸业有限公司",
+      "role": "participant",
+      "total_score": 89.62,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江门市科华办公设备有限公司",
+      "role": "participant",
+      "total_score": 86.5,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东创科捷智能技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260707_26890183",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包（B/C）服务类公告；品目列空且标的信息表仅有'名称'列无品目名称列，category=null；标的仅有包中标金额，无数量/单价线索，按规范不填quantity=1与unit_price；B+C金额之和=51.46万与总中标金额一致；无评审得分/排名信息，rank与total_score=null。",
+  "project": {
+    "buyer": "日照市公安局机关",
+    "project_name": "日照市公安局大数据云计算中心购买维保服务项目",
+    "total_amount": 514600.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东至信信息科技股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "山东克莱默电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 293600.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 221000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东至信信息科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 293600.0
+    },
+    {
+      "package_no": "C",
+      "name": "山东克莱默电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 221000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "announcement_id": "t20260303_26213067",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:广东建设职业技术学院2026-2027年度数字资源采购项目单一来源采购文件.pdf",
+  "note": "共8个包、每包1条标的（品目号1-1~8-1），各包成交金额之和1276500=总成交金额。HTML「品目」概要列为空，category 取明细表「品目名称」的末级名『图书馆和档案馆服务』（未补全分类路径）。quantity=2、unit=年 出自采购文件品目表（2.00(年)），total_price 取各包成交金额（明细表9-16「金额(元)」列为空），unit_price 由「成交金额÷2年」唯一互推。报价明细附件.zip 因未知类型被跳过、采购文件仅解析前30页（仅见包1-6的分项预算表），条目级成交单价无法直接核对；附件分项预算单价（如包1为300,000.00元/年、包2为40,000.00元/年）与成交金额（包1成交592,000元/2年、包2成交75,200元/2年）不一致，本 gold 一律以成交金额为准。单一来源采购，每包仅1家供应商，故无未中标主体、无综合得分（得分排名/推荐排名均为1）。包7、包8分项预算表因仅前30页未出现。。复核修正：按新口径第3条，unit_price=成交金额÷数量属「单价×数量唯一互推」允许情形（quantity=2、unit=年有出处，单价=总价÷数量唯一），故保留。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "广东建设职业技术学院",
+    "project_name": "广东建设职业技术学院2026-2027年度数字资源采购项目",
+    "total_amount": 1276500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（中国知网CNKI系列数据库）",
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（MET世界语言学习馆（英语馆））",
+        "winner": "阅途之星（广东）科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（设计师之家数字图书馆）",
+        "winner": "阅途之星（广东）科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（软件通）",
+        "winner": "中新金桥信息技术（北京）有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（中科VIPExam考试学习资源数据库）",
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（中华优秀传统文化视频资源库）",
+        "winner": "河南华之杰文化传播有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（超星数字图书馆）",
+        "winner": "广州超星信息技术有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "广东建设职业技术学院2026-2027年度数字资源采购项目（“书香中国”互联网AI数字图书馆标准库）",
+        "winner": "湖北中文在线数字出版有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "中国知网CNKI系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 296000.0,
+      "total_price": 592000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "MET世界语言学习馆（英语馆）",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 37600.0,
+      "total_price": 75200.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "设计师之家数字图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 47400.0,
+      "total_price": 94800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "软件通",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 24000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "中科VIPExam考试学习资源数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 40000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "中华优秀传统文化视频资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 44250.0,
+      "total_price": 88500.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "超星数字图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 89000.0,
+      "total_price": 178000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "图书馆和档案馆服务",
+      "item_name": "“书香中国”互联网AI数字图书馆标准库",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "年",
+      "unit_price": 60000.0,
+      "total_price": 120000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 592000.0
+    },
+    {
+      "package_no": "2",
+      "name": "阅途之星（广东）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 75200.0
+    },
+    {
+      "package_no": "3",
+      "name": "阅途之星（广东）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 94800.0
+    },
+    {
+      "package_no": "4",
+      "name": "中新金桥信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 48000.0
+    },
+    {
+      "package_no": "5",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "6",
+      "name": "河南华之杰文化传播有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 88500.0
+    },
+    {
+      "package_no": "7",
+      "name": "广州超星信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 178000.0
+    },
+    {
+      "package_no": "8",
+      "name": "湖北中文在线数字出版有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 120000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

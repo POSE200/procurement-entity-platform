@@ -1,0 +1,130 @@
+{
+  "announcement_id": "t20260212_26175361",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件仅为中小企业声明函，不提供任何字段值。主要标的信息表5条标的共用品目号1-1、金额(元)列为空→各item金额/数量/单价=null；品目取自标的信息表品目名称列（概要品目列为空）。评分表给出全部5家供应商得分与得分排名，中标供应商amount=中标金额1,450,000元。",
+  "project": {
+    "buyer": "中山市人民医院",
+    "project_name": "中山市人民医院体检系统采购项目",
+    "total_amount": 1450000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中山市人民医院体检系统采购项目",
+        "winner": "广东康软科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "具有检前智能推荐、检中Ai主检",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "检前预约平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "检后智能服务及互联网门诊转诊",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "检后健康管理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "体检系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东康软科技股份有限公司",
+      "role": "winner",
+      "total_score": 93.83,
+      "rank": 1,
+      "amount": 1450000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天瑞康健（福州）信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "浙江禾连健康管理有限公司",
+      "role": "participant",
+      "total_score": 59.23,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市泽誉信息科技有限公司",
+      "role": "participant",
+      "total_score": 16.41,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东壹名信息科技有限责任公司",
+      "role": "participant",
+      "total_score": 12.3,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

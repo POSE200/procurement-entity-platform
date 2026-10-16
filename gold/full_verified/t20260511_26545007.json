@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260511_26545007",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市安卓建筑智能化工程有限公司）.pdf",
+  "note": "单包（合同包1）。品目取HTML标的信息表『品目名称』列（视频监控设备/交换设备/基础环境运维服务，公告概要品目列为空），item_no沿用品目号1-1至1-9；各项单价×数量自查全部一致，但9条明细合计1158300.00元与成交金额1155000.00元相差3300元（0.29%，在1%容差内但不完全相等），未改动原文值；未中标3家供应商报价原文未给，amount=null；附件为已OCR扫描件，金额与型号已按OCR文本识别并与HTML表交叉核对一致。",
+  "project": {
+    "buyer": "广州市番禺区化龙镇人民政府",
+    "project_name": "2026-2027年度化龙镇治安视频监控统筹运维服务项目",
+    "total_amount": 1155000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2027年度化龙镇治安视频监控统筹运维服务项目",
+        "winner": "广州市安卓建筑智能化工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境运维服务",
+      "item_name": "基础环境运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "年",
+      "unit_price": 914813.46,
+      "total_price": 914813.46
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "视频监控设备",
+      "item_name": "高清网络枪型摄像机",
+      "brand": "大华",
+      "model": "DH-IPC-MFW5XYZK2-ABC",
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 1460.25,
+      "total_price": 116820.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "视频监控设备",
+      "item_name": "高清网络云台摄像机",
+      "brand": "大华",
+      "model": "DH-SDT-8C1AXXX-XYZ-XXXXX-XXXXXX",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 7024.05,
+      "total_price": 21072.15
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "视频监控设备",
+      "item_name": "人像抓拍网络摄像机",
+      "brand": "大华",
+      "model": "DH-PTZ-4XXBCD/XY-XYZX-XXXXX-XXXXX-XXXXX",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 4763.88,
+      "total_price": 14291.64
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交换设备",
+      "item_name": "24口千兆交换机",
+      "brand": "大华",
+      "model": "DH-NS5300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2945.25,
+      "total_price": 2945.25
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "交换设备",
+      "item_name": "48口千兆交换机",
+      "brand": "大华",
+      "model": "DH-NS5300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3811.5,
+      "total_price": 3811.5
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "交换设备",
+      "item_name": "核心交换机",
+      "brand": "大华",
+      "model": "DH-S780X",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 53361.0,
+      "total_price": 53361.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "视频监控设备",
+      "item_name": "硬盘录像机",
+      "brand": "大华",
+      "model": "DH-NVR5832-4KS3/I",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3465.0,
+      "total_price": 3465.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "视频监控设备",
+      "item_name": "高清解码器",
+      "brand": "大华",
+      "model": "DH-NVD1205DU-4I-8K",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 27720.0,
+      "total_price": 27720.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市安卓建筑智能化工程有限公司",
+      "role": "winner",
+      "total_score": 87.63,
+      "rank": 1,
+      "amount": 1155000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东协安机电工程有限公司",
+      "role": "participant",
+      "total_score": 64.27,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市颂泽安全监视报警器材有限公司",
+      "role": "participant",
+      "total_score": 60.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州霍腾电子科技有限公司",
+      "role": "participant",
+      "total_score": 40.72,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

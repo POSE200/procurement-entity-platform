@@ -1,0 +1,195 @@
+{
+  "announcement_id": "t20260608_26706738",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州驭网信息技术有限公司）.pdf,合同包2：报价明细附件（广州竞远安全技术股份有限公司）.pdf",
+  "note": "两个合同包：包1中标广州驭网（315,800元）、包2中标广州竞远（1,320,000元），合计1,635,800=总中标金额163.58万。品目取HTML标的信息表品目名称列（概要品目列为空）：包1其他信息技术服务、包2测试评估认证服务。附件zip已解包，两包明细各1条：单价=总价、数量1批（单价×数量唯一互推成立）。18条bidders=两包评分表全部供应商；包1广东网安科技有限公司资格性审查不通过，无得分排名，total_score/rank填null；rank取各包得分排名列。参与方投标报价原文未给，amount为null。附件文本有水印字符串扰，已按HTML对照修正。需视觉核验：附件水印污染段落。复核：已解除——两包报价明细的单价/数量/总价在污染行中均可清晰辨认（315,800/1,320,000、1(批)），水印不涉及任何取值字段。",
+  "project": {
+    "buyer": "中共江门市委机要和保密局",
+    "project_name": "市政务信息系统商用密码应用安全性评估（2026—2027年）项目",
+    "total_amount": 1635800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息系统商用密码应用方案编制",
+        "winner": "广州驭网信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "商用密码应用方案商用密码应用安全性评估、信息系统商用密码应用安全性评估",
+        "winner": "广州竞远安全技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "信息系统商用密码应用方案编制",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 315800.0,
+      "total_price": 315800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "商用密码应用方案商用密码应用安全性评估、信息系统商用密码应用安全性评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 1320000.0,
+      "total_price": 1320000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州驭网信息技术有限公司",
+      "role": "winner",
+      "total_score": 99.2,
+      "rank": 1,
+      "amount": 315800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市赛云信息技术咨询有限公司",
+      "role": "participant",
+      "total_score": 94.13,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中科智诚（广州）科技有限公司",
+      "role": "participant",
+      "total_score": 91.34,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京海泰方圆科技股份有限公司",
+      "role": "participant",
+      "total_score": 75.94,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东网安科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "winner",
+      "total_score": 98.31,
+      "rank": 1,
+      "amount": 1320000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 95.58,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "安正网络安全技术有限公司",
+      "role": "participant",
+      "total_score": 95.36,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中科信息安全共性技术国家工程研究中心有限公司",
+      "role": "participant",
+      "total_score": 95.2,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市网安计算机安全检测技术有限公司",
+      "role": "participant",
+      "total_score": 95.19,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东南方信息安全研究院",
+      "role": "participant",
+      "total_score": 95.12,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "苏州市软件评测中心有限公司",
+      "role": "participant",
+      "total_score": 93.58,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "天津云安科技发展有限公司",
+      "role": "participant",
+      "total_score": 90.59,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市盛通建设工程质量检测有限公司",
+      "role": "participant",
+      "total_score": 90.48,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东中科实数科技有限公司",
+      "role": "participant",
+      "total_score": 90.43,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "鼎铉商用密码测评技术（深圳）有限公司",
+      "role": "participant",
+      "total_score": 89.8,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州华南检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 87.83,
+      "rank": 12,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

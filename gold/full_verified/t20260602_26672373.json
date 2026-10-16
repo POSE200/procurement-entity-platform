@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260602_26672373",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东粤财征信有限公司）.pdf",
+  "note": "HTML主要标的信息表金额列为空，单价/数量/总价取自附件报价明细（418000+184000=602000与总中标金额自洽）；两条item的服务名称/采购标的均为项目全名，以服务范围（公共信用信息管理系统/信用监管应用支撑平台）区分；品目取HTML末级名『软件运维服务』；得分排名列明示，rank照抄。",
+  "project": {
+    "buyer": "广州市数字政府运营中心（广州市政务大数据管理中心、广州市政府门户网站编辑部、广州市智慧城市运行中心）",
+    "project_name": "广州市数字政府运营中心2026-2027年信息化运维项目信用系统运维项目",
+    "total_amount": 602000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市数字政府运营中心2026-2027年信息化运维项目信用系统运维项目",
+        "winner": "广东粤财征信有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广州市数字政府运营中心2026-2027年信息化运维项目信用系统运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 418000.0,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广州市数字政府运营中心2026-2027年信息化运维项目信用系统运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 184000.0,
+      "total_price": 184000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东粤财征信有限公司",
+      "role": "winner",
+      "total_score": 80.12,
+      "rank": 1,
+      "amount": 602000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东中鑫华科技有限公司",
+      "role": "participant",
+      "total_score": 47.89,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省信息网络有限公司",
+      "role": "participant",
+      "total_score": 42.5,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

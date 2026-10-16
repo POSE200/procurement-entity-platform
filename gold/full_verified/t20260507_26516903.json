@@ -1,0 +1,206 @@
+{
+  "announcement_id": "t20260507_26516903",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市鹏辉智能控制科技有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列\"教学仪器\"（12条均同）。item_no取附件报价明细的序号1~12（HTML标的信息表12行品目号全为1-1，为合并单元格，无逐条区分）。规格型号原文为\"/\"的条目（双工位学习桌、强弱电综合布线及文化建设、师资培训）按无线索填null。12条总价合计1,429,800元=中标金额1,429,800.00元，单价×数量=总价逐条成立，数学一致。得分排名列明示（1~4），rank照抄；未中标三家投标报价原文未给，amount=null。需视觉核验：工业6轴机器人型号\"20kg\"与数量4台；河南信创云数字科技有限公司名称（HTML评分表中夹空格）。",
+  "project": {
+    "buyer": "江门市技师学院",
+    "project_name": "智能制造技术应用(优质重点)专业建设-柔性末端与智能抓取实训室建设项目",
+    "total_amount": 1429800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能制造技术应用(优质重点)专业建设-柔性末端与智能抓取实训室建设项目",
+        "winner": "深圳市鹏辉智能控制科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "工业6轴机器人",
+      "brand": "力博特",
+      "model": "20kg",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 125000.0,
+      "total_price": 500000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "末端执行器库",
+      "brand": "力博特",
+      "model": "LBT-MDK01",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 26500.0,
+      "total_price": 106000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "产品/工件库",
+      "brand": "力博特",
+      "model": "LBT-GJK01",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 26800.0,
+      "total_price": 107200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "教学仪器",
+      "item_name": "末端执行器",
+      "brand": "力博特",
+      "model": "定制",
+      "quantity": 40,
+      "unit": "个",
+      "unit_price": 6600.0,
+      "total_price": 264000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "教学仪器",
+      "item_name": "安全围栏",
+      "brand": "鹏辉",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 6360.0,
+      "total_price": 25440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "教学仪器",
+      "item_name": "控制柜",
+      "brand": "力博特",
+      "model": "LBT-KZG01",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 44600.0,
+      "total_price": 178400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "教学仪器",
+      "item_name": "数字孪生软件",
+      "brand": "力博特",
+      "model": "V1.0",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 18000.0,
+      "total_price": 72000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "教学仪器",
+      "item_name": "操作台",
+      "brand": "鹏辉",
+      "model": "PH-CZT01",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 13560.0,
+      "total_price": 54240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "教学仪器",
+      "item_name": "工量夹具保管柜",
+      "brand": "鹏辉",
+      "model": "PH-JJG01",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2210.0,
+      "total_price": 4420.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "教学仪器",
+      "item_name": "双工位学习桌（含凳子）",
+      "brand": "鹏辉",
+      "model": null,
+      "quantity": 25,
+      "unit": "套",
+      "unit_price": 860.0,
+      "total_price": 21500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "教学仪器",
+      "item_name": "强弱电综合布线及文化建设",
+      "brand": "鹏辉",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 76600.0,
+      "total_price": 76600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "教学仪器",
+      "item_name": "师资培训",
+      "brand": "鹏辉",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市鹏辉智能控制科技有限公司",
+      "role": "winner",
+      "total_score": 88.08,
+      "rank": 1,
+      "amount": 1429800.0
+    },
+    {
+      "package_no": "1",
+      "name": "苏州广瀚教育科技有限公司",
+      "role": "participant",
+      "total_score": 72.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南信创云数字科技有限公司",
+      "role": "participant",
+      "total_score": 68.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海繁松智能科技有限公司",
+      "role": "participant",
+      "total_score": 54.32,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

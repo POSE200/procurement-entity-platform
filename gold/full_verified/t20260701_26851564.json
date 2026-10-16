@@ -1,0 +1,182 @@
+{
+  "announcement_id": "t20260701_26851564",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东华茂声学工程有限公司）.pdf",
+  "note": "单包（合同包1）。总中标金额栏￥106.502400万元为四舍五入值，取表格1精确中标金额1,065,024.50元（与10条明细之和一致，概要栏舍入差0.50元）。HTML与附件的品牌/规格型号列均字面填写「详见投标文件分项报价表」，无实际值，故brand/model=null。品目取HTML品目名称列（概要品目列为空）：其他音频设备/舞台设备/其他椅凳类。品目号在组内重复（1-1×5、1-2×3、1-3×2），item_no按原文品目号保留故有重复。各明细单价×数量=总价一致。",
+  "project": {
+    "buyer": "梅州市广播电视台",
+    "project_name": "梅州市广播电视台融媒体中心智能媒资系统改造项目（三）",
+    "total_amount": 1065024.5,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "演播中心音响、座椅、舞台设备采购及安装服务",
+        "winner": "广东华茂声学工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他音频设备",
+      "item_name": "电源时序器",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1228.5,
+      "total_price": 1228.5
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他音频设备",
+      "item_name": "机柜",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4290.0,
+      "total_price": 4290.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他音频设备",
+      "item_name": "话筒拾音系统（话筒设备）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 136042.0,
+      "total_price": 136042.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他音频设备",
+      "item_name": "控制系统（音响控制）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 304538.0,
+      "total_price": 304538.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他音频设备",
+      "item_name": "△扩声系统（基础音响）核心产品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 130144.0,
+      "total_price": 130144.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "舞台设备",
+      "item_name": "其他",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 14875.0,
+      "total_price": 14875.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "舞台设备",
+      "item_name": "附属子项",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 27368.0,
+      "total_price": 27368.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "舞台设备",
+      "item_name": "演播室中心",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 206500.0,
+      "total_price": 206500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他椅凳类",
+      "item_name": "演播室中心观众折叠座椅定制",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 213539.0,
+      "total_price": 213539.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他椅凳类",
+      "item_name": "其他",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 26500.0,
+      "total_price": 26500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东华茂声学工程有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": 1,
+      "amount": 1065024.5
+    },
+    {
+      "package_no": "1",
+      "name": "广东华晨影视舞台专业工程有限公司",
+      "role": "participant",
+      "total_score": 90.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州赛佳声学灯光工程有限公司",
+      "role": "participant",
+      "total_score": 90.28,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京良御系统科技有限公司",
+      "role": "participant",
+      "total_score": 68.6,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

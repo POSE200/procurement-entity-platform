@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260506_26515305",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个采购包：中标信息表明示『第1包』中标人中移系统集成有限公司1363.84万元；表格2为另一中标人中国移动通信集团天津有限公司47.4万元（表头同格式，其包号『第2包』在HTML解析中丢失，据1363.84+47.4=1411.24万元与总中标金额￥1411.24万完全一致推断为第2包，需视觉核验）。附件（采购文件、评审报价总得分及排序docx）均为unknown类型跳过不可见，但排序表已在HTML中呈现。品目列空且标的信息表无『品目名称』列，category=null。标的信息表两条服务类标的与两包按顺序对应（云资源服务↔第1包、链路租赁（一）↔第2包，对应关系为推断，需视觉核验），每包单条标的仅包级中标金额，quantity/unit/unit_price=null。排序表（排序列明示1~4/1~3）给出排名，照抄；participant的amount不取『评审报价』（非中标金额亦非开标报价），填null。 复核修正：排序表'评审报价（万元）'列原文明示各家投标报价，participant 的 amount 由 null 改为按原文填入（绿色苹果/先特/维航均13638400.0；电信天津474120.0；联通天津504000.0元，万元换算）。",
+  "project": {
+    "buyer": "天津市住房公积金管理中心机关",
+    "project_name": "天津市住房公积金管理中心市政务云公积金专区云资源服务项目",
+    "total_amount": 14112400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中移系统集成有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国移动通信集团天津有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "市政务云公积金专区云资源服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 13638400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "链路租赁（一）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 474000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中移系统集成有限公司",
+      "role": "winner",
+      "total_score": 97.84,
+      "rank": 1,
+      "amount": 13638400.0
+    },
+    {
+      "package_no": "1",
+      "name": "绿色苹果（天津）技术有限公司",
+      "role": "participant",
+      "total_score": 64.3713,
+      "rank": 2,
+      "amount": 13638400.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津开发区先特网络系统有限公司",
+      "role": "participant",
+      "total_score": 62.6335,
+      "rank": 3,
+      "amount": 13638400.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津维航科技发展有限公司",
+      "role": "participant",
+      "total_score": 58.7143,
+      "rank": 4,
+      "amount": 13638400.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团天津有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 474000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信集团有限公司天津分公司",
+      "role": "participant",
+      "total_score": 99.9924,
+      "rank": 2,
+      "amount": 474120.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司天津市分公司",
+      "role": "participant",
+      "total_score": 98.2143,
+      "rank": 3,
+      "amount": 504000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

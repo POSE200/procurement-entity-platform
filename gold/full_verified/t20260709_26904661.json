@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260709_26904661",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件正文.pdf",
+  "note": "本项目共5个包，本中标公告仅涉及包2、包5（公告标题及总中标金额￥1099.606000万元口径）。HTML中标情况表仅捕获到包2一行：包号豫政采(2)20260817-2，望海康信（北京）科技股份公司，中标金额3,036,060.00元，评审总得分86.74分；包5（豫政采(2)20260817-5，包5：医学科研一体化平台建设）的成交供应商与中标金额在包内不可见（疑表格截断）——总中标金额10996060-3036060=7960000元可推算包5金额（且小于其最高限价8443300，逻辑自洽），但该推算非“单价×数量唯一互推”，仅记录于本note不填入字段，需视觉核验原网页确认包5中标人。品目列空、标的信息表无品目名称列，category=null。数量/单价无线索不填。评审总得分86.74原文明示；无排名列或“第N中标候选人”，rank=null。包5包号/包名称取自附件招标文件（仅前30页，截断于评标办法）。终审核验：查原始HTML（tmp/html/t20260709_26904661.html）中标情况表完整，包5行在原文明示——豫政采(2)20260817-5 中标供应商为中通建设股份有限公司（地址：北京市北京经济技术开发区荣华中路10号1幢18层1单元2101号），中标金额7,960,000.00元，评审总得分86.1分；与draft推算7960000一致，3036060+7960000=10996060 与总中标金额￥1099.606000万元一致，且小于包5最高限价8443300，数学自查通过。已补填包5 winner/amount/score，证据闭合，status=verified。",
+  "project": {
+    "buyer": "郑州大学第三附属医院(河南省妇幼保健院）",
+    "project_name": "郑州大学第三附属医院(河南省妇幼保健院）复旦大学附属妇产科医院河南医院国家妇产科区域医疗中心三期信息化建设B项目",
+    "total_amount": 10996060.0,
+    "packages": [
+      {
+        "package_no": "豫政采(2)20260817-2",
+        "package_name": "包2：院内信息化HRP智慧管理深化",
+        "winner": "望海康信（北京）科技股份公司"
+      },
+      {
+        "package_no": "豫政采(2)20260817-5",
+        "package_name": "包5：医学科研一体化平台建设",
+        "winner": "中通建设股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "豫政采(2)20260817-2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "院内信息化HRP智慧管理深化",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3036060.0
+    },
+    {
+      "package_no": "豫政采(2)20260817-5",
+      "item_no": "1",
+      "category": null,
+      "item_name": "医学科研一体化平台建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 7960000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "豫政采(2)20260817-2",
+      "name": "望海康信（北京）科技股份公司",
+      "role": "winner",
+      "total_score": 86.74,
+      "rank": null,
+      "amount": 3036060.0
+    },
+    {
+      "package_no": "豫政采(2)20260817-5",
+      "name": "中通建设股份有限公司",
+      "role": "winner",
+      "total_score": 86.1,
+      "rank": null,
+      "amount": 7960000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

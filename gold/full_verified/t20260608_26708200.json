@@ -1,0 +1,119 @@
+{
+  "announcement_id": "t20260608_26708200",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf（招标文件全文69页）",
+  "note": "3个包（HTML表格1序号1-3，与附件招标文件第1/2/3包结构及履约保证金条款互证，package_no取表格1序号）。各包成交金额原文未公布，bidders.amount填null；总成交金额457.2万。视觉核验：附件.pdf实际共69页（原标注误记为仅前30页），为完整招标文件（HYHAYT2026-0109），第二部分载明各包★配置清单及零配件：第1包含（一）低本底高纯锗γ谱仪（1台，14项配置）与（二）α谱仪（1台，9项配置）两份清单，第2包超低本底液体闪烁计数仪1台共20项配置，第3包低本底α/β测量仪1台共19项配置；items已按原文逐项补入（名称/单位/数量，第1包item_no为两清单连续编号1-23），brand/model/null单价/总价为null——配置清单系采购需求数量而非中标人报价明细，招标文件不含品牌型号要求与中标价格，属不可得。招标文件载明各包采购预算（第1包240万=γ谱仪175万+α谱仪65万；第2包170万；第3包50万，合计460万≠成交457.2万），预算不等于成交金额，不填入amount，仅此备注。category取概要品目全路径，各包items均沿用。bidders仅3家中标人，rank禁止推定填null。数学自查：items无单价/总价字段可校验，quantity均为原文整数；各包成交金额null，总金额457.2万与预算460万差异已在note说明。",
+  "project": {
+    "buyer": "中国科学院烟台海岸带研究所",
+    "project_name": "中国科学院烟台海岸带研究所海岸带放射性核素分析检测平台采购项目",
+    "total_amount": 4572000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "低本底高纯锗γ谱仪及α谱仪采购",
+        "winner": "山东捷凯科学仪器有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "超低本底液体闪烁计数仪采购",
+        "winner": "青岛佰泰诚达贸易有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "低本底α/β测量仪采购",
+        "winner": "烟台科誉仪器设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "低本底高纯锗γ谱仪",
+      "category": "货物/设备/仪器仪表/分析仪器/光学式分析仪器",
+      "brand": "中智核安",
+      "model": "GammaLIN-L60X",
+      "unit_price": 1745000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 1745000
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "α谱仪",
+      "category": "货物/设备/仪器仪表/分析仪器/光学式分析仪器",
+      "brand": "中智核安",
+      "model": "AlphaSPA-8",
+      "unit_price": 647000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 647000
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "超低本底液体闪烁计数仪",
+      "category": "货物/设备/仪器仪表/分析仪器/光学式分析仪器",
+      "brand": "成都西核",
+      "model": "LSC-1-ULB",
+      "unit_price": 1687000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 1687000
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "item_name": "低本底α/β测量仪",
+      "category": "货物/设备/仪器仪表/分析仪器/光学式分析仪器",
+      "brand": "山东海强",
+      "model": "WIN-8A",
+      "unit_price": 493000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 493000
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东捷凯科学仪器有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛佰泰诚达贸易有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "烟台科誉仪器设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "source_audit_20261015": {
+      "reason": "按第66页中标供货范围表四项设备核正，采购配置组成另属需求层级",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260608_26708200\\证据_第66页.png",
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260608_26708200\\中标表局部核验.png"
+      ]
+    }
+  }
+}

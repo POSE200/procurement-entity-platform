@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260709_26901514",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "竞争性磋商成交公告，2个包（包1/包2）：包1成交供应商为浙江税友信创科技有限公司，包2成交供应商为中软云企信息服务（南京）有限公司（出处：HTML标的信息表“包N：供应商名称”）。品目取公告概要品目列完整路径“服务/信息技术服务/运行维护服务/软件运维服务”。总成交金额￥34.690000万元=346900.0元为两包合计，公告未披露各包成交金额（采购文件附件只给包1/包2各175000.00元预算/最高限价，非成交金额），故item的total_price、bidders的amount均填null，不推算；quantity/unit/unit_price无线索填null（不满足单价×数量唯一互推）。原文无评审得分、无排名，total_score/rank=null。附件为采购文件（仅前30页文本层，截断于评审标准表格中部），不含成交明细。",
+  "project": {
+    "buyer": "国家税务总局南京市税务局第二税务分局",
+    "project_name": "国家税务总局南京市税务局第二税务分局2026年省管企业社保费征收系统技术支持服务项目",
+    "total_amount": 346900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "浙江税友信创科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中软云企信息服务（南京）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/信息技术服务/运行维护服务/软件运维服务",
+      "item_name": "国家税务总局南京市税务局第二税务分局2026年省管企业社保费征收系统技术支持服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/信息技术服务/运行维护服务/软件运维服务",
+      "item_name": "国家税务总局南京市税务局第二税务分局2026年省管企业社保费征收系统技术支持服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浙江税友信创科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中软云企信息服务（南京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

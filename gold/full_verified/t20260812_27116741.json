@@ -1,0 +1,536 @@
+{
+  "announcement_id": "t20260812_27116741",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方网络信息科技有限公司）.pdf,合同包2：报价明细附件（数字广东网络建设有限公司）.pdf,合同包4：报价明细附件（成都久信信息技术股份有限公司）.pdf",
+  "note": "三个采购包（1/2/4，无包3）：包1中标6608100（8项明细合计吻合）、包2中标4210000（21项明细合计吻合）、包4中标385700，三包之和11203800=总中标金额1120.38万。HTML标的信息表金额列为空，单价/数量/总价均取自附件报价明细（每项数量1(项)，单价=总价，附件明示非推算）。品目取HTML品目名称列：包1/包2为软件运营服务，包4为测试评估认证服务。中国电信广东分公司、中国移动广东有限公司同时参与包1与包2，按规范各包一条。附件PDF有水印噪声（公司名/编号串入服务范围列），不影响数值列。复核修正：包2附件2-3=18,291、2-5=16,717、2-14=1,140,708已在文本层确认（包2明细合计恰为4,210,000，交叉验证吻合），无未决视觉核验项。",
+  "project": {
+    "buyer": "广东省人民政府办公厅",
+    "project_name": "省政府办公厅政务外网信息化（2026年）项目",
+    "total_amount": 11203800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省政府网站集约化与督查平台运维运营及升级改造服务",
+        "winner": "广东南方网络信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "省政府办公厅政务外网信息系统运维运营及升级改造服务",
+        "winner": "数字广东网络建设有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "省政府办公厅政务外网信息化（2026年）项目第三方评估与测评服务",
+        "winner": "成都久信信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "广东省政府网站集约化平台视频转码、存储技术支撑服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 866700.0,
+      "total_price": 866700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "集约化平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3584400.0,
+      "total_price": 3584400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "软件运营服务",
+      "item_name": "广东省政府网站集约化平台运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 728000.0,
+      "total_price": 728000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "软件运营服务",
+      "item_name": "广东省政府“互联网+督查”平台适老化组件租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "软件运营服务",
+      "item_name": "省府办“互联网+督查”平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "软件运营服务",
+      "item_name": "省政府“互联网+督查”平台适配改造服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 480000.0,
+      "total_price": 480000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "软件运营服务",
+      "item_name": "广东省政府“互联网+督查”平台运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 709000.0,
+      "total_price": 709000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "软件运营服务",
+      "item_name": "广东省政府“互联网+督查”线索数据处理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运营服务",
+      "item_name": "会议事务支撑系统基础设施租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 114956.0,
+      "total_price": 114956.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "软件运营服务",
+      "item_name": "省驻沪办政务外网基础租赁设施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 280752.0,
+      "total_price": 280752.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "软件运营服务",
+      "item_name": "互联网计算机失泄密风险预警系统基础设施租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 18291.0,
+      "total_price": 18291.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "软件运营服务",
+      "item_name": "软件正版化专用平台自查工具成品软件租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 88503.0,
+      "total_price": 88503.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "软件运营服务",
+      "item_name": "省府办OA平台VPN租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 16717.0,
+      "total_price": 16717.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-6",
+      "category": "软件运营服务",
+      "item_name": "省府办外网OA系统办公自动化设备综合管理子系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 126658.0,
+      "total_price": 126658.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-7",
+      "category": "软件运营服务",
+      "item_name": "省政府电子督查系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 476934.0,
+      "total_price": 476934.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-8",
+      "category": "软件运营服务",
+      "item_name": "省政府智能公文交换系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 77686.0,
+      "total_price": 77686.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-9",
+      "category": "软件运营服务",
+      "item_name": "广东省政务信息采编系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 94305.0,
+      "total_price": 94305.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-10",
+      "category": "软件运营服务",
+      "item_name": "省政府办公厅政务外网安全加固设备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 170221.0,
+      "total_price": 170221.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-11",
+      "category": "软件运营服务",
+      "item_name": "省府办OA系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 372009.0,
+      "total_price": 372009.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-12",
+      "category": "软件运营服务",
+      "item_name": "粤政易车辆放行系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 86045.0,
+      "total_price": 86045.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-13",
+      "category": "软件运营服务",
+      "item_name": "省驻京办政务外网政务接待系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 118594.0,
+      "total_price": 118594.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-14",
+      "category": "软件运营服务",
+      "item_name": "省府办OA平台整合服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1140708.0,
+      "total_price": 1140708.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-15",
+      "category": "软件运营服务",
+      "item_name": "省府办OA系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 186840.0,
+      "total_price": 186840.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-16",
+      "category": "软件运营服务",
+      "item_name": "电子督查系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 213391.0,
+      "total_price": 213391.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-17",
+      "category": "软件运营服务",
+      "item_name": "粤政易车辆放行管理系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 79653.0,
+      "total_price": 79653.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-18",
+      "category": "软件运营服务",
+      "item_name": "省驻京办政务接待系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 19667.0,
+      "total_price": 19667.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-19",
+      "category": "软件运营服务",
+      "item_name": "广东省政务信息采编系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 31468.0,
+      "total_price": 31468.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-20",
+      "category": "软件运营服务",
+      "item_name": "省政府办公厅政务外网安全加固运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 137672.0,
+      "total_price": 137672.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-21",
+      "category": "软件运营服务",
+      "item_name": "省府办OA平台安全运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 358930.0,
+      "total_price": 358930.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "测试评估认证服务",
+      "item_name": "省政府办公厅政务外网信息化（2026年）项目第三方评估与测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 385700.0,
+      "total_price": 385700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方网络信息科技有限公司",
+      "role": "winner",
+      "total_score": 81.84,
+      "rank": 1,
+      "amount": 6608100.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 76.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 73.54,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州创冠网络科技有限公司",
+      "role": "participant",
+      "total_score": 43.57,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州云途腾科技有限公司",
+      "role": "participant",
+      "total_score": 42.55,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 87.24,
+      "rank": 1,
+      "amount": 4210000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中数通信息有限公司",
+      "role": "participant",
+      "total_score": 76.88,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 73.79,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 68.03,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京国脉信安科技有限公司",
+      "role": "participant",
+      "total_score": 49.96,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京卓优云智科技有限公司",
+      "role": "participant",
+      "total_score": 48.36,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "成都久信信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 88.71,
+      "rank": 1,
+      "amount": 385700.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东正中信息技术股份有限公司(联合体成员：北方实验室（沈阳）股份有限公司)",
+      "role": "participant",
+      "total_score": 84.11,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广东赛评信息技术有限公司(联合体成员：广州竞远安全技术股份有限公司)",
+      "role": "participant",
+      "total_score": 82.89,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州市盛通建设工程质量检测有限公司(联合体成员：广州数智融合创新技术有限公司)",
+      "role": "participant",
+      "total_score": 81.0,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京时代新威信息技术有限公司",
+      "role": "participant",
+      "total_score": 61.86,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "工业和信息化部电子第五研究所",
+      "role": "participant",
+      "total_score": 45.2,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "announcement_id": "t20260811_27115600",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-青岛合众聚力信息技术有限公司).pdf",
+  "note": "单包1货物项目，19条明细。概要品目列为空，category取HTML标的信息表『品目名称』列（全部为其他仪器仪表）；HTML采购标的列均为项目名（无区分度），item_name改用报价明细表附件的货物名称。19条单价×数量=合计全部核对通过，19条合计之和159963.5元=中标金额159,963.50元=总中标金额￥15.996300万元。评分表『得分排名/推荐排名』列空，rank=null。",
+  "project": {
+    "buyer": "青岛大学",
+    "project_name": "青岛大学教学机房改造项目",
+    "total_amount": 159963.5,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛合众聚力信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他仪器仪表",
+      "item_name": "多媒体教学软件",
+      "brand": "噢易云",
+      "model": "噢易多媒体网络教室软件V9.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5600.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他仪器仪表",
+      "item_name": "云桌面软件",
+      "brand": "噢易云",
+      "model": "噢易分布式桌面云系统V7.0",
+      "quantity": 64,
+      "unit": "套",
+      "unit_price": 820.0,
+      "total_price": 52480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他仪器仪表",
+      "item_name": "HDMI切换器",
+      "brand": "绿联",
+      "model": "CM289",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1240.0,
+      "total_price": 1240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他仪器仪表",
+      "item_name": "扩音系统",
+      "brand": "海普迪",
+      "model": "TAP690",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 9350.0,
+      "total_price": 9350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他仪器仪表",
+      "item_name": "投影幕布",
+      "brand": "唯视达",
+      "model": "唯视达",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1400.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他仪器仪表",
+      "item_name": "机柜",
+      "brand": "华腾",
+      "model": "华腾22U",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1350.0,
+      "total_price": 1350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他仪器仪表",
+      "item_name": "接入交换机",
+      "brand": "华为",
+      "model": "华为S310-48T4S",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 3250.0,
+      "total_price": 6500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他仪器仪表",
+      "item_name": "配线架",
+      "brand": "一舟",
+      "model": "P197-24G",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 440.0,
+      "total_price": 1320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "其他仪器仪表",
+      "item_name": "学生电脑桌1",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 18,
+      "unit": "套",
+      "unit_price": 870.0,
+      "total_price": 15660.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "其他仪器仪表",
+      "item_name": "学生电脑桌2",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 9,
+      "unit": "套",
+      "unit_price": 1270.0,
+      "total_price": 11430.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "其他仪器仪表",
+      "item_name": "教师电脑桌",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1470.0,
+      "total_price": 1470.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "其他仪器仪表",
+      "item_name": "机房专用防静电地板",
+      "brand": "倍思得",
+      "model": "倍思得",
+      "quantity": 140,
+      "unit": "平米",
+      "unit_price": 280.0,
+      "total_price": 39200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "其他仪器仪表",
+      "item_name": "电源线1",
+      "brand": "圳普",
+      "model": "圳普BV6",
+      "quantity": 285,
+      "unit": "米",
+      "unit_price": 10.0,
+      "total_price": 2850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "其他仪器仪表",
+      "item_name": "电源线2",
+      "brand": "圳普",
+      "model": "圳普BV1.5",
+      "quantity": 315,
+      "unit": "米",
+      "unit_price": 3.7,
+      "total_price": 1165.5
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "其他仪器仪表",
+      "item_name": "六类非屏蔽双绞线",
+      "brand": "一舟",
+      "model": "D165-G",
+      "quantity": 1800,
+      "unit": "米",
+      "unit_price": 3.5,
+      "total_price": 6300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "其他仪器仪表",
+      "item_name": "配电开关1",
+      "brand": "正泰",
+      "model": "正泰NXBLE-125",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 251.0,
+      "total_price": 251.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "其他仪器仪表",
+      "item_name": "配电开关2",
+      "brand": "正泰",
+      "model": "正泰NXBLE-32",
+      "quantity": 15,
+      "unit": "个",
+      "unit_price": 120.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "其他仪器仪表",
+      "item_name": "水晶头",
+      "brand": "一舟",
+      "model": "S901J-1",
+      "quantity": 2,
+      "unit": "盒",
+      "unit_price": 42.0,
+      "total_price": 84.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-19",
+      "category": "其他仪器仪表",
+      "item_name": "光纤跳线",
+      "brand": "长飞",
+      "model": "长飞",
+      "quantity": 3,
+      "unit": "根",
+      "unit_price": 171.0,
+      "total_price": 513.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛合众聚力信息技术有限公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 159963.5
+    },
+    {
+      "package_no": "1",
+      "name": "山东东电凯信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛佰翔宏月电子信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.01,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

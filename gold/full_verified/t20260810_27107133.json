@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27107133",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-浪潮云信息技术股份公司).pdf",
+  "note": "附件「报价明细表(第1轮-浪潮云信息技术股份公司).pdf」已在附件内容中找到并核对：单价112000元×数量1.0000项=响应报价112000元，与中标金额、总中标金额￥11.200000万一致。概要品目列为空，category取标的信息表「品目编号及品目名称」列「云计算服务」。评分表得分排名列空白，所有bidders rank=null。无OCR待补（文件审查表为已OCR件但仅含审查结论，不影响字段）。",
+  "project": {
+    "buyer": "中国共产党泰安市岱岳区委员会办公室本级",
+    "project_name": "岱岳区公共信用信息平台所需政务云服务项目",
+    "total_amount": 112000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "浪潮云信息技术股份公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "云计算服务",
+      "item_name": "岱岳区公共信用信息平台所需政务云服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 112000.0,
+      "total_price": 112000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浪潮云信息技术股份公司",
+      "role": "winner",
+      "total_score": 90.03,
+      "rank": null,
+      "amount": 112000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东和明信息技术有限公司",
+      "role": "participant",
+      "total_score": 68.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司泰安分公司",
+      "role": "participant",
+      "total_score": 68.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

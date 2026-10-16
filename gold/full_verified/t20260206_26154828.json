@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260206_26154828",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:7R37招标文件发售版.pdf",
+  "note": "3个包。公告仅披露总中标金额￥1986.710000万元与3家中标人，未披露各包中标金额，故各包amount/total_price无法核对，也不得用招标文件预算（包1=6,575,100元、包2=12,860,400元、包3小计=1,700,000元）推算。品目取公告概要品目列完整路径「服务/信息技术服务/运行维护服务/软件运维服务,服务/信息技术服务/运行维护服务/硬件运维服务」，3条照抄共用（包3为货物，与品目路径不完全对应，属原文概要列如此）。包3数据库审计工具：单价250,000元×数量3，total_price=750,000为两原文因子乘积（非编造）；货物数量列未带计量单位（招标文件预算表表头为「数量（台/套）」，未指明各工具具体单位），unit=null。bidders仅公告所列3家中标人，未中标供应商名单与各包得分/排名/金额原文均未披露，rank=null。无OCR扫描件，无需视觉核验。",
+  "project": {
+    "buyer": "中国信息通信研究院",
+    "project_name": "中国信息通信研究院在线政务服务平台运维、系统优化及政务数据运行服务",
+    "total_amount": 19867100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "基础硬件设备运维服务，操作系统、中间件、数据库、云平台等基础软件运维服务",
+        "winner": "中国软件与技术服务股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "应用及数据运行运维服务",
+        "winner": "中软信息技术创新有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "数据库审计工具",
+        "winner": "北京安华金和科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/信息技术服务/运行维护服务/软件运维服务,服务/信息技术服务/运行维护服务/硬件运维服务",
+      "item_name": "基础硬件设备运维服务，操作系统、中间件、数据库、云平台等基础软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/信息技术服务/运行维护服务/软件运维服务,服务/信息技术服务/运行维护服务/硬件运维服务",
+      "item_name": "应用及数据运行运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "服务/信息技术服务/运行维护服务/软件运维服务,服务/信息技术服务/运行维护服务/硬件运维服务",
+      "item_name": "数据库审计工具",
+      "brand": "安华金和",
+      "model": "DAS12100A-G",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 250000.0,
+      "total_price": 750000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国软件与技术服务股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中软信息技术创新有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京安华金和科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

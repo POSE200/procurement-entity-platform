@@ -1,0 +1,112 @@
+{
+  "announcement_id": "t20260703_26866689",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:2026年MATLAB软件授权等服务单一来源采购项目(二次)单一来源采购文件（N510001202600108320260618001）.docx",
+  "note": "单一来源采购，三包三个成交供应商（无 participant）。包号由采购文件明示：包1 MATLAB软件授权服务、包2 大学数据动态监测服务、包3 全景云数据平台服务。概要品目列空，category 照抄标的表品目名称「C16080100 软件运营服务」。quantity=1（项）来自采购文件报价表「数量（计量单位）1.00（项）」列，属明示值；包1、包3 为单标的包，单价由 总价÷数量 唯一互推（包1 单价=成交金额259,500元，包3 单价=80,000元）。包2 含 2 条标的但成交金额 400,000 元未按标的拆分，两条 item 的 total_price/unit_price 填 null（采购文件标的金额各为 200,000 元、合计恰等于成交金额，仅供核验参考，不作为成交真值）。包1 采购文件标的金额/最高限价为 260,000 元，与成交金额 259,500 元差 500 元，按成交公告取 259,500。三包成交金额之和=739,500元=总成交金额￥73.95万。需视觉核验：包2 成交价是否在响应文件中按标的拆分（本包内不可见）。复核：采购文件标的表/报价表（数量1.00（项）、标的金额、最高限价）、三包成交金额与包名已独立核对，确认通过。",
+  "project": {
+    "buyer": "西南石油大学",
+    "project_name": "2026年MATLAB软件授权等服务单一来源采购项目(二次)",
+    "total_amount": 739500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "西南石油大学MATLAB软件授权服务",
+        "winner": "北京天演融智软件有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "西南石油大学大学数据动态监测服务",
+        "winner": "上海高绩数据科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "西南石油大学全景云数据平台服务",
+        "winner": "杭州青塔科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "C16080100 软件运营服务",
+      "item_name": "西南石油大学MATLAB软件授权服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 259500.0,
+      "total_price": 259500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "C16080100 软件运营服务",
+      "item_name": "大学360度数据监测平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "C16080100 软件运营服务",
+      "item_name": "学科发展水平数据监测平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": "C16080100 软件运营服务",
+      "item_name": "西南石油大学全景云数据平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京天演融智软件有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 259500.0
+    },
+    {
+      "package_no": "2",
+      "name": "上海高绩数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 400000.0
+    },
+    {
+      "package_no": "3",
+      "name": "杭州青塔科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

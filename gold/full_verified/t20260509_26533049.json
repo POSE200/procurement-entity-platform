@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260509_26533049",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "原始HTML明确披露1/2包成交供应商及各包金额；包划分为原文明示，不是推断的单包。服务数量、单位、单价无直接依据时保留null；包金额保存在对应winner.amount，不盲目复制到整体总称items。 原文无明示综合得分及排名时保留null。正文列有附件链接，但本地file ZIP未提供该ID附件包，不得把附件缺包描述为公告无附件。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "国家税务总局浙江省税务局",
+    "project_name": "浙江税务2026年骨干网络线路租用",
+    "total_amount": 6188174.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国电信股份有限公司浙江分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司浙江省分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "浙江税务2026年骨干网络线路租用项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司浙江分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3569000
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司浙江省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2619174
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "公告列有附件链接，但提供的赛题五.基准测试数据_file.zip没有该ID附件包；未能核验附件所载进一步参与者、报价明细等，不据此宣称完整附件级覆盖。",
+      "主要标的信息为跨包项目总称，不能仅凭各包成交总额重建分项内容；正式包名或明细未明确部分保留null，不克隆项目金额。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

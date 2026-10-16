@@ -1,0 +1,366 @@
+{
+  "announcement_id": "t20260806_27088589",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列空，主要标的信息表（表格2）无品目列，category 全 null；package_no=1 推断自中标情况表序号1（分包名称'其他信息化设备'，单包）；rank 取自评分表'排序'列；26 条明细的明细报价×数量合计=790000 元，与中标金额 790000.0 元一致；附件仅为专家支付费用表与声明函，不提供字段值。",
+  "project": {
+    "buyer": "青岛市城阳区凤凰山学校",
+    "project_name": "2026年城阳区凤凰山学校网络、监控及广播设备采购项目",
+    "total_amount": 790000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "其他信息化设备",
+        "winner": "山东五棵松电气科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "24口光纤汇聚交换机",
+      "brand": "H3C",
+      "model": "S5590-28S8XC-EI",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 18000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "24口光纤汇聚交换机电源模块",
+      "brand": "H3C",
+      "model": "PSR180-12A-B",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 3500.0,
+      "total_price": 17500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "24口接入交换机",
+      "brand": "H3C",
+      "model": "S5135S-24T4S-EI-Q",
+      "quantity": 15,
+      "unit": "台",
+      "unit_price": 6000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "24口POE交换机",
+      "brand": "H3C",
+      "model": "S5135S-24FP4T4S-EI",
+      "quantity": 14,
+      "unit": "台",
+      "unit_price": 7500.0,
+      "total_price": 105000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "8口POE交换机",
+      "brand": "H3C",
+      "model": "S5135S-8FP4S-EI-Q",
+      "quantity": 32,
+      "unit": "台",
+      "unit_price": 1950.0,
+      "total_price": 62400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "吸顶式全向AP",
+      "brand": "H3C",
+      "model": "WA7220-H20",
+      "quantity": 72,
+      "unit": "台",
+      "unit_price": 1040.0,
+      "total_price": 74880.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "License接入授权",
+      "brand": "H3C",
+      "model": "LIS-WX-1-BE",
+      "quantity": 72,
+      "unit": "个",
+      "unit_price": 300.0,
+      "total_price": 21600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "管理授权",
+      "brand": "H3C",
+      "model": "SWP-IMC7-IMP-x",
+      "quantity": 72,
+      "unit": "个",
+      "unit_price": 500.0,
+      "total_price": 36000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "千兆互联光纤模块",
+      "brand": "H3C",
+      "model": "SFP-GE-LX-SM1310-D",
+      "quantity": 61,
+      "unit": "对",
+      "unit_price": 800.0,
+      "total_price": 48800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "万兆互联光纤模块",
+      "brand": "H3C",
+      "model": "SFP-XG-LX-SM1310-D",
+      "quantity": 5,
+      "unit": "对",
+      "unit_price": 1500.0,
+      "total_price": 7500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "理线架",
+      "brand": "东方之光",
+      "model": "DFZG-ZP-L24",
+      "quantity": 18,
+      "unit": "台",
+      "unit_price": 40.0,
+      "total_price": 720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "辅材及调试",
+      "brand": "五棵松",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "红外半球一体摄像机",
+      "brand": "海康威视",
+      "model": "DS-2CD2347SWDV3-LT",
+      "quantity": 74,
+      "unit": "台",
+      "unit_price": 480.0,
+      "total_price": 35520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "红外枪式一体摄像机",
+      "brand": "海康威视",
+      "model": "DS-2CD2T47WDA4-L",
+      "quantity": 30,
+      "unit": "台",
+      "unit_price": 745.0,
+      "total_price": 22350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "专用支架",
+      "brand": "海康威视",
+      "model": "DS-1292ZJ-K",
+      "quantity": 30,
+      "unit": "个",
+      "unit_price": 40.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "双绞线缆",
+      "brand": "东方之光",
+      "model": "DFZG-Z-600-C",
+      "quantity": 8,
+      "unit": "箱",
+      "unit_price": 1260.0,
+      "total_price": 10080.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "钢导管",
+      "brand": "雷恒",
+      "model": "20*1.5",
+      "quantity": 300,
+      "unit": "米",
+      "unit_price": 18.0,
+      "total_price": 5400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "综合管理平台",
+      "brand": "海康威视",
+      "model": "iSecure Center",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 27300.0,
+      "total_price": 27300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "IP网络功放终端",
+      "brand": "itc",
+      "model": "TP-993120B",
+      "quantity": 7,
+      "unit": "台",
+      "unit_price": 3800.0,
+      "total_price": 26600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "平台终端嵌入软件",
+      "brand": "itc",
+      "model": "V2.02",
+      "quantity": 7,
+      "unit": "套",
+      "unit_price": 800.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "天花喇叭",
+      "brand": "itc",
+      "model": "TP-3305",
+      "quantity": 73,
+      "unit": "只",
+      "unit_price": 180.0,
+      "total_price": 13140.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "IP网络音箱",
+      "brand": "itc",
+      "model": "TP-BG99307",
+      "quantity": 32,
+      "unit": "套",
+      "unit_price": 1470.0,
+      "total_price": 47040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数字化IP网络终端嵌入软件",
+      "brand": "itc",
+      "model": "V2.0",
+      "quantity": 32,
+      "unit": "套",
+      "unit_price": 400.0,
+      "total_price": 12800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "音控器",
+      "brand": "itc",
+      "model": "TP-4129C",
+      "quantity": 21,
+      "unit": "台",
+      "unit_price": 570.0,
+      "total_price": 11970.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "音频解码器",
+      "brand": "itc",
+      "model": "TP-99301",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "稳压电源",
+      "brand": "三科",
+      "model": "定制10KVA",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2800.0,
+      "total_price": 2800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东五棵松电气科技有限公司",
+      "role": "winner",
+      "total_score": 90.0,
+      "rank": 1,
+      "amount": 790000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛振晟实业有限公司",
+      "role": "participant",
+      "total_score": 73.09,
+      "rank": 2,
+      "amount": 792796.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东华忆信息工程有限公司",
+      "role": "participant",
+      "total_score": 72.51,
+      "rank": 3,
+      "amount": 797830.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

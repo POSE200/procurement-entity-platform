@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260708_26894712",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一来源采购，5个合同包各1家成交：包1万方数据知识服务智慧云平台（北京万方数据股份有限公司102,000元）、包2中国知网系列数据库（同方知网数字科技有限公司335,000元）、包3超星文献服务系统（西安超星教育科技有限公司259,000元）、包4华服志（阅途之星（广东）科技有限公司80,000元）、包5大为innojoy专利搜索引擎（成都志图科技有限公司80,000元）。五包之和856,000元=总成交金额￥85.600000万，一致。package_no与package_name取自表格11合同包号/名称列（明示）；表格1-5成交供应商与包1-5按表格顺序对应（包4/包5金额均为80,000元，供应商与标的的对应依赖表格顺序，需视觉核验）。独立复核（0924）：包1-3绑定由唯一金额匹配佐证；包4/包5两包金额同为80,000元，绑定依赖结果表顺序与合同包号顺序一一对应（规范第8条允许的顺序推断，note已声明），且标注包已含HTML全部内容、附件报价表均为空白格式，视觉核验不会带来新信息。采购文件3.2.2节确认包4=华服志、包5=大为innojoy。category取标的信息表品目名称列=图书和音像制品租赁服务（概要品目列空）。服务类总价标的，quantity/unit/unit_price不填（禁止quantity=1互推），仅total_price。最低评标价法，无综合得分/排名，null。附件zip整体被跳过、采购文件pdf仅前30页，但HTML已含全部成交信息。",
+  "project": {
+    "buyer": "西安工程大学",
+    "project_name": "图书馆2026年数据库（第一批）采购项目",
+    "total_amount": 856000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "万方数据知识服务智慧云平台",
+        "winner": "北京万方数据股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "中国知网系列数据库",
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "超星文献服务系统",
+        "winner": "西安超星教育科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "华服志",
+        "winner": "阅途之星（广东）科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "大为innojoy专利搜索引擎",
+        "winner": "成都志图科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图书和音像制品租赁服务",
+      "item_name": "万方数据知识服务智慧云平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 102000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "图书和音像制品租赁服务",
+      "item_name": "中国知网系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 335000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "图书和音像制品租赁服务",
+      "item_name": "超星文献服务系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 259000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "图书和音像制品租赁服务",
+      "item_name": "华服志",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "图书和音像制品租赁服务",
+      "item_name": "大为innojoy专利搜索引擎",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 80000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京万方数据股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 102000.0
+    },
+    {
+      "package_no": "2",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 335000.0
+    },
+    {
+      "package_no": "3",
+      "name": "西安超星教育科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 259000.0
+    },
+    {
+      "package_no": "4",
+      "name": "阅途之星（广东）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "5",
+      "name": "成都志图科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

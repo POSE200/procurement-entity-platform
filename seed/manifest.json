@@ -1,0 +1,27 @@
+{
+  "source_release": "源码_20261014",
+  "model_default": "deepseek-flash",
+  "counts": {
+    "announcements": 1038,
+    "items": 8012,
+    "llm_cache": 2870,
+    "jobs": 1,
+    "job_tasks": 1038,
+    "evaluations": 0
+  },
+  "gold_files": 1038,
+  "zero_score_placeholders": [
+    "t20260701_26854918",
+    "t20260807_27091873"
+  ],
+  "database_sha256": "a5d6a56d828b9951d4242b48207730c8e877b75cd84471fa0215cc90e64b4c93",
+  "contains_api_keys": false,
+  "features": [
+    "任务范围选择与关系分析",
+    "按任务导出标准表",
+    "单任务清除",
+    "清除任务后保留清单完成状态",
+    "前端更新后导航恢复",
+    "访客独立配置Key"
+  ]
+}

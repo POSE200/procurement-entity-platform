@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260506_26515560",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:2标段.png",
+  "note": "两个标段：中标信息表序号1=牵头供应商中国电信股份有限公司新疆分公司+联合体成员新疆安信数维信息技术有限公司（报价8,010,000元，得分96.79），序号2=牵头供应商联通数字科技有限公司新疆分公司+联合体成员新疆创成伟业网络有限公司（报价5,224,000元，得分93.86）；序号与标段的对应为推断（表格1无标项列），佐证：附件2标段.png的中小企业声明函明示创成伟业承接的是『二标段』的过保服务器等设备运维（与标的信息表二标段内容一致），需视觉核验。8,010,000+5,224,000=13,234,000元与总中标金额￥1323.4万一致。中标金额列原文写『报价：N（元）』，照录。winner联合体写法原样保留原文表述。品目列空、标的信息表无品目名称列，category=null；每标段单条标的仅包级金额，quantity/unit/unit_price=null。原文无其他投标主体名单、无排名列，participant无、rank=null。附件招标文件docx仅提供预算（一标段826万/二标段538.75万）与规则，未提供成交明细。",
+  "project": {
+    "buyer": "新疆维吾尔自治区市场监督管理局",
+    "project_name": "新疆维吾尔自治区市场监督管理局基础设施运维服务和线路资源租用服务项目",
+    "total_amount": 13234000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "新疆维吾尔自治区市场监督管理局基础设施运维服务和线路资源租用服务项目一标段",
+        "winner": "牵头供应商：中国电信股份有限公司新疆分公司 投标联合体：中国电信股份有限公司新疆分公司、新疆安信数维信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "新疆维吾尔自治区市场监督管理局基础设施运维服务和线路资源租用服务项目二标段",
+        "winner": "牵头供应商：联通数字科技有限公司新疆分公司 投标联合体：联通数字科技有限公司新疆分公司、新疆创成伟业网络有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "新疆维吾尔自治区市场监督管理局基础设施运维服务和线路资源租用服务项目一标段",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 8010000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "新疆维吾尔自治区市场监督管理局基础设施运维服务和线路资源租用服务项目二标段",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 5224000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "牵头供应商：中国电信股份有限公司新疆分公司 投标联合体：中国电信股份有限公司新疆分公司、新疆安信数维信息技术有限公司",
+      "role": "winner",
+      "total_score": 96.79,
+      "rank": null,
+      "amount": 8010000.0
+    },
+    {
+      "package_no": "2",
+      "name": "牵头供应商：联通数字科技有限公司新疆分公司 投标联合体：联通数字科技有限公司新疆分公司、新疆创成伟业网络有限公司",
+      "role": "winner",
+      "total_score": 93.86,
+      "rank": null,
+      "amount": 5224000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260811_27115458",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "两个采购包由同一中标人深圳市讯方技术股份有限公司中标（包1:3996200元/89.81分，包2:3896500元/90.02分，合计7892700=总中标金额）。包名AIGC/人工智能与数字电路来自附件分项报价表标的名称。包1/包2报价明细各仅1条\"1宗\"标的（无分项价格），items各1条；分项报价表.docx列出包1共19项、包2共28项技术要求名称但单价/合价列全空，无法细化。HTML评分表得分排名列空白，所有rank=null。brand/model为HTML标的信息表的多值清单（逗号/分号分隔），原样照抄。复核修正：brand/model主源为HTML表格3/4（纯文本非OCR），且与附件报价明细表OCR互校一致、条目数吻合（包1各19项、包2各28项），原'OCR截断需视觉核验'待办已消除",
+  "project": {
+    "buyer": "山东女子学院",
+    "project_name": "山东女子学院人工智能学院实验室建设项目",
+    "total_amount": 7892700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "AIGC",
+        "winner": "深圳市讯方技术股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "人工智能与数字电路",
+        "winner": "深圳市讯方技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "AIGC",
+      "brand": "软通、飞凌、华为、职前通、三拓、讯方、讯方、讯方、飞凌、飞凌、飞凌、飞凌、飞凌、飞凌、华为、华为、展云、讯方、讯方",
+      "model": "超强A800I A2、EDU-AIoT ELF 2、S6730-S24X6Q、职前通在线学习与就业平台V3.0、SH.6642.D、讯方智慧教育平台V2.0（AIGC实验模块）、《AIGC绘画与音视频生成》、《AIGC短剧创作》、《嵌入式开发》、《基础功能实验》、《驱动开发实验》、《C应用开发实验》、《Qt应用开发实验》、《OpenCV计算机视觉实验》、S5735-L48T4S-A-V2、S1730S-S24T4S-QA2、ZY-9032、定制、定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 3996200.0,
+      "total_price": 3996200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教学仪器",
+      "item_name": "人工智能与数字电路",
+      "brand": "讯方；讯方；讯方；程度电子；程度电子；华为；三拓；讯方；讯方；讯方；讯方；讯方；讯方；讯方；讯方；讯方；华为；华为；展云；讯方；讯方；联想；讯方；讯方；讯方；讯方；讯方；讯方；",
+      "model": "XF-AIBOX；XF-shrek；定制；ZTDZB-A26；《数电模电实验合集》；S6730-S24X6Q；SH.6642.D；讯方智慧教育平台V2.0(教学管理模块)；讯方智慧教育平台V2.0(实训管理模块)；讯方智慧教育平台V2.0(考试管理模块)；讯方智慧教育平台V2.0(竞赛管理模块)；讯方智慧教育平台V2.0(就业管理模块)；《大模型应用开发》；《计算机视觉》；《AI+社区监管项目实战》；讯方PTN仿真软件V1.0；S5735-L48T4S-A-V2；S1730S-S24T4S-QA2；ZY-9032；定制；定制；ThinkCentre neo P600IRH-01；定制；定制；定制；定制；定制；定制；",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 3896500.0,
+      "total_price": 3896500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市讯方技术股份有限公司",
+      "role": "winner",
+      "total_score": 89.81,
+      "rank": null,
+      "amount": 3996200.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南中睿优胜科技有限公司",
+      "role": "participant",
+      "total_score": 79.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南琪钰科技有限公司",
+      "role": "participant",
+      "total_score": 74.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东讯博信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市讯方技术股份有限公司",
+      "role": "winner",
+      "total_score": 90.02,
+      "rank": null,
+      "amount": 3896500.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东同正信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东砺芒数字科技有限公司",
+      "role": "participant",
+      "total_score": 74.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东网诺智能化工程有限公司",
+      "role": "participant",
+      "total_score": 69.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

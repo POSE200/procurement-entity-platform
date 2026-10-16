@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260305_26228163",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category 取标的信息表（表格4-6）「品目名称」列末级名『行业应用软件开发服务』；报价明细附件.zip 跳过未解析，标的表金额(元)列全空，故各 item 的 quantity/unit/unit_price/total_price 均为 null，各包金额以中标信息表为准。三包中标金额 580250+838000+428000=1846250 元，与总中标金额 ￥184.625 万元一致。广州市灵狐系统工程有限公司同时为包2（92.15分/第1名/838000元）与包3（88.55分/第1名/428000元）中标人，按新口径 bidders 同一供应商每包各一条，包2、包3 各一条。待OCR附件为委托协议扫描件，与标的明细无关。复核修正：按新口径G2，灵狐 bidders 由每主体一条拆为每包一条（包2 92.15分/第1名/838000元、包3 88.55分/第1名/428000元，均见包内评审表）。；复核修正：bidders 补 package_no 字段；多包条目按标注包评分表（各包一节）顺序归组定 package_no",
+  "project": {
+    "buyer": "东莞市第八人民医院（东莞市儿童医院）",
+    "project_name": "DIP医保精细化管理平台及采购、基建管理、电子会计凭证系统采购项目",
+    "total_amount": 1846250.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "DIP医保精细化管理平台",
+        "winner": "广州华资软件技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购、基建管理系统",
+        "winner": "广州市灵狐系统工程有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "电子会计凭证系统",
+        "winner": "广州市灵狐系统工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "DIP医保精细化管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "采购、基建管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "电子会计凭证系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州华资软件技术有限公司",
+      "role": "winner",
+      "total_score": 94.23,
+      "rank": 1,
+      "amount": 580250.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东珠江智联信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 78.64,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "众企数字科技（广东）有限公司",
+      "role": "participant",
+      "total_score": 69.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市灵狐系统工程有限公司",
+      "role": "winner",
+      "total_score": 92.15,
+      "rank": 1,
+      "amount": 838000.0
+    },
+    {
+      "package_no": "2",
+      "name": "京信科技股份有限公司",
+      "role": "participant",
+      "total_score": 73.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州明志信息技术有限公司",
+      "role": "participant",
+      "total_score": 50.4,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市灵狐系统工程有限公司",
+      "role": "winner",
+      "total_score": 88.55,
+      "rank": 1,
+      "amount": 428000.0
+    },
+    {
+      "package_no": "3",
+      "name": "广州安宜为信息科技有限公司",
+      "role": "participant",
+      "total_score": 61.65,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州飞斯信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.6,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

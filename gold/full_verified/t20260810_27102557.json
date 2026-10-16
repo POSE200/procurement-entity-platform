@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27102557",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（努比技术（广州）有限公司）.pdf",
+  "note": "概要品目列空，category取自HTML主要标的信息表品目名称列（数据加工处理服务）；报价明细附件明示单价2,186,600元、数量1(项)、总价2,186,600.00元，单价×数量=总价成立；仅1个采购包、1家中标，未中标3家投标报价原文未给→amount=null；包号1取自合同包号/品目号1-1",
+  "project": {
+    "buyer": "广东省教育研究院",
+    "project_name": "2026年广东省中小学（含中职）课堂教学数字化评价与质量提升项目",
+    "total_amount": 2186600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广东省中小学（含中职）课堂教学数字化评价与质量提升项目",
+        "winner": "努比技术（广州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数据加工处理服务",
+      "item_name": "2026年广东省中小学（含中职）课堂教学数字化评价与质量提升项目（数据加工处理服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2186600.0,
+      "total_price": 2186600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "努比技术（广州）有限公司",
+      "role": "winner",
+      "total_score": 97.0,
+      "rank": 1,
+      "amount": 2186600.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市斯进电子科技有限公司",
+      "role": "participant",
+      "total_score": 74.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州云策数据科技有限公司",
+      "role": "participant",
+      "total_score": 55.25,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市粤联信息科技有限公司",
+      "role": "participant",
+      "total_score": 53.7,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

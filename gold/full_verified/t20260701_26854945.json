@@ -1,0 +1,427 @@
+{
+  "announcement_id": "t20260701_26854945",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:采购包1-最终报价表.pdf,采购包2-最终报价表.pdf",
+  "note": "2个采购包各1名中标人（包1消防控制室搬迁363000元，包2监控室迁移98580元，合计461580=总中标金额46.158万，一致）。品目取HTML标的表品目名称列（安全、检查、监视、报警设备）。两包各条明细的单价×数量=响应报价逐条核对一致，包1的16条响应报价之和=363000、包2的12条之和=98580，均与包中标金额一致。item_no取HTML品目号（1-1-1~1-1-16、2-1-1~2-1-12），与最终报价表序号1~16/1~12一一对应；item_name取最终报价表货物名称（HTML采购标的列16/12行重名，附件名更细）。包2前11项品牌/规格型号原文即“采购人自有设备”，照抄。得分排名列原文为空，rank一律null（禁止中标即第1），total_score取评审总得分。复核确认（原为视觉核验疑点，复核后原文文本清晰、数学自洽，无OCR不确定）：①包1接线端子箱1~3单价仅2.7元/组（合价216/297/54元），数值异常低但与原文逐字一致；②包2摄像机单价97.1591元×176=17100.0006≈响应报价17100元，单价小数位疑为倒推值，照抄原文；③包(1)/包(2)_投标（响应）报价明细表为空白模板，不影响取值。",
+  "project": {
+    "buyer": "山东中医药大学附属医院(省中医院)",
+    "project_name": "山东中医药大学附属医院东院区消防及监控中控室搬迁项目",
+    "total_amount": 461580.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东鑫源消防设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东瑞旭建筑智能化工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料1",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJS-2*1.5",
+      "quantity": 300,
+      "unit": "米",
+      "unit_price": 266.39,
+      "total_price": 79917.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料2",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJS-2*1.5",
+      "quantity": 180,
+      "unit": "米",
+      "unit_price": 216.67,
+      "total_price": 39000.6
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料3",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJS-2*1.5",
+      "quantity": 180,
+      "unit": "米",
+      "unit_price": 126.68,
+      "total_price": 22802.4
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料4",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJYP-24*1.5",
+      "quantity": 120,
+      "unit": "米",
+      "unit_price": 50.22,
+      "total_price": 6026.4
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料5",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJYP-30*1.5",
+      "quantity": 300,
+      "unit": "米",
+      "unit_price": 60.86,
+      "total_price": 18258.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料6",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJYP-20*1.5",
+      "quantity": 330,
+      "unit": "米",
+      "unit_price": 42.24,
+      "total_price": 13939.2
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "线缆材料7",
+      "brand": "上海起帆",
+      "model": "WDZBN-RYJYP-42*1.5",
+      "quantity": 330,
+      "unit": "米",
+      "unit_price": 85.2,
+      "total_price": 28116.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "接线端子箱1",
+      "brand": "锈锜电气",
+      "model": "接线端子箱",
+      "quantity": 80,
+      "unit": "组",
+      "unit_price": 2.7,
+      "total_price": 216.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "接线端子箱2",
+      "brand": "锈锜电气",
+      "model": "接线端子箱",
+      "quantity": 110,
+      "unit": "组",
+      "unit_price": 2.7,
+      "total_price": 297.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "接线端子箱3",
+      "brand": "锈锜电气",
+      "model": "接线端子箱",
+      "quantity": 20,
+      "unit": "组",
+      "unit_price": 2.7,
+      "total_price": 54.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "接线端子箱4",
+      "brand": "锈锜电气",
+      "model": "接线端子箱",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 326.99,
+      "total_price": 326.99
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "桥架及辅材",
+      "brand": "廊坊超振",
+      "model": "桥架：300mm*100mm、辅材：防火封堵、套管、波纹管、标识牌、扎带、铜端子等",
+      "quantity": 50,
+      "unit": "米",
+      "unit_price": 69.3,
+      "total_price": 3465.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "人工费用1",
+      "brand": "鑫源",
+      "model": "全院消防线缆铺设、端接、测试",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 114969.57,
+      "total_price": 114969.57
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "人工费用2",
+      "brand": "鑫源",
+      "model": "箱体固定、端子接线、标识张贴",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1357.99,
+      "total_price": 1357.99
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "人工费用3",
+      "brand": "鑫源",
+      "model": "新增桥架安装、既有桥架整改、防火封堵",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2683.39,
+      "total_price": 2683.39
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "人工费用4",
+      "brand": "鑫源",
+      "model": "消防回路调试、联动测试、验收配合",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 31570.46,
+      "total_price": 31570.46
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "拼接屏",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 15,
+      "unit": "块",
+      "unit_price": 1000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "拼接屏框架",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 1,
+      "unit": "组",
+      "unit_price": 1000.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "UPS",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1300.0,
+      "total_price": 1300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "监控系统客户端电脑",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 150.0,
+      "total_price": 600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-5",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "操作台",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 2,
+      "unit": "组",
+      "unit_price": 600.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-6",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "摄像机",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 176,
+      "unit": "台",
+      "unit_price": 97.1591,
+      "total_price": 17100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-7",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "交换机",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 14,
+      "unit": "台",
+      "unit_price": 100.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-8",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "门禁控制器",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 26,
+      "unit": "台",
+      "unit_price": 200.0,
+      "total_price": 5200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-9",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "人脸识别门禁设备",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 156,
+      "unit": "台",
+      "unit_price": 100.0,
+      "total_price": 15600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-10",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "门禁对讲机",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 13,
+      "unit": "台",
+      "unit_price": 100.0,
+      "total_price": 1300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-11",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "电磁锁",
+      "brand": "采购人自有设备",
+      "model": "采购人自有设备",
+      "quantity": 66,
+      "unit": "把",
+      "unit_price": 180.0,
+      "total_price": 11880.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-12",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "系统调试及辅材；桥架、光缆、穿线管、线槽、涨塞等",
+      "brand": "扬丰",
+      "model": "YF-GYTZA53-24",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 27000.0,
+      "total_price": 27000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鑫源消防设备有限公司",
+      "role": "winner",
+      "total_score": 93.16,
+      "rank": null,
+      "amount": 363000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东亮安检测技术有限公司",
+      "role": "participant",
+      "total_score": 80.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东恒悦消防工程有限公司",
+      "role": "participant",
+      "total_score": 80.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东道成泰和智能科技有限公司",
+      "role": "participant",
+      "total_score": 77.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东瑞旭建筑智能化工程有限公司",
+      "role": "winner",
+      "total_score": 90.16,
+      "rank": null,
+      "amount": 98580.0
+    },
+    {
+      "package_no": "2",
+      "name": "优士科技发展有限公司",
+      "role": "participant",
+      "total_score": 86.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东益通安装有限公司",
+      "role": "participant",
+      "total_score": 84.23,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

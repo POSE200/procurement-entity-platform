@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27077944",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:广州气象卫星地面站卫星地面系统运行监视及驻场技术服务项目 招标文件.pdf",
+  "note": "概要品目列给出完整路径『服务/专业技术服务/气象服务』，原样照抄；数量1项来自附件招标文件用户需求书（数量列），招标文件项目经费180万元为预算、不等于中标价179.8万，故unit_price无法唯一互推留null；rank取HTML评审表『排序』列（原文明示）；package_no由中标信息表序号1推断；附件招标文件仅前30页，无更细报价明细。",
+  "project": {
+    "buyer": "广州气象卫星地面站",
+    "project_name": "广州气象卫星地面站卫星地面系统运行监视及驻场技术服务项目",
+    "total_amount": 1798000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广州顺百行科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务/专业技术服务/气象服务",
+      "item_name": "广州气象卫星地面站卫星地面系统运行监视及驻场技术服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 1798000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州顺百行科技有限公司",
+      "role": "winner",
+      "total_score": 85.0,
+      "rank": 1,
+      "amount": 1798000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市鑫广飞信息科技有限公司",
+      "role": "participant",
+      "total_score": 64.98,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州刀锋智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 50.98,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

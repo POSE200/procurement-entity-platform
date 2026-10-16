@@ -1,0 +1,147 @@
+{
+  "announcement_id": "t20260804_27072054",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表(1).docx,投标（响应）报价明细表(3).docx",
+  "note": "两个采购包：包1智慧课程（成交人山东世纪读秀信息科技有限公司1,968,000.00元、得分91.40）、包2虚拟仿真课程（成交人青岛青鸾机器人有限公司993,500.00元、得分90.34），合计2,961,500元与总中标金额￥296.15万元一致；两包各自的附件'投标（响应）报价明细表'为响应报价（包1：1,998,200元×1套；包2：999,600元×1套），表头注明'同比例下调至成交价'，故item单价/总价按成交后金额填写（包1：1,968,000元；包2：993,500元，数量1套不变），响应报价与成交价的差额系磋商降价；附件包2报价明细表的合计/备注行在解析中重复了11次（表格结构错位），不影响取值；得分排名/推荐排名列存在但值为空，rank全部null；概要品目列空，category取标的信息表品目名称列'教育课程研究与开发服务'；山东太阳风教育设备有限公司两包均参与，按包各一条。",
+  "project": {
+    "buyer": "枣庄学院",
+    "project_name": "枣庄学院基于知识图谱“AI+”课程建设项目",
+    "total_amount": 2961500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧课程",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "虚拟仿真课程",
+        "winner": "青岛青鸾机器人有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "智慧课程",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1968000.0,
+      "total_price": 1968000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "虚拟仿真课程",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 993500.0,
+      "total_price": 993500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 91.4,
+      "rank": null,
+      "amount": 1968000.0
+    },
+    {
+      "package_no": "1",
+      "name": "国家开放大学出版社有限公司",
+      "role": "participant",
+      "total_score": 89.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东太阳风教育设备有限公司",
+      "role": "participant",
+      "total_score": 63.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宣城乐多信息科技有限公司",
+      "role": "participant",
+      "total_score": 56.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东育数视觉科技有限公司",
+      "role": "participant",
+      "total_score": 53.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛青鸾机器人有限公司",
+      "role": "winner",
+      "total_score": 90.34,
+      "rank": null,
+      "amount": 993500.0
+    },
+    {
+      "package_no": "2",
+      "name": "青岛唯唯视界教育科技有限公司",
+      "role": "participant",
+      "total_score": 87.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛盛杰教育科技有限公司",
+      "role": "participant",
+      "total_score": 81.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛光线电子科技有限公司",
+      "role": "participant",
+      "total_score": 80.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东太阳风教育设备有限公司",
+      "role": "participant",
+      "total_score": 78.13,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛青芯顺智能科技有限公司",
+      "role": "participant",
+      "total_score": 77.47,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260602_26674788",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "采购包1（标题明示'采购包1'，磋商文件称共分1个包）；标的表5行品目号与'品目编号及品目名称'列均空，category=null、item_no=null，5行item_name原文相同；各行服务范围明示'数量一套'故quantity=1、unit取单位列'项'；标的表无单价列，unit_price按'单价×数量唯一互推'取各行金额（note声明）；5行金额之和42800+26000+91800+105800+51600=318000元与总中标金额一致；评分表'得分排名/推荐排名'列空，rank=null；13个docx附件被跳过（均为声明函/承诺函类，不影响结果字段）。复核：5行金额逐一核对，求和318000元与总中标金额一致；'数量一套'为各行服务范围末尾明示；全部字段核对无误。",
+  "project": {
+    "buyer": "济南信息工程学校",
+    "project_name": "济南信息工程学校数字工厂专班人才培养服务",
+    "total_amount": 318000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "济南信息工程学校数字工厂专班人才培养服务",
+        "winner": "山东智捷数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南信息工程学校数字工厂专班人才培养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 42800.0,
+      "total_price": 42800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南信息工程学校数字工厂专班人才培养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 26000.0,
+      "total_price": 26000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南信息工程学校数字工厂专班人才培养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 91800.0,
+      "total_price": 91800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南信息工程学校数字工厂专班人才培养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 105800.0,
+      "total_price": 105800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南信息工程学校数字工厂专班人才培养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 51600.0,
+      "total_price": 51600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东智捷数字科技有限公司",
+      "role": "winner",
+      "total_score": 93.99,
+      "rank": null,
+      "amount": 318000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南科明数码技术股份有限公司",
+      "role": "participant",
+      "total_score": 81.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东高驰数据科技有限公司",
+      "role": "participant",
+      "total_score": 80.59,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

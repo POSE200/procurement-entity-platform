@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123401",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-道普信息技术有限公司).pdf",
+  "note": "标题明示采购包1，package_no=1；品目取自主要标的信息表品目名称列'信息化工程监理服务'；数量/单价来自中标供应商道普信息技术有限公司报价明细表（30000元×1项，已核对附件处理声明中的'报价明细表(第1轮-*)'附件）；评分表'得分排名'列为空，rank一律null；包(1)_开标一览表与包(1)_投标报价明细表为空模板（仅表头），无各投标人报价可得，参与方amount=null；附件处理声明所列'报价明细表(第1轮-*)'已找到并核对，无遗漏。",
+  "project": {
+    "buyer": "山东省物化探勘查院",
+    "project_name": "2026年省地矿局山东省生态农场智慧服务系统新建项目C包",
+    "total_amount": 30000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "道普信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "信息化工程监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": 89.76,
+      "rank": null,
+      "amount": 30000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东赛宝电子信息工程有限责任公司",
+      "role": "participant",
+      "total_score": 87.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东国佳基业科技开发有限公司",
+      "role": "participant",
+      "total_score": 70.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都创信华通信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.31,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

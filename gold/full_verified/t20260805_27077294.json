@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260805_27077294",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方网络信息科技有限公司）.pdf",
+  "note": "概要品目列空，品目取HTML品目名称列'其他公共信息与宣传服务'。items按附件报价明细8条（品目号1-1，附件序号1-8，与HTML表2的8行一一对应、名称一致）；8条总价之和=1,995,000.00元，与总中标金额￥199.500000万元及表1一致。序号6线上宣传一行总价被水印断行，数值200,000/1项完整可读。bidders的rank取得分排名列，第3名推荐排名空。",
+  "project": {
+    "buyer": "中共广东省委网络安全和信息化委员会办公室",
+    "project_name": "2026年广东省网络安全宣传周系列活动",
+    "total_amount": 1995000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广东省网络安全宣传周系列活动",
+        "winner": "广东南方网络信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "网络安全宣传周开幕式",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 494000.0,
+      "total_price": 494000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "技术沙龙",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "产业供需对接",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "“百万英才汇南粤”网信人才招聘专场",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "网络安全公益行",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "网络安全宣传周线上宣传",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "网络安全宣传周线下宣传",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "其他服务要求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1000.0,
+      "total_price": 1000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方网络信息科技有限公司",
+      "role": "winner",
+      "total_score": 92.86,
+      "rank": 1,
+      "amount": 1995000.0
+    },
+    {
+      "package_no": "1",
+      "name": "企新（广州）数字科技有限公司",
+      "role": "participant",
+      "total_score": 44.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东国利信息网络有限公司",
+      "role": "participant",
+      "total_score": 34.45,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

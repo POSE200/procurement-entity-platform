@@ -1,0 +1,294 @@
+{
+  "announcement_id": "t20260608_26709334",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国联合网络通信有限公司揭阳市分公司）.pdf,附件：主要标的信息-揭阳市第三人民医院HRP管理系统服务器、数据库（国产产品）及机房配套建设项目.pdf",
+  "note": "单包项目（合同包1），代理费表合同包名称栏为占位值“1”，package_name取null。HTML标的信息表仅18条（将超融合服务器、计算虚拟化软件、超融合管理软件三条合并为一条264,200元），而“主要标的信息”附件列20条更细粒度，按规范抽到最细粒度输出20条：附件20条之和（含OCR缺失的序号12六类水晶头150元，取自HTML表格与报价明细附件）=640,000元，与中标金额完全一致。计算虚拟化软件、超融合管理软件两条附件未给计量单位，unit=null。品目全部取自HTML品目名称列“服务器”（原样照抄）。需视觉核验：附件2序号12整行OCR缺失（推定为六类水晶头150元）；序号1规格型号OCR为“H3C Un平iServe 云 r R4930 G5 慧”，按HTML无水印版取“H3C UniServer R4930 G5”。复核：两疑点均已解除——六类水晶头150元在HTML标的信息表及报价明细附件中均明示（非推定）；序号1规格型号在HTML标的信息表为干净文本“H3C UniServer R4930 G5”。",
+  "project": {
+    "buyer": "揭阳市第三人民医院",
+    "project_name": "揭阳市第三人民医院HRP管理系统服务器、数据库（国产产品）及机房配套建设项目",
+    "total_amount": 640000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司揭阳市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "本国产超融合服务器（核心产品）",
+      "brand": "H3C",
+      "model": "H3C UniServer R4930 G5",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 212200.0,
+      "total_price": 212200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "计算虚拟化软件 License费用-管理1个物理CPU",
+      "brand": "H3C",
+      "model": "H3C UIS CAS",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 13000.0,
+      "total_price": 26000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "超融合管理软件标准版 License费用-管理1个物理CPU",
+      "brand": "H3C",
+      "model": "H3C UIS Manager",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 13000.0,
+      "total_price": 26000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "数据库",
+      "brand": "人大金仓",
+      "model": "KingbaseES V9",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "中间件",
+      "brand": "东方通",
+      "model": "TongWeb V7.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "操作系统",
+      "brand": "统信",
+      "model": "统信服务器操作系统V20",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 6500.0,
+      "total_price": 32500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "42U机柜",
+      "brand": "金盾",
+      "model": "800mm*1200mm*2045mm",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 5500.0,
+      "total_price": 11000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "机柜垂直理线槽",
+      "brand": "金盾",
+      "model": "100mm*42U",
+      "quantity": 4,
+      "unit": "条",
+      "unit_price": 460.0,
+      "total_price": 1840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "二层网管交换机",
+      "brand": "华为",
+      "model": "华为 S310-48T4S",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 3550.0,
+      "total_price": 7100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "42U机柜PDU",
+      "brand": "汇牌",
+      "model": "10A×16P/SPD/4mm2/32A-INPUT",
+      "quantity": 4,
+      "unit": "条",
+      "unit_price": 420.0,
+      "total_price": 1680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "六类通信线缆",
+      "brand": "烽火",
+      "model": "六类4对非屏蔽双绞线",
+      "quantity": 1,
+      "unit": "箱",
+      "unit_price": 840.0,
+      "total_price": 840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "六类水晶头",
+      "brand": "清华同方",
+      "model": "六类RJ45网络水晶头",
+      "quantity": 1,
+      "unit": "盒",
+      "unit_price": 150.0,
+      "total_price": 150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "机柜PDU电缆",
+      "brand": "南洋",
+      "model": "RVV-3x2.5mm2",
+      "quantity": 40,
+      "unit": "米",
+      "unit_price": 12.0,
+      "total_price": 480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "机房隔断",
+      "brand": "联通",
+      "model": "定制铝合金框玻璃隔断，厚度8mm",
+      "quantity": 14,
+      "unit": "平方米",
+      "unit_price": 320.0,
+      "total_price": 4480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "硫酸钙防静电地板",
+      "brand": "嘉叶",
+      "model": "602*602*40mm",
+      "quantity": 16,
+      "unit": "平方米",
+      "unit_price": 580.0,
+      "total_price": 9280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "防静电地板辅材",
+      "brand": "嘉叶",
+      "model": "定制",
+      "quantity": 16,
+      "unit": "平方米",
+      "unit_price": 150.0,
+      "total_price": 2400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "铜排",
+      "brand": "半径",
+      "model": "30×4mm",
+      "quantity": 24,
+      "unit": "米",
+      "unit_price": 220.0,
+      "total_price": 5280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "地线",
+      "brand": "上上电缆",
+      "model": "RV16mm2",
+      "quantity": 40,
+      "unit": "米",
+      "unit_price": 25.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "灭火装置",
+      "brand": "大地",
+      "model": "30L",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3270.0,
+      "total_price": 3270.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "拆除部分",
+      "brand": "联通",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4500.0,
+      "total_price": 4500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司揭阳市分公司",
+      "role": "winner",
+      "total_score": 92.35,
+      "rank": 1,
+      "amount": 640000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东华讯网络有限公司",
+      "role": "participant",
+      "total_score": 71.66,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数政信息技术有限公司",
+      "role": "participant",
+      "total_score": 51.8,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

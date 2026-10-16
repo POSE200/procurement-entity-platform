@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27060473",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方都市报经营有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（公共公益宣传服务）。HTML表格2金额列为空，单价3,920,000元/数量1项/总价3,920,000元明示于报价明细附件。包号1来自合同包号列。rank取表格4得分排名列（原文明示1-3）。未中标供应商投标报价原文未列，amount=null。另一附件中小企业声明函为OCR乱码碎片，不影响字段取值。",
+  "project": {
+    "buyer": "中共广东省委网络安全和信息化委员会办公室",
+    "project_name": "“网络强村”助力“百千万工程”项目",
+    "total_amount": 3920000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "“网络强村”助力“百千万工程”项目",
+        "winner": "广东南方都市报经营有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "公共公益宣传服务",
+      "item_name": "“网络强村”助力“百千万工程”项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3920000.0,
+      "total_price": 3920000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方都市报经营有限公司",
+      "role": "winner",
+      "total_score": 88.4,
+      "rank": 1,
+      "amount": 3920000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州广报文化发展有限公司",
+      "role": "participant",
+      "total_score": 68.7,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东羊城晚报数字媒体有限公司",
+      "role": "participant",
+      "total_score": 65.25,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

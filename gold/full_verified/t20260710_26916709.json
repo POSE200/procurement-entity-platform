@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260710_26916709",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-杭州众传数字设备有限公司)([1]).pdf,报价明细表(第1轮-杭州众传数字设备有限公司)([2]).pdf",
+  "note": "两个货物包，同一供应商杭州众传数字设备有限公司包1、包2均中标（bidders按包各一条，role均为winner）；各包1条标的：单价/数量来自报价明细附件（135000元×1宗、460000元×1宗），之和595000元=总中标金额59.5万元，核对一致；包号1/2有出处（公告标题'采购包1、2'、本国产品附件目录'包1(3kw…)/包2(1kw…)'）。需视觉核验疑点：①HTML表格4中包2'1kw数字电视发射机'的品目名称列为'调频广播发射机'，品目名与标的名不匹配，原文如此照抄；②已OCR附件.pdf为案例一览表及声明函（含OCR错字如'数宇''广插'），不提供字段值。",
+  "project": {
+    "buyer": "山东省广播电视传输保障中心",
+    "project_name": "数字电视和调频发射机更新项目",
+    "total_amount": 595000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "3kw调频频段数字音频广播发射机",
+        "winner": "杭州众传数字设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "1kw数字电视发射机",
+        "winner": "杭州众传数字设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "调频广播发射机",
+      "item_name": "3kw调频频段数字音频广播发射机",
+      "brand": "众传数字",
+      "model": "ZHC618F-3000W/R",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 135000.0,
+      "total_price": 135000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "调频广播发射机",
+      "item_name": "1kw数字电视发射机",
+      "brand": "众传数字",
+      "model": "ZHC518D-1000W",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 460000.0,
+      "total_price": 460000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "杭州众传数字设备有限公司",
+      "role": "winner",
+      "total_score": 92.44,
+      "rank": null,
+      "amount": 135000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都凯腾四方数字广播电视设备有限公司",
+      "role": "participant",
+      "total_score": 90.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都泰华永彰科技有限公司",
+      "role": "participant",
+      "total_score": 76.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "杭州众传数字设备有限公司",
+      "role": "winner",
+      "total_score": 94.99,
+      "rank": null,
+      "amount": 460000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都凯腾四方数字广播电视设备有限公司",
+      "role": "participant",
+      "total_score": 89.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都泰华永彰科技有限公司",
+      "role": "participant",
+      "total_score": 75.24,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

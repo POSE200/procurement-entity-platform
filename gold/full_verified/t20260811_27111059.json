@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27111059",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件仅有中小企业声明函，无报价明细附件；标的信息表「金额(元)」列为空，本篇为单条服务标的且仅知总中标金额2,615,000元，按规范禁止推算，故quantity/unit/unit_price/total_price均为null；品目概要列为空，品目取自HTML「品目名称」列（软件运维服务）；rank取自评分表「得分排名」列（原文明示，中京政通推荐排名为\"/\"不影响）。",
+  "project": {
+    "buyer": "佛山市信息网络中心",
+    "project_name": "佛山市政务网站群运维（2026年）项目",
+    "total_amount": 2615000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市政务网站群运维（2026年）项目",
+        "winner": "广东科杰通信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "佛山市政务网站群运维（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东科杰通信息科技有限公司",
+      "role": "winner",
+      "total_score": 84.35,
+      "rank": 1,
+      "amount": 2615000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东德燊科技有限公司",
+      "role": "participant",
+      "total_score": 56.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东金赋科技股份有限公司",
+      "role": "participant",
+      "total_score": 54.54,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市中京政通科技有限公司",
+      "role": "participant",
+      "total_score": 50.33,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260601_26661814",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "两个采购包各1条货物明细。品目号/品目名称列在HTML标的信息表中为空，category=null。包号依据：公告标题明示『（采购包1、2）』，附件报价明细表[1]（肺功能测试系统，威海君和458000元）对应包1、[2]（射频理疗仪，青岛瑞艺宝390000元）对应包2，按此对应关系赋包号。两包之和458000+390000=848000元与总中标金额￥84.8万元一致。评分表中『得分排名/推荐排名』列原文为空，rank一律null。",
+  "project": {
+    "buyer": "威海市妇幼保健院",
+    "project_name": "肺功能测试系统、射频理疗仪项目",
+    "total_amount": 848000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "肺功能测试系统",
+        "winner": "威海君和医疗器械有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "射频理疗仪",
+        "winner": "青岛瑞艺宝科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "肺功能测试系统",
+      "brand": "康讯",
+      "model": "PFT-D1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 458000.0,
+      "total_price": 458000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "射频理疗仪",
+      "brand": "天津顺博",
+      "model": "XSSP-3SE",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 390000.0,
+      "total_price": 390000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "威海君和医疗器械有限公司",
+      "role": "winner",
+      "total_score": 91.38,
+      "rank": null,
+      "amount": 458000.0
+    },
+    {
+      "package_no": "1",
+      "name": "威海瑞源医疗器械科技有限公司",
+      "role": "participant",
+      "total_score": 68.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "威海合宸悦医疗器械有限公司",
+      "role": "participant",
+      "total_score": 66.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫贵康生物医疗科技有限公司",
+      "role": "participant",
+      "total_score": 50.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东奥盛医药有限公司",
+      "role": "participant",
+      "total_score": 50.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛瑞艺宝科技有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": null,
+      "amount": 390000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东铭川恒业医疗科技有限公司",
+      "role": "participant",
+      "total_score": 44.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛浦瑞泰医疗科技有限公司",
+      "role": "participant",
+      "total_score": 43.46,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

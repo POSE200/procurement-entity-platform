@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27071861",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第2轮-山东华信消防工程有限公司).pdf,详细汇总表.pdf",
+  "note": "包号1为附件明示（综合评分汇总表'采购包号：1'，标题亦为采购包1）。附件处理声明仅列'详细汇总表.pdf'但附件内容含'报价明细表(第2轮-山东华信消防工程有限公司).pdf'，已核对：单价298500×1项=298500与HTML一致。矛盾点：详细汇总表(劳务报酬支付表)OCR'中标成交金额218500元'与HTML总中标金额298500元不符，疑OCR错字(2/9)，以HTML与报价明细表298500为准（需视觉核验）。规格型号列在HTML与附件中均填项目名称而非真实型号，照抄附件原文。评审表'得分排名/推荐排名'列为空，rank=null。投标人投标报价297500/298550取自附件综合评分汇总表。需视觉核验疑点：①详细汇总表'218500元'②HTML表格2规格型号列'枣庄市?亭区政务中?消防设备更换维修项?'缺字③综合评分汇总表表格残缺(顺通/联众行'通过'位置错位)。",
+  "project": {
+    "buyer": "枣庄市山亭区行政审批服务局机关",
+    "project_name": "枣庄市山亭区政务中心消防设备更换维修项目",
+    "total_amount": 298500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东华信消防工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "消防设备",
+      "item_name": "枣庄市山亭区政务中心消防设备更换维修项目",
+      "brand": "江洋泵业",
+      "model": "枣庄市山亭区政务中心消防设备更换维修项目",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 298500.0,
+      "total_price": 298500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东华信消防工程有限公司",
+      "role": "winner",
+      "total_score": 87.9,
+      "rank": null,
+      "amount": 298500.0
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄顺通消防工程有限公司",
+      "role": "participant",
+      "total_score": 85.34,
+      "rank": null,
+      "amount": 297500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东联众消防安全工程有限公司",
+      "role": "participant",
+      "total_score": 73.56,
+      "rank": null,
+      "amount": 298550.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

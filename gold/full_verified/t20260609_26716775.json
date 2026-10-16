@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260609_26716775",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf,综合办公管理系统等软件运维服务采购项目(二次)磋商文件（N510114202600014920260526001）.docx",
+  "note": "三包项目（合同包1/2/3 附件明示），各包单一服务标的：包1=OA系统维保服务、包2=合理用药维保服务、包3=个人数字证书维护服务（磋商文件 3.2 技术要求 + 标的一览表序号对应，包1/2/3 预算 21,000/84,000/92,600 元）。包名称原文未公布 → package_name=null。items 单价×数量说明：磋商文件标的一览表及包(N)报价表明示数量 1.00（项）、价款形式=总价，故 quantity=1/unit=项 有出处，单价=成交金额/1 唯一互推（特此声明，非无据推算）。HTML 标的信息表『响应报价』单元格为模板残留乱码（${detail['priceSummaryList']...}）不可用，total_price 取各包成交金额。总成交金额 193,674 元 = 三包成交金额之和，吻合。rank 取评审情况表『第N成交候选人』明示（注意：包2 行序琨洵在前但候选人顺序永宏佳业第二/琨洵第三；包3 行序清网威联在前但为第三候选人，均按候选人明示填）。需视觉核验：评审情况表为 OCR 文本（字重叠），得分数字建议对照原图；三份『满足采购文件实质性要求和评分的证明材料』与磋商文件主体未逐页核阅。 复核修正：2026-09-23独立复核——quantity=1.00（项）/价款形式总价经磋商文件标的一览表与报价表双重明示；六家participant得分OCR数字清晰且与各包候选人排序完全一致，中标人得分与HTML评审总得分双重印证；原“需视觉核验”疑点消除。",
+  "project": {
+    "buyer": "成都市新都区中医医院",
+    "project_name": "综合办公管理系统等软件运维服务采购项目(二次)",
+    "total_amount": 193674.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京文华东安医院管理有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "四川美康医药软件研究开发股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "成都证鸣数字信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "C16070300 软件运维服务",
+      "item_name": "OA系统维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "C16070300 软件运维服务",
+      "item_name": "合理用药维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 82000.0,
+      "total_price": 82000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": "C16070300 软件运维服务",
+      "item_name": "个人数字证书维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 91674.0,
+      "total_price": 91674.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京文华东安医院管理有限公司",
+      "role": "winner",
+      "total_score": 89.34,
+      "rank": 1,
+      "amount": 20000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都墨翟科技有限公司",
+      "role": "participant",
+      "total_score": 60.16,
+      "rank": 2,
+      "amount": 20700.0
+    },
+    {
+      "package_no": "1",
+      "name": "远创智信（成都）科技有限公司",
+      "role": "participant",
+      "total_score": 50.3,
+      "rank": 3,
+      "amount": 20500.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川美康医药软件研究开发股份有限公司",
+      "role": "winner",
+      "total_score": 97.66,
+      "rank": 1,
+      "amount": 82000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川永宏佳业科技有限公司",
+      "role": "participant",
+      "total_score": 75.39,
+      "rank": 2,
+      "amount": 83500.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都琨洵科技有限责任公司",
+      "role": "participant",
+      "total_score": 71.36,
+      "rank": 3,
+      "amount": 82800.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都证鸣数字信息技术有限公司",
+      "role": "winner",
+      "total_score": 98.33,
+      "rank": 1,
+      "amount": 91674.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都新世纪华新科技开发有限公司",
+      "role": "participant",
+      "total_score": 86.22,
+      "rank": 2,
+      "amount": 92137.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都清网威联网络科技有限公司",
+      "role": "participant",
+      "total_score": 86.16,
+      "rank": 3,
+      "amount": 92414.8
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260206_26157964",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category取HTML标的明细表（表格2）'品目名称'列，三行原值均为'行业应用软件开发服务'，逐条照抄；标的明细表金额(元)列为空，分项total_price=null；报价明细附件（联通（广东）产业互联网有限公司）.pdf解析被跳过，分项报价不可得；中标金额2,299,800.00元与总中标金额￥229.98万一致；bidders含评分表全部4家，rank取评分表'得分排名'列（4家均有值；第3、4家'推荐排名'为空）。复核修正：按新口径2，标的明细表品目名称列有值即照抄，category由null改为'行业应用软件开发服务'。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "梅州市生态环境局",
+    "project_name": "梅州市天地车人综合监管平台项目",
+    "total_amount": 2299800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "梅州市天地车人综合监管平台项目",
+        "winner": "联通（广东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "配套技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "基础硬件设施",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "软件系统开发",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 96.78,
+      "rank": 1,
+      "amount": 2299800.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司梅州分公司",
+      "role": "participant",
+      "total_score": 65.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市南华仪器股份有限公司",
+      "role": "participant",
+      "total_score": 40.99,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州运星科技有限公司",
+      "role": "participant",
+      "total_score": 34.2,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

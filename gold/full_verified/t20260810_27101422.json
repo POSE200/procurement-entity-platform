@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260810_27101422",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包；概要品目列空、主要标的信息仅给名称/范围/要求（无品目名称列）→category=null；仅一个总中标金额（619,080.00元），单价/数量无明示一律留null（未做单价×数量互推）；package_no=\"A\"取自公告标题与项目名称中明示的\"项目包A\"；rank原文未给→null",
+  "project": {
+    "buyer": "寿光市自然资源和规划局",
+    "project_name": "山东省潍坊市寿光市自然资源和规划局2026年基础测绘项目-基础地理信息数据库更新采购项目",
+    "total_amount": 619080.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "山东省潍坊市寿光市自然资源和规划局2026年基础测绘项目-基础地理信息数据库更新采购项目包A实体数据更新",
+        "winner": "山东省经纬工程测绘勘察院有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "基础地理信息数据库更新采购项目包A实体数据更新服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 619080.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东省经纬工程测绘勘察院有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 619080.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

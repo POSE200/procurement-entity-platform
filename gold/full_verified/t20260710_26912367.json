@@ -1,0 +1,128 @@
+{
+  "announcement_id": "t20260710_26912367",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "双包项目：公告仅含包1、包3中标信息（无包2，2,909,900+333,000=3,242,900元=总中标金额324.29万元，数学一致）。bidders及rank（第N中标候选人）、未中标候选人报价取自包1/包3供应商评审情况表（PDF为双层OCR，'量⼦'按'量子'修正）；'中检集团天帷网络安全技术（合肥）有限公司'无候选人名次，rank=null。items取HTML标的信息表（品目名称列'C16079900 其他运行维护服务'，含品目编号前缀原样保留）；响应报价列为模板脚本残留'0}\" class=...'，无金额，item的total_price取该包中标金额（包1唯一标的、包3唯一标的），quantity/unit/unit_price按严格口径置null不推算。招标文件zip内包(1)_报价明细表为空白投标模板（仅最高限价，投标报价列全空），不能提供中标明细。需视觉核验：评审情况表OCR得分列（98.54/89.6/84.9；83.5/78.44/69.91/65.92）；采购包1-分包意向协议+中小企业声明函.pdf第1页经原始附件渲染可读：甲方中铁西南科学研究院有限公司，乙方成都智创华信科技有限公司；拟承担基础支撑环境运维、视频监控服务，意向金额116.99万元、比例40.2%。关系独立保存于subcontract_intentions，非联合体或独立竞争者；不改bidders或整包成交金额。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "成都市城市道路桥梁监管服务中心",
+    "project_name": "成都市城市道桥智慧监管云平台运维服务项目",
+    "total_amount": 3242900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中铁西南科学研究院有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "成都创信华通信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16079900 其他运行维护服务",
+      "item_name": "软件运维、硬件运维、基础支撑环境运维、视频监控服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2909900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C16079900 其他运行维护服务",
+      "item_name": "等保测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 333000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中铁西南科学研究院有限公司",
+      "role": "winner",
+      "total_score": 98.54,
+      "rank": 1,
+      "amount": 2909900.0
+    },
+    {
+      "package_no": "1",
+      "name": "中铁桥隧技术有限公司",
+      "role": "participant",
+      "total_score": 89.6,
+      "rank": 2,
+      "amount": 2845500.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川省公路规划勘察设计研究院有限公司",
+      "role": "participant",
+      "total_score": 84.9,
+      "rank": 3,
+      "amount": 3016000.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都创信华通信息技术有限公司",
+      "role": "winner",
+      "total_score": 83.5,
+      "rank": 1,
+      "amount": 333000.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都久信信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 78.44,
+      "rank": 2,
+      "amount": 334260.0
+    },
+    {
+      "package_no": "3",
+      "name": "新疆量子通信技术有限公司",
+      "role": "participant",
+      "total_score": 69.91,
+      "rank": 3,
+      "amount": 335100.0
+    },
+    {
+      "package_no": "3",
+      "name": "中检集团天帷网络安全技术（合肥）有限公司",
+      "role": "participant",
+      "total_score": 65.92,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "subcontract_intentions": [
+    {
+      "package_no": "1",
+      "prime": "中铁西南科学研究院有限公司",
+      "intended_subcontractor": "成都智创华信科技有限公司",
+      "scope": "基础支撑环境运维、视频监控服务",
+      "amount_text": "116.99万元",
+      "share_text": "40.2%",
+      "status": "intended"
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "本页为分包意向而非实际结算凭证；116.99万元及40.2%原样保留，不反推或分摊成交总额。既有评审附件得分待视觉核验提示未在此次主体补丁中消除。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260508_26523336",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:0417济南市莱芜区2026年度中型水库运行维护项目磋商文件.pdf,投标明细表.pdf,报酬支付表.pdf",
+  "note": "表格0「总中标金额￥0.000000万元」与表格1/报酬支付表中标成交金额376600元不符，以376600为准；附件投标明细表报价379207.16元与中标金额376600元不一致（不改原文，item总价取成交金额376600）；包号A由磋商文件「包号：A包」及中小企业声明函明示；品目两处均空（概要列空、标的信息表仅「名称」列且值为服务名称非品目末级名），category=null；投标明细表仅1条汇总报价（单条服务标的不拆数量单价），磋商文件工程量清单（鹁鸽楼/沟里/公庄水库分项，仅数量无单价合价）未展开为items；rank原文未给。",
+  "project": {
+    "buyer": "济南市莱芜区城乡水务局",
+    "project_name": "济南市莱芜区2026年度中型水库运行维护项目",
+    "total_amount": 376600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东龙园万家乐生活服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "水库运行维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 376600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东龙园万家乐生活服务有限公司",
+      "role": "winner",
+      "total_score": 261.85,
+      "rank": null,
+      "amount": 376600.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东省鸿禹水利水电工程有限公司",
+      "role": "participant",
+      "total_score": 260.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东玥晨建设工程有限公司",
+      "role": "participant",
+      "total_score": 231.23,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东顺连建设有限公司",
+      "role": "participant",
+      "total_score": 223.23,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

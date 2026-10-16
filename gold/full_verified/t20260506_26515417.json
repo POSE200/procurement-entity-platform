@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260506_26515417",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:信息化运维服务项目-评审得分及未成交供应商原因说明.pdf,青岛市城市运行中心信息化运维服务项目 主要成交标的信息(1).pdf,青岛市城市运行中心信息化运维服务项目 主要成交标的信息第二包(1)(1).pdf",
+  "note": "两个标包：标包1成交青岛通利电子工程有限公司85.7万元、标包2成交青岛铭扬威视信息工程有限公司26.48万元（附件主要成交标的信息PDF两份分别确认包号1/2与成交金额），合计1,121,800元与总成交金额￥112.18万一致。品目列空、标的信息表无品目名称列，category=null（『货物类/服务类/工程类』为分节标题不算品目）；每包单条服务标的仅成交金额，quantity/unit/unit_price=null。评审得分及未成交供应商原因说明.pdf含两张表：第一张列铭扬威视91.63(排序2)/竞阳64.26(3)/英斯克60.00(4)/海瑞达58.26(5)，因铭扬威视是标包2中标人，推断该表为标包1的未成交名单、第二张（众鹏70.67(2)/视海59.94(3)）为标包2的未成交名单——表归属为推断，需视觉核验；成交供应商得分与排名不在未成交表中，通利、铭扬威视的total_score/rank均无原文出处填null（不推定成交即第1）。铭扬威视两包各一条（标包1participant、标包2winner）。评审劳务报酬支付表OCR的『中标成交金额2648万元』为乱码（实际两包85.7+26.48万元），未采用。",
+  "project": {
+    "buyer": "青岛市应急管理局",
+    "project_name": "青岛市城市运行中心信息化运维服务项目",
+    "total_amount": 1121800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛通利电子工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "青岛铭扬威视信息工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "一楼和三楼信息化设备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 857000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "二楼信息化设备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 264800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛通利电子工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 857000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛铭扬威视信息工程有限公司",
+      "role": "participant",
+      "total_score": 91.63,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛竞阳数码科技有限公司",
+      "role": "participant",
+      "total_score": 64.26,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛英斯克信息技术有限公司",
+      "role": "participant",
+      "total_score": 60.0,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛海瑞达网络科技有限公司",
+      "role": "participant",
+      "total_score": 58.26,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛铭扬威视信息工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 264800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东众鹏信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛视海科技有限公司",
+      "role": "participant",
+      "total_score": 59.94,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

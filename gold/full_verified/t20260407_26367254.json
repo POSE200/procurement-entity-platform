@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260407_26367254",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "5个标包（A/E/H/K/L），各包中标金额（万元→元）：A山东森特信息科技有限公司1,897,900；E山东森特信息科技有限公司178,000；H青岛明杰网络科技有限公司172,000；K青岛必应信息技术有限公司228,900；L山东森特信息科技有限公司269,000；合计2,745,800元=总中标金额￥274.58万，数学一致。标的信息表各包品牌/规格型号/数量/单价均写「详见附件」，但本公告无任何附件（附件处理声明：无附件包），故brand/model/quantity/unit/unit_price=null，禁止推算。每包仅1条标的（名称取标的信息表），total_price 取该包中标金额（该标的即包全部内容）。品目概要列为空且标的信息表无品目名称列，category=null。公告无评分表/未中标名单，bidders 仅5家中标人，total_score/rank=null。山东森特信息科技有限公司中标3个包，按规范逐包各记一条。",
+  "project": {
+    "buyer": "青岛大学附属医院",
+    "project_name": "青岛大学附属医院信息类设备采购项目（A）-1",
+    "total_amount": 2745800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "HIS数据库存储",
+        "winner": "山东森特信息科技有限公司"
+      },
+      {
+        "package_no": "E",
+        "package_name": "服务器备份软件",
+        "winner": "山东森特信息科技有限公司"
+      },
+      {
+        "package_no": "H",
+        "package_name": "安全DNS",
+        "winner": "青岛明杰网络科技有限公司"
+      },
+      {
+        "package_no": "K",
+        "package_name": "漏洞防御设备",
+        "winner": "青岛必应信息技术有限公司"
+      },
+      {
+        "package_no": "L",
+        "package_name": "备份存储设备",
+        "winner": "山东森特信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "HIS数据库存储",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1897900.0
+    },
+    {
+      "package_no": "E",
+      "item_no": null,
+      "category": null,
+      "item_name": "服务器备份软件",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 178000.0
+    },
+    {
+      "package_no": "H",
+      "item_no": null,
+      "category": null,
+      "item_name": "安全DNS",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 172000.0
+    },
+    {
+      "package_no": "K",
+      "item_no": null,
+      "category": null,
+      "item_name": "漏洞防御设备",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 228900.0
+    },
+    {
+      "package_no": "L",
+      "item_no": null,
+      "category": null,
+      "item_name": "备份存储设备",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 269000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东森特信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1897900.0
+    },
+    {
+      "package_no": "E",
+      "name": "山东森特信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 178000.0
+    },
+    {
+      "package_no": "H",
+      "name": "青岛明杰网络科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 172000.0
+    },
+    {
+      "package_no": "K",
+      "name": "青岛必应信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 228900.0
+    },
+    {
+      "package_no": "L",
+      "name": "山东森特信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 269000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

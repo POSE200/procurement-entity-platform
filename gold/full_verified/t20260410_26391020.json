@@ -1,0 +1,62 @@
+{
+  "announcement_id": "t20260410_26391020",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，无明示包号，package_no='1'取自结果表序号（推断，已在note声明）。概要品目列空且主要标的信息表（表格3）无品目名称列，category=null。表格3只给单价与数量（各1套），total_price由单价×数量唯一互推（1193000+1094000=2287000=中标金额，数学一致）。附件仅为采购文件（前30页）与本国产品声明函，未提供额外字段值；声明函载明生产厂为深圳迈瑞生物医疗电子股份有限公司（brand填HTML品牌列'迈瑞'）。rank原文未明示，null。复核：2条item与表格3逐项核对一致，总价互推之和=中标金额；通过。",
+  "project": {
+    "buyer": "桂林市中医医院",
+    "project_name": "中医特色重点医院桂林市中医医院设备更新项目第一批次设备采购项目-中央监护系统（一拖30）1套，多功能监护仪（一拖12）1套",
+    "total_amount": 2287000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中医特色重点医院桂林市中医医院设备更新项目第一批次设备采购项目-中央监护系统（一拖30）1套，多功能监护仪（一拖12）1套",
+        "winner": "九州通（桂林）供应链管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "中央监护系统（一拖30）",
+      "brand": "迈瑞",
+      "model": "BeneVision、ePM12M",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1193000.0,
+      "total_price": 1193000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "多功能监护仪（一拖12）",
+      "brand": "迈瑞",
+      "model": "BeneVision、BeneVision N12",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1094000.0,
+      "total_price": 1094000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "九州通（桂林）供应链管理有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2287000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

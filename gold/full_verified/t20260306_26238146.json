@@ -1,0 +1,155 @@
+{
+  "announcement_id": "t20260306_26238146",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "双包公告：HTML中标信息表未标注包号，包号1/2取自附件『包1/包2供应商评审情况表.pdf』且包金额与包内标的一一对应（包1=铨辉599万=准分子激光系统，包2=济远康泽186.7万）；概要品目列空，品目取HTML标的信息表『品目名称』列（含品目编号前缀，原样照抄）；标的表『响应报价』列为模板乱码不可用，total_price按单价×数量唯一互推并经包金额印证；包2评分表仅列2家得分，第二中标候选人四川翔茂鹏腾商贸有限公司的得分行缺失（疑似PDF表格截断），其rank=2/amount=1871500取自第一行『评审结果』栏的候选人名单明示；包1第2/3候选人（明月诚5998000、高威科3600000）及包2第2/3候选人报价均取自评审结果栏明示；rank按『第N中标候选人』明示填写。",
+  "project": {
+    "buyer": "成都市郫都区人民医院",
+    "project_name": "肺功能测试系统等设备采购项目",
+    "total_amount": 7857000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川铨辉商贸有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "成都济远康泽科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02320600 医用激光仪器及设备",
+      "item_name": "准分子激光系统",
+      "brand": "视唯得SCHWIND",
+      "model": "SCHWIND AMARIS 500E",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5990000.0,
+      "total_price": 5990000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02320400 医用光学仪器",
+      "item_name": "新生儿喉镜",
+      "brand": "Riester",
+      "model": "12274，等",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6500.0,
+      "total_price": 13000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02320700 医用内窥镜",
+      "item_name": "电子支气管内窥镜",
+      "brand": "奥林巴斯",
+      "model": "BF-P290",
+      "quantity": 1,
+      "unit": "根",
+      "unit_price": 479000.0,
+      "total_price": 479000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02322200 人工脏器及功能辅助装置",
+      "item_name": "呼吸湿化治疗仪",
+      "brand": "费雪派克",
+      "model": "PT101AZ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 98000.0,
+      "total_price": 98000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02320300 医用电子生理参数检测仪器设备",
+      "item_name": "肺功能测试系统",
+      "brand": "耶格",
+      "model": "MasterScreen SeS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 839000.0,
+      "total_price": 839000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02322400 手术室设备及附件",
+      "item_name": "高频电刀",
+      "brand": "康威",
+      "model": "CV-2000Y",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 438000.0,
+      "total_price": 438000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川铨辉商贸有限公司",
+      "role": "winner",
+      "total_score": 87.63,
+      "rank": 1,
+      "amount": 5990000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都明月诚医疗科技有限公司",
+      "role": "participant",
+      "total_score": 78.41,
+      "rank": 2,
+      "amount": 5998000.0
+    },
+    {
+      "package_no": "1",
+      "name": "高威科（成都）医疗科技有限公司",
+      "role": "participant",
+      "total_score": 70.03,
+      "rank": 3,
+      "amount": 3600000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都济远康泽科技有限公司",
+      "role": "winner",
+      "total_score": 99.03,
+      "rank": 1,
+      "amount": 1867000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川翔茂鹏腾商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 1871500.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川中森置信商贸有限公司",
+      "role": "participant",
+      "total_score": 74.2,
+      "rank": 3,
+      "amount": 1837780.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

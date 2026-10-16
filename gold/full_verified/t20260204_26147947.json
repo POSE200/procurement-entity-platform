@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260204_26147947",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "纯HTML公告，无附件。3个标包A/B/C，中标金额24.7+159+129=312.7万元，与总中标金额￥312.700000万元一致。品目列空、无品目名称列，category=null。每包仅1条服务标的，total_price取该包中标金额（包级金额直接对应），quantity/unit/unit_price原文未给，不推算填null；服务范围等均写「详见附件」但公告无附件，无更多真值可取。原文无评审得分与排名，total_score/rank=null。",
+  "project": {
+    "buyer": "滨州医学院附属医院",
+    "project_name": "滨州医学院附属医院医学影像人工智能采购项目",
+    "total_amount": 3127000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "标包A",
+        "winner": "济南周泽伟业医疗设备有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "标包B",
+        "winner": "深圳华声医疗技术股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "标包C",
+        "winner": "山东帮邦通达医疗器械有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "病理人工智能辅助诊断系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 247000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "超声检查AI质控系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1590000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "放射影像AI质控管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1290000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "济南周泽伟业医疗设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 247000.0
+    },
+    {
+      "package_no": "B",
+      "name": "深圳华声医疗技术股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1590000.0
+    },
+    {
+      "package_no": "C",
+      "name": "山东帮邦通达医疗器械有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1290000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260401_26346106",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:报价一览表、二次报价表、业绩一览表、中小企业声明函、支付表.pdf",
+  "note": "已通过OCR补齐：报价一览表、二次报价表、业绩一览表、中小企业声明函、支付表.pdf（原无文本层，现已OCR）确认：首次报价1241056.19元（服务期3年），二次报价（最终报价）类型为『单一总价』、金额1239629.63元，与公告「成交金额（元）」及「总中标金额 ￥123.962963 万元」一致。成交金额为单一总价，无单价×数量结构，quantity/unit/unit_price 一律 null（不填 quantity=1）。HTML「品目」列为空，item 的 category=null。本项目为按每车每公里单价结算的服务类采购（采购控制价 124.295 万元/年，平均 2.3 元/Km，其中轿车 1.95 元/Km、商务车 2.63 元/Km、中巴 5.41 元/Km），成交金额对应服务期（1年还是3年合同期）可见文本未明示。服务内容「运营管理的公务用车共22辆（中巴2辆、商务车4辆、轿车16辆）」系服务范围描述而非分项报价，未拆成条目，items 只写一条总称记录；total_price 取成交金额（单一总价）。可见文本仅有成交供应商一家，未见评分/得分/排名表及其他投标人名单，bidders 仅收录成交供应商、total_score null。磋商文件仅前30页可见，其中无成交明细；支付表OCR为评审劳务报酬表，无报价信息。buyer 照抄 HTML「采购单位」全称「微山县机关事务服务中心（微山县接待事务中心）」，磋商文件内简写为「微山县机关事务服务中心」，以公告为准。复核修正：按新口径G3，原文无排名信息，winner rank 由 1 改 null；package_name 由 null 改为表格2「名称：」字段值「微山县公务用车保障平台运营服务采购项目（二次）」（有出处，照抄）。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "微山县机关事务服务中心（微山县接待事务中心）",
+    "project_name": "微山县公务用车保障平台运营服务采购项目（二次）",
+    "total_amount": 1239629.63,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "微山县公务用车保障平台运营服务采购项目（二次）",
+        "winner": "微山县大运河汽车服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "微山县公务用车保障平台运营服务采购项目（二次）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1239629.63
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "微山县大运河汽车服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1239629.63
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "announcement_id": "t20260709_26900658",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1，包名取代理服务费表「广州城市职业学院2026年人工智能数字人制作实训中心」）。品目列（公告概要）为空，category逐条取标的信息表「品目名称」列。18条明细合计2,466,000元，与中标金额2,466,000.00元（=总中标金额￥246.6万元）一致；各条单价×数量均与总价相符。评审结果表中3家供应商（广州秋田信息科技、广州创森软件科技、广州市创佰科技）资格性审查不通过，作为participant收录，无得分/排名。得分/排名取自「综合得分」「得分排名」列（原文明示），未中标4家的投标报价原文未披露，amount=null。附件报价明细与HTML表格一致，附件OCR水印字（ZC台平云等）不影响取值。",
+  "project": {
+    "buyer": "广州城市职业学院",
+    "project_name": "广州城市职业学院2026年人工智能数字人制作实训中心(二次)",
+    "total_amount": 2466000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州城市职业学院2026年人工智能数字人制作实训中心",
+        "winner": "广东云征科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图形工作站",
+      "item_name": "AI绘画图形工作站",
+      "brand": "五舟",
+      "model": "S748G4",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 227600.0,
+      "total_price": 227600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他机房辅助设备",
+      "item_name": "AI绘画图形工作站组件",
+      "brand": "易飒",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 49480.0,
+      "total_price": 49480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "应用软件",
+      "item_name": "多模型融合的生图子系统",
+      "brand": "网易有道",
+      "model": "有道多模型融合的生图子系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 178150.0,
+      "total_price": 178150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "AI绘画实训系统",
+      "brand": "网易有道",
+      "model": "有道AI绘画实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 158360.0,
+      "total_price": 158360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "应用软件",
+      "item_name": "AI生图智能增效系统",
+      "brand": "网易有道",
+      "model": "有道AI生图智能增效系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 178150.0,
+      "total_price": 178150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "图形工作站",
+      "item_name": "3D数字生成舱",
+      "brand": "第二人生",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 296950.0,
+      "total_price": 296950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "应用软件",
+      "item_name": "TSL-AMRS数据智慧构建系统",
+      "brand": "第二人生",
+      "model": "DERS003",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 197950.0,
+      "total_price": 197950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "应用软件",
+      "item_name": "TSL-SmartRig数字生命系统",
+      "brand": "第二人生",
+      "model": "DERS011",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 296900.0,
+      "total_price": 296900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "图形工作站",
+      "item_name": "定制工作站",
+      "brand": "联想",
+      "model": "ThinkStation P3 Tower、A25270FS0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 99000.0,
+      "total_price": 99000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他分析仪器",
+      "item_name": "动捕设备",
+      "brand": "VIRDYN",
+      "model": "Dreamscap X1",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 78980.0,
+      "total_price": 157960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "应用软件",
+      "item_name": "数字虚拟人应用平台（u3d）",
+      "brand": "VIRDYN",
+      "model": "MHTP Plus",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 67300.0,
+      "total_price": 67300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "应用软件",
+      "item_name": "写实数字人软件系统（UE版）",
+      "brand": "VIRDYN",
+      "model": "MHTP",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 77200.0,
+      "total_price": 77200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "液晶显示器",
+      "item_name": "55寸液晶拼接屏",
+      "brand": "创维",
+      "model": "M55PGEGL-DS",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 37200.0,
+      "total_price": 37200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "其他输入输出设备",
+      "item_name": "多屏扩展仪",
+      "brand": "大视电子",
+      "model": "EV104",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4955.0,
+      "total_price": 4955.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "金属质架类",
+      "item_name": "万象墙屏体包边结构",
+      "brand": "数字视界",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 49300.0,
+      "total_price": 49300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "触摸屏",
+      "item_name": "红外触摸加玻璃",
+      "brand": "数字视界",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 14845.0,
+      "total_price": 14845.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "应用软件",
+      "item_name": "触摸交互控制软件",
+      "brand": "数字视界",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 240100.0,
+      "total_price": 240100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "其他视频设备",
+      "item_name": "数字艺术创作展示台",
+      "brand": "数字视界",
+      "model": "ET-OLED55",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 67300.0,
+      "total_price": 134600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东云征科技有限公司",
+      "role": "winner",
+      "total_score": 87.17,
+      "rank": 1,
+      "amount": 2466000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市毕酉成信息技术有限公司",
+      "role": "participant",
+      "total_score": 61.14,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州珈智信息技术有限责任公司",
+      "role": "participant",
+      "total_score": 61.06,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市海大创科技有限公司",
+      "role": "participant",
+      "total_score": 45.78,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州秋田信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州创森软件科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市创佰科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

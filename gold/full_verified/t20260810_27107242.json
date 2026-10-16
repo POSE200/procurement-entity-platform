@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27107242",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包服务项目。package_no=1依公告标题'（采购包1）'及附件'包(1)_*'文件名推断。中标人投标（响应）报价明细表.pdf已解析：单价147800元、数量1.0000、单位项、最高限价150000元，与中标金额147800元一致；该附件'采购包：'栏填的是'省级新闻媒体平台设置\"应急山东\"专题专栏'，据此作package_name（原文如此）。文件集中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有水印叠字表头、无数据行。HTML评分表'得分排名/推荐排名'列空白，rank全null。品目取标的信息表品目名称列（概要品目列为空）。",
+  "project": {
+    "buyer": "山东省应急管理厅机关",
+    "project_name": "省级新闻媒体平台设置专题专栏项目",
+    "total_amount": 147800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省级新闻媒体平台设置\"应急山东\"专题专栏",
+        "winner": "济南易维影视文化传播有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "公共公益宣传服务",
+      "item_name": "省级新闻媒体平台设置\"应急山东\"专题专栏",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 147800.0,
+      "total_price": 147800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南易维影视文化传播有限公司",
+      "role": "winner",
+      "total_score": 86.6,
+      "rank": null,
+      "amount": 147800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东途屏文化传媒有限公司",
+      "role": "participant",
+      "total_score": 85.43,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东万水千山文化发展有限公司",
+      "role": "participant",
+      "total_score": 78.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

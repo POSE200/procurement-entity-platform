@@ -1,0 +1,155 @@
+{
+  "announcement_id": "t20260805_27080565",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "本公告涉及采购包2、3两个包：包2=智能制造系加工设备（附件[2]明示，中标人滨州博海精工机械有限公司），包3=智能制造系测量设备（附件[1]明示，中标人山东文瑞信息科技有限公司）；品目概要列空，category 取 HTML 标的信息表'品目编号及品目名称'列（教学仪器）；6条明细单价×数量=总价全部吻合，包2合计2125000元、包3合计1192081元，之和3317081元与总中标金额￥331.7081万一致；包3-1规格型号原文为'IppSimulator 全息测量仿真系统'（照抄）；评分表'得分排名/推荐排名'列空白，rank 全 null。需视觉核验：包(2)/包(3)_投标（响应）报价明细表.pdf（招标文件集内模板件）仅含占位符无投标数据，报价以'报价明细附件'内两份投标报价明细表为准。",
+  "project": {
+    "buyer": "鲁北技师学院",
+    "project_name": "山东省滨州市鲁北技师学院二期工程（滨州市职业教育智能实习实训基地）实训设备采购项目-交通与车辆工程系实训设备、智能制造系实训设备",
+    "total_amount": 3317081.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "智能制造系加工设备",
+        "winner": "滨州博海精工机械有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "智能制造系测量设备",
+        "winner": "山东文瑞信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教学仪器",
+      "item_name": "三轴立式加工中心",
+      "brand": "博海精机",
+      "model": "BHX-855",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 274000.0,
+      "total_price": 822000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "教学仪器",
+      "item_name": "四轴立式加工中心",
+      "brand": "博海精机",
+      "model": "BHX-855F",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 369500.0,
+      "total_price": 739000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "教学仪器",
+      "item_name": "车铣复合中心",
+      "brand": "博海精机",
+      "model": "BHC-30Y",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 564000.0,
+      "total_price": 564000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "教学仪器",
+      "item_name": "精密测量仿真系统",
+      "brand": "海克斯康",
+      "model": "IppSimulator 全息测量仿真系统",
+      "quantity": 31,
+      "unit": "套",
+      "unit_price": 19888.0,
+      "total_price": 616528.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "教学仪器",
+      "item_name": "多激光线智能扫描仪",
+      "brand": "海克斯康",
+      "model": "HALOSCAN",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 178888.0,
+      "total_price": 357776.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "教学仪器",
+      "item_name": "全自动影像测量机",
+      "brand": "海克斯康",
+      "model": "VIEW MAX-E 322",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 217777.0,
+      "total_price": 217777.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "滨州博海精工机械有限公司",
+      "role": "winner",
+      "total_score": 88.74,
+      "rank": null,
+      "amount": 2125000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东稳康智能装备科技有限公司",
+      "role": "participant",
+      "total_score": 86.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛顺源达机电设备有限公司",
+      "role": "participant",
+      "total_score": 62.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东文瑞信息科技有限公司",
+      "role": "winner",
+      "total_score": 96.29,
+      "rank": null,
+      "amount": 1192081.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东远川智瀚管理咨询有限公司",
+      "role": "participant",
+      "total_score": 85.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "智臻志善科技（北京）有限公司",
+      "role": "participant",
+      "total_score": 84.43,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27115373",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东方庆信息技术有限公司).pdf",
+  "note": "成交单价/数量/总价取自附件「报价明细表(第1轮-山东方庆信息技术有限公司).pdf」（已核对，未留空）；HTML评分表得分排名列空白，所有rank=null；包号\"1\"来自附件「附件.pdf」明示\"采购包1\"；品牌/型号原文无。",
+  "project": {
+    "buyer": "山东省自然资源资料档案馆",
+    "project_name": "成果和原始地质资料管理及运行维护项目",
+    "total_amount": 158000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东方庆信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "成果和原始地质资料管理及运行维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 158000.0,
+      "total_price": 158000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东方庆信息技术有限公司",
+      "role": "winner",
+      "total_score": 93.7,
+      "rank": null,
+      "amount": 158000.0
+    },
+    {
+      "package_no": "1",
+      "name": "珂恒智能科技（济南）有限公司",
+      "role": "participant",
+      "total_score": 81.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南一悟科技有限公司",
+      "role": "participant",
+      "total_score": 78.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南广通至信科技发展有限公司",
+      "role": "participant",
+      "total_score": 78.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南端维联构信息技术有限责任公司",
+      "role": "participant",
+      "total_score": 73.67,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

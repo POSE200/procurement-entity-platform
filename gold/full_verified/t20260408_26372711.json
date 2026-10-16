@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260408_26372711",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:第2包.png,第3包.png",
+  "note": "3个采购包（01/02/03包，包数由附件招标文件名明示）。各包标的名称取自01包招标文件'包号|标的名称'表（01信息化运维服务504万/02网络安全运维服务40万/03调解平台运维服务10万；该表另列04包天平链运维服务10万，但结果公告仅01-03包3名中标人，04包无中标信息，不影响标注）。包-供应商映射：第2包.png（已OCR）中小企业声明函承接企业=北京瑞和云图科技有限公司（标的网络安全运维服务=02包）、第3包.png声明函=共道网络科技有限公司（联合体）（标的调解平台运维服务=03包）；01包中标人北京华宇信息技术有限公司由3包3中标人排除法确定，并经旁证互验（华宇503.5万≈01包预算504万、瑞和39.5万≈02包预算40万、共道10万=03包预算10万）。3包中标金额之和10+39.5+503.5=553万元=总中标金额，一致。HTML表格2明示数量=1、单价=总价（无单位列→unit=null）。品目概要列与标的信息表均无品目→null。复核修正：01包package_name/item_name原为null，已按01包招标文件标的表补'信息化运维服务'；两PNG落款OCR有错字（'北京|柔国科有限公司'/'共道应终科技有限公司'），公司名以HTML表格1为准，不影响字段值。",
+  "project": {
+    "buyer": "北京互联网法院（本级）",
+    "project_name": "北京互联网法院2026年度网络运维服务采购项目",
+    "total_amount": 5530000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "信息化运维服务",
+        "winner": "北京华宇信息技术有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "网络安全运维服务",
+        "winner": "北京瑞和云图科技有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "调解平台运维服务",
+        "winner": "共道网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息化运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 5035000.0,
+      "total_price": 5035000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络安全运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 395000.0,
+      "total_price": 395000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "调解平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京华宇信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 5035000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京瑞和云图科技有限公司",
+      "role": "winner",
+      "total_score": 85.4,
+      "rank": null,
+      "amount": 395000.0
+    },
+    {
+      "package_no": "03",
+      "name": "共道网络科技有限公司",
+      "role": "winner",
+      "total_score": 85.05,
+      "rank": null,
+      "amount": 100000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

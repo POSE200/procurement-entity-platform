@@ -1,0 +1,339 @@
+{
+  "announcement_id": "t20260811_27111353",
+  "annotated_at": "2026-09-24-draft",
+  "gold_source": "html+attachment:北京慕华信息科技有限公司投标报价得分计算表.pdf,北京世纪超星信息技术发展有限责任公司投标报价得分计算表.pdf",
+  "note": "两包单价费率类报价：附件「报价明细附件.zip」内两份投标报价得分计算表为最细粒度明细（8类服务单价，单位为元/分钟、元/次、元/门），原文无数量无总价，故quantity/unit/total_price均为null，unit_price=投标单价；中标（成交）金额栏原文即写「单价：6,825.81元/单价：7,929.11元」（加权综合单价），总中标金额￥1.475500万元=14,755.00元为两包综合单价之和（6,825.81+7,929.11=14,754.92，与14,755.00相差0.08元系公告四舍五入），原文如此；品目概要列为空，品目取自HTML标的信息表「品目名称」列（音像制作服务，逐包对应1-1/2-1）；OCR疑点需视觉核验：①包1「智慧课程建设」投标单价OCR缺失未填，视觉核验已解决（见文末）；其余OCR疑点已通过「加权单价=投标单价×权重」精确复算确认，不阻塞：②包2「AI数字人形象定制」OCR串行「45000 7元/次」实为4,500元/次（171÷3.8%=4,500，且限价5,000元/次）；③包2「动画制作（二维）」OCR串行「21500元/分钟」实为1,500元/分钟（34.5÷2.3%=1,500，限价1,500元/分钟）；④包1「仿真素材制作」「2900元/分年」为「2900元/分钟」错字（156.6÷5.4%=2,900）；⑤包1计算表行序号被水印污染，故8条item_no=null，包2按附件序号1-8填写。视觉核验：以fitz将「北京慕华信息科技有限公司投标报价得分计算表.pdf」（整页扫描件、无文本层）渲染放大后逐格目视，包1序号8「智慧课程建设」行投标单价单元格清晰可辨为「20400 元/门」（红色骑缝章与「元/门」字样重叠但数字20400完整未被遮挡），且20400×30.8%=6283.2与该行加权单价6283.2精确吻合，与旁证推算6,283.2÷30.8%=20,400一致，故回填unit_price=20400.0；同次核验顺带确认包1行5/6/7投标单价为1400/2900/2900（单位均为元/分钟），与gold既有值一致；证据闭合，status=verified。",
+  "status": "verified",
+  "project": {
+    "buyer": "顺德职业技术大学",
+    "project_name": "顺德职业技术大学2026-2027年度课程数字资源制作服务项目(二次)",
+    "total_amount": 14755.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2027年度课程数字资源制作服务项目-包1",
+        "winner": "北京慕华信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026-2027年度课程数字资源制作服务项目-包2",
+        "winner": "北京世纪超星信息技术发展有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "课程概述视频",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 198.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "微课视频制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 196.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "AI数字人视频制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 96.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "AI数字人形象定制",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 4900.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "动画制作（二维）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 1400.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "动画制作（三维）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 2900.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "仿真素材制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 2900.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "音像制作服务",
+      "item_name": "智慧课程建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 20400.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "音像制作服务",
+      "item_name": "课程概述视频",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 198.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "音像制作服务",
+      "item_name": "微课视频制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 198.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": "音像制作服务",
+      "item_name": "AI数字人视频制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 80.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "4",
+      "category": "音像制作服务",
+      "item_name": "AI数字人形象定制",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 4500.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "5",
+      "category": "音像制作服务",
+      "item_name": "动画制作（二维）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 1500.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "6",
+      "category": "音像制作服务",
+      "item_name": "动画制作（三维）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 3000.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "7",
+      "category": "音像制作服务",
+      "item_name": "仿真素材制作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 3000.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "8",
+      "category": "音像制作服务",
+      "item_name": "智慧课程建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 24000.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京慕华信息科技有限公司",
+      "role": "winner",
+      "total_score": 99.6,
+      "rank": 1,
+      "amount": 6825.81
+    },
+    {
+      "package_no": "1",
+      "name": "北京世纪超星信息技术发展有限责任公司",
+      "role": "participant",
+      "total_score": 97.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东力拓网络科技有限公司",
+      "role": "participant",
+      "total_score": 92.03,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海智慧知到网络科技有限公司",
+      "role": "participant",
+      "total_score": 81.67,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州凌峰信息技术有限公司",
+      "role": "participant",
+      "total_score": 28.27,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州弘日信息科技有限公司",
+      "role": "participant",
+      "total_score": 26.67,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市风渡文化传媒有限公司",
+      "role": "participant",
+      "total_score": 22.31,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京世纪超星信息技术发展有限责任公司",
+      "role": "winner",
+      "total_score": 97.16,
+      "rank": 1,
+      "amount": 7929.11
+    },
+    {
+      "package_no": "2",
+      "name": "广东力拓网络科技有限公司",
+      "role": "participant",
+      "total_score": 92.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "上海智慧知到网络科技有限公司",
+      "role": "participant",
+      "total_score": 81.83,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州凌峰信息技术有限公司",
+      "role": "participant",
+      "total_score": 28.44,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市风渡文化传媒有限公司",
+      "role": "participant",
+      "total_score": 22.44,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京慕华信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州弘日信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

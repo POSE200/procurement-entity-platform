@@ -1,0 +1,266 @@
+{
+  "announcement_id": "t20260210_26166857",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包（附件名『1包中标清单』、公告分包名称明示）。明细取自附件『1包中标清单.pdf』（与 HTML 主要标的信息表 17 行完全一致）。清单只有单价列无总价列，total_price 按单价×数量唯一互推，17 项之和恰等于中标金额 635,290 元。品目概要列与标的信息表均无品目列，category=null；明细无序号列，item_no=null。表格4 排序列明示，rank 照抄；未中标方投标报价取自开标报价表（表格6）。『●无线话筒』的●为核心产品标记，原样保留。需视觉核验：规格『ZV-E10 II新品?』中的『?』疑为原文如此或 OCR 伪影；附件表头 OCR 叠字。",
+  "project": {
+    "buyer": "青岛市广播电视台",
+    "project_name": "海洋立体化传播平台建设设备采购项目",
+    "total_amount": 635290.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "海洋立体化传播平台建设设备采购项目",
+        "winner": "青岛信安通达信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "微单相机套装1",
+      "brand": "索尼",
+      "model": "A7M5",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 26400.0,
+      "total_price": 105600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "微单相机套装2",
+      "brand": "索尼",
+      "model": "ZV-E10 II新品?",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5980.0,
+      "total_price": 5980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "无人机",
+      "brand": "大疆",
+      "model": "Mavic 4 Pro",
+      "quantity": 10,
+      "unit": "台",
+      "unit_price": 28810.0,
+      "total_price": 288100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "运动相机1",
+      "brand": "大疆",
+      "model": "Osmo Action 6",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 3890.0,
+      "total_price": 7780.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "运动相机2",
+      "brand": "大疆",
+      "model": "Osmo Nano",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2270.0,
+      "total_price": 2270.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "手持云台相机",
+      "brand": "大疆",
+      "model": "Osmo Pocket 3",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 4140.0,
+      "total_price": 16560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "稳拍器",
+      "brand": "大疆",
+      "model": "DJI RS 4 Pro",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 6690.0,
+      "total_price": 33450.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "手机稳定器",
+      "brand": "大疆",
+      "model": "Osmo Mobile 8",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 790.0,
+      "total_price": 790.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "微单电池",
+      "brand": "索尼",
+      "model": "NP-FZ100",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 530.0,
+      "total_price": 3180.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "三脚架",
+      "brand": "米泊",
+      "model": "“追光一号”L1 Video",
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 1310.0,
+      "total_price": 6550.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●无线话筒",
+      "brand": "大疆",
+      "model": "MIC 3",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2070.0,
+      "total_price": 8280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "存储卡",
+      "brand": "雷克沙",
+      "model": "LMSSIPL256G",
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 430.0,
+      "total_price": 2150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "移动固态硬盘",
+      "brand": "致态",
+      "model": "先锋版",
+      "quantity": 8,
+      "unit": "个",
+      "unit_price": 1690.0,
+      "total_price": 13520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络存储",
+      "brand": "绿联",
+      "model": "DXP4800 PRO（4800系列最高配置）",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 22560.0,
+      "total_price": 135360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "路由器",
+      "brand": "中兴",
+      "model": "BE7200",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 550.0,
+      "total_price": 2200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "交换机",
+      "brand": "锐捷",
+      "model": "RG-ES209MG",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 520.0,
+      "total_price": 2080.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "扩展器",
+      "brand": "绿联",
+      "model": "CM886",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 240.0,
+      "total_price": 1440.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛信安通达信息技术有限公司",
+      "role": "winner",
+      "total_score": 89.0,
+      "rank": 1,
+      "amount": 635290.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南博程信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.91,
+      "rank": 2,
+      "amount": 648000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东万水智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.45,
+      "rank": 3,
+      "amount": 653000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东未田科技发展有限公司",
+      "role": "participant",
+      "total_score": 73.27,
+      "rank": 4,
+      "amount": 656500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27090597",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国广电山东网络有限公司德州市分公司).pdf,_unpacked_开标记录表、业绩、劳务报酬表\\开标记录表.pdf",
+  "note": "采购包1单包；强制核验的『报价明细表(第1轮-中国广电山东网络有限公司德州市分公司).pdf』已在附件内容找到：单价496800元×数量1.0000(项)=响应报价496800元，与总中标金额￥49.68万一致；概要品目列为空，品目取HTML标的表『品目编号及品目名称』列=其他运行维护服务；评分表『得分排名』列为空，rank一律null；开标记录表(OCR)给出各投标人投标报价：中标人497000元、盈信（天津）496000元、中道（山东）500000元、山东裕德霖500000元，未中标者amount取其投标报价（winner取中标金额496800元，与其开标报价497000元不一致，疑似二次报价后修正，需视觉核验开标记录表OCR『497000』是否为误识）；开标记录表OCR有错字（『预日编号』『乐地点』等），供应商名称有截断换行，按语义复原；供应商应答文件中的『包(1)_开标（报价）一览表』『包(1)_投标（响应）报价明细表』仅解析出表头模板、无数据行。复核：第1轮报价明细表（496800×1项）、开标记录表OCR三家未中标报价（盈信496000/中道500000/裕德霖500000，OCR文本清晰）、评分表4家得分均核对一致；开标记录表『497000』与成交价496800的差异不影响任何已填值（winner amount 取HTML中标金额496800），无需视觉核验。",
+  "project": {
+    "buyer": "临邑县融媒体中心本级",
+    "project_name": "临邑县融媒体中心临邑县应急广播体系运维服务项目",
+    "total_amount": 496800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国广电山东网络有限公司德州市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "应急广播体系运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 496800.0,
+      "total_price": 496800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国广电山东网络有限公司德州市分公司",
+      "role": "winner",
+      "total_score": 85.04,
+      "rank": null,
+      "amount": 496800.0
+    },
+    {
+      "package_no": "1",
+      "name": "中道（山东）通信科技有限公司",
+      "role": "participant",
+      "total_score": 79.66,
+      "rank": null,
+      "amount": 500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "盈信（天津）建设工程有限公司",
+      "role": "participant",
+      "total_score": 74.39,
+      "rank": null,
+      "amount": 496000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东裕德霖信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.35,
+      "rank": null,
+      "amount": 500000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

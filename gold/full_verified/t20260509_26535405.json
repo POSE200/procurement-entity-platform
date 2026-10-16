@@ -1,0 +1,330 @@
+{
+  "announcement_id": "t20260509_26535405",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1）。概要品目列空但HTML标的表有品目名称列，category逐项照抄。23项单价×数量=总价全部成立，合计1,630,200元=总中标金额￥163.020000万元一致。附件（报价明细附件.pdf、关于本国产品的声明函.pdf）均为声明函类，未提供超出HTML的字段值，gold_source记html。bidders的amount仅中标方有（成交金额1,630,200元）。",
+  "project": {
+    "buyer": "佛山职业技术学院",
+    "project_name": "信息安全实训中心建设项目",
+    "total_amount": 1630200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息安全实训中心建设项目",
+        "winner": "广东中创智慧科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息安全设备",
+      "item_name": "高性能安全池化编排一体机",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-YJ01（高性能安全池化编排一体机）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 151300.0,
+      "total_price": 151300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息安全设备",
+      "item_name": "高性能信息安全课程编排与攻防实验实训一体机",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-YJ01（高性能信息安全课程编排与攻防实验实训一体机）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 157490.0,
+      "total_price": 157490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息安全设备",
+      "item_name": "信息安全竞赛管理设备",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-YJ01（信息安全竞赛管理设备）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 157850.0,
+      "total_price": 157850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息安全设备",
+      "item_name": "国密安全认证网关设备",
+      "brand": "弗兰科",
+      "model": "安全认证网关FLK-SAG-G1000-HU(国密安全认证网关设备)",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 93300.0,
+      "total_price": 93300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交换设备",
+      "item_name": "接入交换机",
+      "brand": "华为",
+      "model": "CloudEngine S5735R-24T4S-QA2",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2395.0,
+      "total_price": 9580.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他输入输出设备",
+      "item_name": "分屏系统",
+      "brand": "捷宇视讯",
+      "model": "JY-J460M",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29500.0,
+      "total_price": 29500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "音频功率放大器设备（功放设备）",
+      "item_name": "功放扩散模块",
+      "brand": "先科",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2300.0,
+      "total_price": 2300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "机柜",
+      "item_name": "专用机柜",
+      "brand": "慕胜华腾",
+      "model": "G1.6622",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 865.0,
+      "total_price": 865.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学、实验用桌",
+      "item_name": "实训桌",
+      "brand": "长翊",
+      "model": "定制",
+      "quantity": 15,
+      "unit": "张",
+      "unit_price": 2100.0,
+      "total_price": 31500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学、实验椅凳",
+      "item_name": "实训椅",
+      "brand": "长翊",
+      "model": "定制",
+      "quantity": 60,
+      "unit": "张",
+      "unit_price": 88.0,
+      "total_price": 5280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学、实验用桌",
+      "item_name": "教学演示台",
+      "brand": "长翊",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "张",
+      "unit_price": 1450.0,
+      "total_price": 1450.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "其他计算机软件",
+      "item_name": "攻防靶场终端管控与运维系统",
+      "brand": "OS-Easy",
+      "model": "噢易OSS系统V8",
+      "quantity": 61,
+      "unit": "点",
+      "unit_price": 378.0,
+      "total_price": 23058.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他计算机软件",
+      "item_name": "攻防靶场互动教学与实训管控系统",
+      "brand": "OS-Easy",
+      "model": "噢易多媒体网络教室软件V9.0",
+      "quantity": 61,
+      "unit": "点",
+      "unit_price": 398.0,
+      "total_price": 24278.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "其他计算机软件",
+      "item_name": "信息安全实训资源拓扑审计平台",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-EDU(信息安全实训资源拓扑审计平台)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90880.0,
+      "total_price": 90880.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "其他计算机软件",
+      "item_name": "信息安全考核检验模块",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-EDU(信息安全考核检验模块)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 97950.0,
+      "total_price": 97950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "其他计算机软件",
+      "item_name": "安全研究分级验证与成果共享平台",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-EDU(安全研究分级验证与成果共享平台)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 94950.0,
+      "total_price": 94950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "其他计算机软件",
+      "item_name": "信息安全竞赛分类模块",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-GAME(信息安全竞赛分类模块)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 91150.0,
+      "total_price": 91150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "其他计算机软件",
+      "item_name": "竞赛数据溯源与能力画像平台",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-GAME(竞赛数据溯源与能力画像平台)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 90980.0,
+      "total_price": 90980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "其他计算机软件",
+      "item_name": "信息安全工具资源包",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-ZY01(信息安全工具资源包)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 94950.0,
+      "total_price": 94950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "其他计算机软件",
+      "item_name": "信息安全课程资源包",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-KC01(信息安全课程资源包)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 97899.0,
+      "total_price": 97899.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "其他计算机软件",
+      "item_name": "信息安全赛题资源包",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-ST01(信息安全赛题资源包)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 94900.0,
+      "total_price": 94900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "其他计算机软件",
+      "item_name": "政府门户攻防场景实训案例",
+      "brand": "安恒信息",
+      "model": "网络空间靶场平台DAS-CR-SLAB-HC03(政府门户攻防场景实训案例)",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 97900.0,
+      "total_price": 97900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "其他计算机软件",
+      "item_name": "在线并发许可",
+      "brand": "安恒信息",
+      "model": "教学竞赛靶场DAS-CR-SLAB-XK01(在线并发许可)",
+      "quantity": 61,
+      "unit": "个",
+      "unit_price": 1490.0,
+      "total_price": 90890.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东中创智慧科技有限公司",
+      "role": "winner",
+      "total_score": 79.83,
+      "rank": 1,
+      "amount": 1630200.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市铂爵信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东励勤信息技术有限公司",
+      "role": "participant",
+      "total_score": 49.01,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

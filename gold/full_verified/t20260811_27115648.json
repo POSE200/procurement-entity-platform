@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115648",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中辉建筑（济南）有限公司).pdf",
+  "note": "单包1装修工程项目。概要品目列为空，category取HTML标的信息表『品目名称』列（装修工程）。单价147686.39元×1项=147686.39元来自中标人第1轮报价明细表（最高限价150000元，响应报价=合计=中标金额147,686.39元，一致）。评分表『得分排名/推荐排名』列空，rank=null。工程量清单.zip为跳过的压缩容器但本篇为单价×1项的整体报价，明细缺失不影响字段取值。",
+  "project": {
+    "buyer": "山东政法学院",
+    "project_name": "山东政法学院智慧法庭环境改造项目",
+    "total_amount": 147686.39,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中辉建筑（济南）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "装修工程",
+      "item_name": "智慧法庭环境改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 147686.39,
+      "total_price": 147686.39
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中辉建筑（济南）有限公司",
+      "role": "winner",
+      "total_score": 92.16,
+      "rank": null,
+      "amount": 147686.39
+    },
+    {
+      "package_no": "1",
+      "name": "山东诺一工程科技有限公司",
+      "role": "participant",
+      "total_score": 84.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京明大建筑工程有限公司",
+      "role": "participant",
+      "total_score": 82.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "announcement_id": "t20260602_26667599",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "HTML标的表『响应报价』列因模板渲染错误不可读，总价由『单价×数量』唯一互推得出（16×7800=124800；4×7800+6×7150+1×4550=78650），两包合计203450元=总成交金额自洽；品目名称照抄HTML为『A02061818 饮水器』；两包前三位成交候选人的排名与报价取自包1/包2供应商评审情况表（第一/二/三成交候选人明示），其余参与供应商评审情况表未给报价与得分→null；两包各19家投标主体逐包列出。",
+  "project": {
+    "buyer": "绵竹市教育信息与装备中心",
+    "project_name": "绵竹市城东中小学直饮设备采购",
+    "total_amount": 203450.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川均盛达商贸有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "西昌宇航新能源科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "A02061818",
+      "category": "A02061818 饮水器",
+      "item_name": "一开五温直饮水机",
+      "brand": "智水源",
+      "model": "ZY-6D;1800*450*1500mm",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 7800.0,
+      "total_price": 124800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "A02061818",
+      "category": "A02061818 饮水器",
+      "item_name": "一开五温直饮水机",
+      "brand": "凌润",
+      "model": "LR-60G",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 7800.0,
+      "total_price": 31200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "A02061818",
+      "category": "A02061818 饮水器",
+      "item_name": "一开三温直饮水机",
+      "brand": "凌润",
+      "model": "LR-30G",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 7150.0,
+      "total_price": 42900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "A02061818",
+      "category": "A02061818 饮水器",
+      "item_name": "一开一温直饮水机",
+      "brand": "凌润",
+      "model": "LR-18G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4550.0,
+      "total_price": 4550.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川均盛达商贸有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 124800.0
+    },
+    {
+      "package_no": "1",
+      "name": "西昌宇航新能源科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 124800.0
+    },
+    {
+      "package_no": "1",
+      "name": "扬州雷凌电子科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 124800.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都力潼科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川富源环保设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "德阳川达厨房设备制造有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中润致浦科技集团（成都）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都亚特林科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川新邮科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川秦世网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川易莱志诚科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川易思特科教设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川鑫领峰酒店用品有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都至奥科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川禾硕积余城市管理服务有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市海邑净水设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都禄洪科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川鸿睿升科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川吉吉耀华商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "西昌宇航新能源科技有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 78650.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川均盛达商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 78650.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川吉吉耀华商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 78650.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都力潼科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川富源环保设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "德阳川达厨房设备制造有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中润致浦科技集团（成都）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都亚特林科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川新邮科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川秦世网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川易莱志诚科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川易思特科教设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川鑫领峰酒店用品有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都至奥科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川禾硕积余城市管理服务有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市海邑净水设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "扬州雷凌电子科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都禄洪科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川鸿睿升科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "announcement_id": "t20260709_26900155",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1，包名取代理服务费表「公共机房（普通终端）二期购置项目」）。品目列（公告概要）为空，category逐条取标的信息表「品目名称」列。13条明细合计2829600+43920+256200+256200+33600+40800+36000+21600+192000+3000+27000+39000+21000=3,799,920元，与中标金额3,799,920.00元（=总中标金额￥379.992万元）一致；各条单价×数量均与总价相符。附件报价明细附件.pdf内容与HTML表格一致（还含制造商名称，规范未设字段故未录入），其中1-8万兆光模块单位列「(台)」照抄原文。bidders得分/排名取自评审结果表「综合得分」「得分排名」列（原文明示），未中标供应商投标报价原文未披露，amount=null。",
+  "project": {
+    "buyer": "广州市信息技术职业学校",
+    "project_name": "广州市信息技术职业学校公共机房（普通终端）二期购置项目(二次)",
+    "total_amount": 3799920.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "公共机房（普通终端）二期购置项目",
+        "winner": "广州久尚网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图形工作站",
+      "item_name": "学生实训终端",
+      "brand": "里诺电脑",
+      "model": "RNBZ2008 (显示器：RNA238210)",
+      "quantity": 360,
+      "unit": "台",
+      "unit_price": 7860.0,
+      "total_price": 2829600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "图形工作站",
+      "item_name": "教师实训终端",
+      "brand": "里诺电脑",
+      "model": "RNBZ2008",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 7320.0,
+      "total_price": 43920.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "应用软件",
+      "item_name": "桌面云系统",
+      "brand": "远志",
+      "model": "远志中央部署虚拟桌面管理软件V6.0",
+      "quantity": 366,
+      "unit": "个",
+      "unit_price": 700.0,
+      "total_price": 256200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "实训室智慧服务系统",
+      "brand": "久尚",
+      "model": "V1.0.0",
+      "quantity": 366,
+      "unit": "个",
+      "unit_price": 700.0,
+      "total_price": 256200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交换设备",
+      "item_name": "24口万兆交换机",
+      "brand": "H3C",
+      "model": "US528S-XE",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 5600.0,
+      "total_price": 33600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "交换设备",
+      "item_name": "48口万兆交换机",
+      "brand": "H3C",
+      "model": "US552S-XE",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 6800.0,
+      "total_price": 40800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "应用软件",
+      "item_name": "多媒体教学系统",
+      "brand": "远志",
+      "model": "远志多媒体教学管理软件V9.0",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 6000.0,
+      "total_price": 36000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "交换设备",
+      "item_name": "万兆光模块",
+      "brand": "H3C",
+      "model": "SFP-XG-LX-SM1310",
+      "quantity": 24,
+      "unit": "台",
+      "unit_price": 900.0,
+      "total_price": 21600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "触摸式终端设备",
+      "item_name": "智慧黑板",
+      "brand": "海信",
+      "model": "86WR81E",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 32000.0,
+      "total_price": 192000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "应用软件",
+      "item_name": "设备集控软件",
+      "brand": "海信",
+      "model": "HXF01",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 500.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "电子白板",
+      "item_name": "多媒体班牌",
+      "brand": "希沃",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 4500.0,
+      "total_price": 27000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "终端控制器",
+      "item_name": "智能设备集中控制器",
+      "brand": "希沃",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 6500.0,
+      "total_price": 39000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他终端设备",
+      "item_name": "智能设备集中控制终端",
+      "brand": "希沃",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 3500.0,
+      "total_price": 21000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州久尚网络科技有限公司",
+      "role": "winner",
+      "total_score": 84.54,
+      "rank": 1,
+      "amount": 3799920.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州融链智信息技术有限公司",
+      "role": "participant",
+      "total_score": 61.87,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 55.16,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州芯秀科技有限公司",
+      "role": "participant",
+      "total_score": 53.64,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

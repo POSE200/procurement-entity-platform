@@ -1,0 +1,146 @@
+{
+  "announcement_id": "t20260709_26907290",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "仅采购包1（公告标题明示「采购包1」，附件名亦为包(1)），package_no=1。7条明细取自中标供应商报价明细表（附件OCR），货物名称/品牌PNP/型号（PNP-BAXTER、PNP-3DT、PNP-DIANA7、PNP-75D、PNP-NeuSen W、PNP-EEG-S、PNP-HAND）与HTML标的信息表品目号1-1-1至1-1-7逐条对应（HTML采购标的列只写了项目名，故item_name以报价明细表为准）；HTML品目号保留至item_no。单价×数量之和=1,988,000元=中标金额1,988,000元=总中标金额￥198.800000万元，数学一致。概要品目列空，category取标的信息表品目名称列「其他机械设备」。●为核心产品标注，随名称保留。评分表「得分排名」「推荐排名」两列均为空，rank=null。附件包(1)_开标（报价）一览表.pdf仅有表头无数据行。需视觉核验：报价明细表为OCR断行文本，第5/6行单价与数量列有错位（已按「550,000.0000元×1台」「220,000.0000元×1台」读齐，与合计吻合）；「多合一生物传感研发套件」对应型号PNP-EEG-S。",
+  "project": {
+    "buyer": "康复大学",
+    "project_name": "康复大学医工交叉平台闭环仿生交互系统设备采购项目",
+    "total_amount": 1988000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "集智联机器人（苏州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他机械设备",
+      "item_name": "拟人型双臂机器人",
+      "brand": "PNP",
+      "model": "PNP-BAXTER",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 278000.0,
+      "total_price": 278000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他机械设备",
+      "item_name": "高精度笔形力反馈设备",
+      "brand": "PNP",
+      "model": "PNP-3DT",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他机械设备",
+      "item_name": "高动态力控遥操作平台",
+      "brand": "PNP",
+      "model": "PNP-DIANA7",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 240000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他机械设备",
+      "item_name": "深度视觉检测和力控感知设备",
+      "brand": "PNP",
+      "model": "PNP-75D",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他机械设备",
+      "item_name": "●多通道无线脑机接口",
+      "brand": "PNP",
+      "model": "PNP-NeuSen W",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 550000.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他机械设备",
+      "item_name": "多合一生物传感研发套件",
+      "brand": "PNP",
+      "model": "PNP-EEG-S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他机械设备",
+      "item_name": "高精度仿生灵巧手与多模态遥操作感知套件",
+      "brand": "PNP",
+      "model": "PNP-HAND",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 170000.0,
+      "total_price": 340000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "集智联机器人（苏州）有限公司",
+      "role": "winner",
+      "total_score": 85.4,
+      "rank": null,
+      "amount": 1988000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市凡实科技有限公司",
+      "role": "participant",
+      "total_score": 74.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州思威泰克供应链管理有限公司",
+      "role": "participant",
+      "total_score": 56.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市万利来兰旺科技有限公司",
+      "role": "participant",
+      "total_score": 46.36,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27077271",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "品目取公告概要品目列完整路径'服务/信息技术服务/运行维护服务/其他运行维护服务'。items按附件分项报价表1条（单价4,889,000元×数量1项=总价4,889,000.00元，与总中标金额￥488.900000万元一致）。winner为联合体，名称按HTML采购结果表原样保留（成员含顿号分隔写法）。bidders的rank取得分排名列，第3名推荐排名为'-'。附件'合同包1：中小企业或残疾人福利单位声明函'为水印乱码文本，无字段值可用。",
+  "project": {
+    "buyer": "国家税务总局广东省税务局",
+    "project_name": "广东税务2025年应用支撑平台运行维护项目",
+    "total_amount": 4889000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东税务2025年应用支撑平台运行维护项目",
+        "winner": "中软信息技术创新有限公司(联合体成员：浙江税友信创科技有限公司、神州数码信息系统有限公司、方欣科技有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "广东税务2025年应用支撑平台运行维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4889000.0,
+      "total_price": 4889000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中软信息技术创新有限公司(联合体成员：浙江税友信创科技有限公司,神州数码信息系统有限公司,方欣科技有限公司)",
+      "role": "winner",
+      "total_score": 90.19,
+      "rank": 1,
+      "amount": 4889000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市华成峰科技有限公司",
+      "role": "participant",
+      "total_score": 75.99,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京神州云合数据科技发展有限公司",
+      "role": "participant",
+      "total_score": 64.1,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

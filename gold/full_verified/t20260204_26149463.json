@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260204_26149463",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告含2个包件：包件2安全检测分析相关服务（长扬科技中标）、包件4邮件专题相关服务（内蒙古冰益中标）。总中标金额￥271.410000万元，但公告未给出各包件的中标金额（招标文件中仅有预算：包件2为2515000元、包件4为342000元，属预算而非中标金额，禁止据此推算），故各包amount/total_price=null，包金额之和无法与total_amount核对。品目取公告概要品目列完整路径「服务/信息技术服务/其他信息技术服务」。每包1条服务标的，quantity/unit/unit_price原文未给，不推算。原文无评审得分与排名，total_score/rank=null。附件中小企业声明函（包件4）为OCR扫描件，仅佐证包件4中标人，无金额信息。",
+  "project": {
+    "buyer": "公安部第三研究所",
+    "project_name": "网络安全保障及整改加固技术服务",
+    "total_amount": 2714100.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "包件2：安全检测分析相关服务",
+        "winner": "长扬科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "包件4：邮件专题相关服务",
+        "winner": "内蒙古冰益技术咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "服务/信息技术服务/其他信息技术服务",
+      "item_name": "安全检测分析相关服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "2",
+      "category": "服务/信息技术服务/其他信息技术服务",
+      "item_name": "邮件专题相关服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "长扬科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "内蒙古冰益技术咨询有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

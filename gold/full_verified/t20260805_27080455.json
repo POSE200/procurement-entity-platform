@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080455",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东岱极通信科技有限公司).pdf",
+  "note": "单包（采购包1）。中标人明细来自附件'报价明细表(第1轮-山东岱极通信科技有限公司).pdf'：单价291100元×1.0000项=响应报价291100元（原文明示，最高限价295000元）。品目概要列空，category取HTML标的信息表'品目编号及品目名称'列=其他运行维护服务。本公告无综合得分：表1列为'评审价格'而非'评审总得分'，表4的'得分排名''推荐排名'列均为空，故全部供应商total_score=null、rank=null。两家未成交供应商最终报价来自表4（293000/294000元）。附件'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅解析出表头无数据行，已用第1轮报价明细表替代。劳务报酬支付表：预算29.50万元、成交1包29.11万元，与中标金额一致（复核确认附件文本清晰、无未决疑点）。",
+  "project": {
+    "buyer": "济南市无线电监测站",
+    "project_name": "济南市无线电监测站自建无线电技术设施运维服务",
+    "total_amount": 291100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东岱极通信科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他运行维护服务",
+      "item_name": "自建无线电技术设施运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "项",
+      "unit_price": 291100.0,
+      "total_price": 291100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东岱极通信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 291100.0
+    },
+    {
+      "package_no": "1",
+      "name": "成渝（成都）信息通信研究院有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 293000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都零点科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 294000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27123587",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "本项目分包数量2个，本公告为A包成交公告（B包另见t20260812_27123590）；HTML报价明细表'数量/单位=1、报价1183866.0'，与附件投标明细表A包报价1183866元一致，故quantity=1为原文值非推算，unit_price由单价×数量唯一互推（数量1已明示）；总得分为3名评委打分之和（原文'总得分'列照抄），无排名列；未中标供应商无投标报价信息。专家报酬表OCR'1包：11838662包：804960'连写疑为'1包：1183866 2包：804960'，其中A包1183866已与HTML中标金额表交叉印证，A包字段无需视觉核验（B包804960的拆读在t20260812_27123590处理）。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "济南市公安局莱芜分局",
+    "project_name": "2026年莱芜区交管大队交通设施运维项目",
+    "total_amount": 1183866.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "文化路以西（不含文化路）交通设施运维服务",
+        "winner": "山东力盟电力电子有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "文化路以西（不含文化路）交通设施运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1183866.0,
+      "total_price": 1183866.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东力盟电力电子有限公司",
+      "role": "winner",
+      "total_score": 284.8,
+      "rank": null,
+      "amount": 1183866.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东亚安建筑工程有限公司",
+      "role": "participant",
+      "total_score": 242.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东中通建达建设集团有限公司",
+      "role": "participant",
+      "total_score": 204.54,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

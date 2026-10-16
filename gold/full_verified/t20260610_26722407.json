@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260610_26722407",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市城市更新规划设计研究院有限公司）.pdf,合同包2：报价明细附件（广东省计算技术应用研究所）.pdf",
+  "note": "两包项目：包1中标广州市城市更新规划设计研究院有限公司（1,086,688元）、包2中标广东省计算技术应用研究所（30,510元），之和1,117,198元与总中标金额￥111.7198万一致；单价/数量/总价HTML标的信息表金额列为空，取自附件报价明细附件（数量1(项)/1(项目)为附件明示）；品目取HTML标的信息表品目名称列（包1测绘服务、包2信息化工程监理服务），概要品目列空；得分排名列明示，照填；附件正文含水印散字已忽略。复核：全部字段与原文一致。",
+  "project": {
+    "buyer": "广州市住房城乡建设行业监测与研究中心",
+    "project_name": "2026年CIM数据更新及三维数据整理服务项目",
+    "total_amount": 1117198.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年CIM数据更新及三维数据整理服务",
+        "winner": "广州市城市更新规划设计研究院有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年CIM数据更新及三维数据整理服务项目监理服务",
+        "winner": "广东省计算技术应用研究所"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测绘服务",
+      "item_name": "2026年CIM数据更新及三维数据整理服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1086688.0,
+      "total_price": 1086688.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息化工程监理服务",
+      "item_name": "2026年CIM数据更新及三维数据整理服务项目监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项目",
+      "unit_price": 30510.0,
+      "total_price": 30510.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市城市更新规划设计研究院有限公司",
+      "role": "winner",
+      "total_score": 93.52,
+      "rank": 1,
+      "amount": 1086688.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省测绘技术有限公司",
+      "role": "participant",
+      "total_score": 80.04,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州国测规划信息技术有限公司",
+      "role": "participant",
+      "total_score": 64.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "武汉南北极测绘地理信息有限公司",
+      "role": "participant",
+      "total_score": 55.57,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省计算技术应用研究所",
+      "role": "winner",
+      "total_score": 90.88,
+      "rank": 1,
+      "amount": 30510.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东海纬地恒空间信息技术有限公司",
+      "role": "participant",
+      "total_score": 89.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东海兰图环境技术研究有限公司",
+      "role": "participant",
+      "total_score": 59.51,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州扬辉测绘科技有限公司",
+      "role": "participant",
+      "total_score": 51.77,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

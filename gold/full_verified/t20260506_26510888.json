@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260506_26510888",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东滨诺兰环境科技有限公司）.pdf",
+  "note": "单包（合同包1），包金额2018000元与总中标金额￥201.8万一致。品目取HTML标的信息表『品目名称』列=饮水器（概要品目列为空），6条明细逐条照抄；附件报价明细与HTML表格数值完全一致（金额/数量/品牌/型号互验通过），每条单价×数量=总价均成立。item_no取附件报价明细的序号1~6（HTML品目号均为1-1，无法区分条目）。制造商名称（广东碧丽饮水设备有限公司/湖南龙新净水科技有限公司）原文有列但schema无对应字段，未收录；brand照抄品牌列（碧丽牌/龙新净水）。需视觉核验：附件产地列『湖南7:192-』被时间水印污染（产地湖南可辨），型号JO-3Q1行夹有水印字符『2 1- 0 9 1』。得分表6家供应商的得分排名列明示1~6，照抄；未中标者投标报价原文未给，amount=null。",
+  "project": {
+    "buyer": "东莞市水乡未来学校",
+    "project_name": "东莞市水乡未来学校管道直饮水系统采购项目",
+    "total_amount": 2018000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "东莞市水乡未来学校管道直饮水系统采购项目",
+        "winner": "广东滨诺兰环境科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "饮水器",
+      "item_name": "四龙头立式饮水机",
+      "brand": "碧丽牌",
+      "model": "JO-4",
+      "quantity": 102,
+      "unit": "台",
+      "unit_price": 10190.0,
+      "total_price": 1039380.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "饮水器",
+      "item_name": "户外饮水平台",
+      "brand": "碧丽牌",
+      "model": "JO-3Q1",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "饮水器",
+      "item_name": "三龙头立式饮水机",
+      "brand": "碧丽牌",
+      "model": "JO-3",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 5590.0,
+      "total_price": 22360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "饮水器",
+      "item_name": "二龙头立式饮水机",
+      "brand": "碧丽牌",
+      "model": "JO-2",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 4090.0,
+      "total_price": 20450.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "饮水器",
+      "item_name": "壁挂式管线机",
+      "brand": "碧丽牌",
+      "model": "JO-TW",
+      "quantity": 43,
+      "unit": "台",
+      "unit_price": 1550.0,
+      "total_price": 66650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "饮水器",
+      "item_name": "中央水处理系统及配套",
+      "brand": "龙新净水",
+      "model": "LX-NF-2000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 824160.0,
+      "total_price": 824160.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东滨诺兰环境科技有限公司",
+      "role": "winner",
+      "total_score": 81.87,
+      "rank": 1,
+      "amount": 2018000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳净康来环保科技有限公司",
+      "role": "participant",
+      "total_score": 73.05,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市贺一饮水设备",
+      "role": "participant",
+      "total_score": 68.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市华辉水务生态科技有限公司",
+      "role": "participant",
+      "total_score": 65.46,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东旭嘉环保机电工程有限公司",
+      "role": "participant",
+      "total_score": 49.88,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中泓智科（广东）环境科技有限公司",
+      "role": "participant",
+      "total_score": 34.46,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

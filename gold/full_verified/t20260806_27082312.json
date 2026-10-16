@@ -1,0 +1,563 @@
+{
+  "announcement_id": "t20260806_27082312",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "OCR待补：附件6296附件.zip被跳过（包内仅解析出中小企业声明函、本国产品声明函等），未见报价明细表，各标的单价/总价不可得，均填null；HTML标的信息表仅有数量（单位）列、无价格列，无法互推；中标金额包1=498,700元、包2=497,000元，合计995,700元与总中标金额￥99.57万一致；评审表得分排名列为空，rank一律null（不做中标即第1推定）；包1未中标名单（表格7）比评审表多出济南源畅商贸有限公司，已按participant收录、无得分；品目取自标的信息表品目名称列（概要品目列为空）。",
+  "project": {
+    "buyer": "齐鲁师范学院",
+    "project_name": "齐鲁师范学院生物与医药学科建设实验平台提升项目",
+    "total_amount": 995700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东海赢五洲仪器有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东佰奥乐医学科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "凝胶成像分析仪",
+      "brand": "北京六一",
+      "model": "WD-9413BX",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "超低温冰箱",
+      "brand": "海尔",
+      "model": "DW-86L419",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "智能光照培养箱",
+      "brand": "宁波江南",
+      "model": "GXM-608F-2",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "冷冻低温离心机",
+      "brand": "艾本德",
+      "model": "5804R",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "冷光源植物生长箱",
+      "brand": "宁波赛福",
+      "model": "ZRY-450",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "高速离心机",
+      "brand": "杭州奥盛",
+      "model": "iCEN-24",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "教学仪器",
+      "item_name": "大容量叠加式振荡培养箱",
+      "brand": "旻泉",
+      "model": "MQD-B3HR",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "教学仪器",
+      "item_name": "数控超声波清洗机",
+      "brand": "小美",
+      "model": "XM-P06H",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学仪器",
+      "item_name": "电热鼓风干燥箱",
+      "brand": "精宏",
+      "model": "DHG-9053A",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学仪器",
+      "item_name": "垂直电泳槽",
+      "brand": "北京六一",
+      "model": "DYCZ-24DN",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学仪器",
+      "item_name": "冰箱",
+      "brand": "海尔",
+      "model": "BCD-465WGHTDE9S9",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "教学仪器",
+      "item_name": "PCR仪",
+      "brand": "柏恒",
+      "model": "RePure-E",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "教学仪器",
+      "item_name": "移液枪2μL",
+      "brand": "Eppendorf",
+      "model": "2μL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "教学仪器",
+      "item_name": "移液枪20μL",
+      "brand": "Eppendorf",
+      "model": "20μL",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "教学仪器",
+      "item_name": "移液枪100μL",
+      "brand": "Eppendorf",
+      "model": "100μL",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "移液枪200μL",
+      "brand": "Eppendorf",
+      "model": "200μL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "教学仪器",
+      "item_name": "移液枪1000μL",
+      "brand": "Eppendorf",
+      "model": "1000μL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "教学仪器",
+      "item_name": "液氮罐",
+      "brand": "BIOBASE",
+      "model": "YDS-30S(6)",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "教学仪器",
+      "item_name": "组织研磨仪",
+      "brand": "净信",
+      "model": "JXPM-24",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "教学仪器",
+      "item_name": "水平核酸电泳槽",
+      "brand": "北京六一",
+      "model": "31DN",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "教学仪器",
+      "item_name": "电泳槽电源",
+      "brand": "北京六一",
+      "model": "DYY-6C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "教学仪器",
+      "item_name": "移液枪10ml",
+      "brand": "大龙",
+      "model": "10 mL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "教学仪器",
+      "item_name": "移液枪5ml",
+      "brand": "大龙",
+      "model": "5 mL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-24",
+      "category": "教学仪器",
+      "item_name": "移液枪1ml",
+      "brand": "大龙",
+      "model": "1 mL",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-25",
+      "category": "教学仪器",
+      "item_name": "离心机",
+      "brand": "赫西",
+      "model": "TDZ5",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-26",
+      "category": "教学仪器",
+      "item_name": "电子天平",
+      "brand": "上海越平",
+      "model": "JA1203B",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-27",
+      "category": "教学仪器",
+      "item_name": "电热恒温水浴锅",
+      "brand": "常州诺基",
+      "model": "HH-11-2",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-28",
+      "category": "教学仪器",
+      "item_name": "茎秆强度测定仪",
+      "brand": "托普云农",
+      "model": "TP-YYD-1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-29",
+      "category": "教学仪器",
+      "item_name": "冷藏箱",
+      "brand": "海尔",
+      "model": "HY-310A",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-30",
+      "category": "教学仪器",
+      "item_name": "迷你离心机",
+      "brand": "赫西",
+      "model": "1H-10K",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-31",
+      "category": "教学仪器",
+      "item_name": "微量连续移液枪",
+      "brand": "DLAB",
+      "model": "dPette",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教学仪器",
+      "item_name": "全光谱酶标仪",
+      "brand": "帝肯",
+      "model": "Infinite E Plex（CN）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "教学仪器",
+      "item_name": "XYZ三维划膜喷金仪",
+      "brand": "上海捷宁",
+      "model": "XYZ3020",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "教学仪器",
+      "item_name": "金属浴",
+      "brand": "赛洛捷克",
+      "model": "SCI-100HCM-Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "教学仪器",
+      "item_name": "超声波清洗机",
+      "brand": "昆山舒美",
+      "model": "KQ-250DE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "教学仪器",
+      "item_name": "-20℃冰柜",
+      "brand": "海容惠康",
+      "model": "DW-30L300BP",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-6",
+      "category": "教学仪器",
+      "item_name": "垂直流超净工作台",
+      "brand": "海容惠康",
+      "model": "HRJ-1360",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-7",
+      "category": "教学仪器",
+      "item_name": "水平摇床（分体式）",
+      "brand": "佰奥乐",
+      "model": "SYC-FP200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东海赢五洲仪器有限公司",
+      "role": "winner",
+      "total_score": 93.22,
+      "rank": null,
+      "amount": 498700.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南和泰源商贸有限公司",
+      "role": "participant",
+      "total_score": 85.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南嘉灵生物科技有限公司",
+      "role": "participant",
+      "total_score": 81.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东泽海仪器有限公司",
+      "role": "participant",
+      "total_score": 66.23,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南源畅商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东佰奥乐医学科技有限公司",
+      "role": "winner",
+      "total_score": 83.74,
+      "rank": null,
+      "amount": 497000.0
+    },
+    {
+      "package_no": "2",
+      "name": "易显生物技术（山东）有限公司",
+      "role": "participant",
+      "total_score": 67.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南赫川科技有限公司",
+      "role": "participant",
+      "total_score": 62.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南赛利生物科技有限公司",
+      "role": "participant",
+      "total_score": 60.87,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

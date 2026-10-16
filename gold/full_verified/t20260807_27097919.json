@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260807_27097919",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目取自HTML标的表品目名称列（概要品目列空）；附件'包(1)_投标（响应）报价明细表.pdf'与'包(1)_开标（报价）一览表.pdf'解析后仅见表头、无数据行，单价/总价不可得，对应字段留空（OCR待补：包(1)_投标（响应）报价明细表.pdf 疑似含标的物明细，字段暂空）；包号1取自附件文件名'包(1)_'；品牌华曜/型号VMC855、GLS-2800Y来自HTML标的表，并与本国产品声明函（制造商中兴华曜智能科技（山东省）有限公司）一致；评审表得分排名列为空，各bidders rank=null；两条item单价未知，无法按条拆分2288800元，需视觉核验：包(1)_投标（响应）报价明细表.pdf内页数据行。视觉核验：280DPI逐页渲染明细表与开标一览表，确认两份PDF均为未填写的空白投标模板——明细表数据行存在但规格/品牌/制造商/产地/单价/响应报价各格均为'{供应商响应}'占位符、合计与投标人名称为空，仅印刷了最高限价（四轴联动数控立式加工中心1600000元/台×4台、多轴车铣复合加工中心机床700000元/台×1台，限价合计7100000≠中标金额2288800，系采购人限价而非成交价）；开标一览表响应报价格为'「汇总引用」元'占位符。附件中不存在中标人分项实际报价，单价/总价确不可得，保持null，无法按条拆分2288800元。；终审：渲染确认该报价明细表系未填写模板（{供应商响应}占位符、仅有限价），中标人分项价格原文不存在，null 为规范终值",
+  "project": {
+    "buyer": "青岛港湾职业技术学院",
+    "project_name": "青岛港湾职业技术学院智能制造实训基地设备采购项目",
+    "total_amount": 2288800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "烟台市妙才智能工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "金属切削机床",
+      "item_name": "四轴联动数控立式加工中心",
+      "brand": "华曜",
+      "model": "VMC855",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "金属切削机床",
+      "item_name": "多轴车铣复合加工中心机床",
+      "brand": "华曜",
+      "model": "GLS-2800Y",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "烟台市妙才智能工程有限公司",
+      "role": "winner",
+      "total_score": 83.66,
+      "rank": null,
+      "amount": 2288800.0
+    },
+    {
+      "package_no": "1",
+      "name": "甘肃省策利科技有限公司",
+      "role": "participant",
+      "total_score": 63.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东稳康智能装备科技有限公司",
+      "role": "participant",
+      "total_score": 62.24,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "吉林省王牌智能经贸有限公司",
+      "role": "participant",
+      "total_score": 61.78,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

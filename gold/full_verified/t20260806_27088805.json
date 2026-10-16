@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260806_27088805",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(联通（山东）产业互联网有限公司).pdf",
+  "note": "概要品目列为空，category 取 HTML 标的信息表品目名称列『数据加工处理服务』；item_name/单价/总价以附件『报价明细表(联通（山东）产业互联网有限公司).pdf』为准（4条明细合计1327000元=中标金额，数学一致）；HTML采购标的列为项目名全称，服务名称取附件；package_no=1 来自公告标题『（采购包1）』及附件文件名『包(1)_』；得分排名/推荐排名列空白，rank 未明示填 null；需视觉核验：附件服务名称OCR有空格断字（如『数 据 资 源 集 服 务』），已按语义合并。复核：附件4条明细单价/总价/合计1327000元、评分表4家供应商得分均逐条核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "山东省发展和改革委员会机关",
+    "project_name": "山东省就业消费数据监测服务项目",
+    "total_amount": 1327000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "联通（山东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "数据加工处理服务",
+      "item_name": "数据资源集服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "数据加工处理服务",
+      "item_name": "数据分析展示服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1012000.0,
+      "total_price": 1012000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "数据加工处理服务",
+      "item_name": "数据计算模型",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 109000.0,
+      "total_price": 109000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "数据加工处理服务",
+      "item_name": "监测报告",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 16000.0,
+      "total_price": 16000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 93.62,
+      "rank": null,
+      "amount": 1327000.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州数亮科技股份有限公司",
+      "role": "participant",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南科云信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东致正信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.24,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260701_26848573",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:成交信息.pdf,磋商文件.pdf",
+  "note": "A/B两个采购包（表1明示\"A包\"、磋商文件明示A包政务专线1/B包政务专线2）；总中标金额栏￥0.0281万=281元系HTML文本还原的页面原值（非OCR，显示确凿），疑为两包月单价之和（150+131）的平台计算错误，全文无合同总金额出处，按规范照抄原文值不改动；成交金额以\"元/月/条\"计（A包150元/月/条、B包131元/月/条），bidders.amount与items.unit_price照抄该月单价数值；数量24条/44条取自附件成交信息.pdf；磋商文件载明服务期自签订合同后1年，合同总价原文未给出，item total_price不填（150×24×12=43200、131×44×12=69168为推算仅供参考）；品目列全文无，标的信息表无品目名称列，category=null；评审表无排名列，rank=null；两条评审表均无武汉虹信（B包），按原文照录。复核修正：总中标金额栏为HTML原文确凿显示值（非OCR疑点），按规范照抄并记录异常即终值，移除『需视觉核验』标记，status改verified。",
+  "project": {
+    "buyer": "日照市东港区工业和信息化局",
+    "project_name": "东港区电子政务外网政务专线服务项目",
+    "total_amount": 281.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "政务专线1",
+        "winner": "中国移动通信集团山东有限公司日照分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "政务专线2",
+        "winner": "中国联合网络通信有限公司日照市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "东港区电子政务外网政务专线服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 24,
+      "unit": "条",
+      "unit_price": 150.0,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "东港区电子政务外网政务专线服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 44,
+      "unit": "条",
+      "unit_price": 131.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国移动通信集团山东有限公司日照分公司",
+      "role": "winner",
+      "total_score": 91.76,
+      "rank": null,
+      "amount": 150.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东合力金桥系统集成技术有限公司",
+      "role": "participant",
+      "total_score": 82.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "中国电信集团有限公司日照分公司",
+      "role": "participant",
+      "total_score": 81.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "武汉虹信技术服务有限责任公司",
+      "role": "participant",
+      "total_score": 80.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东米睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国联合网络通信有限公司日照市分公司",
+      "role": "winner",
+      "total_score": 92.87,
+      "rank": null,
+      "amount": 131.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东合力金桥系统集成技术有限公司",
+      "role": "participant",
+      "total_score": 83.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国电信集团有限公司日照分公司",
+      "role": "participant",
+      "total_score": 81.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东米睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.38,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

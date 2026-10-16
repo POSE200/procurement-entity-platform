@@ -1,0 +1,155 @@
+{
+  "announcement_id": "t20260608_26705657",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函_2.pdf,中小企业声明函_3.pdf",
+  "note": "共6包：包1-5中标、包6废标（有效供应商不足三家，无中标人，bidders不计）。表格1序号1-5对应采购包1-5：中小企业声明函_2（四维远见=采购包2）、_3（中测晟图=采购包3）直接印证序号即包号；交叉验证：各中标报价均不超过招标文件对应包预算（包1 386万/包2 378万/包3 372万/包4 447万/包5 383万，如错位映射必然超预算）。五包中标金额之和19,330,650元与总中标金额19,330,700元相差50元，按口径不改原文，需视觉核验。概要品目空、HTML标的信息表无品目名称列，category=null（声明函'专业技术服务业'为行业非品目，不填）。标的名称列原文即'采购包N'，item_name照抄；各包数量/单价无线索填null（不互推），item total_price取该包中标金额。表格1无得分排名列，rank一律null，禁止推定。需视觉核验：总中标金额与分包之和的50元差额；帝测科技4,460,000元对应包4（仅低于预算447万1万元，数字易错）。复核：50元差额系原文清晰印刷下的自身矛盾（两处数字均可辨），按规范不改值；序号=包号已由声明函_2/_3（明写采购包2/采购包3）直接印证，帝测→包4成立，无需视觉核验。",
+  "project": {
+    "buyer": "山西省测绘地理信息院",
+    "project_name": "基础测绘项目—数据获取类2173万元",
+    "total_amount": 19330700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1",
+        "winner": "飞燕航空遥感技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购包2",
+        "winner": "北京四维远见信息技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "采购包3",
+        "winner": "武汉中测晟图遥感技术有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "采购包4",
+        "winner": "北京帝测科技股份有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "采购包5",
+        "winner": "陕西鑫雅图空间信息技术有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "采购包6",
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3802100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "采购包2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3660000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "采购包3",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3636000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "采购包4",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 4460000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": null,
+      "item_name": "采购包5",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3772550.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "飞燕航空遥感技术有限公司",
+      "role": "winner",
+      "total_score": 93.14,
+      "rank": null,
+      "amount": 3802100.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京四维远见信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.5,
+      "rank": null,
+      "amount": 3660000.0
+    },
+    {
+      "package_no": "3",
+      "name": "武汉中测晟图遥感技术有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": null,
+      "amount": 3636000.0
+    },
+    {
+      "package_no": "4",
+      "name": "北京帝测科技股份有限公司",
+      "role": "winner",
+      "total_score": 88.39,
+      "rank": null,
+      "amount": 4460000.0
+    },
+    {
+      "package_no": "5",
+      "name": "陕西鑫雅图空间信息技术有限公司",
+      "role": "winner",
+      "total_score": 88.61,
+      "rank": null,
+      "amount": 3772550.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

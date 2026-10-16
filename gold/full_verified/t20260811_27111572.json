@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27111572",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（数字广东网络建设有限公司）.pdf",
+  "note": "品目概要列为空，品目取自HTML标的信息表「品目名称」列（软件运营服务）；附件报价明细给出单价3,790,000元、数量1(项)、总价3,790,000元，而公告成交金额及总成交金额为3,788,000元，两者相差2,000元——原文如此，item按附件填，中标金额按公告填，未改原文（两处数值文本均清晰可读，差异系原文固有，非OCR问题）；所附磋商文件0724-2631Z3604685.pdf仅前30页，其内分项预算3,816,900元为预算价非成交价，未采用；rank取自评分表「得分排名」列（原文明示）。",
+  "project": {
+    "buyer": "广东省信访局",
+    "project_name": "省信访局政务外网运维运营服务（2026年）项目",
+    "total_amount": 3788000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省信访局政务外网运维运营服务（2026年）项目",
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "省信访局政务外网运维运营服务（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3790000.0,
+      "total_price": 3790000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 87.95,
+      "rank": 1,
+      "amount": 3788000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 64.26,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州智臣信息科技有限公司",
+      "role": "participant",
+      "total_score": 51.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东博瀚科技有限责任公司",
+      "role": "participant",
+      "total_score": 46.57,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

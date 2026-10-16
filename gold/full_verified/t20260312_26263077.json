@@ -1,0 +1,196 @@
+{
+  "announcement_id": "t20260312_26263077",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件-01包存储及备份终稿.pdf,招标文件-02包多模态临床医生应用系统及线上线下一体化便民服务系统建设终稿.pdf,招标文件-03包安全系统终稿.pdf",
+  "note": "3个包（01存储及备份/02多模态临床医生应用系统及线上线下一体化便民服务系统建设/03安全系统，包号与包名来自附件招标文件标题）。供应商与包的对应关系依分项金额之和与中标金额吻合确认：先进数通146.6万=03包（90+27+29.6），东软1830万=02包（1196+405+155+74），商用时代126.203万=01包（40.347+25.266+28.94+31.65）。商品行单价×数量与总价均相符（云桌面一体机3×13.449万=40.347万，集中存储扩容2×12.633万=25.266万）；三包中标金额之和2102.803万元与总中标金额一致。HTML明细表无序号列、无品目列、无品牌列，对应字段null；评审总得分有明示，排名未明示rank=null。",
+  "project": {
+    "buyer": "首都医科大学附属北京天坛医院",
+    "project_name": "多模态临床医生应用系统及线上线下一体化便民服务系统建设",
+    "total_amount": 21028030.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "存储及备份",
+        "winner": "北京商用时代科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "多模态临床医生应用系统及线上线下一体化便民服务系统建设",
+        "winner": "东软集团股份有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "安全系统",
+        "winner": "北京先进数通信息技术股份公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "终端集中管理系统",
+      "brand": null,
+      "model": "NACC-1900",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "移动端安全管理平台",
+      "brand": null,
+      "model": "DSS-Base-3500",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 270000.0,
+      "total_price": 270000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "身份鉴别-双因素系统",
+      "brand": null,
+      "model": "DKEY AM 6.8.3",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 296000.0,
+      "total_price": 296000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "多模态临床医生应用系统",
+      "brand": null,
+      "model": "东软RealOne医生工作站系统V2.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 11960000.0,
+      "total_price": 11960000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "线上线下一体化便民服务系统",
+      "brand": null,
+      "model": "东软移动互联网医院系统V3.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 4050000.0,
+      "total_price": 4050000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "应用软件开发",
+      "brand": null,
+      "model": "/",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1550000.0,
+      "total_price": 1550000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息系统集成",
+      "brand": null,
+      "model": "/",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 740000.0,
+      "total_price": 740000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "云桌面一体机",
+      "brand": null,
+      "model": "VDS-X5-2205",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 134490.0,
+      "total_price": 403470.0
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "集中存储扩容",
+      "brand": null,
+      "model": "15.3TB NVMe SSD盘",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 126330.0,
+      "total_price": 252660.0
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "备份一体机",
+      "brand": null,
+      "model": "Datapp-NBP2144",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 289400.0,
+      "total_price": 289400.0
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据备份管理系统",
+      "brand": null,
+      "model": "Datapp-AOB2000",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 316500.0,
+      "total_price": 316500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京商用时代科技有限公司",
+      "role": "winner",
+      "total_score": 82.31,
+      "rank": null,
+      "amount": 1262030.0
+    },
+    {
+      "package_no": "02",
+      "name": "东软集团股份有限公司",
+      "role": "winner",
+      "total_score": 97.14,
+      "rank": null,
+      "amount": 18300000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京先进数通信息技术股份公司",
+      "role": "winner",
+      "total_score": 94.22,
+      "rank": null,
+      "amount": 1466000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

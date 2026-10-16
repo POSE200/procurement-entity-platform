@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27119664",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司江门分公司）.pdf",
+  "note": "附件报价明细与HTML标的表一致：单价1,540,000×1(项)=总价1,540,000.00，与总中标金额154万一致；品目取HTML标的表「品目名称」列（概要品目列为空）；报价明细附件无品牌/型号列，brand/model=null；4家供应商得分与得分排名原文明示（广东威迅「推荐排名」列为空，得分排名=4照抄）。",
+  "project": {
+    "buyer": "中国共产党江门市委员会党校",
+    "project_name": "市委党校学员综合服务系统升级改造（2026-2027年）项目",
+    "total_amount": 1540000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市委党校学员综合服务系统升级改造（2026-2027年）",
+        "winner": "中国移动通信集团广东有限公司江门分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "市委党校学员综合服务系统升级改造（2026-2027年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1540000.0,
+      "total_price": 1540000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司江门分公司",
+      "role": "winner",
+      "total_score": 95.75,
+      "rank": 1,
+      "amount": 1540000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司江门分公司",
+      "role": "participant",
+      "total_score": 93.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州本体软件有限公司",
+      "role": "participant",
+      "total_score": 41.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东威迅信息科技有限公司",
+      "role": "participant",
+      "total_score": 27.2,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

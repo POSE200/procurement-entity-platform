@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260709_26905254",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "竞争性磋商成交公告，2个包。包1（层流机房维护保养）成交：成都川亿合净化工程设备有限公司，90,000.00元，评审总得分93.33；包2（全品类电器维修服务）成交：四川绿色城市环保工程有限公司，240,000.00元，评审总得分89.63；两包之和=总成交金额￥33.000000万元。未中标主体、各候选人排序及得分取自附件《包1/包2供应商评审情况表.pdf》：两包均为4家通过资格审查与符合性审查（四川绿色城市环保、成都樽耀机电、成都川亿合、四川地桥建筑），rank按“第N成交候选人”明示填写（四川地桥未进入候选人，rank=null）；包1第二/第三候选人报价140,000/145,200元填入amount，包2候选人报价为百分比费率（93%/60%/95%）非金额，amount一律null。品目概要列空，category取标的信息表“品目名称”列原文“C23120700 空调维修和保养服务”（品目编号列同为C23120700）。响应报价单元格为模板占位符残留（th:text损坏文本）不可用，quantity/unit/unit_price无线索不填。附件中小企业声明函（文本层完好）确认两包成交人与HTML一致；合同金额按成交金额填total_price。",
+  "project": {
+    "buyer": "资阳市中医医院",
+    "project_name": "层流机房维护保养和全品类电器维修服务",
+    "total_amount": 330000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "层流机房维护保养",
+        "winner": "成都川亿合净化工程设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "全品类电器维修服务",
+        "winner": "四川绿色城市环保工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C23120700 空调维修和保养服务",
+      "item_name": "层流机房维护保养",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C23120700 空调维修和保养服务",
+      "item_name": "全品类电器维修服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 240000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都川亿合净化工程设备有限公司",
+      "role": "winner",
+      "total_score": 93.33,
+      "rank": 1,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川绿色城市环保工程有限公司",
+      "role": "participant",
+      "total_score": 91.07,
+      "rank": 2,
+      "amount": 140000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都樽耀机电工程有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": 3,
+      "amount": 145200.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川地桥建筑工程有限公司",
+      "role": "participant",
+      "total_score": 70.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川绿色城市环保工程有限公司",
+      "role": "winner",
+      "total_score": 89.63,
+      "rank": 1,
+      "amount": 240000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都川亿合净化工程设备有限公司",
+      "role": "participant",
+      "total_score": 82.5,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都樽耀机电工程有限公司",
+      "role": "participant",
+      "total_score": 74.79,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川地桥建筑工程有限公司",
+      "role": "participant",
+      "total_score": 62.81,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

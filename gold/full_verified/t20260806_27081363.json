@@ -1,0 +1,96 @@
+{
+  "announcement_id": "t20260806_27081363",
+  "annotated_at": "2026-09-24-draft",
+  "status": "corrected_pending_full_review",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京世纪金政信息技术股份有限公司）.pdf",
+  "note": "公告明确最终成交3060000元，唯一服务标的total_price采用该金额。附件2026-07-30报价单为3090000元、数量1项，原报价保存于quotation_reference_items；数量1项有填写报价表依据保留。最终成交单价未另行直接披露，unit_price=null。本次不判断差额形成原因，不把报价称为最终成交价。",
+  "project": {
+    "buyer": "横琴粤澳深度合作区人才发展和社会保障局",
+    "project_name": "横琴粤澳深度合作区横琴人才全景服务系统建设（2026年）项目",
+    "total_amount": 3060000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "横琴粤澳深度合作区横琴人才全景服务系统建设（2026年）项目",
+        "winner": "北京世纪金政信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "应用软件开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 3060000
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京世纪金政信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 96.71,
+      "rank": 1,
+      "amount": 3060000.0
+    },
+    {
+      "package_no": "1",
+      "name": "珠海朋奇科技有限责任公司",
+      "role": "participant",
+      "total_score": 93.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏艾克斯信息科技有限公司",
+      "role": "participant",
+      "total_score": 85.24,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏玖华云世科技有限公司",
+      "role": "participant",
+      "total_score": 73.85,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京中科创益科技有限公司",
+      "role": "participant",
+      "total_score": 54.19,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v2",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "本轮仅三篇已确认问题修正；全量语义和SFT输入未验收"
+  },
+  "quotation_reference_items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "应用软件开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3090000.0,
+      "total_price": 3090000.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260305_26231469",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,电子政务外网主干链路（一主一备）升级及93个村(社区）网络服务费单一来源采购文件（N510604202600001820260302002）.docx",
+  "note": "单一来源采购项目，共2包，各1家供应商成交：包1中国电信德阳分公司243200元、包2中国移动德阳分公司227784元，之和470984元与概要总成交金额47.0984万元一致；各包预算/最高限价（260000/240000元）来自采购文件docx；品目概要列为空，category照抄标的信息表『品目名称』列（含编号前缀C17010200 网络接入服务）；附件『包(1)_报价表.pdf』『包(2)_报价表.pdf』仅含表头（表头文字存在双写OCR伪影）无数据行，quantity/unit/unit_price均null，每包唯一总金额已计入item的total_price；HTML标的信息表『响应报价』列被网页模板代码污染（形如${detail['priceSummaryList']...}）无有效值；评审情况表明示『第一成交候选人』故rank=1。",
+  "project": {
+    "buyer": "德阳市罗江区发展和改革局",
+    "project_name": "电子政务外网主干链路（一主一备）升级及93个村(社区）网络服务费",
+    "total_amount": 470984.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "罗江区电子政务外网主干链路主供及罗江区48个村（社区）电子政务外网服务",
+        "winner": "中国电信股份有限公司德阳分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "罗江区电子政务外网主干链路备用及罗江区45个村（社区）电子政务外网服务",
+        "winner": "中国移动通信集团四川有限公司德阳分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C17010200 网络接入服务",
+      "item_name": "罗江区电子政务外网主干链路主供及罗江区48个村（社区）电子政务外网服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 243200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17010200 网络接入服务",
+      "item_name": "罗江区电子政务外网主干链路备用及罗江区45个村（社区）电子政务外网服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 227784.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司德阳分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 243200.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团四川有限公司德阳分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 227784.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

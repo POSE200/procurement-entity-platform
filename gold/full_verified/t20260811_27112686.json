@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260811_27112686",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无报价明细附件：公告附件仅为招标文件.zip（被跳过，解包后pdf仅前30页、docx因超长丢弃）和委托代理协议，分项报价表原文写明「参见投标文件3.1章节」未随附件提供；标的信息表「金额(元)」列为空，本篇为单条服务标的且仅知总中标金额9,197,094元，按规范禁止以总金额推算，故quantity/unit/unit_price/total_price均为null；品目概要列为空，品目取自HTML「品目名称」列（软件运维服务）；招标文件内分项预算12,172,900元为预算价非成交价，未采用；rank取自评分表「得分排名」列（原文明示）。",
+  "project": {
+    "buyer": "中山市政务服务和数据管理局",
+    "project_name": "中山市城市智慧大脑运维服务项目（2026-2028）",
+    "total_amount": 9197094.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中山市城市智慧大脑运维服务项目（2026-2028）",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "中山市城市智慧大脑运维服务项目（2026-2028）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 95.17,
+      "rank": 1,
+      "amount": 9197094.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 95.09,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 86.84,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东凌臣科技有限公司",
+      "role": "participant",
+      "total_score": 72.05,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东新逸达科技有限公司",
+      "role": "participant",
+      "total_score": 61.04,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "新三科技有限公司",
+      "role": "participant",
+      "total_score": 50.39,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

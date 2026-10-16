@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27059590",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市东亚集团有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（硬件运维服务）。HTML表格2金额列为空，单价2,100,000元/数量1项/总价2,100,000元明示于报价明细附件。包号1来自合同包号列。rank取表格4得分排名列（原文明示1-3）。未中标供应商投标报价原文未列，amount=null。",
+  "project": {
+    "buyer": "广州市公安局",
+    "project_name": "广州市公安局2026年信息通信运维项目之有线语音通信系统维护项目和视频会议系统三级网维护项目",
+    "total_amount": 2100000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "有线语音通信系统维护项目和视频会议系统三级网维护",
+        "winner": "广州市东亚集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "有线语音通信系统维护项目和视频会议系统三级网维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2100000.0,
+      "total_price": 2100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市东亚集团有限公司",
+      "role": "winner",
+      "total_score": 98.24,
+      "rank": 1,
+      "amount": 2100000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 95.09,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 84.62,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

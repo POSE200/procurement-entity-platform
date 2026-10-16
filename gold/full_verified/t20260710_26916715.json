@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260710_26916715",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "两个服务包（公告标题'采购包1、2'，招标文件资格要求分'采购包1/采购包2'），package_no=1/2；各1条标的：单价/数量/单位来自报价明细附件（10360000.0000元×1.0000套、845880.0000元×1.0000套），之和11205880元=总中标金额1120.588万元，核对一致；品目取自HTML标的信息表品目名称列（其他信息技术服务），公告概要品目列为空；服务类无品牌/型号，均null。需视觉核验疑点：HTML表格4服务范围列首字OCR为'?东省应急管理厅机关'（应为'山东省'），服务要求列尾部被截断，但不影响字段取值。",
+  "project": {
+    "buyer": "山东省应急管理厅机关",
+    "project_name": "山东省应急管理厅应急指挥中心综合运维项目",
+    "total_amount": 11205880.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中电信数智科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国铁塔股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "基础环境和硬件设备运维、应用支撑服务、数据链路及备品备件",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10360000.0,
+      "total_price": 10360000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他信息技术服务",
+      "item_name": "事故灾害应急处置视频联动保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 845880.0,
+      "total_price": 845880.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司",
+      "role": "winner",
+      "total_score": 92.98,
+      "rank": null,
+      "amount": 10360000.0
+    },
+    {
+      "package_no": "1",
+      "name": "新华三技术有限公司",
+      "role": "participant",
+      "total_score": 88.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省邮电工程有限公司",
+      "role": "participant",
+      "total_score": 85.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东铁通工程建设有限责任公司",
+      "role": "participant",
+      "total_score": 84.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "软通智慧信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.43,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国铁塔股份有限公司",
+      "role": "winner",
+      "total_score": 89.17,
+      "rank": null,
+      "amount": 845880.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国通信建设集团设计院有限公司",
+      "role": "participant",
+      "total_score": 86.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省邮电工程有限公司",
+      "role": "participant",
+      "total_score": 83.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东致正信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.29,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

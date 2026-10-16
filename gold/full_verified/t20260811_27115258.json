@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27115258",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中电信数智科技有限公司枣庄分公司).pdf,评审报告.pdf,综合评分汇总表.pdf",
+  "note": "单包（标题采购包1，综合评分汇总表/评审报告均载采购包号1、分包数量1个）。品目取HTML表格2「品目编号及品目名称」列「其他信息技术服务」。附件报价明细表(第1轮)已核验：1条服务明细，单价360,000元×数量1.0000项=响应报价360,000元=中标金额360,000.00元（概要￥36.000000万、劳务报酬支付表360000.00元一致；最高限价378,000元）。bidders 5家：评审报告「排序」列明示成交人/第二成交候选人/第三成交候选人，rank照填（1/2/3），三家报价360,000/370,000/340,000元取自评审报告与综合评分汇总表（汇总表OCR将370,000/340,000误作370.000.00/340.000.00，以评审报告为准）；嘉兴博创天下科技发展有限公司报价超时视为主动退出（无得分/报价）；中国联合网络通信有限公司枣庄市分公司符合性审查未通过（无得分/报价）。附件OCR将「峄」误作「峰」，buyer等以HTML为准。需视觉核验：综合评分汇总表中三家投标报价的千分位（370,000/340,000）。；终审：千分位疑点已裁定（汇总表OCR误作370.000.00，以评审报告370,000/340,000为准），按note既有裁定转verified",
+  "project": {
+    "buyer": "峄城区化工产业综合服务中心",
+    "project_name": "枣庄化工产业园峄城片区智慧监管平台安全升级项目",
+    "total_amount": 360000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中电信数智科技有限公司枣庄分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "枣庄化工产业园峄城片区智慧监管平台安全升级项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 360000.0,
+      "total_price": 360000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司枣庄分公司",
+      "role": "winner",
+      "total_score": 93.1,
+      "rank": 1,
+      "amount": 360000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东智拓星途技术有限公司",
+      "role": "participant",
+      "total_score": 79.53,
+      "rank": 2,
+      "amount": 370000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 77.83,
+      "rank": 3,
+      "amount": 340000.0
+    },
+    {
+      "package_no": "1",
+      "name": "嘉兴博创天下科技发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司枣庄市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

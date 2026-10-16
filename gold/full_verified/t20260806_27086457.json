@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27086457",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市聚赢档案管理有限公司）.pdf",
+  "note": "单包（合同包1）。公告信息'总中标金额 ￥0.000000万元'为占位值，total_amount=null；中标（成交）金额栏仅给'折扣率：99.80%'，无元金额，bidders.amount=null（不按 折扣率×预算 自行推算）。附件报价明细明示：单价2,000,000（预算单价，对应招标文件分项预算2,000,000元）、数量1(项)、折扣率99.8%、总价2,000,000.00（预算价口径），照抄填入；实际结算=1元/页×中标折扣率×实际页数，据实结算（≤200万按实结，>200万按200万包干）。概要品目列空，category 取HTML品目名称列'档案管理服务'。得分排名列明示1/2/3，rank照抄。复核确认：附件报价明细文本清晰可读（非OCR件），单价2,000,000、数量1(项)、折扣率99.8、总价2,000,000.00为原文并列明示值，照抄不按折扣率换算。",
+  "project": {
+    "buyer": "江门市自然资源局",
+    "project_name": "2026年不动产登记档案扫描（数字化处理）采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年不动产登记档案扫描（数字化处理）项目",
+        "winner": "深圳市聚赢档案管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "档案管理服务",
+      "item_name": "2026年不动产档案扫描及数字化加工处理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2000000.0,
+      "total_price": 2000000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市聚赢档案管理有限公司",
+      "role": "winner",
+      "total_score": 97.17,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州艾思凯信息科技有限公司",
+      "role": "participant",
+      "total_score": 51.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市玖洲信息科技有限公司",
+      "role": "participant",
+      "total_score": 44.56,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

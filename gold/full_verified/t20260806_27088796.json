@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260806_27088796",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:成交供应商分项报价明细表.pdf",
+  "note": "概要品目列空，category 取标的信息表'品目编号及品目名称'列'技术侦察取证设备'；品牌/规格型号照抄 HTML 标的信息表（大疆 / 自动化无人值守机巢/大疆机场3+DJI Matrice 4TD（北斗版）套装），附件成交供应商分项报价明细表确认单条明细单价995000元=总价995000元（含机巢平台/飞行平台/云台相机等整套配置）；附件分项明细表'单位数量'列 OCR 错位；复核确认：数量/单位/品牌/型号/单价/金额均以 HTML 标的信息表（数量1、单位项、单价995,000.0000、金额995,000.00）为准，附件分项报价明细表单价与总价均为995000与HTML一致，取值无歧义，无需视觉核验；中国移动通信集团山东有限公司因报价超时未响应列于未中标表，无得分无报价，participant 收录；得分排名列空白，rank 全 null；package_no=1 推断自附件'包(1)_'前缀及品目号1-1、劳务支付表分包数量1个；预算1029080元（劳务支付表OCR）仅供参照。",
+  "project": {
+    "buyer": "广饶县公安局",
+    "project_name": "广饶县公安局优化道路交通（一体化无人机指挥系统）建设项目",
+    "total_amount": 995000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "东营市普惠石油科技开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "技术侦察取证设备",
+      "item_name": "广饶县公安局优化道路交通（一体化无人机指挥系统）建设项目",
+      "brand": "大疆",
+      "model": "自动化无人值守机巢/大疆机场3+DJI Matrice 4TD（北斗版）套装",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 995000.0,
+      "total_price": 995000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东营市普惠石油科技开发有限公司",
+      "role": "winner",
+      "total_score": 98.49,
+      "rank": null,
+      "amount": 995000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东海量云仓智能科技有限公司",
+      "role": "participant",
+      "total_score": 88.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东韬远数字科技有限公司",
+      "role": "participant",
+      "total_score": 86.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东营智凯商贸有限公司",
+      "role": "participant",
+      "total_score": 83.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

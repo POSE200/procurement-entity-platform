@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260803_27062717",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目，原文无明示包号，package_no=1按中标情况表序号1推断，并经附件专家支付费用表'分包数量：1个'佐证（复核确认）；标的信息表仅有明细报价750000元一个金额，无单价/数量列，故quantity/unit/unit_price为null、total_price=750000；概要品目列与标的信息表均无品目，category=null；评分表未给出综合得分，各家score均null，未中标原因仅'综合得分较低'；表格5为投标报价表，participant的amount照抄投标报价。",
+  "project": {
+    "buyer": "青岛市崂山区疾病预防控制中心",
+    "project_name": "崂山区疾病预防控制中心实验楼运行维护服务项目",
+    "total_amount": 750000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "崂山区疾病预防控制中心实验楼运行维护服务项目",
+        "winner": "中发建筑技术集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "崂山区疾病预防控制中心实验楼运行维护服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 750000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中发建筑技术集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 750000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛华东实验室技术装备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 765500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东耘威科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 667700.0
+    },
+    {
+      "package_no": "1",
+      "name": "广跃建设有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 761500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

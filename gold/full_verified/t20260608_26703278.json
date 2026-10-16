@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260608_26703278",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（数字广东网络建设有限公司）.pdf",
+  "note": "单包（合同包1）。items以附件报价明细为准共11条（HTML标的信息表金额列全空、数量单价仅在附件），11条单价×数量均与总价一致，合计3,891,360元=中标金额3,891,360.00元=总中标金额￥389.136000万，数学自查通过。category取标的信息表「品目名称」列=其他维修和保养服务。第6条数量单位原文为「次/年」、第8/9条为「项/年」，照抄。rank取自得分排名列。附件报价明细表头含水印污染文字，数值均可靠辨认。协议.pdf（OCR）为代理委托协议，仅佐证预算3,912,732.00元（原文写作「3,912.732.00元」疑OCR多一个点），未用于字段取值。",
+  "project": {
+    "buyer": "横琴粤澳深度合作区公安局",
+    "project_name": "横琴粤澳深度合作区2026年度市政道路视频监控管养项目",
+    "total_amount": 3891360.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "横琴粤澳深度合作区2026年度市政道路视频监控管养项目",
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "排插",
+      "brand": null,
+      "model": null,
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 25.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "自动重合闸",
+      "brand": null,
+      "model": null,
+      "quantity": 77,
+      "unit": "个",
+      "unit_price": 150.0,
+      "total_price": 11550.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "设备箱",
+      "brand": null,
+      "model": null,
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 800.0,
+      "total_price": 14400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "监控杆检修井盖",
+      "brand": null,
+      "model": null,
+      "quantity": 20,
+      "unit": "个",
+      "unit_price": 100.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "零星材料",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 8900.0,
+      "total_price": 8900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "高空特种作业设施使用费",
+      "brand": null,
+      "model": null,
+      "quantity": 8,
+      "unit": "次/年",
+      "unit_price": 17400.0,
+      "total_price": 139200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "超高空视频监控维护费",
+      "brand": null,
+      "model": null,
+      "quantity": 90,
+      "unit": "次",
+      "unit_price": 1450.0,
+      "total_price": 130500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "100M-1000M带宽光纤链路和电源租赁",
+      "brand": null,
+      "model": null,
+      "quantity": 1258,
+      "unit": "项/年",
+      "unit_price": 2820.0,
+      "total_price": 3547560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "10G带宽光纤链路和电源租赁",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "项/年",
+      "unit_price": 12000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "网络线缆",
+      "brand": null,
+      "model": null,
+      "quantity": 3000,
+      "unit": "米",
+      "unit_price": 1.5,
+      "total_price": 4500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "电源线缆",
+      "brand": null,
+      "model": null,
+      "quantity": 1500,
+      "unit": "米",
+      "unit_price": 4.5,
+      "total_price": 6750.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 94.33,
+      "rank": 1,
+      "amount": 3891360.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 89.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "participant",
+      "total_score": 88.31,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海市浩宇网络科技有限公司",
+      "role": "participant",
+      "total_score": 47.86,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

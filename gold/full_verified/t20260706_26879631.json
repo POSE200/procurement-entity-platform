@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260706_26879631",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "package_no 取附件明示'合同包1'。品目取概要列完整路径'货物/设备/信息化设备/网络设备/交换设备'（概要非空，按口径优先于标的信息表品目名称列'交换设备'）。明细以附件分项报价表为准，与 HTML 表格2 一致；附件 OCR 有水印字符污染（型号列混杂乱码，已按 HTML 对照修正为 CE9865-4C/CE6881H-48S6CQ/S5755-S48T8Y）。三家未通过资格审查/符合性审查的供应商无得分排名报价。明细合计 799460+1508320+230220=2538000 与总中标金额一致。评审表'得分排名'与'推荐排名'不一致（务祺得分排名3/推荐2，宏方得分排名2/推荐空），rank 按'得分排名'列取值。",
+  "project": {
+    "buyer": "国家税务总局广东省税务局",
+    "project_name": "广东税务2025年网络设备购买项目",
+    "total_amount": 2538000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "金税信息技术服务股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "货物/设备/信息化设备/网络设备/交换设备",
+      "item_name": "数据中心级别核心交换机",
+      "brand": "华为",
+      "model": "CE9865-4C",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 399730.0,
+      "total_price": 799460.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "货物/设备/信息化设备/网络设备/交换设备",
+      "item_name": "数据中心级别万兆接入交换机",
+      "brand": "华为",
+      "model": "CE6881H-48S6CQ",
+      "quantity": 44,
+      "unit": "台",
+      "unit_price": 34280.0,
+      "total_price": 1508320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "货物/设备/信息化设备/网络设备/交换设备",
+      "item_name": "数据中心级别千兆接入交换机",
+      "brand": "华为",
+      "model": "S5755-S48T8Y",
+      "quantity": 18,
+      "unit": "台",
+      "unit_price": 12790.0,
+      "total_price": 230220.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "金税信息技术服务股份有限公司",
+      "role": "winner",
+      "total_score": 80.23,
+      "rank": 1,
+      "amount": 2538000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州务祺信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 67.65,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市宏方网络科技有限公司",
+      "role": "participant",
+      "total_score": 80.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州尖子信息科技有限公司",
+      "role": "participant",
+      "total_score": 55.0,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州易宝信息技术有限公司",
+      "role": "participant",
+      "total_score": 51.83,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市明领信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川易诚智讯科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260803_27062950",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南平创教育科技有限公司).pdf,报价明细表.pdf",
+  "note": "复核修正：分项明细表（报价明细表.pdf）归属中标人已复核确认——包内仅此一张分项报价表，按磋商文件'11报价明细表'格式填写，6项合计47200元与成交金额精确一致，无矛盾证据，无需视觉核验。单包项目（公告标题明示'采购包1'）。附件有两张明细表：平台制式'报价明细表(第1轮-济南平创)'为1条总项（单价47200元×1宗=响应报价47200元）；'报价明细表.pdf'为分项报价（6项：期刊下架系统录入12400/合订装订11500/封面打印3300/胶装切割12000/加工5000/上架3000），按'抽到最细粒度'口径items取6条分项（item_no=附件序号1~6）。分项'数量/单位'栏仅'1'无单位→unit=null（照抄）。category取HTML标的表品目名称列'档案管理服务'（概要品目列空）。评分表得分排名/推荐排名列原文为空、'评审得分较低'为原因描述→rank=null。47200元=中标金额=总中标金额4.72万元，数学一致。",
+  "project": {
+    "buyer": "威海市文化和旅游局",
+    "project_name": "威海图书馆期刊数据加工项目(二次)",
+    "total_amount": 47200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南平创教育科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "档案管理服务",
+      "item_name": "期刊下架、系统录入",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 12400.0,
+      "total_price": 12400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "档案管理服务",
+      "item_name": "期刊合订本装订成册",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 11500.0,
+      "total_price": 11500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "档案管理服务",
+      "item_name": "期刊封面打印",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3300.0,
+      "total_price": 3300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "档案管理服务",
+      "item_name": "期刊胶装、切割",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "档案管理服务",
+      "item_name": "期刊加工（书标、条码、覆膜等）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 5000.0,
+      "total_price": 5000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "档案管理服务",
+      "item_name": "期刊上架",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南平创教育科技有限公司",
+      "role": "winner",
+      "total_score": 83.0,
+      "rank": null,
+      "amount": 47200.0
+    },
+    {
+      "package_no": "1",
+      "name": "滨州市盛宏图文化传媒有限公司",
+      "role": "participant",
+      "total_score": 73.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东硕升信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.5,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

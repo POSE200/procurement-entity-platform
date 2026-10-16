@@ -1,0 +1,29 @@
+{
+  "name": "ict-procurement-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "test:e2e": "playwright test",
+    "sample-data": "python scripts/build_sample_data.py"
+  },
+  "dependencies": {
+    "@antv/g6": "5.1.1",
+    "@fontsource/noto-serif-sc": "5.3.0",
+    "element-plus": "2.14.6",
+    "vue": "3.5.43",
+    "vue-router": "4.6.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.0",
+    "@types/node": "22.18.6",
+    "@vitejs/plugin-vue": "6.0.9",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vue-tsc": "3.3.11"
+  }
+}

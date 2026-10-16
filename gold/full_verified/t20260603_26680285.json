@@ -1,0 +1,159 @@
+{
+  "announcement_id": "t20260603_26680285",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东知一数据有限公司）.pdf,合同包2：报价明细附件（广州市图南软件科技有限公司）.pdf",
+  "note": "两个合同包：包1广东知一数据中标（1,360,000元）、包2广州市图南软件科技中标（1,200,000元），之和2,560,000元与总中标金额￥256.000000万元一致。概要品目列为空，category 取HTML标的信息表品目名称列「软件运维服务」。包1报价明细附件4条明细（序号1-4，同品目号1-1，item_no取序号以保持唯一），之和376,200+459,800+372,200+151,800=1,360,000元与包1中标金额一致；包2为1条总称明细。报价明细附件.zip为压缩包但内容已在包内解包可见。评分表（表格6/表格7）未标注属于哪个包，按包1中标人广东知一/包2中标人广州图南分别出现在两张表的对应关系归属，属推断，需视觉核验。供应商报价明细表均被水印字符穿插污染，单价/数量/总价数字已按语义识别，建议视觉核验。复核：评分表归属经品目号前缀与代理费表双证——表格3品目号1-1/表格6含包1中标人知一数据，表格4品目号2-1/表格7含包2中标人图南软件，包1/包2划分明确，需视觉核验一项解除；包1四条明细之和1360000、加包2共2560000元核对无误。",
+  "project": {
+    "buyer": "广州市政务服务中心",
+    "project_name": "广州市政务服务中心2026年信息化运维项目之信息系统运维服务项目",
+    "total_amount": 2560000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市政务服务中心2026年信息化运维项目之信息系统运维服务项目子包1",
+        "winner": "广东知一数据有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广州市政务服务中心2026年信息化运维项目之信息系统运维服务项目子包2",
+        "winner": "广州市图南软件科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "软件运维服务",
+      "item_name": "数字化企业服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 376200.0,
+      "total_price": 376200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "软件运维服务",
+      "item_name": "统一在线申办系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 459800.0,
+      "total_price": 459800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "软件运维服务",
+      "item_name": "网上服务用户中心（市民网页）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 372200.0,
+      "total_price": 372200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "软件运维服务",
+      "item_name": "政务服务事项数据应用管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 151800.0,
+      "total_price": 151800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "软件运维服务",
+      "item_name": "广州市政务服务中心2026年信息化运维项目之信息系统运维服务项目子包2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1200000.0,
+      "total_price": 1200000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东知一数据有限公司",
+      "role": "winner",
+      "total_score": 91.13,
+      "rank": 1,
+      "amount": 1360000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州职赢未来信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东慧云科技股份有限公司",
+      "role": "participant",
+      "total_score": 67.86,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州华景政通信息技术有限公司",
+      "role": "participant",
+      "total_score": 62.66,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市图南软件科技有限公司",
+      "role": "winner",
+      "total_score": 94.69,
+      "rank": 1,
+      "amount": 1200000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州易宝信息技术有限公司",
+      "role": "participant",
+      "total_score": 67.87,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东南电智控系统有限公司",
+      "role": "participant",
+      "total_score": 62.13,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东名科信息技术有限公司",
+      "role": "participant",
+      "total_score": 57.84,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

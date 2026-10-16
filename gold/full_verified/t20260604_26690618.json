@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260604_26690618",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "项目不分包（招标文件称采购包1，package_no=1）；概要品目列空，category取标的信息表『品目名称』列『教学仪器』；品牌/型号取HTML标的信息表，单价/总价取中标人山东商文科技发展有限公司的投标（响应）报价明细表.pdf（918000+296000+49500+349000+299500=1,912,000元，与中标金额一致，其中多工位手套箱单价148000×2台=296000）；招标文件标的预算表（92/30/5/35/30万，合计192万）为最高限价，勿混淆；评审表3家投标人有综合得分但『得分排名』列空，rank=null；未中标2家报价原文未公布，amount=null；总中标金额￥191.2万与报价明细合计一致。复核：五条单价/总价在投标（响应）报价明细表逐条核实（918,000/148,000×2=296,000/49,500/349,000/299,500），合计1,912,000元与中标金额一致；品牌型号数量与表格2一致；采购包1、项目不分包在招标文件原文核实；确认verified。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）半导体制造与封装设备采购项目",
+    "total_amount": 1912000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "半导体制造与封装设备采购",
+        "winner": "山东商文科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "3D打印机",
+      "brand": "光垒智造",
+      "model": "MU-310",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 918000.0,
+      "total_price": 918000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "多工位手套箱",
+      "brand": "中科光智",
+      "model": "GBL-1800x750",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 148000.0,
+      "total_price": 296000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "防静电氮气柜",
+      "brand": "爱义信",
+      "model": "IN-1400-6",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 49500.0,
+      "total_price": 49500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "砂轮划片机",
+      "brand": "和研科技",
+      "model": "DS830",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 349000.0,
+      "total_price": 349000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "晶圆贴膜机",
+      "brand": "芯钛科",
+      "model": "STK-7050",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 299500.0,
+      "total_price": 299500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东商文科技发展有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": null,
+      "amount": 1912000.0
+    },
+    {
+      "package_no": "1",
+      "name": "齐信（山东）进出口有限公司",
+      "role": "participant",
+      "total_score": 91.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南佳元仪器设备有限公司",
+      "role": "participant",
+      "total_score": 85.54,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

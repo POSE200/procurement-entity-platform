@@ -1,0 +1,121 @@
+{
+  "announcement_id": "t20260202_26140146",
+  "annotated_at": "2026-09-22",
+  "gold_source": "attachment:B包分项报价表.pdf",
+  "note": "HTML 只写「品牌/规格型号/数量/单价：详见附件」且无供应商表；真值全部来自附件分项报价表。附件列为「品牌/型号」，值只有品牌名，故 model 记 null；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "济宁市第二人民医院（济宁市骨科医院）",
+    "project_name": "济宁市第二人民医院信息化能力提升采购项目",
+    "total_amount": 1486000.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东新蓝海科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "HIS子系统升级",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2",
+      "category": null,
+      "item_name": "经济核算",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "3",
+      "category": null,
+      "item_name": "医技检查手术费用计费类系统",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "4",
+      "category": null,
+      "item_name": "国产数据库管理系统",
+      "brand": "达梦",
+      "model": null,
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 100000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "5",
+      "category": null,
+      "item_name": "历史数据结构化改造服务",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "6",
+      "category": null,
+      "item_name": "系统对接费用",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "7",
+      "category": null,
+      "item_name": "系统实施费用",
+      "brand": "新蓝海",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 186000.0,
+      "total_price": 186000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东新蓝海科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

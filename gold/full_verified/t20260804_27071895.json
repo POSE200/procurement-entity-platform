@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27071895",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "包号1为附件明示（附件文件名'包(1)_开标（报价）一览表'及标题'采购包1'）。中标人山东美桑的投标（响应）报价明细表已核对：最高限价276000元，单价274900×1项=274900元，与HTML中标金额274900元一致。品目取HTML主要标的信息表品目名称列'软件运维服务'。'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'为空白模板（OCR仅表头无数据）；跳过的10个docx/zip为格式模板或声明函，不影响字段。附件.pdf仅列业绩/声明函/专家费清单目录。评审表得分排名/推荐排名列空，rank=null。需视觉核验疑点：报价明细表OCR单价列'274,9 00.00 00 元'换行拼接。",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）医联体大数据共享平台运维项目",
+    "total_amount": 274900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东美桑智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "医联体大数据共享平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 274900.0,
+      "total_price": 274900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东美桑智能科技有限公司",
+      "role": "winner",
+      "total_score": 91.4,
+      "rank": null,
+      "amount": 274900.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛通慧科技有限公司",
+      "role": "participant",
+      "total_score": 76.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海汇云信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.97,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

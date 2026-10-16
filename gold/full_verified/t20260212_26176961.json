@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260212_26176961",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:20252737中标结果公告.doc",
+  "note": "复核确认：附件《20252737中标结果公告.doc》在标注包中已完整解析（非外部解析），其『三、中标信息』给出两标段中标供应商均为上药控股云南医疗器械有限公司（1标段3452000元，2标段3336000元），『八、其他补充事宜』给出评审总得分1标段68.63分/2标段73.13分，标段号1/2明示。rank=null：公告只给评审总得分未给排名。items主要标的信息与doc及HTML表格1逐字一致（品牌/型号/数量/单价）。数学自查：1726000×2=3452000、834000×4=3336000，两标段之和6788000=总中标金额678.8万，一致。'货物类'为分节标题不算品目，概要品目列空、无品目名称表→category=null。数量无计量单位→unit=null。",
+  "project": {
+    "buyer": "昆明市延安医院",
+    "project_name": "2025年昆明市延安医院（公共平台）设备采购项目（二次）",
+    "total_amount": 6788000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "3D4K荧光腹腔镜设备",
+        "winner": "上药控股云南医疗器械有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "4K荧光腹腔镜设备",
+        "winner": "上药控股云南医疗器械有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "3D4K荧光腹腔镜设备",
+      "brand": "迈瑞/索尼",
+      "model": "UX7-NOR、G31030A、HB500R、LC0005L、LMD-XH320T、HS-50F、M01030A、TV-500CN",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 1726000.0,
+      "total_price": 3452000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "4K荧光腹腔镜设备",
+      "brand": "迈瑞/巴可",
+      "model": "UX420、G01030A、M01030A、HB500R、LC0005S、MDAC-8431 12G MDYMKII、HS-50F、TV-500CN",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 834000.0,
+      "total_price": 3336000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上药控股云南医疗器械有限公司",
+      "role": "winner",
+      "total_score": 68.63,
+      "rank": null,
+      "amount": 3452000.0
+    },
+    {
+      "package_no": "2",
+      "name": "上药控股云南医疗器械有限公司",
+      "role": "winner",
+      "total_score": 73.13,
+      "rank": null,
+      "amount": 3336000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

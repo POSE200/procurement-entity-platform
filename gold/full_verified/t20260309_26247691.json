@@ -1,0 +1,164 @@
+{
+  "announcement_id": "t20260309_26247691",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三包公告（标包A/B/C，HTML明示包号及包名称）；各包服务标的仅有包中标金额，quantity/unit/unit_price按口径不推算；三包中标金额之和217264+89100+528000=834364元=总中标金额83.4364万元；评分表仅列各评委打分、无总得分列也无排名列，total_score/rank=null（表5/6/7按顺序分别对应A/B/C包，已与表8未中标原因名单逐包交叉印证）；C包另有聊城兴创云科网络工程有限公司符合性审查不合格，收录为participant（无得分）；表7『中国移动通信集团山东有限公司 聊城分公司』单元格内空格已合并为连续名称。",
+  "project": {
+    "buyer": "聊城市公安局茌平分局",
+    "project_name": "聊城市公安局茌平分局“电子监控城”光纤线路租赁及系统运维项目",
+    "total_amount": 834364.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "光缆线路租赁",
+        "winner": "中国联合网络通信有限公司聊城市分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "光缆线路租赁（高点点位）",
+        "winner": "中国铁塔股份有限公司聊城市分公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "设备维护运维",
+        "winner": "中国电信集团有限公司聊城分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "光缆线路租赁",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 217264.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "光缆线路租赁（高点点位）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 89100.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "设备维护运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 528000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 217264.0
+    },
+    {
+      "package_no": "A",
+      "name": "中国铁塔股份有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "中国电信集团有限公司聊城分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国铁塔股份有限公司聊城市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 89100.0
+    },
+    {
+      "package_no": "B",
+      "name": "中国电信集团有限公司聊城分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "中国电信集团有限公司聊城分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 528000.0
+    },
+    {
+      "package_no": "C",
+      "name": "中国铁塔股份有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "中国移动通信集团山东有限公司聊城分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "聊城兴创云科网络工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

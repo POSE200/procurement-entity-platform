@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260408_26376682",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无可用附件（两个附件均被跳过，无OCR件）；品目列空、HTML主要标的信息仅有类型'服务类'（非品目）故 category=null；服务类标的仅有中标总金额，不填 quantity/unit_price；package_no='1' 由 HTML '第1包' 明示；bidders 金额取排序表'评审报价'列；各投标报价之和与总中标金额无关（正常）。",
+  "project": {
+    "buyer": "中新天津生态城城市管理局",
+    "project_name": "中新天津生态城城市管理局采购2026年电子屏及外场监控设施运维项目",
+    "total_amount": 3950180.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津生态城智城运营管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "硬件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3950180.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津生态城智城运营管理有限公司",
+      "role": "winner",
+      "total_score": 98.7664,
+      "rank": 1,
+      "amount": 3950180.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津正成软件科技有限公司",
+      "role": "participant",
+      "total_score": 95.2,
+      "rank": 2,
+      "amount": 3706540.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津冠航网络科技有限公司",
+      "role": "participant",
+      "total_score": 83.9365,
+      "rank": 3,
+      "amount": 3999184.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津金信通软件技术有限公司",
+      "role": "participant",
+      "total_score": 68.6953,
+      "rank": 4,
+      "amount": 4008081.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津星耀明显光电科技有限公司",
+      "role": "participant",
+      "total_score": 68.1778,
+      "rank": 5,
+      "amount": 3990289.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

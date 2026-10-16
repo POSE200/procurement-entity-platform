@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260304_26218800",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个标段：中标金额85000+140000+96000=321000元与总中标金额￥32.100000万元一致；package_no照抄原文『一标段/二标段/三标段』；概要品目列为『C16060000,C16060000,C16060000』（三个相同代码对应三个标段），category按概要优先口径取C16060000，标的信息表品目名称列为『测试评估认证服务』（择歧已列，需视觉核验确认应取代码还是名称）；标的信息表数量列明示1、单价列与总价列同值（原文如此，非推算），数量无计量单位列，unit=null；三张得分表未标注标段，按各表含对应标段中标人归属（表5含宁夏凯信特→一标段、表4含广东赛辰→二标段、表3含天津云安→三标段），得分表无排名列且行序与得分高低不一致，rank一律null；三家中标人得分分别为86/82.79/78。",
+  "project": {
+    "buyer": "银川市审批服务管理局",
+    "project_name": "银川市审批服务管理局银川市“一网通办”综合服务平台及设备升级改造项目五项配套服务（一标段、二标段、三标段）",
+    "total_amount": 321000.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": null,
+        "winner": "宁夏凯信特信息科技有限公司"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": null,
+        "winner": "广东赛辰检测服务股份有限公司"
+      },
+      {
+        "package_no": "三标段",
+        "package_name": null,
+        "winner": "天津云安科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "银川市审批服务管理局银川市“一网通办”综合服务平台及设备升级改造项目五项配套服务（一标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "银川市审批服务管理局银川市“一网通办”综合服务平台及设备升级改造项目五项配套服务（二标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 140000.0,
+      "total_price": 140000.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "C16060000",
+      "item_name": "银川市审批服务管理局银川市“一网通办”综合服务平台及设备升级改造项目五项配套服务（三标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 96000.0,
+      "total_price": 96000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "winner",
+      "total_score": 86.0,
+      "rank": null,
+      "amount": 85000.0
+    },
+    {
+      "package_no": "一标段",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "湖北珞格科技发展有限公司",
+      "role": "participant",
+      "total_score": 75.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "广东赛辰检测服务股份有限公司",
+      "role": "winner",
+      "total_score": 82.79,
+      "rank": null,
+      "amount": 140000.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "成都开元精创信息技术有限公司",
+      "role": "participant",
+      "total_score": 55.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "智巡密码（上海）检测技术有限公司",
+      "role": "participant",
+      "total_score": 62.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "天津云安科技发展有限公司",
+      "role": "winner",
+      "total_score": 78.0,
+      "rank": null,
+      "amount": 96000.0
+    },
+    {
+      "package_no": "三标段",
+      "name": "智巡密码（上海）检测技术有限公司",
+      "role": "participant",
+      "total_score": 64.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "江西智慧云测安全检测中心股份有限公司",
+      "role": "participant",
+      "total_score": 59.86,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

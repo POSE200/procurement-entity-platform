@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260612_26743324",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "结果公告仅披露两包中标人及服务内容，未披露各包中标金额、评分与未中标名单，bidders.amount/total_score/rank 及 item 的 quantity/unit/unit_price/total_price 均无出处填 null（服务范围'不少于168人月/51人月'为服务要求下限，不作数量）；概要品目列给出4条完整路径（其他/基础设施/平台/软件运营服务）但无法与2个包一一对应，按禁止常识推断原则 category=null；附件为招标文件（不含中标结果数据）；总中标金额456.47万元与两包预算之和457.8万元（252+205.8）差1.33万元，原文如此未改。复核修正：本包表格还原结果即取值依据，包内（HTML表格+招标文件附件）确无各包中标金额、评分与未中标主体信息，相关null为正确终值，移除原『需视觉核验：HTML原页是否存在各包中标金额列』标记，status改verified。",
+  "project": {
+    "buyer": "国家税务总局新疆维吾尔自治区税务局",
+    "project_name": "新疆税务2026年技术运维服务项目第2次采购",
+    "total_amount": 4564700.0,
+    "packages": [
+      {
+        "package_no": "第一包",
+        "package_name": "系统技术运维服务",
+        "winner": "安图特（北京）科技有限公司"
+      },
+      {
+        "package_no": "第三包",
+        "package_name": "云平台运维服务",
+        "winner": "神州数码信息系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "第一包",
+      "item_no": "1",
+      "category": null,
+      "item_name": "新疆税务2026年技术运维服务项目第2次采购（第一包：系统技术运维服务）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "第三包",
+      "item_no": "2",
+      "category": null,
+      "item_name": "新疆税务2026年技术运维服务项目第2次采购（第三包：云平台运维服务）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "第一包",
+      "name": "安图特（北京）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "第三包",
+      "name": "神州数码信息系统有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

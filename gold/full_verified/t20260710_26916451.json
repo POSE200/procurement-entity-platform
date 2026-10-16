@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260710_26916451",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中新软件（上海）有限公司).pdf",
+  "note": "package_no=1 来自公告标题（采购包1）及附件明示『包(1)_开标（报价）一览表』『包(1)_投标（响应）报价明细表』。2条明细（单价69,800/89,000元、数量1项）取自中标人报价明细表，之和158,800元=合计大写壹拾伍万捌仟捌佰元整=中标金额158,800元（￥15.88万），单价×数量=总价一致；与HTML标的信息表（品目号1-1-1中新/V1.0、1-1-2德里克/DE-LTD、各1项）按品牌型号一一对应。品目取HTML标的信息表品目名称列『其他电工、电子生产设备』。HTML评分表得分排名/推荐排名列为空，所有bidder的rank=null；未中标供应商报价原文未给，amount=null。需视觉核验：评审劳务费.pdf为OCR件且混入另一项目（1570标准化考场）字样，与本项目标的无关，未采用。",
+  "project": {
+    "buyer": "青岛酒店管理职业技术学院",
+    "project_name": "青岛酒店管理职业技术学院JDGCXY20260261智能电梯数字孪生采购项目（1842）",
+    "total_amount": 158800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中新软件（上海）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他电工、电子生产设备",
+      "item_name": "电梯数字孪生软件",
+      "brand": "中新",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 69800.0,
+      "total_price": 69800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他电工、电子生产设备",
+      "item_name": "电梯电气实训及考核装置",
+      "brand": "德里克",
+      "model": "DE-LTD",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 89000.0,
+      "total_price": 89000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中新软件（上海）有限公司",
+      "role": "winner",
+      "total_score": 94.5,
+      "rank": null,
+      "amount": 158800.0
+    },
+    {
+      "package_no": "1",
+      "name": "南京思汀信息科技有限公司",
+      "role": "participant",
+      "total_score": 74.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "沈阳千会科技有限公司",
+      "role": "participant",
+      "total_score": 73.65,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

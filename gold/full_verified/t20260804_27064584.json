@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260804_27064584",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司佛山分公司）.pdf,合同包2：报价明细附件（中国电信股份有限公司佛山分公司）.pdf,合同包3：报价明细附件（中国联合网络通信有限公司佛山市分公司）.pdf",
+  "note": "三个合同包（1移动/2电信/3联通，包号由附件报价明细附件明示）。概要品目列空，category取HTML各标的信息表品目名称列'其他增值电信服务'。HTML总成交金额为'￥0.000000万元'占位值，total_amount=null。各包成交方式为单一来源（标的表服务要求写'详见单一来源采购文件'），每包仅一家供应商，无participant记录；各包评审表有'得分排名'列（均为1），rank按明示填写。包1折扣率91.43%，单价1002673.7元×1项=总价1,002,673.70元。zip容器已解包解析，附件列含'折扣率(%)'列。",
+  "project": {
+    "buyer": "佛山市公安局",
+    "project_name": "市公安局交管支队公安交通管理业务无线传输及互联网交通安全综合服务平台短信等资源服务（2026-2027年）项目——互联网交通安全综合服务平台短信服务子项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "互联网交通安全综合服务平台短信服务子项目（中国移动手机短信服务）",
+        "winner": "中国移动通信集团广东有限公司佛山分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "互联网交通安全综合服务平台短信服务子项目（中国电信手机短信服务）",
+        "winner": "中国电信股份有限公司佛山分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "互联网交通安全综合服务平台短信服务子项目（中国联通手机短信服务）",
+        "winner": "中国联合网络通信有限公司佛山市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他增值电信服务",
+      "item_name": "互联网交通安全综合服务平台短信服务子项目（中国移动手机短信服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1002673.7,
+      "total_price": 1002673.7
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他增值电信服务",
+      "item_name": "互联网交通安全综合服务平台短信服务子项目（中国电信手机短信服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 263812.0,
+      "total_price": 263812.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他增值电信服务",
+      "item_name": "互联网交通安全综合服务平台短信服务子项目（中国联通手机短信服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 216605.0,
+      "total_price": 216605.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司佛山分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1002673.7
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司佛山分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 263812.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司佛山市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 216605.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

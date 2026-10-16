@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260701_26854475",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一来源采购，3个标项各邀请1家供应商并各自成交（表格1列于「中标（成交）金额」下，单元格写作「报价：N元」）。三个标项成交金额之和150000+80000+40000=270000元，与总中标金额￥27.000000万元一致。附件为单一来源采购文件（非报价明细），仅提供标项编号YSXY2026-13-1/-2/-3及预算（与成交报价相同），字段值以HTML为准。品目两处均无（概要品目列空、无品目名称列）→null；无数量/单价信息，按口径3不填quantity=1，仅total_price取该标项成交金额。无评分/排名信息，rank与total_score为null。",
+  "project": {
+    "buyer": "新疆艺术学院",
+    "project_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费",
+    "total_amount": 270000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（中国知网数据库）",
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（中文期刊服务平台）",
+        "winner": "重庆维普智图数据科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（博看期刊数据库）",
+        "winner": "武汉鼎森电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（中国知网数据库）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（中文期刊服务平台）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "新疆艺术学院图书馆文献资源保障项目—数据库续费（博看期刊数据库）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 40000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 150000.0
+    },
+    {
+      "package_no": "2",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "3",
+      "name": "武汉鼎森电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

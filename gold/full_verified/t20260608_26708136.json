@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260608_26708136",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "单包项目，package_no=1 推断自附件分项报价表品目号前缀（1-1/1-2）。category 取概要品目全路径（货物/设备/信息化设备/网络设备/交换设备），HTML/附件均无逐条品目列，两条明细共用该品目。item 1-2 为汇总条目（除交换机外设备一批），品牌/型号原文为'详见分项报价表细表'指针文本，附件内也无细表明细，故填 null。OCR 水印字符污染附件行（如'H3C H4 7'），按语义修正为 H3C。单价×数量=总价均相符，15600+469400=485000=总中标金额48.5万。需视觉核验：附件1-2行品牌/型号列水印串扰；item 1-2 是否存在更细清单（第二章采购清单不在本包内）。",
+  "project": {
+    "buyer": "广东省农垦中心医院",
+    "project_name": "广东省农垦中心医院新大楼网络项目",
+    "total_amount": 485000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "货物/设备/信息化设备/网络设备/交换设备",
+      "item_name": "交换机1（汇聚层）",
+      "brand": "H3C",
+      "model": "S6520X-30QC-EI",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 15600.0,
+      "total_price": 15600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "货物/设备/信息化设备/网络设备/交换设备",
+      "item_name": "新大楼网络项目设备（除交换机1（汇聚层）外，详见第二章采购清单）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 469400.0,
+      "total_price": 469400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 92.24,
+      "rank": 1,
+      "amount": 485000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东灏韵科技有限公司",
+      "role": "participant",
+      "total_score": 41.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "湛江市明德丰科技有限公司",
+      "role": "participant",
+      "total_score": 40.0,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

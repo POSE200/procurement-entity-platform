@@ -1,0 +1,543 @@
+{
+  "announcement_id": "t20260602_26672990",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "14张中标表（表格1-14）本身未标包号，包号按三处交叉对应推定：标的表品目号前缀（1-/2-/3-/5-...）、代理服务费表合同包号及包名称、附件中小企业声明函文件名（合同包N+供应商名，8个包可由附件直接确认）；原文无包4、10、13；品目概要列为空，category统一取标的表品目名称列'其他服务'；包1/2/3为多标的包，各item金额列空、无法按标的拆分成交金额，total_price=null，其余单标的包total_price取该包成交金额（note声明）；评审表仅有最终报价/评审价格/推荐排名列，无综合得分列，total_score=null；14包成交金额之和3214100元与总成交金额一致。复核：包号交叉对应经代理服务费表、品目号前缀及11个附件文件名三重验证无误；各包成交金额与代理服务费金额比例自洽；全部字段核对无误。",
+  "project": {
+    "buyer": "广东财经大学",
+    "project_name": "2026年数字科研文献资源建设",
+    "total_amount": 3214100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "Springer-Link 电子期刊等",
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "EBSCO ASC＋BSC等",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "中国学术期刊（网络版）（含：研学平台平台版100个账号、中国学术辑刊全文数据库ABFGHIJ专辑等",
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "北京畅想之星电子书阅读数据库",
+        "winner": "北京畅想之星信息技术有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "中文在线--书香校园互联网AI数字图书馆",
+        "winner": "湖北中文在线数字出版有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "CCER经济金融数据库",
+        "winner": "成都色诺芬信息技术有限责任公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "EPS数据平台V2.0",
+        "winner": "北京搜知数据科技有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": "国研网数据库",
+        "winner": "北京国研网信息股份有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": "威科先行信息库（人力资源、财税、法律",
+        "winner": "北京威科亚太信息技术有限公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": "北大法宝法律数据库",
+        "winner": "北京北大英华科技有限公司"
+      },
+      {
+        "package_no": "14",
+        "package_name": "新学术外文高影响力期刊整合服务平台",
+        "winner": "北京盈科千信科技有限公司"
+      },
+      {
+        "package_no": "15",
+        "package_name": "毛竹学术查收查引服务平台",
+        "winner": "广州宸信科技有限公司"
+      },
+      {
+        "package_no": "16",
+        "package_name": "新一代图书馆服务平台",
+        "winner": "江苏汇文软件有限公司"
+      },
+      {
+        "package_no": "17",
+        "package_name": "中科VIPExam考试学习资源数据库",
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "Springer-Link 电子期刊",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他服务",
+      "item_name": "JSTOR西文过刊全文库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他服务",
+      "item_name": "Elsevier ScienceDirect（经济管理、数学、社会科学专辑）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他服务",
+      "item_name": "Emerald期刊数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他服务",
+      "item_name": "Westlaw International",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他服务",
+      "item_name": "EBSCO EDS发现系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他服务",
+      "item_name": "EBSCO ASC＋BSC",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "其他服务",
+      "item_name": "HeinOnline数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "其他服务",
+      "item_name": "ProQuest ABI/INFORM 经济管理期刊全文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "其他服务",
+      "item_name": "BVD-全球银行与金融机构分析库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "其他服务",
+      "item_name": "BVD-全球上市公司分析库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他服务",
+      "item_name": "中国学术期刊（网络版）（含：研学平台平台版100个账号、中国学术辑刊全文数据库ABFGHIJ专辑）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "其他服务",
+      "item_name": "中国博硕士学位论文全文数据库(AFGHIJ专辑)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "其他服务",
+      "item_name": "中国经济社会大数据研究平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-4",
+      "category": "其他服务",
+      "item_name": "会议论文全文数据库(ABCDEFGHIJ专辑)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-5",
+      "category": "其他服务",
+      "item_name": "中国工具书网络出版总库包库(AFGHIJ专辑)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-6",
+      "category": "其他服务",
+      "item_name": "中国重要报纸全文数据库(ABCDEFGHIJ专辑)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他服务",
+      "item_name": "北京畅想之星电子书阅读数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "其他服务",
+      "item_name": "中文在线--书香校园互联网AI数字图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "其他服务",
+      "item_name": "CCER经济金融数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "其他服务",
+      "item_name": "EPS数据平台V2.0",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 95000.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "其他服务",
+      "item_name": "国研网数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1",
+      "category": "其他服务",
+      "item_name": "威科先行信息库（人力资源、财税、法律）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 74970.0
+    },
+    {
+      "package_no": "12",
+      "item_no": "12-1",
+      "category": "其他服务",
+      "item_name": "北大法宝法律数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "14",
+      "item_no": "14-1",
+      "category": "其他服务",
+      "item_name": "新学术外文高影响力期刊整合服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 49800.0
+    },
+    {
+      "package_no": "15",
+      "item_no": "15-1",
+      "category": "其他服务",
+      "item_name": "毛竹学术查收查引服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "16",
+      "item_no": "16-1",
+      "category": "其他服务",
+      "item_name": "新一代图书馆服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "17",
+      "item_no": "17-1",
+      "category": "其他服务",
+      "item_name": "中科VIPExam考试学习资源数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 60000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1208466.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 669074.0
+    },
+    {
+      "package_no": "3",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 632790.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京畅想之星信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "6",
+      "name": "湖北中文在线数字出版有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "7",
+      "name": "成都色诺芬信息技术有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 64000.0
+    },
+    {
+      "package_no": "8",
+      "name": "北京搜知数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 95000.0
+    },
+    {
+      "package_no": "9",
+      "name": "北京国研网信息股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 55000.0
+    },
+    {
+      "package_no": "11",
+      "name": "北京威科亚太信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 74970.0
+    },
+    {
+      "package_no": "12",
+      "name": "北京北大英华科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 30000.0
+    },
+    {
+      "package_no": "14",
+      "name": "北京盈科千信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 49800.0
+    },
+    {
+      "package_no": "15",
+      "name": "广州宸信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 35000.0
+    },
+    {
+      "package_no": "16",
+      "name": "江苏汇文软件有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "17",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 60000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

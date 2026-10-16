@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260812_27123555",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "品目取 HTML 标的信息表品目名称列『其他体育服务』（概要品目列空）。采购包号取标题『采购包1』。单价/数量来自附件『投标（响应）报价明细表.pdf』：单价298,000.0000元/数量1.000项/合计298000.00元，298000×1=298000，与总中标金额￥29.800000万元一致；HTML 标的信息表金额列为空。bidders 6 家：4 家过审查（含中标人），山东盎然文化发展有限公司、国投检测数智科技（山东）有限公司符合性审查未通过（得分/金额 null）；得分排名列空，rank 全 null。附件异常：响应文件内『包(1)_开标（报价）一览表.pdf』『包(1)_投标（响应）报价明细表.pdf』解析仅表头无数据，『报价明细表.docx』为空白模板，价格依赖公示附件报价明细表；复核修正：报价明细表 OCR 列窄断行一节已解决——单价'298,0 00.00 00元'=298000.0000元、数量/单位交错'1.000 项 0'复原为数量1.0000/单位项，与合计298000.00元（大写贰拾玖万捌仟元整）互证，无需视觉核验；中小企业声明函 OCR『365.Z万元』等不影响数值字段。",
+  "project": {
+    "buyer": "山东省体育局",
+    "project_name": "山东省体育局官网运维服务项目（网站、微信公众号运维）",
+    "total_amount": 298000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东体育晨报社"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他体育服务",
+      "item_name": "山东省体育局官网运维服务项目（网站、微信公众号运维）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 298000.0,
+      "total_price": 298000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东体育晨报社",
+      "role": "winner",
+      "total_score": 88.73,
+      "rank": null,
+      "amount": 298000.0
+    },
+    {
+      "package_no": "1",
+      "name": "智惠洲大数据科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 85.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南子睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南华辉映象文化传媒有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东盎然文化发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "国投检测数智科技（山东）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

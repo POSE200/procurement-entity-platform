@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260703_26871878",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "采购包1（公告标题明示'采购包1'，附件载明采购包名称'晶圆表面处理设备'、分包数量1个）；HTML标的信息表无单价/总价列，两条明细的单价与总价取自附件'投标（响应）报价明细表.pdf'：6,837,000.00元+3,523,800.00元=10,360,800元恰等于中标金额1036.08万元，且与附件各自'合计：6837000元/3523800元'及大写金额互证；报价明细表为OCR乱序文本（数字被拆列），需视觉核验：单价6,837,000.00与3,523,800.00的数字拼合（已按合计行与大写校准）；评审表综合得分92.49/84.94/81.86但'得分排名'列为空，rank一律null（不推定中标即第1）；未中标两家无报价线索，amount=null。复核修正：报价明细表各条'合计：6837000元(大写：陆佰捌拾叁万柒仟元整)'与'合计：3523800元(大写：叁佰伍拾贰万叁仟捌佰元整)'唯一确定单价，数字拼合无歧义，无需视觉核验；其余字段均核对一致。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）晶圆表面处理设备采购项目",
+    "total_amount": 10360800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "晶圆表面处理设备",
+        "winner": "青岛科瑞检测技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "晶圆清洗机",
+      "brand": "全芯微",
+      "model": "ACL8",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 6837000.0,
+      "total_price": 6837000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "KOH腐蚀系统",
+      "brand": "全芯微",
+      "model": "ACL8H",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3523800.0,
+      "total_price": 3523800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛科瑞检测技术有限公司",
+      "role": "winner",
+      "total_score": 92.49,
+      "rank": null,
+      "amount": 10360800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东泉润齐信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "创意银航（山东）技术有限公司",
+      "role": "participant",
+      "total_score": 81.86,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

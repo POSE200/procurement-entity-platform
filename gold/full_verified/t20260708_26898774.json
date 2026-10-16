@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260708_26898774",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-地纬智能科技股份有限公司).pdf",
+  "note": "单包（采购包1）。品目列（公告概要）为空，category取标的信息表「品目名称」列「软件集成实施服务」。单一服务标的包，total_price取中标金额490,000元（=总中标金额￥49万元），无数量/单价线索，quantity/unit/unit_price=null（附件「投标（响应）报价明细表.pdf」为空模板仅表头，需视觉核验）。评审结果表「得分排名」列为空，所有rank=null（禁止中标即第1）。participant投标报价原文未披露，amount=null。复核修正（0924）：草稿误认为报价明细表为空模板；标注包内另有「报价明细表(第1轮-地纬智能科技股份有限公司).pdf」非空，明示单价490000元/数量1.0000/计量单位套/响应报价490000元/合计490000元，据此补齐quantity=1、unit=套、unit_price=490000，gold_source改为html+attachment:报价明细表(第1轮-地纬智能科技股份有限公司).pdf；rank=null维持（得分排名列确为空）。",
+  "project": {
+    "buyer": "山东第一医科大学附属内分泌与代谢病医院",
+    "project_name": "山东第一医科大学附属内分泌与代谢病医院医保诊间结算系统采购项目",
+    "total_amount": 490000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "地纬智能科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件集成实施服务",
+      "item_name": "医保一卡通，医保诊间结算，医保住院结算，mis服务及相关配套设施",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 490000.0,
+      "total_price": 490000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "地纬智能科技股份有限公司",
+      "role": "winner",
+      "total_score": 97.0,
+      "rank": null,
+      "amount": 490000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东钦点达讯智能科技有限公司",
+      "role": "participant",
+      "total_score": 88.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东品象软件技术有限公司",
+      "role": "participant",
+      "total_score": 88.7,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

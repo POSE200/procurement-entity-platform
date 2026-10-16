@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260403_26358104",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（清远市数字投资运营有限公司）.pdf",
+  "note": "单合同包，联合体中标（清远市数字投资运营有限公司，联合体成员：广电运通集团股份有限公司），winner 原样保留联合体写法。品目概要列为空，category 取 HTML 主要标的信息表品目名称列「行业应用软件开发服务」。3条明细来自报价明细附件（单价×数量=总价均成立，3条合计3,550,000元=总中标金额￥355万，数学一致）。附件明细顺序与HTML标的信息表顺序略有不同（附件：一网通办→12345→系统业务运营；HTML：一网通办→系统业务运营→12345），items 按附件顺序。品牌/规格型号原文未给，null。",
+  "project": {
+    "buyer": "清远市政务服务和数据管理局",
+    "project_name": "清远市政务服务数智化创新项目",
+    "total_amount": 3550000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "清远市政务服务数智化创新项目",
+        "winner": "清远市数字投资运营有限公司(联合体成员：广电运通集团股份有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "行业应用软件开发服务",
+      "item_name": "政务服务一网通办数智化",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 971000.0,
+      "total_price": 971000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "行业应用软件开发服务",
+      "item_name": "政务服务12345数智化",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2422600.0,
+      "total_price": 2422600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "行业应用软件开发服务",
+      "item_name": "系统业务运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 156400.0,
+      "total_price": 156400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "清远市数字投资运营有限公司(联合体成员：广电运通集团股份有限公司)",
+      "role": "winner",
+      "total_score": 96.36,
+      "rank": 1,
+      "amount": 3550000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 83.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州聚骄智能科技有限公司",
+      "role": "participant",
+      "total_score": 61.71,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数联科技有限公司",
+      "role": "participant",
+      "total_score": 55.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

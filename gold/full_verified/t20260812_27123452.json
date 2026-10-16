@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260812_27123452",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且主要标的信息表无品目名称列，category=null；服务类标的仅有中标金额351500元，quantity/unit_price无线索留null；全篇无采购包号，package_no=null；无附件包。复核修正：item_name原'城区主要道路街景数据获取及数据处理服务'有误，原文为'名称：城区主要道路街景数据获取及数据处理'（后接'服务范围：'），已照抄改回。",
+  "project": {
+    "buyer": "寿光市自然资源和规划局",
+    "project_name": "山东省潍坊市寿光市自然资源和规划局2026年基础测绘项目-城区主要道路街景数据获取及数据处理采购项目",
+    "total_amount": 351500.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "济南市勘察测绘研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "城区主要道路街景数据获取及数据处理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 351500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "济南市勘察测绘研究院",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 351500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

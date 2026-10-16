@@ -1,0 +1,158 @@
+{
+  "announcement_id": "t20260601_26661712",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州秉优信息科技有限公司）.pdf",
+  "note": "单包8条货物明细（附件报价明细与HTML主要标的信息表数值完全一致），8条总价之和1,765,600元与总中标金额￥176.56万元一致；品目名称取自HTML品目名称列（教学仪器）；全部item品目号均为1-1，附件另有明细序号1-8；序号6机房教学管理软件的规格型号原文含连续顿号『噢易OSS系统V8、、噢易多媒体网络教室软件V9.0』，照抄。",
+  "project": {
+    "buyer": "广州职业技术大学",
+    "project_name": "广州职业技术大学智能产线数字孪生实验室升级改造项目",
+    "total_amount": 1765600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州职业技术大学智能产线数字孪生实验室升级改造项目",
+        "winner": "广州秉优信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "智能微型产线",
+      "brand": "秉优",
+      "model": "BYTrain-ISL",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 44500.0,
+      "total_price": 712000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "实训椅",
+      "brand": "秉优",
+      "model": "定制",
+      "quantity": 50,
+      "unit": "张",
+      "unit_price": 80.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "机房教学管理软件",
+      "brand": "噢易云",
+      "model": "噢易OSS系统V8、、噢易多媒体网络教室软件V9.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "定制化实训台",
+      "brand": "秉优",
+      "model": "定制",
+      "quantity": 16,
+      "unit": "套",
+      "unit_price": 3600.0,
+      "total_price": 57600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "数字孪生图形工作站",
+      "brand": "秉优",
+      "model": "BYTrain-DTGW",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 12000.0,
+      "total_price": 192000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "智能管控MES系统",
+      "brand": "秉优",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "数字孪生虚拟产线",
+      "brand": "秉优",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 142000.0,
+      "total_price": 142000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "数字孪生平台",
+      "brand": "秉优",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 348000.0,
+      "total_price": 348000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州秉优信息科技有限公司",
+      "role": "winner",
+      "total_score": 96.22,
+      "rank": 1,
+      "amount": 1765600.0
+    },
+    {
+      "package_no": "1",
+      "name": "君可欣（广东）科技有限公司",
+      "role": "participant",
+      "total_score": 70.97,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州庚云信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.38,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州森可博科技有限公司",
+      "role": "participant",
+      "total_score": 67.06,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

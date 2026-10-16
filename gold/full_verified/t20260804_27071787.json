@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260804_27071787",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件，仅结果公告：包A中标金额2457260元与总中标金额245.726万元一致。主要标的信息表各栏均为'详见文件'，标的明细（数量/单价/品牌/型号）不可得，quantity/unit_price=null（仅有总金额，禁止互推），item.total_price=包A中标金额2457260元。品目列空，category=null。仅一家供应商可见，无未中标名单。",
+  "project": {
+    "buyer": "临沂职业学院",
+    "project_name": "AI+跨境电商垂类模型建设项目",
+    "total_amount": 2457260.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "AI+跨境电商垂类模型建设项目",
+        "winner": "中科盘宇(北京)科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "AI+跨境电商垂类模型建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2457260.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中科盘宇(北京)科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2457260.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

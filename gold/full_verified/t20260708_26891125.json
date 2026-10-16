@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260708_26891125",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf",
+  "note": "竞争性磋商双包成交公告：包1成交情况表明示包号'豫政采(2)20260900-1'、成交供应商杭州今奥信息科技股份有限公司、795,000.00元、评审总得分92.34分（rank原文未给，按G3填null）。成交情况表的包2行在HTML提取中缺失，包2成交供应商仅能由成交公告所附《中小企业声明函》推断：声明企业（企业名称栏OCR为'青岛星瑞升信息科技有限公司'，同函制造商栏为'青岛星科瑞升信息科技有限公司'，两种字形并存疑为OCR错字）所购置标的即包2'智能提取软件'（品牌星科瑞升）、金额1,099,000元与表格2一致，故winner填'青岛星科瑞升信息科技有限公司'——此为推断值，需视觉核验。概要品目列空且标的明细表无品目名称列，category=null。数量=1原文未给计量单位，unit=null。数学自查：795000+1099000=1894000与总成交金额￥189.4万元一致。需视觉核验疑点：①包2成交供应商名称的正确字形；②成交情况表包2行的完整内容（供应商全称/地址）；③声明函'营业收入为5501167608万元'数值异常疑OCR丢小数点（非gold字段）。独立复核（0924）：包1成交行、两包标的明细、金额勾稽关系逐项核对无误；仅'星瑞升/星科瑞升'字形疑点文本内无法裁决（三处出现中两处为'星科瑞升'），保持draft待视觉核验。；0924视觉核验：300DPI渲染中小企业声明函，企业名称栏被红章遮挡，经红色通道滤除+亮度阈值提取后逐字辨认为「青岛星科瑞升信息科技有限公司」（星与瑞升之间第4字为科，禾+斗清晰可辨），与制造商栏「青岛星科瑞升信息科技有限公司」及HTML标的表品牌「星科瑞升」一致，草稿三处字段（winner/bidder/brand）原值正确，未改值。",
+  "project": {
+    "buyer": "河南省国土空间调查规划院",
+    "project_name": "河南省国土空间调查规划院事业发展和支撑保障项目采购国土调查执法智能提取软件项目",
+    "total_amount": 1894000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "购置国土调查云执法线索软件",
+        "winner": "杭州今奥信息科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "购置智能提取软件",
+        "winner": "青岛星科瑞升信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "国土调查云执法线索软件",
+      "brand": "今奥",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 795000.0,
+      "total_price": 795000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "智能提取软件",
+      "brand": "星科瑞升",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1099000.0,
+      "total_price": 1099000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "杭州今奥信息科技股份有限公司",
+      "role": "winner",
+      "total_score": 92.34,
+      "rank": null,
+      "amount": 795000.0
+    },
+    {
+      "package_no": "2",
+      "name": "青岛星科瑞升信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1099000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260905_27275041",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一标包A（表格1明示'标包：A'）；中标（成交）金额1450000元=总中标金额145万；主要标的信息仅一条服务标的、无金额与数量列，items数值字段留空；品目列空、标的信息表无品目列，category=null。复核修正：project_name由'临沂市公安局兰山分局视图云资源服务项目'改为公告信息表'采购项目名称'原文'临沂市公安局兰山分局视图云资源服务'（表格1项目名称行多'项目'二字，异文记录于此）。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "临沂市公安局兰山分局",
+    "project_name": "临沂市公安局兰山分局视图云资源服务",
+    "total_amount": 1450000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司临沂分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "临沂市公安局兰山分局视图云资源服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国移动通信集团山东有限公司临沂分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1450000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

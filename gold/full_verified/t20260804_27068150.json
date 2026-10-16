@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27068150",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东瑞普科技股份有限公司）.pdf",
+  "note": "总成交金额栏为占位值「￥0.000000万元」→total_amount=null；中标（成交）金额以「折扣率：95.00%」表示，无元值；附件报价明细单价/总价均为3,660,000元（未体现折扣），按3,660,000×95%=3,477,000元推算成交额，与代理服务费3.4816万元反推（100万×1.5%+247.7万×0.8%=34,816元）完全吻合，但未经原文直接明示，故total_amount留null；中标人bidders.amount填其投标报价3,660,000元。复核修正：已完整读取HTML全部表格与两个附件，确认全文无成交金额元值明示，附件报价明细表明示折扣率95%与总价3,660,000.00并立，各字段取值无需视觉核验。",
+  "project": {
+    "buyer": "湛江市公安局",
+    "project_name": "湛江市公安局2026-2028年办公自动化设备运维服务外包项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "湛江市公安局2026-2028年办公自动化设备运维服务外包项目",
+        "winner": "广东瑞普科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "办公设备维修和保养服务",
+      "item_name": "办公自动化设备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3660000.0,
+      "total_price": 3660000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东瑞普科技股份有限公司",
+      "role": "winner",
+      "total_score": 97.42,
+      "rank": 1,
+      "amount": 3660000.0
+    },
+    {
+      "package_no": "1",
+      "name": "金税信息技术服务股份有限公司",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市金城保密技术有限公司",
+      "role": "participant",
+      "total_score": 27.09,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

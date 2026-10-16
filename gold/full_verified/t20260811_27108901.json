@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27108901",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,专家支付表.pdf",
+  "note": "金额分歧已定案：附件投标（响应）报价明细表投标报价592,000元（最高限价600,000元，大写伍拾玖万贰仟元整，文本层非OCR错字）系竞争性磋商前报价，成交金额以HTML三处一致值587,000元为准（总中标金额58.7万、表格1中标金额587,000.00元、专家支付表中标成交金额58.7万元），系磋商后降价成交；total_amount与item总价按587,000元取值；item单价587,000由成交金额÷数量1项唯一互推（数量1.000项为报价明细表明示）。品目取HTML标的信息表品目名称列（概要品目列空）。评分表综合得分有值但得分排名列全空，故所有rank=null（禁止中标即第1推定）。强制检查：报价明细附件解析文本已找到并核对。",
+  "project": {
+    "buyer": "山东省第二人民医院（山东省耳鼻喉医院、山东省耳鼻喉研究所）",
+    "project_name": "山东省第二人民医院云胶片平台运维服务项目",
+    "total_amount": 587000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "云胶片平台运维服务",
+        "winner": "山东科泰能信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "计算机设备维修和保养服务",
+      "item_name": "云胶片平台运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 587000.0,
+      "total_price": 587000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东科泰能信息科技有限公司",
+      "role": "winner",
+      "total_score": 93.66,
+      "rank": null,
+      "amount": 587000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫领网络科技有限公司",
+      "role": "participant",
+      "total_score": 82.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南四通展业办公设备有限公司",
+      "role": "participant",
+      "total_score": 73.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南启辉医疗器械有限公司",
+      "role": "participant",
+      "total_score": 72.6,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

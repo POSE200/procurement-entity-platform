@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260803_27062774",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包，全部字段仅来自HTML。总中标金额￥0.114800万元=1148元，与中标信息'设备中标金额2200.00元'不一致（另有'耗材中标单价合计47.90元/人份'），原文如此不改，winner amount按中标信息填2200.0，需视觉核验原始页面金额栏。品目概要列空、主要标的信息表无品目名称列→category=null。品牌/规格型号/数量/单价均写'详见附件'但本公告无附件→全null，items仅一条总称记录。评审仅列5位专家各自评分（如中标人86.99、84.99、84.99、84.99、85.99），无综合得分→total_score=null；未中标原因的序号1/2/3为原因列举顺序非排名（且与得分高低不符）→rank=null。包号A为公告明示（'标包：A'及标题'A：全自动组织特殊检测分析系统'）。；终审：查原始HTML确认总额栏确印\"￥0.114800万元\"、中标信息确印\"2200.00元\"，两值均系原文真实显示（疑平台单位换算错误），按照抄口径维持现状",
+  "project": {
+    "buyer": "临沂市人民医院",
+    "project_name": "临沂市人民医院病理相关设备一宗采购项目",
+    "total_amount": 1148.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "全自动组织特殊检测分析系统",
+        "winner": "山东永昌弘硕医学科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动组织特殊检测分析系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东永昌弘硕医学科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2200.0
+    },
+    {
+      "package_no": "A",
+      "name": "青岛朗迪信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "青岛元海医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "临沂聚力医疗器械有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

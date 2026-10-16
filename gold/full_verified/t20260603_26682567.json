@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260603_26682567",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "双包服务项目，A/B包各一个服务标的；概要品目列空且主要标的信息仅『服务类』分节标题（按规范不算品目），category=null。服务范围/要求均为『详见附件』但公告无附件包，quantity/unit/unit_price=null。A包563000+B包675790=1238790元与总中标金额一致。原文未给综合得分/排名，rank=null。复核：A/B包号、包名、中标金额均在表格1原文逐字核实，金额之和与中标合计金额一致，确认verified。",
+  "project": {
+    "buyer": "烟台市公安局",
+    "project_name": "数据中心和图像中心运行维护及网络安全技术服务项目",
+    "total_amount": 1238790.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "数据治理运行及多维布控系统维护服务",
+        "winner": "烟台全维智能科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "综合信息平台维保服务",
+        "winner": "山东云一信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据治理运行及多维布控系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 563000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "综合信息平台维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 675790.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "烟台全维智能科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 563000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东云一信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 675790.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

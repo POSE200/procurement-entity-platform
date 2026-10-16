@@ -1,0 +1,306 @@
+{
+  "announcement_id": "t20260408_26376694",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无可用附件（招标文件PDF被跳过）；品目列空、HTML表'类型=货物类'非品目故 category=null；明细表只给数量与单价(万元)无总价列，total_price 由单价×数量唯一互推（已在各条填出）；21条明细金额之和=528420元，与总中标金额52.842万元一致；'名称'列前缀数字为序号（首行为'2教学场地包'、次行'1机器人套装'），已拆到 item_no；数量列无计量单位故 unit=null。",
+  "project": {
+    "buyer": "天津外国语大学附属高新区华苑外国语学校",
+    "project_name": "天津外国语大学附属高新区华苑外国语学校人工智能教室配套设备采购项目",
+    "total_amount": 528420.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天予同创（天津）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "机器人套装",
+      "brand": "优必选",
+      "model": "ERXF101",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 12000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "教学场地包",
+      "brand": "优必选",
+      "model": "ERXF701",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 2800.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "开源机器人",
+      "brand": "优必选",
+      "model": "ERHA101",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 26400.0,
+      "total_price": 237600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "micro:bit套装",
+      "brand": "优必选",
+      "model": "KIT0153",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 1760.0,
+      "total_price": 15840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "传感器套装",
+      "brand": "优必选",
+      "model": "ERHA501",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 3200.0,
+      "total_price": 28800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "学习套装",
+      "brand": "优必选",
+      "model": "ERXE101",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 9600.0,
+      "total_price": 19200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "场地套装",
+      "brand": "优必选",
+      "model": "ERXL701+ ERMI105 +AC1902",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 4000.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "3D打印机",
+      "brand": "拓竹",
+      "model": "P2S",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 3600.0,
+      "total_price": 10800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "3D打印机自动供料系统",
+      "brand": "拓竹",
+      "model": "AMS2pro",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 2000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "3D打印耗材",
+      "brand": "拓竹",
+      "model": "PLA Basic",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2800.0,
+      "total_price": 2800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": null,
+      "item_name": "交互加工设计软件平台",
+      "brand": "xTool",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 6500.0,
+      "total_price": 6500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": null,
+      "item_name": "桌面级智能激光切割机",
+      "brand": "xTool",
+      "model": "P1030709",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 47600.0,
+      "total_price": 47600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": null,
+      "item_name": "专用智能安全多效净化器",
+      "brand": "xTool",
+      "model": "P0101000131",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 15040.0,
+      "total_price": 15040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": null,
+      "item_name": "可移动操作支架",
+      "brand": "xTool",
+      "model": "P0102000110",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2240.0,
+      "total_price": 2240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": null,
+      "item_name": "旋转附件",
+      "brand": "xTool",
+      "model": "P0103000133",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2320.0,
+      "total_price": 2320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": null,
+      "item_name": "送料配件",
+      "brand": "xTool",
+      "model": "P0101000117",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3440.0,
+      "total_price": 3440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": null,
+      "item_name": "传送轨",
+      "brand": "xTool",
+      "model": "P0102000083",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1200.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": null,
+      "item_name": "激光切割PBL项目设计包一",
+      "brand": "makeblock",
+      "model": "P1120003",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1600.0,
+      "total_price": 1600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "19",
+      "category": null,
+      "item_name": "激光切割PBL项目设计包二",
+      "brand": "makeblock",
+      "model": "P1120004",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1680.0,
+      "total_price": 1680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "20",
+      "category": null,
+      "item_name": "激光切割PBL项目设计包三",
+      "brand": "makeblock",
+      "model": "P1120005",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1760.0,
+      "total_price": 1760.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "21",
+      "category": null,
+      "item_name": "椴木板材料包",
+      "brand": "makeblock",
+      "model": "定制",
+      "quantity": 10,
+      "unit": null,
+      "unit_price": 640.0,
+      "total_price": 6400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天予同创（天津）科技有限公司",
+      "role": "winner",
+      "total_score": 86.93,
+      "rank": 1,
+      "amount": 528420.0
+    },
+    {
+      "package_no": "1",
+      "name": "中融晟（天津）科技有限公司",
+      "role": "participant",
+      "total_score": 75.4,
+      "rank": 2,
+      "amount": 449700.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津新技术产业园区赛闻系统集成有限公司",
+      "role": "participant",
+      "total_score": 73.9,
+      "rank": 3,
+      "amount": 529000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

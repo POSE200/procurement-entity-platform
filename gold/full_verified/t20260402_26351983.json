@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260402_26351983",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司汕头分公司）.pdf",
+  "note": "单包（合同包1）。品目取HTML标的信息表『品目名称』列=其他运行维护服务，两条标的共用。附件报价明细表两条明细的数学自查通过：179.9×56052=10,083,754.80；295×12096=3,568,320.00；两包金额合计13,652,074.80=总中标金额。附件单价列未给单位（数量列标注套），unit按数量列括注填『套』。未中标供应商无报价/金额信息，amount为null；得分排名列有明示（1/2/3/4），故rank照抄。",
+  "project": {
+    "buyer": "汕头市公安局",
+    "project_name": "汕头市公安局新一代移动警务终端及配套服务采购项目",
+    "total_amount": 13652074.8,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "汕头市公安局新一代移动警务终端及配套服务采购项目",
+        "winner": "中国移动通信集团广东有限公司汕头分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "新一代移动警务终端服务（一）",
+      "brand": null,
+      "model": null,
+      "quantity": 56052,
+      "unit": "套",
+      "unit_price": 179.9,
+      "total_price": 10083754.8
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "新一代移动警务终端服务（二）",
+      "brand": null,
+      "model": null,
+      "quantity": 12096,
+      "unit": "套",
+      "unit_price": 295.0,
+      "total_price": 3568320.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司汕头分公司",
+      "role": "winner",
+      "total_score": 91.87,
+      "rank": 1,
+      "amount": 13652074.8
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司汕头市分公司",
+      "role": "participant",
+      "total_score": 80.06,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 76.05,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数为信息科技有限公司",
+      "role": "participant",
+      "total_score": 32.36,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

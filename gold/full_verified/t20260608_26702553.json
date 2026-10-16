@@ -1,0 +1,164 @@
+{
+  "announcement_id": "t20260608_26702553",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东中天永道会计师事务所（普通合伙））.pdf,合同包2：报价明细附件（广东恒兆会计师事务所（普通合伙））.pdf,合同包3：报价明细附件（广东中天粤会计师事务所（特殊普通合伙））.pdf",
+  "note": "总成交金额栏为￥0.000000万占位值，total_amount=null（三个成交包报价明细合计300000+800000+900000=2000000元，仅供参考，非原文总额栏）。品目：概要列空，取标的信息表「品目名称」列=其他咨询服务。合同包2疑点：表格2中标金额为折扣率93.00%，但其报价明细附件折扣率（%）列为95，两处矛盾，需视觉核验；三个包的报价明细均为「单价×1=总价」且折扣率95，单价未按折扣折减，按原样照抄。附件报价明细表头含水印污染文字，单价数值（300,000/800,000/900,000）从污染行中辨认，需视觉核验。中标金额栏均为折扣率非金额，winner的amount取各自报价明细总价。需视觉核验清单：①合同包2折扣率93%vs95；②三包单价数字是否被水印数字污染。复核：②已解除——三包单价300,000/800,000/900,000在文本层清晰可辨且均等于各自总价；①为原文自身矛盾（93.00%与95均清晰印刷），不影响任何抽取值（amount取报价明细总价），保留矛盾记录。",
+  "project": {
+    "buyer": "东莞市商务局",
+    "project_name": "2026年家电以旧换新、数码和智能产品购新活动审核服务采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "家电以旧换新活动线下数据审核服务",
+        "winner": "广东中天永道会计师事务所（普通合伙）"
+      },
+      {
+        "package_no": "2",
+        "package_name": "数码和智能产品活动线下数据审核服务",
+        "winner": "广东恒兆会计师事务所（普通合伙）"
+      },
+      {
+        "package_no": "3",
+        "package_name": "家电以旧换新、数码和智能产品购新活动线上数据审核服务",
+        "winner": "广东中天粤会计师事务所（特殊普通合伙）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他咨询服务",
+      "item_name": "家电以旧换新活动线下数据审核服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他咨询服务",
+      "item_name": "数码和智能产品活动线下数据审核服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他咨询服务",
+      "item_name": "家电以旧换新、数码和智能产品购新活动线上数据审核服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东中天永道会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": 89.67,
+      "rank": 1,
+      "amount": 300000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东诚安信会计师事务所（特殊普通合伙）",
+      "role": "participant",
+      "total_score": 89.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞德辉会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 52.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东恒兆会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": 91.33,
+      "rank": 1,
+      "amount": 800000.0
+    },
+    {
+      "package_no": "2",
+      "name": "东莞市君诚会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 64.12,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "东莞市天诚会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 60.82,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "东莞德辉会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 52.79,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东中天粤会计师事务所（特殊普通合伙）",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": 1,
+      "amount": 900000.0
+    },
+    {
+      "package_no": "3",
+      "name": "广东诚安信会计师事务所（特殊普通合伙）",
+      "role": "participant",
+      "total_score": 79.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东中天永道会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 75.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "东莞德辉会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 50.0,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

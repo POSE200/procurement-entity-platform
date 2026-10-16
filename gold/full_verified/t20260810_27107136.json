@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27107136",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "附件「投标（响应）报价明细表.pdf」已在附件内容中找到并核对：单价178,800.0000元×数量1.000项=合计178800.00元，与中标金额、总中标金额￥17.880000万一致。概要品目列为空，category取主要标的信息表品目名称列「运行维护服务」。评分表得分排名列空白，所有bidders rank=null。需视觉核验疑点：劳务报酬支付表OCR显示中标成交金额「17.68万元」，与HTML的17.88万（178,800元）不一致，疑为OCR错字，本gold按HTML取178800元。",
+  "project": {
+    "buyer": "中国国际贸易促进委员会山东省委员会",
+    "project_name": "2026年度网络安全服务项目",
+    "total_amount": 178800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东元竞信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "运行维护服务",
+      "item_name": "2026年度网络安全服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 178800.0,
+      "total_price": 178800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东元竞信息科技有限公司",
+      "role": "winner",
+      "total_score": 91.1,
+      "rank": null,
+      "amount": 178800.0
+    },
+    {
+      "package_no": "1",
+      "name": "数字新时代（山东）数据科技服务有限公司",
+      "role": "participant",
+      "total_score": 73.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "思而听（山东）网络科技有限公司",
+      "role": "participant",
+      "total_score": 72.35,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

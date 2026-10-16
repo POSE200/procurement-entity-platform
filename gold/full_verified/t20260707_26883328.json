@@ -1,0 +1,255 @@
+{
+  "announcement_id": "t20260707_26883328",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包结果公告：第一包（信息化设备）中标人吉林省乌迪科技有限公司（报价1,520,000元、得分96.2），第二包（测评服务）中标人北方实验室（沈阳）股份有限公司（报价180,000元、得分91.5）；两包中标金额之和1,700,000=总中标金额170万，核验一致。表格1未明示供应商对应包号，但第一包16项单价×数量之和恰等于乌迪报价1,520,000（精确无差）、第二包服务标的对应北方实验室，归属判定成立。概要品目列空且标的信息表无品目名称列，category 全部为 null；数量列无计量单位，unit=null；明细表仅有数量与单价列，total_price 系按单价×数量唯一互推填出（口径允许）；第一包第7项移动存储设备品牌列为「/」，brand=null。附件为招标文件（仅含空白分项报价表模板），不提供真值字段。复核修正：包归属原标'推断需视觉核验'，复核经加总验证成立，去除视觉核验待办。",
+  "project": {
+    "buyer": "浙江大学医学院附属妇产科医院吉林医院",
+    "project_name": "普惠托育服务发展示范项目-信息化设备及测评服务",
+    "total_amount": 1700000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "普惠托育服务发展示范项目-信息化设备及测评服务（第一包）",
+        "winner": "吉林省乌迪科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "普惠托育服务发展示范项目-信息化设备及测评服务（第二包）",
+        "winner": "北方实验室（沈阳）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "超融合",
+      "brand": "威努特",
+      "model": "G3263、G3262",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 280000.0,
+      "total_price": 280000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "平板式计算机",
+      "brand": "联想",
+      "model": "TB335FC0006",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 1050.0,
+      "total_price": 6300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "光纤转换器",
+      "brand": "宇视",
+      "model": "FC-1GT1GP-20SC(R)-DT",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 180.0,
+      "total_price": 360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "防火墙",
+      "brand": "安博通",
+      "model": "S8330",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 48000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "容灾备份设备",
+      "brand": "科力锐",
+      "model": "一体机DRB 308S、数据备份与恢复系统【简称：DRS】V2.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 98500.0,
+      "total_price": 98500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "虚拟专用网（VPN ）设备",
+      "brand": "深信服",
+      "model": "AF-1000-L2200",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 68000.0,
+      "total_price": 136000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "移动存储设备",
+      "brand": null,
+      "model": "模块化设计双控混合式闪存统一存储等",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 135000.0,
+      "total_price": 810000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "其他存储设备（硬盘录像机）",
+      "brand": "天地伟业",
+      "model": "TC-R5Y8B32HRSJ 配置:I/B/N/V3.2",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 2900.0,
+      "total_price": 5800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "机柜",
+      "brand": "爱谱华顿",
+      "model": "APS-HC81242UG1-E/E",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 1480.0,
+      "total_price": 2960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "机房环境监控设备",
+      "brand": "安之源",
+      "model": "套装",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 26000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": null,
+      "item_name": "其他机房辅助设备（机房精密空调）",
+      "brand": "黎耀",
+      "model": "LY-CBS013FRH/BRH",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 35550.0,
+      "total_price": 35550.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": null,
+      "item_name": "信息化设备零部件（六类网线）",
+      "brand": "爱谱华顿",
+      "model": "AP-6UP-01",
+      "quantity": 100,
+      "unit": null,
+      "unit_price": 3.0,
+      "total_price": 300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": null,
+      "item_name": "信息化设备零部件（UPS主机及电池）",
+      "brand": "黎耀",
+      "model": "LY-UR1106",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 5850.0,
+      "total_price": 5850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": null,
+      "item_name": "其他信息化设备（智能考勤机（测温智能门禁一体机） ）",
+      "brand": "天地伟业",
+      "model": "TC-P5Y0B10HRSJZD 配置：SW/V1.2",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 2650.0,
+      "total_price": 5300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": null,
+      "item_name": "智能班牌",
+      "brand": "天地伟业",
+      "model": "TC-P5010",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 2180.0,
+      "total_price": 13080.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": null,
+      "item_name": "实施",
+      "brand": "乌迪",
+      "model": "定制",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "等保测评、数据安全测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "吉林省乌迪科技有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": 1520000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "winner",
+      "total_score": 91.5,
+      "rank": null,
+      "amount": 180000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

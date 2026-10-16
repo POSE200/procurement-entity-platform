@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260707_26890255",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表.pdf,开标一览表（报价表）.pdf",
+  "note": "单包公告，全文无明示包号（招标文件仅称'本项目共1个包'），package_no=null；品目列与HTML标的信息表均无品目列，category=null；中标人为淄博万腾商贸有限公司（其开标一览表报价与报价明细表合计均为757360元=总中标金额，HTML正文未直接写中标人名称，仅列两家未中标供应商）；全文无评分/得分排名信息，total_score与rank=null；2条明细合计757360元与总中标金额一致；附件'品牌型号'为合并列，已按HTML表格1拆分为品牌/型号。",
+  "project": {
+    "buyer": "淄博市临淄中学",
+    "project_name": "淄博市临淄中学教室触控一体机和智能黑板采购项目",
+    "total_amount": 757360.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "教室触控一体机和智能黑板",
+        "winner": "淄博万腾商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "智能黑板",
+      "brand": "蓝贝思特",
+      "model": "T86A",
+      "quantity": 40,
+      "unit": "台",
+      "unit_price": 8200.0,
+      "total_price": 328000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "86寸教学一体机",
+      "brand": "希沃",
+      "model": "FH86EA",
+      "quantity": 40,
+      "unit": "台",
+      "unit_price": 10734.0,
+      "total_price": 429360.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "淄博万腾商贸有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 757360.0
+    },
+    {
+      "package_no": null,
+      "name": "智慧互联科技（山东）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东蓝润教育科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

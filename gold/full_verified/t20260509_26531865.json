@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260509_26531865",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包。品目取公告概要列 A02102100-教学仪器（完整路径原样保留）。附件报价明细清单.xls被跳过（压缩/复合容器）不可读，成交明细.docx内容仅含包名标题，标的明细取自HTML成交结果表（表格5/6），表内明确给出数量=1与单价，非推定。两包成交金额之和1,339,200+1,364,800=2,704,000元=总中标金额￥270.400000万元一致。包2云捷辰未给排名（推荐排名列空），rank=null。bidders的amount取报价列（中标方取成交金额）。",
+  "project": {
+    "buyer": "湖南工学院",
+    "project_name": "人工智能与先进电子技术实验室建设项目",
+    "total_amount": 2704000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "湖南鼎凯贸易有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "湖南金斯睿智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02102100-教学仪器",
+      "item_name": "电力电子技术综合实验平台",
+      "brand": "研旭",
+      "model": "YXMBD-TE2000",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1339200.0,
+      "total_price": 1339200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "A02102100-教学仪器",
+      "item_name": "数字电路实验装置等",
+      "brand": "杭州仪迈等",
+      "model": "YTZSD-2等",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1364800.0,
+      "total_price": 1364800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖南鼎凯贸易有限公司",
+      "role": "winner",
+      "total_score": 95.24,
+      "rank": 1,
+      "amount": 1339200.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖南菲尔特科技有限责任公司",
+      "role": "participant",
+      "total_score": 83.55,
+      "rank": 2,
+      "amount": 1312000.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖南海盟信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.0,
+      "rank": 3,
+      "amount": 1348000.0
+    },
+    {
+      "package_no": "2",
+      "name": "湖南金斯睿智能科技有限公司",
+      "role": "winner",
+      "total_score": 98.98,
+      "rank": 1,
+      "amount": 1364800.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州市伯恒电子科技有限公司",
+      "role": "participant",
+      "total_score": 90.32,
+      "rank": 2,
+      "amount": 1345060.0
+    },
+    {
+      "package_no": "2",
+      "name": "长沙佳辉电子科技有限公司",
+      "role": "participant",
+      "total_score": 85.95,
+      "rank": 3,
+      "amount": 1352090.0
+    },
+    {
+      "package_no": "2",
+      "name": "湖南云捷辰科技有限公司",
+      "role": "participant",
+      "total_score": 84.78,
+      "rank": null,
+      "amount": 1367600.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

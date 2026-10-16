@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260806_27088778",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "服务类单标的：主要标的信息为文字描述（服务期限三年），无数量/单价列，quantity/unit_price null；品目全篇未出现，category null；package_no/package_name 无出处，null；公告仅列中标人，无未中标供应商名单与评分表，bidders 仅中标方一条；附件为业绩表与评审劳务报酬支付表（中标金额2596000.00元与HTML一致），不提供标的明细字段值。",
+  "project": {
+    "buyer": "济宁市急救指挥中心",
+    "project_name": "济宁市急救指挥中心5G+救护车智慧化急救升级改造服务项目",
+    "total_amount": 2596000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "济宁市急救指挥中心 5G+救护车智慧化急救升级改造服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2596000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2596000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

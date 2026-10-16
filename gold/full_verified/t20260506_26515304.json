@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260506_26515304",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个采购包：中标信息第1包天津中石化工物流79.33万；第2/3包的『第N包：』字样在HTML解析中丢失，按表格顺序推定为第2包镇江康飞汽车制造45.6万、第3包北京依默金应急装备29.23万——79.33+45.6+29.23=154.16万元与总中标金额￥154.16万完全一致，且各包排序表首名得分与对应中标信息表得分两两吻合（99.1428/97.1453/98.2508），需视觉核验包号对应。附件（中小企业声明函zip、招标文件docx）均unknown类型跳过不可见。品目列空且标的信息表无『品目名称』列，category=null；三条服务类标的与三包按顺序对应（推断），每包单条标的仅包级中标金额，quantity/unit/unit_price=null。排序表排序列明示排名1~3，照抄；participant的amount不取『评审报价』，填null。北京依默金应急装备有限公司同时参与第2包（未中）与第3包（中标），逐包各一条。 复核修正：排序表'评审报价（万元）'列原文明示各家投标报价，participant 的 amount 由 null 改为按原文填入（联华799034.0/瀚达797060.0/依默金469000.0/晶硕430000.0/东恒易盛273000.0/津徽297610.0元，万元换算）。",
+  "project": {
+    "buyer": "天津市疾病预防控制中心",
+    "project_name": "天津市疾病预防控制中心国家突发急性传染病防控队（天津）物资装备运维服务项目",
+    "total_amount": 1541600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津中石化工物流有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "镇江康飞汽车制造股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "北京依默金应急装备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "应急车辆与物资装备托管服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 793300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "应急专业车辆车上装备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 456000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "指挥通讯及后勤保障模块运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 292300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津中石化工物流有限公司",
+      "role": "winner",
+      "total_score": 99.1428,
+      "rank": 1,
+      "amount": 793300.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津市联华运输有限责任公司",
+      "role": "participant",
+      "total_score": 74.7137,
+      "rank": 2,
+      "amount": 799034.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津市瀚达物流服务有限公司",
+      "role": "participant",
+      "total_score": 66.4771,
+      "rank": 3,
+      "amount": 797060.0
+    },
+    {
+      "package_no": "2",
+      "name": "镇江康飞汽车制造股份有限公司",
+      "role": "winner",
+      "total_score": 97.1453,
+      "rank": 1,
+      "amount": 456000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京依默金应急装备有限公司",
+      "role": "participant",
+      "total_score": 87.9084,
+      "rank": 2,
+      "amount": 469000.0
+    },
+    {
+      "package_no": "2",
+      "name": "晶硕信息科技（苏州）有限公司",
+      "role": "participant",
+      "total_score": 82.5714,
+      "rank": 3,
+      "amount": 430000.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京依默金应急装备有限公司",
+      "role": "winner",
+      "total_score": 98.2508,
+      "rank": 1,
+      "amount": 292300.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津东恒易盛医疗器械科技有限公司",
+      "role": "participant",
+      "total_score": 90.0,
+      "rank": 2,
+      "amount": 273000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津津徽医疗科技有限公司",
+      "role": "participant",
+      "total_score": 87.7747,
+      "rank": 3,
+      "amount": 297610.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

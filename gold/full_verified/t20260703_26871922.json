@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260703_26871922",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "概要品目列为空，category取HTML标的信息表品目名称列（三件均为其他信息化设备）；单价/总价取自附件投标（响应）报价明细表（470000×1 + 74000×2 + 260000×1 = 878000），与HTML中标金额878,000.00元及总中标金额87.8万元一致；HTML标的信息表无价格列，价格全部来自附件；评分表有『得分排名』列但该列值为空，故各投标人rank一律填null（未明示）；专家费支付表.png为OCR件且中标金额栏残缺（显示818），不可靠，金额以HTML为准；招标文件PDF仅含前30页，无额外字段值。",
+  "project": {
+    "buyer": "山东工业职业学院",
+    "project_name": "山东工业职业学院虚拟化服务器资源建设（2026）项目",
+    "total_amount": 878000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南倍成信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "虚拟化节点服务器",
+      "brand": "中科可控",
+      "model": "Suma R6250H0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 470000.0,
+      "total_price": 470000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "备份服务器",
+      "brand": "华启（IDEASEA）",
+      "model": "DH-RS2297",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 74000.0,
+      "total_price": 148000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息化设备",
+      "item_name": "备份系统",
+      "brand": "爱数",
+      "model": "AnyBackup Enterprise V7.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 260000.0,
+      "total_price": 260000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南倍成信息技术有限公司",
+      "role": "winner",
+      "total_score": 99.04,
+      "rank": null,
+      "amount": 878000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南希望计算机技术开发有限公司",
+      "role": "participant",
+      "total_score": 88.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫云迈科技有限公司",
+      "role": "participant",
+      "total_score": 88.48,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "维安（山东）数字技术有限公司",
+      "role": "participant",
+      "total_score": 85.07,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260810_27102489",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州洛图终端技术有限公司）.pdf,合同包2：报价明细附件（深圳市穗彩科技开发有限公司）.pdf",
+  "note": "概要品目列空，category取自HTML主要标的信息表品目名称列（其他维修和保养服务）；报价明细附件.zip虽被声明为跳过压缩容器，但其内部文件已在附件内容中解包可见（两包报价明细各1条，单价=总价、数量1(项)），已按强制检查核对，价格字段未留空；两包金额5,423,561+4,422,022=9,845,583元=总中标金额，一致；未中标供应商投标报价原文未给→amount=null",
+  "project": {
+    "buyer": "广东省体育彩票中心",
+    "project_name": "2026年传统终端机维保服务采购项目",
+    "total_amount": 9845583.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "3298台传统终端机维保服务",
+        "winner": "广州洛图终端技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2698台传统终端机维保服务",
+        "winner": "深圳市穗彩科技开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "3298台传统终端机维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5423561.0,
+      "total_price": 5423561.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他维修和保养服务",
+      "item_name": "2698台传统终端机维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4422022.0,
+      "total_price": 4422022.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州洛图终端技术有限公司",
+      "role": "winner",
+      "total_score": 88.6,
+      "rank": 1,
+      "amount": 5423561.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京英特达系统技术有限公司",
+      "role": "participant",
+      "total_score": 69.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京亚博高腾智能设备制造有限公司",
+      "role": "participant",
+      "total_score": 61.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市穗彩科技开发有限公司",
+      "role": "winner",
+      "total_score": 88.0,
+      "rank": 1,
+      "amount": 4422022.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京英特达系统技术有限公司",
+      "role": "participant",
+      "total_score": 69.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京亚博高腾智能设备制造有限公司",
+      "role": "participant",
+      "total_score": 61.4,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088728",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列空，标的信息表无品目列，category null；标的信息表内容为占位模板文本（名称=例1、服务范围=范围1、服务要求=要求1），照抄原文；服务类单总价，quantity/unit_price 留 null（服务时间'1年'非数量）；package_no 无出处（无序号/包号），null，package_name 取分包名称'无分包 其他运行维护服务'中的'其他运行维护服务'；HTML 中标人单元格文字异常（填成了项目名称），复核确认：标的信息表企业名称列、评分表排序1、投标报价表三处一致指向联通（山东）产业互联网有限公司，winner 判定依据充分，无需视觉核验；rank 取自评分表'排序'列；附件为劳务报酬支付表与声明图片，不提供字段值。",
+  "project": {
+    "buyer": "成武县化工产业园管理服务中心",
+    "project_name": "成武县化工产业园智慧监管服务平台运维服务项目",
+    "total_amount": 1599999.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "其他运行维护服务",
+        "winner": "联通（山东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "例1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1599999.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 87.95,
+      "rank": 1,
+      "amount": 1599999.0
+    },
+    {
+      "package_no": null,
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 86.67,
+      "rank": 2,
+      "amount": 1485120.0
+    },
+    {
+      "package_no": null,
+      "name": "山东省邮电规划设计院有限公司",
+      "role": "participant",
+      "total_score": 62.19,
+      "rank": 3,
+      "amount": 1975000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东鑫华海信息科技有限公司",
+      "role": "participant",
+      "total_score": 58.04,
+      "rank": 4,
+      "amount": 1970000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

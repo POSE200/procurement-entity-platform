@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260807_27093117",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州广宽科技有限公司）.pdf,合同包2：报价明细附件（广州广宽科技有限公司）.pdf",
+  "note": "两个采购包均由广州广宽科技有限公司中标；HTML总中标金额栏为占位值『￥0.000000万元』，total_amount按口径置null（两包报价之和18,481,856+323,900=18,805,756元，仅供参考未写入total_amount）；中标（成交）金额栏原文为『下浮率：1.00%』『下浮率：4.00%』而非金额，包金额取附件报价明细附件总价；包名称取HTML代理服务费表『采购包1』『采购包2』；概要品目列为空，品目取HTML标的表『品目名称』列=基础设施运营服务；附件文本有水印字符污染（『Z C 台 平』『7 0 6- 2 0』等），需视觉核验18,481,856与323,900两处数值；bidders按供应商×包组合各一条（4供应商×2包=8条）；排名取自各包评分表『得分排名』列。复核：两份报价明细附件OCR文本中 18,481,856×1项（下浮率1%）与 323,900×1项（下浮率4%）均清晰可辨，无需视觉核验。",
+  "project": {
+    "buyer": "广州市公安局",
+    "project_name": "广州市公安局交管支队2026年信息化运维项目-交通管理系统通信光纤租赁及维护项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1",
+        "winner": "广州广宽科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购包2",
+        "winner": "广州广宽科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "交通管理系统通信光纤租赁及维护采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 18481856.0,
+      "total_price": 18481856.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "基础设施运营服务",
+      "item_name": "交通管理系统通信光纤租赁及维护采购包2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 323900.0,
+      "total_price": 323900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州广宽科技有限公司",
+      "role": "winner",
+      "total_score": 94.77,
+      "rank": 1,
+      "amount": 18481856.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 81.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东盈通网络投资有限公司",
+      "role": "participant",
+      "total_score": 75.37,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市电通网络有限公司",
+      "role": "participant",
+      "total_score": 58.24,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州广宽科技有限公司",
+      "role": "winner",
+      "total_score": 91.27,
+      "rank": 1,
+      "amount": 323900.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 86.72,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东盈通网络投资有限公司",
+      "role": "participant",
+      "total_score": 83.37,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市电通网络有限公司",
+      "role": "participant",
+      "total_score": 66.03,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

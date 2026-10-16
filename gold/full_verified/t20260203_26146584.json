@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260203_26146584",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空→category=null；唯一附件招标文件（TGPC-2026-D-0028）.docx 被跳过（未知类型）未解析，「详见附件」的服务细则不可得；单条服务标的仅总金额，quantity/unit_price 按规范留空；participant 的 amount 取评审报价（万元换算为元，成都天用唯勤719.9万=7199000元、贵州开拓未来765万=7650000元）。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "天津市住房公积金管理中心机关",
+    "project_name": "天津市住房公积金管理中心大数据平台建设项目",
+    "total_amount": 7564000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天阳宏业科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "大数据平台建设服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 7564000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天阳宏业科技股份有限公司",
+      "role": "winner",
+      "total_score": 99.5175,
+      "rank": 1,
+      "amount": 7564000.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都天用唯勤科技股份有限公司",
+      "role": "participant",
+      "total_score": 86.0,
+      "rank": 2,
+      "amount": 7199000.0
+    },
+    {
+      "package_no": "1",
+      "name": "贵州开拓未来计算机技术有限公司",
+      "role": "participant",
+      "total_score": 74.6105,
+      "rank": 3,
+      "amount": 7650000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

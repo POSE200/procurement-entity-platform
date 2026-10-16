@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260508_26530421",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两分标服务项目。表格1给出两个成交人及各自成交总价（智瑞175,000元/分标1、小橙39,000元/分标2），序号与分标的对应按表格1序号顺序及评审专家名单「第1、2分标」推断（已在note声明）；175,000+39,000=214,000元=总成交金额￥21.400000万元一致。概要品目列空，表格3服务标的表无品目/品牌/型号/数量/单价列，故category/brand/model均null；quantity/unit/unit_price=null（单条服务标的仅有成交总价，按规范不填quantity=1、unit_price=总价）；item的total_price取所属分标成交金额。附件为中小企业声明函（其中1件为OCR扫描件）与磋商采购文件，均未提供分项报价明细。表格2（废标标项表）为空表。",
+  "project": {
+    "buyer": "广西壮族自治区药品检验研究院",
+    "project_name": "自治区药检院信息化项目开发与维护服务项目（重）",
+    "total_amount": 214000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "服务器、机房网络设备、机房动环系统、楼层交换机维保服务",
+        "winner": "广西智瑞计算机技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智慧党建系统维护",
+        "winner": "南宁小橙科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "自治区药检院信息化项目开发与维护服务项目（重）-服务器、机房网络设备、机房动环系统、楼层交换机维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 175000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "自治区药检院信息化项目开发与维护服务项目（重）-智慧党建系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 39000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广西智瑞计算机技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 175000.0
+    },
+    {
+      "package_no": "2",
+      "name": "南宁小橙科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 39000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

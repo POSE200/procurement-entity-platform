@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27117232",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东水利岩土工程公司).pdf",
+  "note": "单包（采购包1，分包数量1个）。强制检查：『报价明细表(第1轮-山东水利岩土工程公司).pdf』已找到并核对——最高限价528,000元、单价521,500元、数量1.0000(项)、响应报价521,500元，单价×数量=总价吻合，且=中标金额521,500.00元。磋商文件内的包(1)_开标（报价）一览表、包(1)_投标（响应）报价明细表、分项报价明细表均为空白模板（无供应商填写数据），分项明细不可得，items按第1轮报价明细表单条计。评分表得分排名/推荐排名列空→rank全null。OCR疑点（需视觉核验）：劳务报酬支付表成交金额OCR为『5万元』疑漏字（应为52.15万元，以HTML总中标金额52.15万为准）；买家HTML为『垦利区水利局本级』，劳务表为『东营市垦利区水利局』。复核修正：劳务表OCR疑点不影响gold取值（total_amount以HTML明示为准），无未决视觉核验项。",
+  "project": {
+    "buyer": "垦利区水利局本级",
+    "project_name": "垦利区2026年区域综合水价改革省级补助资金项目-信息化平台建设",
+    "total_amount": 521500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东水利岩土工程公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "垦利区2026年区域综合水价改革省级补助资金项目-信息化平台建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 521500.0,
+      "total_price": 521500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东水利岩土工程公司",
+      "role": "winner",
+      "total_score": 96.83,
+      "rank": null,
+      "amount": 521500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东瀚臻物联科技有限公司",
+      "role": "participant",
+      "total_score": 92.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南科合信息技术有限公司",
+      "role": "participant",
+      "total_score": 92.41,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东浩智信息科技有限公司",
+      "role": "participant",
+      "total_score": 91.33,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27071751",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无分包，原文未给包号，package_no=null。标的信息表为多项拼接单行（品牌/产地/规格列均为'子项：值'拼接串，按原样保留，需视觉核验拆分）。复核修正：品牌/规格拼接串系HTML主要标的信息表原单元格即为一行多子项拼接，照抄即原文，无拆分歧义，无需视觉核验；quantity=1/单价986000为表格明示。rank取评分表'排序'列（原文明示）。附件为评审劳务报酬支付表，与标的明细无关。97.6万总中标金额与中标金额986000元一致。",
+  "project": {
+    "buyer": "菏泽市牡丹人民医院",
+    "project_name": "菏泽市牡丹人民医院机房扩容改造项目",
+    "total_amount": 986000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "无分包 其他信息化设备",
+        "winner": "山东交投众达信息工程（集团）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "菏泽市牡丹人民医院机房扩容改造项目",
+      "brand": "虚拟化扩容：FusionServer虚拟化授权：华为内存：FusionServer虚拟化软件维保：华为机柜：图腾辅材：国标系统集成费：华为",
+      "model": "虚拟化扩容：2288H V6虚拟化授权：Fusion Compute内存：32G DDR4 2933MHZ虚拟化软件维保：现网虚拟化维保机柜：G36042辅材：国标系统集成费：定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 986000.0,
+      "total_price": 986000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东交投众达信息工程（集团）有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": 1,
+      "amount": 986000.0
+    },
+    {
+      "package_no": null,
+      "name": "菏泽图泰信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.06,
+      "rank": 2,
+      "amount": 997320.0
+    },
+    {
+      "package_no": null,
+      "name": "山东新思元智能科技有限公司",
+      "role": "participant",
+      "total_score": 72.55,
+      "rank": 3,
+      "amount": 994200.0
+    },
+    {
+      "package_no": null,
+      "name": "菏泽橄榄绿文化传媒科技有限责任公司",
+      "role": "participant",
+      "total_score": 70.99,
+      "rank": 4,
+      "amount": 999548.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

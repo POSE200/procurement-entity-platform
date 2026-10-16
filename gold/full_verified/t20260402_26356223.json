@@ -1,0 +1,222 @@
+{
+  "announcement_id": "t20260402_26356223",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国安全生产科学研究院）.pdf",
+  "note": "单包（合同包1）。附件报价明细14条（品目号1-1共8条、1-2共6条），逐条单价×数量自查通过，合计4,736,000元=总中标金额473.6万元。品目取HTML标的信息表『品目名称』列：1-1条目=行业应用软件开发服务，1-2条目=软件运营服务；HTML概要品目列空。HTML的品目号1-1/1-2各对应多条明细，item_no照抄品目号（附件另有序号1-8/1-6）。单价与数量均为附件明示值（数量均1项），非推算。3家供应商得分排名列有明示（1-3），rank照抄；未中标供应商原文未给报价，amount为null。",
+  "project": {
+    "buyer": "广东省应急管理厅",
+    "project_name": "省应急管理厅非煤矿山安全监管监测预警系统升级改造（2026年）项目",
+    "total_amount": 4736000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省应急管理厅非煤矿山安全监管监测预警系统升级改造（2026年）项目",
+        "winner": "中国安全生产科学研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "安全风险综合研判模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 107000.0,
+      "total_price": 107000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "综合业务支撑管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1230000.0,
+      "total_price": 1230000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "已建及在建系统对接",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 17000.0,
+      "total_price": 17000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "安全监管移动应用",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 47000.0,
+      "total_price": 47000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "非煤矿山尾矿库“天眼地眼”安全风险预警预测系统整合",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 314000.0,
+      "total_price": 314000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "安全监测预警智能分析模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 590000.0,
+      "total_price": 590000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "三维实景融合可视化模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "监控视频智能分析模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 146000.0,
+      "total_price": 146000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山地理信息数据采集服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山致灾因素量化模型运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 240000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山数据资源建设服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山场景构建与GIS融合服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山尾矿库“天眼地眼”数据迁移服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 155000.0,
+      "total_price": 155000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运营服务",
+      "item_name": "非煤矿山数据整理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国安全生产科学研究院",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": 1,
+      "amount": 4736000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州凡拓数字创意科技股份有限公司",
+      "role": "participant",
+      "total_score": 45.55,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东图讯信息技术有限公司",
+      "role": "participant",
+      "total_score": 44.27,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

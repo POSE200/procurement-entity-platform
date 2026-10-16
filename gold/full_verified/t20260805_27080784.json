@@ -1,0 +1,116 @@
+{
+  "announcement_id": "t20260805_27080784",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（标题明示C包），package_no=C。item来自『投标（响应）报价明细表.pdf』：单价5,011,820.20元、数量1.0000、计量单位项、响应报价5,011,820.20元、最高限价5,048,946.87元，与HTML金额列及总中标金额￥501.182万一致。附件『分项报价明细表.pdf』为空白模板、『包(1)_开标（报价）一览表.pdf』解析仅剩表头，不提供值。品目category取HTML『品目编号及品目名称』列『其他系统集成实施服务』。综合得分97.20/55.10/53.12有值但得分排名/推荐排名列原文空白，rank=null。未中标供应商报价原文未给。",
+  "project": {
+    "buyer": "汶上县公安局",
+    "project_name": "汶上县公安局天网运维工程项目C包",
+    "total_amount": 5011820.2,
+    "packages": [
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "山东新众通信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "C",
+      "item_no": "1-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "汶上县公安局天网运维工程项目C包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5011820.2,
+      "total_price": 5011820.2
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "C",
+      "name": "山东新众通信息科技有限公司",
+      "role": "winner",
+      "total_score": 97.2,
+      "rank": null,
+      "amount": 5011820.2
+    },
+    {
+      "package_no": "C",
+      "name": "济宁众心数码科技有限公司",
+      "role": "participant",
+      "total_score": 55.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东科电云联智能科技有限公司",
+      "role": "participant",
+      "total_score": 53.12,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "kind": "同一公告包号别名",
+            "groups": [
+              {
+                "canonical": "C",
+                "aliases": [
+                  "1"
+                ],
+                "evidence": [
+                  {
+                    "source": "原始公告HTML",
+                    "label": "结果表编号",
+                    "text": "、项目名称：汶上县公安局天网运维工程项目C包 三、采购结果 采购包1: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东新众通信息科技有限公司 山东省济宁市任城区中德广场B座1010室 5,011,820.20元 97.20 四、主要标的信息 采购包1(其他系统集成实施服务): 服务类（山东新众通信息科技有限公司） 品目号 品目编号及品目名称 采购标的 报价明细内容 服务范围 服务要求 服务时间 单位 服务标准 金额(元) 1-1 其他系统集成实施服务 汶上县公安局天网运维工程项目C包 汶上县"
+                  },
+                  {
+                    "source": "原始公告HTML",
+                    "label": "项目/采购标的中的包标识",
+                    "text": "汶上县公安局天网运维工程项目C包结果公告 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source_package_aliases": [
+    {
+      "canonical": "C",
+      "aliases": [
+        "1"
+      ],
+      "evidence": [
+        {
+          "source": "原始公告HTML",
+          "label": "结果表编号",
+          "text": "、项目名称：汶上县公安局天网运维工程项目C包 三、采购结果 采购包1: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东新众通信息科技有限公司 山东省济宁市任城区中德广场B座1010室 5,011,820.20元 97.20 四、主要标的信息 采购包1(其他系统集成实施服务): 服务类（山东新众通信息科技有限公司） 品目号 品目编号及品目名称 采购标的 报价明细内容 服务范围 服务要求 服务时间 单位 服务标准 金额(元) 1-1 其他系统集成实施服务 汶上县公安局天网运维工程项目C包 汶上县"
+        },
+        {
+          "source": "原始公告HTML",
+          "label": "项目/采购标的中的包标识",
+          "text": "汶上县公安局天网运维工程项目C包结果公告 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 "
+        }
+      ]
+    }
+  ]
+}

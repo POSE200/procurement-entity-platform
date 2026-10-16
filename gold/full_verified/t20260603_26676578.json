@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260603_26676578",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（珠海传媒集团有限责任公司）.pdf",
+  "note": "单价/数量/总价取自附件报价明细（单价×数量=总价=3,840,000，互推一致）；品目取HTML标的信息表品目名称列（概要品目列为空）；附件OCR有水印噪声但不影响数值；得分排名表明示rank，无歧义。复核：报价明细附件单价3,840,000/数量1(项)/总价3,840,000.00与HTML成交金额一致，全部字段核对无误。",
+  "project": {
+    "buyer": "中共珠海市金湾区委宣传部",
+    "project_name": "2026年度至2027年中新媒体平台宣传合作项目",
+    "total_amount": 3840000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年度至2027年中新媒体平台宣传合作项目",
+        "winner": "珠海传媒集团有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他公共信息与宣传服务",
+      "item_name": "2026年度至2027年中新媒体平台宣传合作项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3840000.0,
+      "total_price": 3840000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "珠海传媒集团有限责任公司",
+      "role": "winner",
+      "total_score": 95.94,
+      "rank": 1,
+      "amount": 3840000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东跨越互动传媒有限公司",
+      "role": "participant",
+      "total_score": 49.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海美无不克广告设计有限公司",
+      "role": "participant",
+      "total_score": 45.25,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

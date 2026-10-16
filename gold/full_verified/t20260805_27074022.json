@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260805_27074022",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列空，品目取HTML主要标的信息表品目名称列（全部为其他计算机）。items按附件报价明细6条（品目号1-1含5条明细、1-2含1条，附件序号与HTML行序不同，按附件序号排列）；各条单价×数量=总价，6条总价之和=2,295,920.00元，与总中标金额￥229.592000万元及表1中标金额一致。bidders的total_score/rank取自得分排名列，未中标两家无报价金额故amount=null。",
+  "project": {
+    "buyer": "东莞市第九高级中学",
+    "project_name": "东莞市第九高级中学云终端设备采购项目",
+    "total_amount": 2295920.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "东莞市第九高级中学云终端设备采购项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机",
+      "item_name": "一体化有源音箱",
+      "brand": "希沃",
+      "model": "SS30B",
+      "quantity": 4,
+      "unit": "对",
+      "unit_price": 1380.0,
+      "total_price": 5520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机",
+      "item_name": "无线麦克风",
+      "brand": "希沃",
+      "model": "MC33",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 500.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机",
+      "item_name": "安装人工及辅材",
+      "brand": "中国移动",
+      "model": "安装人工及辅材",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 600.0,
+      "total_price": 2400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机",
+      "item_name": "电子教室软件",
+      "brand": "OS-Easy",
+      "model": "噢易多媒体网络教室软件V9.0",
+      "quantity": 204,
+      "unit": "授权点",
+      "unit_price": 100.0,
+      "total_price": 20400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机",
+      "item_name": "实物展台",
+      "brand": "希沃",
+      "model": "SC06A",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 1200.0,
+      "total_price": 4800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他计算机",
+      "item_name": "云终端",
+      "brand": "希沃",
+      "model": "N2420-5G22X00",
+      "quantity": 471,
+      "unit": "台",
+      "unit_price": 4800.0,
+      "total_price": 2260800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 94.4,
+      "rank": 1,
+      "amount": 2295920.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东卓慧电子有限公司",
+      "role": "participant",
+      "total_score": 65.86,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "华卫软件技术（广东）有限公司",
+      "role": "participant",
+      "total_score": 56.82,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

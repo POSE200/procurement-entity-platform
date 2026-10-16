@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260803_27060220",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司佛山分公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（其他维修和保养服务）。HTML表格2金额列为空，单价6,040,000元/数量1项/总价6,040,000元明示于报价明细附件。包号1来自合同包号列。rank取表格4得分排名列（原文明示1-5）。未中标供应商投标报价原文未列，amount=null。",
+  "project": {
+    "buyer": "佛山市南海区西樵镇综合治理办公室",
+    "project_name": "西樵镇平安村居视频监控系统全包维护服务项目（2026-2029）",
+    "total_amount": 6040000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "西樵镇平安村居视频监控系统全包维护服务项目（2026-2029）",
+        "winner": "中国电信股份有限公司佛山分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "西樵镇平安村居视频监控系统全包维护服务项目（2026-2029）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 6040000.0,
+      "total_price": 6040000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司佛山分公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": 1,
+      "amount": 6040000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司佛山分公司",
+      "role": "participant",
+      "total_score": 87.91,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司佛山市分公司",
+      "role": "participant",
+      "total_score": 50.59,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东金赋科技股份有限公司",
+      "role": "participant",
+      "total_score": 42.91,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东金桔建设有限公司",
+      "role": "participant",
+      "total_score": 20.48,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

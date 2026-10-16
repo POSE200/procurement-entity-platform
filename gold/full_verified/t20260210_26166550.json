@@ -1,0 +1,242 @@
+{
+  "announcement_id": "t20260210_26166550",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包（附件名『1包中标清单』、公告分包名称明示）。明细取自附件『1包中标清单.pdf』（与 HTML 主要标的信息表 15 行完全一致，附件 OCR 标题列有叠字噪声但数值无误）。清单只有单价列无总价列，total_price 按单价×数量唯一互推，15 项之和恰等于中标金额 2,979,500 元。品目概要列与标的信息表均无品目列，category=null；明细无序号列，item_no=null。表格4 排序列明示，rank 照抄；未中标方投标报价取自开标报价表（表格6）。『●存储节点』的●为核心产品标记，原样保留。需视觉核验：附件清单表头 OCR 叠字（名名名名称等）。",
+  "project": {
+    "buyer": "青岛市广播电视台",
+    "project_name": "“蓝睛”新闻“智能策采编审发”流程再造",
+    "total_amount": 2979500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "“蓝睛”新闻“智能策采编审发”流程再造",
+        "winner": "成都索贝数码科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●存储节点",
+      "brand": "H3C",
+      "model": "UniStor X10536 G6",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 680000.0,
+      "total_price": 680000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "万兆光模块",
+      "brand": "H3C",
+      "model": "SFP-XG-SX-MM850-D",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "以太网交换机",
+      "brand": "H3C",
+      "model": "S5590-48T4XC-EI",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 14000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "融合媒体平台",
+      "brand": "SOBEY",
+      "model": "MOC",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 120000.0,
+      "total_price": 360000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据同步系统",
+      "brand": "SOBEY",
+      "model": "SYNC",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "容器引擎管理平台",
+      "brand": "SOBEY",
+      "model": "LYC-LCE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 175000.0,
+      "total_price": 175000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "第三方工具接入",
+      "brand": "SOBEY",
+      "model": "Media link",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能生产系统",
+      "brand": "SOBEY",
+      "model": "APE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 609500.0,
+      "total_price": 609500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "媒体生产数据分析平台",
+      "brand": "SOBEY",
+      "model": "AI",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 463000.0,
+      "total_price": 463000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能生产节点",
+      "brand": "SOBEY",
+      "model": "NOVA",
+      "quantity": 12,
+      "unit": "套",
+      "unit_price": 17000.0,
+      "total_price": 204000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "第三方AI云服务",
+      "brand": "即梦、VIDU",
+      "model": "API",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "安全设备特征库授权",
+      "brand": "启明星辰",
+      "model": "特征库授权",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "系统适配升级",
+      "brand": "SOBEY",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "功能定制",
+      "brand": "SOBEY",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "系统集成",
+      "brand": "SOBEY",
+      "model": "SI12",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都索贝数码科技股份有限公司",
+      "role": "winner",
+      "total_score": 91.05,
+      "rank": 1,
+      "amount": 2979500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东爱之信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.51,
+      "rank": 2,
+      "amount": 2987000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南鑫楷慧德电子技术有限责任公司",
+      "role": "participant",
+      "total_score": 74.98,
+      "rank": 3,
+      "amount": 2981100.0
+    },
+    {
+      "package_no": "1",
+      "name": "驿云（山东）智能科技有限公司",
+      "role": "participant",
+      "total_score": 72.87,
+      "rank": 4,
+      "amount": 2991000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

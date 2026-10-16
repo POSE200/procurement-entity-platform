@@ -1,0 +1,202 @@
+{
+  "announcement_id": "t20260404_26364146",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf,支付表.PDF",
+  "note": "单包项目（支付表载明分包数量1个），结果表序号1为唯一包，package_no 推断为「1」并在note声明。公告概要「总中标金额￥0.000000万元」为异常值，total_amount 取中标供应商表及支付表明示的中标金额402,000元（支付表：中标成交金额402000元）。9条明细取自投标明细表（与HTML投标货物表一致），单价×数量=合计均成立，9条合计402,000元与中标金额一致，数学自洽。品目概要列为空、标的信息表无品目名称列，category=null。品牌取品牌列（沩工/星马，产地另存于原文不入brand）；型号规格照抄。评分表「总得分」为5位评委打分之和（如中标人429.5=85.5+82.0+84.5+87.0+90.5），照抄填入total_score；原文无排名列，rank=null（未中标原因表的序号1-7不是排名）。未中标7家无投标报价信息，amount=null。",
+  "project": {
+    "buyer": "莱芜职业技术学院",
+    "project_name": "智慧体测设备采购项目",
+    "total_amount": 402000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧体测设备采购项目",
+        "winner": "济南迅网互联网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "智能身高体重测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-04",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 14600.0,
+      "total_price": 29200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "智能肺活量测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-05",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 12800.0,
+      "total_price": 25600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "智能坐位体前屈测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-06",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 12800.0,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "智能引体向上测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-09",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 12800.0,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "智能立定跳远测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-02",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 12800.0,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "智能仰卧起坐测试仪",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-03",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 14800.0,
+      "total_price": 44400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "50 米跑测试仪（含软件）",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-07",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60800.0,
+      "total_price": 60800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "中长跑考核系统",
+      "brand": "沩工",
+      "model": "DaweiAI-SP-B01-08",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 71800.0,
+      "total_price": 71800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "存储设备展示一体机",
+      "brand": "星马",
+      "model": "SIN-T65D",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 55000.0,
+      "total_price": 55000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南迅网互联网络科技有限公司",
+      "role": "winner",
+      "total_score": 429.5,
+      "rank": null,
+      "amount": 402000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东合力创新科技有限公司",
+      "role": "participant",
+      "total_score": 415.05,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京众行千里科技有限公司",
+      "role": "participant",
+      "total_score": 414.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东淳峰国际贸易有限公司",
+      "role": "participant",
+      "total_score": 388.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南玖鸿信息科技有限公司",
+      "role": "participant",
+      "total_score": 317.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东阵地体育产业有限公司",
+      "role": "participant",
+      "total_score": 313.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东一悦教育科技有限公司",
+      "role": "participant",
+      "total_score": 289.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南金宸数码电子有限公司",
+      "role": "participant",
+      "total_score": 286.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

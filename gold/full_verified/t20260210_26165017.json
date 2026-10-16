@@ -1,0 +1,139 @@
+{
+  "announcement_id": "t20260210_26165017",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "两个包（包1/包2 明示）。总成交金额 245.999 万元 = 包1 1,348,000 + 包2 1,111,990，一致。bidders 取自附件『包1/包2供应商评审情况表.pdf』（各 5 家，含综合评审得分汇总）；rank 取『第N成交候选人』明示（仅前三名有，其余 null，禁止推定）；amount 取各成交候选人报价金额（评审结果列明示），未列入候选人的两家金额 null。items 取 HTML 标的信息表（每包一条，品目名称列原文含编号前缀『C06020200 电视服务』，概要品目列为空）；响应报价列渲染失败（残留 Thymeleaf 模板串 priceSummaryList，无有效数值），故 item 单价/数量 null，total_price 取该包成交金额；服务时间 3 年非数量。需视觉核验：响应报价列实际渲染值；评审情况表 OCR 叠字（数值本身可辨）。附件包（zip）跳过，其内已解包文件均未见报价明细表。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "大竹县文化体育和旅游局",
+    "project_name": "大竹县广播电视户户通运行维护",
+    "total_amount": 2459990.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "大竹县广播电视户户通运行维护（包一）",
+        "winner": "四川奥维斯科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "大竹县广播电视户户通运行维护（包二）",
+        "winner": "中国广电四川网络股份有限公司大竹县分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C06020200 电视服务",
+      "item_name": "大竹县广播电视户户通运行维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1348000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C06020200 电视服务",
+      "item_name": "大竹县广播电视户户通运行维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1111990.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川奥维斯科技有限公司",
+      "role": "winner",
+      "total_score": 92.99,
+      "rank": 1,
+      "amount": 1348000.0
+    },
+    {
+      "package_no": "1",
+      "name": "达州骁尚商贸有限公司",
+      "role": "participant",
+      "total_score": 89.06,
+      "rank": 2,
+      "amount": 1352500.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都广和昌智能科技有限公司",
+      "role": "participant",
+      "total_score": 87.94,
+      "rank": 3,
+      "amount": 1358500.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都鸿泰润达科技有限公司",
+      "role": "participant",
+      "total_score": 85.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "四川北玄建设有限公司",
+      "role": "participant",
+      "total_score": 84.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国广电四川网络股份有限公司大竹县分公司",
+      "role": "winner",
+      "total_score": 87.41,
+      "rank": 1,
+      "amount": 1111990.0
+    },
+    {
+      "package_no": "2",
+      "name": "达州市慕云佳商贸有限公司",
+      "role": "participant",
+      "total_score": 86.53,
+      "rank": 2,
+      "amount": 1149800.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都鸿泰润达科技有限公司",
+      "role": "participant",
+      "total_score": 85.83,
+      "rank": 3,
+      "amount": 1100000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川宏峰达市政设备维护有限公司",
+      "role": "participant",
+      "total_score": 82.73,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "四川北玄建设有限公司",
+      "role": "participant",
+      "total_score": 84.54,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

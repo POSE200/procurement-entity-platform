@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260706_26881676",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，package_no 取中标情况表序号1（推断）。品目列与标的信息表均无品目名称，category=null。第一条 item_name 原文带 ● 前缀符号（●精密注塑成型机），● 为标项符号非名称本体，已去除并在此声明。附件专家费用表 OCR 乱序但不含标注字段；中小企业声明函 OCR 截断处出现制造商'上海沐翊文设造有限公司'与品牌列'航辰智造'无法对应，不影响 HTML 字段。明细合计 258000+240000=498000 与总中标金额一致。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "青岛工程职业学院智能制造学院技能大赛设备采购项目",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "教学仪器",
+        "winner": "深圳市德立天科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "精密注塑成型机",
+      "brand": "德立天",
+      "model": "DLTZSCXJ-500B",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 258000.0,
+      "total_price": 258000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "金属增材设备",
+      "brand": "航辰智造",
+      "model": "HC1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 240000.0,
+      "total_price": 240000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市德立天科技有限公司",
+      "role": "winner",
+      "total_score": 83.2,
+      "rank": 1,
+      "amount": 498000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东巨能数控机床有限公司",
+      "role": "participant",
+      "total_score": 69.09,
+      "rank": 2,
+      "amount": 499900.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛兴晟达机电设备有限公司",
+      "role": "participant",
+      "total_score": 58.09,
+      "rank": 3,
+      "amount": 499850.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

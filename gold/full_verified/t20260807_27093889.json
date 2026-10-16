@@ -1,0 +1,234 @@
+{
+  "announcement_id": "t20260807_27093889",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "单包13条明细（附件分项报价表含1-6「智慧工厂硬件」50,000元/1批的合计行，注明为序号6.1-6.6产品合计价格，同时列出6.1-6.6六条子明细4850+4900+1400+23900+7750+7200=50,000；合计行与子明细并存系原文如此，最细粒度求和时以子明细为准，13条最细值之和=1,680,000与总中标金额￥168万一致）。品目概要列为空，category 取HTML标的信息表品目名称列（1-1至1-4气动、电动单元组合仪表，1-5电子工业生产设备，1-6教学仪器，1-7工业控制用计算机系统）；子明细1-6-1至1-6-6在HTML标的表无独立行，category 继承其上级品目号1-6的「教学仪器」（推断）。1-6型号原文为「——」，视为无线索填null。各条品牌/型号/数量单位取自附件分项报价表（数量单位与HTML略有出入处如6.1/6.2为台、6.3为把、6.4为2台，以附件为准）。分项报价表与本国产品标准声明函OCR均有水印字符打散，数值列可辨认。bidders 6家排名取自评分表「得分排名」列，成都睿实信达、广州锦亚、珠海渥嘉推荐排名列留空。复核：13条明细、单价×数量、bidders得分/排名逐项与原文核对无误；子明细category继承已确认（HTML标的表确无子行），无未决疑点。",
+  "project": {
+    "buyer": "广东科学技术职业学院",
+    "project_name": "广东科学技术职业学院电子智能制造设备采购项目(二次)",
+    "total_amount": 1680000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东科学技术职业学院电子智能制造设备",
+        "winner": "湖南科瑞特科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "全自动锡膏印刷机",
+      "brand": "科瑞特",
+      "model": "MPM1800",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 149000.0,
+      "total_price": 149000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "锡膏检测SPI",
+      "brand": "博维",
+      "model": "BV-SLE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 149000.0,
+      "total_price": 149000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "在线AOI检测",
+      "brand": "科瑞特",
+      "model": "AOI5000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 169000.0,
+      "total_price": 169000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "X-ray检测仪",
+      "brand": "博维",
+      "model": "S-7200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "电子工业生产设备",
+      "item_name": "高速贴片机",
+      "brand": "常衡",
+      "model": "RS10P",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 605000.0,
+      "total_price": 605000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "智慧工厂硬件",
+      "brand": "科瑞特",
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-1",
+      "category": "教学仪器",
+      "item_name": "智能移动终端",
+      "brand": "艾韦迅",
+      "model": "IVY-2100",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4850.0,
+      "total_price": 4850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-2",
+      "category": "教学仪器",
+      "item_name": "条码打印机",
+      "brand": "博思得",
+      "model": "E300i",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4900.0,
+      "total_price": 4900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-3",
+      "category": "教学仪器",
+      "item_name": "扫码枪",
+      "brand": "艾韦迅",
+      "model": "DS1002",
+      "quantity": 1,
+      "unit": "把",
+      "unit_price": 1400.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-4",
+      "category": "教学仪器",
+      "item_name": "电子看板",
+      "brand": "康榆",
+      "model": "L98",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 11950.0,
+      "total_price": 23900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-5",
+      "category": "教学仪器",
+      "item_name": "空压机",
+      "brand": "智伦",
+      "model": "10A-PM",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7750.0,
+      "total_price": 7750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6-6",
+      "category": "教学仪器",
+      "item_name": "卡座",
+      "brand": "科瑞特",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 900.0,
+      "total_price": 7200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "工业控制用计算机系统",
+      "item_name": "智慧工厂管理系统",
+      "brand": "科瑞特",
+      "model": "MES3200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 358000.0,
+      "total_price": 358000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖南科瑞特科技有限公司",
+      "role": "winner",
+      "total_score": 94.82,
+      "rank": 1,
+      "amount": 1680000.0
+    },
+    {
+      "package_no": "1",
+      "name": "珠海云鹤智能科技有限公司",
+      "role": "participant",
+      "total_score": 85.06,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海熊一智能科技有限公司",
+      "role": "participant",
+      "total_score": 74.65,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都睿实信达科技有限公司",
+      "role": "participant",
+      "total_score": 74.0,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州锦亚实验设备有限公司",
+      "role": "participant",
+      "total_score": 71.98,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海市渥嘉科技有限公司",
+      "role": "participant",
+      "total_score": 69.49,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

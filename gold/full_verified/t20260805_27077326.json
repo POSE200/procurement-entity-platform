@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260805_27077326",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "品目取公告概要品目列完整路径'服务/信息技术服务/运行维护服务/其他运行维护服务'。items按附件分项报价表1条（单价16,785,000元×数量1项=总价16,785,000.00元，与总中标金额￥1678.500000万元一致）。公告HTML与附件均未单独明示合同包号，package_no='1'系依据分项报价表品目号'1-1'及单包成交推断（复核确认可接受）。bidders共9家，rank全部取自得分排名列（第3名起推荐排名为'-'不影响），未中标8家无报价金额故amount=null。",
+  "project": {
+    "buyer": "国家税务总局广东省税务局",
+    "project_name": "广东税务2025年小型机、存储、PC服务器及负载均衡设备维护保养项目",
+    "total_amount": 16785000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东税务2025年小型机、存储、PC服务器及负载均衡设备维护保养",
+        "winner": "新华三技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "广东税务2025年小型机、存储、PC服务器及负载均衡设备维护保养",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 16785000.0,
+      "total_price": 16785000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "新华三技术有限公司",
+      "role": "winner",
+      "total_score": 91.94,
+      "rank": 1,
+      "amount": 16785000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东知一数据有限公司",
+      "role": "participant",
+      "total_score": 86.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "participant",
+      "total_score": 86.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东南方通信建设有限公司",
+      "role": "participant",
+      "total_score": 86.07,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东兰贝斯科技有限公司",
+      "role": "participant",
+      "total_score": 84.25,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "神州数码系统集成服务有限公司",
+      "role": "participant",
+      "total_score": 84.13,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东励康信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.61,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京安普利信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.51,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "湖南众智能源科技有限公司",
+      "role": "participant",
+      "total_score": 65.72,
+      "rank": 9,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

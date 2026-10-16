@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260807_27095606",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京国金汇德工程管理有限公司）.pdf",
+  "note": "单包单条明细，费率折扣类项目。公告概要「总中标金额」为￥0.000000万占位值，total_amount=null；表格1中标金额列为「折扣率：80.00%」，未给元金额。附件报价明细给出单价1,500,000×1(项)、折扣率80、总价1,500,000.00——存在数学矛盾（1,500,000×80%=1,200,000≠1,500,000），照抄原文值不改；复核确认该行文本层清晰（非OCR误读），系原文自身矛盾，数值列无视觉核验必要。品目概要列为空，category 取HTML标的信息表品目名称列「信息技术管理咨询服务」。bidders winner amount 取附件投标报价总价1,500,000（原文无元制中标金额），其余4家无报价线索填null。5家排名取自评分表「得分排名」列，上海元方、深圳中联信推荐排名列留空。评分时注意：本篇报价明细行三个数值字段互相矛盾，系原文如此。",
+  "project": {
+    "buyer": "横琴粤澳深度合作区商事服务局",
+    "project_name": "横琴粤澳深度合作区商事服务局关于2026年合作区执委会政务信息化项目第三方综合技术咨询服务的采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "横琴粤澳深度合作区商事服务局关于2026年合作区执委会政务信息化项目第三方综合技术咨询服务的采购项目",
+        "winner": "北京国金汇德工程管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息技术管理咨询服务",
+      "item_name": "横琴粤澳深度合作区商事服务局关于2026年合作区执委会政务信息化项目第三方综合技术咨询服务的采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1500000.0,
+      "total_price": 1500000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京国金汇德工程管理有限公司",
+      "role": "winner",
+      "total_score": 97.18,
+      "rank": 1,
+      "amount": 1500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 94.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳天致信息工程咨询有限公司",
+      "role": "participant",
+      "total_score": 94.12,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海元方科技股份有限公司",
+      "role": "participant",
+      "total_score": 92.42,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市中联信信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.6,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

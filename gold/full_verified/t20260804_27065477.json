@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260804_27065477",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列为空，category 取主要标的信息表品目名称列（网络存储设备/交换设备/安全路由器/其他信息安全设备）；品牌、规格型号、数量、单价、总价 HTML 表格2 与附件报价明细一致；4条明细合计1,266,600元=总额，数学自查通过；联合体无；评审表得分排名列明示，rank 据此填写。",
+  "project": {
+    "buyer": "广州开发区穗港智造合作区管理委员会（广州开发区保税业务管理局）",
+    "project_name": "广州知识城综合保税区“保税综合管理系统（海关端）”设备采购项目",
+    "total_amount": 1266600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州知识城综合保税区“保税综合管理系统（海关端）”设备",
+        "winner": "广东兰贝斯科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "网络存储设备",
+      "item_name": "存储器",
+      "brand": "宏杉科技",
+      "model": "MS7040G2-HG",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 586000.0,
+      "total_price": 586000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "交换设备",
+      "item_name": "交换机",
+      "brand": "皖通邮电",
+      "model": "ZXWT S5860-52X-E",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 11000.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "安全路由器",
+      "item_name": "路由器",
+      "brand": "皖通邮电",
+      "model": "ZXWT ISG 2800-4",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 18800.0,
+      "total_price": 37600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息安全设备",
+      "item_name": "安全态势感知设备",
+      "brand": "上元信安",
+      "model": "IPS-4500",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 588000.0,
+      "total_price": 588000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东兰贝斯科技有限公司",
+      "role": "winner",
+      "total_score": 87.8,
+      "rank": 1,
+      "amount": 1266600.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中亦安图科技股份有限公司",
+      "role": "participant",
+      "total_score": 78.56,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市齐源信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.27,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": 55.43,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

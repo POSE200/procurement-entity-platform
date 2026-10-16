@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260203_26146674",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf,中小企业声明函_2.pdf,中小企业声明函_3.pdf",
+  "note": "公告结果列报价为6.5%、15%、30.3%，已从人民币unit_price移至rate/rate_unit，pricing_type为percentage_rate。公告概要0万元作为raw保留，归一化total_amount为null，不能由百分比换算总价。本次没有重新核实计价基数及下浮/折扣的具体合同定义，不沿用旧note作证。其他品牌型号及标段主体对应关系沿用原标注，非本次重新验证结论。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "伽师县教育局",
+    "project_name": "伽师县教育系统2026年食材采购项目（三标段、四标段、五标段）",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "三标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（三标段：牛羊肉）",
+        "winner": "伽师县海川商贸有限公司"
+      },
+      {
+        "package_no": "四标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（四标段：鸡肉、鸡蛋）",
+        "winner": "开旭（伽师）现代化科技养殖有限公司"
+      },
+      {
+        "package_no": "五标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（五标段：蔬菜、水果）",
+        "winner": "新疆泰卡绿色实业有限公司"
+      }
+    ],
+    "total_amount_raw": {
+      "value": 0,
+      "unit": "万元",
+      "display": "￥0.000000 万元（人民币）",
+      "source": "公告概要"
+    }
+  },
+  "items": [
+    {
+      "package_no": "三标段",
+      "item_no": "1",
+      "category": null,
+      "item_name": "鲜牛肉",
+      "brand": "国产",
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "percentage_rate",
+      "rate": 6.5,
+      "rate_unit": "%",
+      "raw_rate": "6.5（%）",
+      "raw_unit_price": 6.5
+    },
+    {
+      "package_no": "三标段",
+      "item_no": "2",
+      "category": null,
+      "item_name": "鲜羊肉",
+      "brand": "国产",
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "percentage_rate",
+      "rate": 6.5,
+      "rate_unit": "%",
+      "raw_rate": "6.5（%）",
+      "raw_unit_price": 6.5
+    },
+    {
+      "package_no": "四标段",
+      "item_no": "3",
+      "category": null,
+      "item_name": "鲜鸡肉、鸡蛋",
+      "brand": "禾丰、开旭",
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "percentage_rate",
+      "rate": 15,
+      "rate_unit": "%",
+      "raw_rate": "15（%）",
+      "raw_unit_price": 15
+    },
+    {
+      "package_no": "五标段",
+      "item_no": "4",
+      "category": null,
+      "item_name": "蔬菜、水果",
+      "brand": "大江南北",
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "percentage_rate",
+      "rate": 30.3,
+      "rate_unit": "%",
+      "raw_rate": "30.3（%）",
+      "raw_unit_price": 30.3
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "三标段",
+      "name": "伽师县海川商贸有限公司",
+      "role": "winner",
+      "total_score": 94.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "四标段",
+      "name": "开旭（伽师）现代化科技养殖有限公司",
+      "role": "winner",
+      "total_score": 93.73,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "五标段",
+      "name": "新疆泰卡绿色实业有限公司",
+      "role": "winner",
+      "total_score": 94.58,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

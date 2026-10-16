@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260603_26679730",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（国科政信科技（北京）股份有限公司）.pdf",
+  "note": "单包项目（合同包1）。概要品目列为空，category 取HTML主要标的信息表品目名称列「行业应用软件开发服务」。HTML标的信息表金额列为空，单价/数量/总价取自附件报价明细表（单价1,970,000元、数量1(项)、总价1,970,000.00元），与总中标金额￥197.000000万元一致。评分表4家供应商均带综合得分与得分排名（1-4），rank照抄原文。需视觉核验：附件报价明细表被水印字符穿插污染（列名「服务要求」处混入乱码、供应商名称被竖排水印打散），单价/数量/总价的数字列已按语义识别，建议视觉核验单价1,970,000与数量1(项)无误。复核：报价明细附件数值列清晰可辨（1,970,000/1(项)/1,970,000.00）且与HTML中标金额1,970,000.00元一致，水印仅影响文字叙述区，需视觉核验一项解除；全部字段核对无误。",
+  "project": {
+    "buyer": "广东省监狱管理局",
+    "project_name": "省监狱局刑罚执行系统建设（三期）项目（二次）",
+    "total_amount": 1970000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省监狱局刑罚执行系统建设（三期）项目（二次）",
+        "winner": "国科政信科技（北京）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "省监狱局刑罚执行系统建设（三期)",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1970000.0,
+      "total_price": 1970000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "国科政信科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": 91.78,
+      "rank": 1,
+      "amount": 1970000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 84.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "贵州友联网特科技有限公司",
+      "role": "participant",
+      "total_score": 19.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京爱朗格瑞科技有限公司",
+      "role": "participant",
+      "total_score": 18.49,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

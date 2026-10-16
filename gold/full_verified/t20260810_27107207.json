@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27107207",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(山东智学网络科技有限公司).pdf",
+  "note": "附件「报价明细表(山东智学网络科技有限公司).pdf」已在附件内容中找到并核对：单价795000元×数量1.0000项=响应报价795000元，与中标金额、总中标金额￥79.500000万一致（劳务报酬支付表中标成交金额79.5万元亦印证）。概要品目列为空，category取主要标的信息表品目名称列「技术测试和分析服务」（标的信息表所属行业为「租赁和商务服务业」，非品目，不作品目）。评分表得分排名列空白，rank=null；山东鲁康体育科技有限公司仅出现在未中标原因表（资格性审查未通过），作为participant收录、total_score=null。无OCR待补影响字段。",
+  "project": {
+    "buyer": "山东体育学院",
+    "project_name": "山东体育学院2026年山东省学生体质测试健康数据抽查复核测试服务项目",
+    "total_amount": 795000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东智学网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "技术测试和分析服务",
+      "item_name": "2026年山东省中小学生体质健康测试数据抽查复核测试服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 795000.0,
+      "total_price": 795000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东智学网络科技有限公司",
+      "role": "winner",
+      "total_score": 92.34,
+      "rank": null,
+      "amount": 795000.0
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊自强至善信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊天诺软件有限公司",
+      "role": "participant",
+      "total_score": 73.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鲁康体育科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

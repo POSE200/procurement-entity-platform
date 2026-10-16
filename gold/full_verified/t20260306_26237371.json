@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260306_26237371",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "成交公告：HTML『总中标金额』栏显示￥0.000000万元（模板未回填），实际成交金额取中标结果表/报价表的39000元；概要品目列与标的信息表均无品目，category=null；服务类标的仅有一个总金额，quantity/unit/unit_price按口径不推算、填null；综合得分表只有总得分无排名列，rank=null（总得分241.5/229.55/219.75为三评委之和，按原文照抄）。；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "济南市历下区人民医院",
+    "project_name": "济南市历下区人民医院合理用药系统运维服务、医疗安全（不良）事件管理系统运维服务及数字化病案管理系统运维服务项目",
+    "total_amount": 39000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "陕西鸣科信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市历下区人民医院合理用药系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 39000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "陕西鸣科信息科技有限公司",
+      "role": "winner",
+      "total_score": 241.5,
+      "rank": null,
+      "amount": 39000.0
+    },
+    {
+      "package_no": "1",
+      "name": "陕西新元通济医疗服务有限公司",
+      "role": "participant",
+      "total_score": 229.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京祥三信息技术有限公司",
+      "role": "participant",
+      "total_score": 219.75,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115268",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,支付表.pdf",
+  "note": "单包（标题采购包1，附件名包(1)，支付表分包数量1个）。品目取HTML品目名称列「其他建筑物、构筑物修缮」。已核验附件「投标（响应）报价明细表.pdf」（中标人鸿鹏）：1条明细，单价1,089,064.19元×数量1.000项=响应报价1,089,064.19元=合计=中标金额1,089,064.19元（概要￥108.906400万、支付表108.906419万元一致），数学一致。item_no取HTML品目号1-1。bidders 3家：综合得分87.67/86.99/84.32有值但得分排名、推荐排名列全空，rank一律null；「包(1)_开标（报价）一览表.pdf」仅解析出表头，未中标人报价不可得，amount仅中标人填写。附件最高限价两处OCR不一致（正文串1,090,900元 vs 表格1,090,000元），该值不入任何字段，仅记于此；明细级带价清单不可得：「六、已标价工程量清单.docx」解析为空，图纸及清单xlsx为招标阶段工程量清单（有工程量数据行如01B001天沟300m但综合单价/合价列全空），无法产出带价分项，故items以报价明细表的1条打包行为最细粒度。",
+  "project": {
+    "buyer": "菏泽市产品检验检测研究院",
+    "project_name": "菏泽市产品检验检测研究院实验楼楼顶天沟系统改造项目",
+    "total_amount": 1089064.19,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东鸿鹏建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他建筑物、构筑物修缮",
+      "item_name": "菏泽市产品检验检测研究院实验楼楼顶天沟系统改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1089064.19,
+      "total_price": 1089064.19
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鸿鹏建设工程有限公司",
+      "role": "winner",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": 1089064.19
+    },
+    {
+      "package_no": "1",
+      "name": "山东弘开建设工程有限公司",
+      "role": "participant",
+      "total_score": 86.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "盛鸿建设发展有限公司",
+      "role": "participant",
+      "total_score": 84.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

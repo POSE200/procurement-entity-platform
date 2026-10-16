@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260601_26666285",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个包：HTML仅明示第1包，包2/包3包号按三张中标信息表与三张排序表的对应顺序推断；品目列（概要与HTML标的信息）均为空，category=null；服务类标的无可拆分明细，quantity/unit/unit_price填null，total_price取各包中标金额；附件采购文件.docx被跳过未解析，明细不可得；三包中标金额之和8.19+8.775+25.2=42.165万元与总中标金额一致。",
+  "project": {
+    "buyer": "天津市大学软件学院",
+    "project_name": "天津市大学软件学院网络接入服务项目",
+    "total_amount": 421650.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团天津有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国电信集团有限公司天津分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "赛尔网络有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络接入服务（一）等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 81900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络接入服务（二）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 87750.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络接入服务（三）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 252000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团天津有限公司",
+      "role": "winner",
+      "total_score": 98.8,
+      "rank": 1,
+      "amount": 81900.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信集团有限公司天津分公司",
+      "role": "participant",
+      "total_score": 97.4,
+      "rank": 2,
+      "amount": 87750.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司天津市分公司",
+      "role": "participant",
+      "total_score": 85.9649,
+      "rank": 3,
+      "amount": 153900.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国广电天津网络有限公司",
+      "role": "participant",
+      "total_score": 76.2836,
+      "rank": 4,
+      "amount": 328320.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信集团有限公司天津分公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 87750.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司天津市分公司",
+      "role": "participant",
+      "total_score": 87.1053,
+      "rank": 2,
+      "amount": 153900.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国广电天津网络有限公司",
+      "role": "participant",
+      "total_score": 78.0196,
+      "rank": 3,
+      "amount": 328260.0
+    },
+    {
+      "package_no": "3",
+      "name": "赛尔网络有限公司",
+      "role": "winner",
+      "total_score": 99.4,
+      "rank": 1,
+      "amount": 252000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津市亿信通网络工程技术有限公司",
+      "role": "participant",
+      "total_score": 75.6,
+      "rank": 2,
+      "amount": 252000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津超越云创科技发展有限公司",
+      "role": "participant",
+      "total_score": 74.4,
+      "rank": 3,
+      "amount": 252000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

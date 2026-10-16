@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260805_27080502",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "标题为采购包1（劳务报酬表显示本项目287对应包1：15.30万元，一致）。品目概要列空，category取HTML标的信息表'品目名称'列=计算机软件。item明细以附件报价明细表为准：附件序号4的货物名OCR断行为'特殊儿童档案管理系统/工作站'，结合HTML表2'特殊儿童档案管理系统|工作站'定为'特殊儿童档案管理工作站'。第3条model为'型号：EQ001规格：1660mm*650mm*620mm;'（品牌/规格合并原文照抄）。参与人rank来自'未中标原因'栏明示的'综合得分排名第二/第三'；得分排名列为空，中标人rank=null。5条明细单价×数量之和=153000元=中标金额，数学一致。复核：第5条附件单价OCR断行'8,00 0.00 00 元'，定为8000.00元——由合计153000元减其余4条（114700+10800+13500+6000=145000）唯一互推且与OCR残片吻合，可确认；第4条产地OCR'北京市'与制造商所在地不符，但产地不在输出schema内，不影响字段值。",
+  "project": {
+    "buyer": "山东省妇幼保健院",
+    "project_name": "山东省妇幼保健院2026年特殊儿童档案管理系统采购项目",
+    "total_amount": 153000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东裕和医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "计算机软件",
+      "item_name": "特殊儿童档案管理系统（核心产品）",
+      "brand": "恩启",
+      "model": "VB-MAPP评估管理系统1.0版",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": 114700.0,
+      "total_price": 114700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "计算机软件",
+      "item_name": "评估专用工具箱",
+      "brand": "恩启",
+      "model": "1.0版",
+      "quantity": 1.0,
+      "unit": "套",
+      "unit_price": 10800.0,
+      "total_price": 10800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "计算机软件",
+      "item_name": "集成评估桌",
+      "brand": "恩启",
+      "model": "型号：EQ001规格：1660mm*650mm*620mm;",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 13500.0,
+      "total_price": 13500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "计算机软件",
+      "item_name": "特殊儿童档案管理工作站",
+      "brand": "圣技士",
+      "model": "22英寸一体机电脑",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 6000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "计算机软件",
+      "item_name": "报告输出终端",
+      "brand": "奔图",
+      "model": "CM5055DN",
+      "quantity": 1.0,
+      "unit": "台",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东裕和医疗科技有限公司",
+      "role": "winner",
+      "total_score": 90.8,
+      "rank": null,
+      "amount": 153000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东瑞能信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.64,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东维力商贸有限公司",
+      "role": "participant",
+      "total_score": 82.05,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260604_26683100",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:江山市水库建设管理服务中心2026年度维修养护采购文件公开招标.docx",
+  "note": "三个标项。成交结果表（表格1）按序号1-3列出各标项中标人与金额，序号与表格2标项名称（标项一~三）一一对应（推断声明）。公告无评审得分/排名表，bidders仅中标人各一条，total_score/rank=null。quantity=1项来自招标文件『标项号|采购内容|数量』表（明示），unit_price=总价/数量按唯一互推规则填出；招标文件预算价（130.285万/188.2717万/134.16万）为预算非中标价，未采用。概要品目列空且全篇无品目名称列，category=null。三标项金额之和1,068,337+1,660,166+1,046,448=3,774,951元与总中标金额一致。附件中小企业声明函_2.pdf为OCR扫描件，仅含资格声明，不提供字段值。复核：quantity=1项在招标文件『标项号|采购内容|数量』表（标项一/二/三各1项）原文核实为明示，unit_price按单价×数量唯一互推；三标项金额之和3,774,951元与总中标金额一致；全篇核查无其他投标主体，bidders仅3名中标人正确；确认verified。",
+  "project": {
+    "buyer": "江山市水库建设管理服务中心",
+    "project_name": "江山市水库建设管理服务中心2026年度维修养护",
+    "total_amount": 3774951.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "碗窑水库2026年度维修养护",
+        "winner": "衢州信安工程管理咨询有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "白水坑、峡口水库2026年度维修养护",
+        "winner": "浙江宏力阳生态建设股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "碗窑灌区2026年度维修养护",
+        "winner": "浙江钱塘江海塘物业管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "碗窑水库2026年度维修养护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1068337.0,
+      "total_price": 1068337.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "白水坑、峡口水库2026年度维修养护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1660166.0,
+      "total_price": 1660166.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "碗窑灌区2026年度维修养护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1046448.0,
+      "total_price": 1046448.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "衢州信安工程管理咨询有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1068337.0
+    },
+    {
+      "package_no": "2",
+      "name": "浙江宏力阳生态建设股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1660166.0
+    },
+    {
+      "package_no": "3",
+      "name": "浙江钱塘江海塘物业管理有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1046448.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

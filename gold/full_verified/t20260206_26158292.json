@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260206_26158292",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空→category=null；唯一附件招标文件（TGPC-2025-D-1406）.docx 被跳过（未知类型）未解析，分项明细不可得；单条服务标的仅总金额，quantity/unit_price 按规范留空；participant 的 amount 取评审报价（万元换算为元）。；复核修正：bidders 补 package_no 字段 本次主体复核：公告其他补充事宜明确联合体成员为腾讯云计算（北京）有限责任公司；按第1包中标主体卫宁健康科技集团股份有限公司记录于consortiums，bidders和package.winner保留公告中标主体名称，整包金额仅记录一次，不赋给成员。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "天津市第一中心医院",
+    "project_name": "天津市第一中心医院复康院区提升改造项目云平台及核心应用建设项目",
+    "total_amount": 65600000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "卫宁健康科技集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "天津市第一中心医院复康院区提升改造项目云平台及核心应用建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 65600000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "卫宁健康科技集团股份有限公司",
+      "role": "winner",
+      "total_score": 95.7728,
+      "rank": 1,
+      "amount": 65600000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津楷翔智能科技有限公司",
+      "role": "participant",
+      "total_score": 58.6667,
+      "rank": 2,
+      "amount": 48074044.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国广电天津网络有限公司",
+      "role": "participant",
+      "total_score": 38.0388,
+      "rank": 3,
+      "amount": 66208600.0
+    }
+  ],
+  "status": "verified",
+  "consortiums": [
+    {
+      "package_no": "1",
+      "lead": "卫宁健康科技集团股份有限公司",
+      "members": [
+        "腾讯云计算（北京）有限责任公司"
+      ],
+      "member_amounts": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "联合体成员具体承担内容及成员金额原文未披露，member_amounts=null；不按总额估算。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "announcement_id": "t20260804_27070252",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（欧纬德智能科技（广州）有限公司）.pdf",
+  "note": "概要品目列为空，category 取标的信息表品目名称列（教学仪器/地面导航雷达/其他照相机及器材/卫星定位导航设备/驾驶系统和惯性器件设备/其他仪器仪表/自动成套控制系统/其他展览服务）；22条货物+1条服务（1-23 智能网联汽车技术学习工作站展览服务 401,800元×1项）合计1,771,960元=总额，数学自查通过；HTML表格2品牌/型号/数量/单价/总价与附件报价明细一致；评审表得分排名列明示，rank 据此填写。复核修正：1-23 展览服务的单价/数量/总价（401,800×1项）出自附件报价明细（HTML表格3金额列为空），gold_source 相应补入附件文件名；已逐条核对 23 条明细与两处原文一致。",
+  "project": {
+    "buyer": "广州市工贸技师学院",
+    "project_name": "智能网联汽车技术学习工作站建设项目",
+    "total_amount": 1771960.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能网联汽车技术学习工作站",
+        "winner": "欧纬德智能科技（广州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "可改装自动驾驶新能源整车",
+      "brand": "欧纬德",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 126720.0,
+      "total_price": 126720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "地面导航雷达",
+      "item_name": "激光雷达",
+      "brand": "禾赛",
+      "model": "JT64P",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 27720.0,
+      "total_price": 27720.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他照相机及器材",
+      "item_name": "自动驾驶长焦视觉相机",
+      "brand": "HIKROBOT",
+      "model": "MV-CA020-10GC",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 17820.0,
+      "total_price": 35640.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他照相机及器材",
+      "item_name": "自动驾驶中焦视觉相机",
+      "brand": "HIKROBOT",
+      "model": "MV-CA020-10GC",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 16830.0,
+      "total_price": 100980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他照相机及器材",
+      "item_name": "自动驾驶鱼眼视觉相机",
+      "brand": "晟悦",
+      "model": "FS02V1",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 17820.0,
+      "total_price": 71280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "地面导航雷达",
+      "item_name": "自动驾驶盲区雷达",
+      "brand": "速腾聚创",
+      "model": "Helios 16",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 25245.0,
+      "total_price": 50490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "卫星定位导航设备",
+      "item_name": "自动驾驶高精度组合定位",
+      "brand": "华测导航",
+      "model": "CGI-430",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 57420.0,
+      "total_price": 57420.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "驾驶系统和惯性器件设备",
+      "item_name": "自动驾驶整车控制计算平台（含软件",
+      "brand": "文远知行",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 277200.0,
+      "total_price": 277200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他仪器仪表",
+      "item_name": "自动驾驶行车记录黑匣子",
+      "brand": "文远知行",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 31680.0,
+      "total_price": 31680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他仪器仪表",
+      "item_name": "自动驾驶后排道路实景VIZ",
+      "brand": "文远知行",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 24750.0,
+      "total_price": 24750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "驾驶系统和惯性器件设备",
+      "item_name": "自动驾驶交互操控平台",
+      "brand": "文远知行",
+      "model": "Weride Driver",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 37620.0,
+      "total_price": 37620.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "自动成套控制系统",
+      "item_name": "智能车远程驾驶舱",
+      "brand": "文远知行",
+      "model": "WY-ZN02",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 374220.0,
+      "total_price": 374220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "教学仪器",
+      "item_name": "自动驾驶标定车间",
+      "brand": "欧纬德",
+      "model": "OVD-ZNBD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 29700.0,
+      "total_price": 29700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "教学仪器",
+      "item_name": "自动驾驶装调区配套工具",
+      "brand": "欧纬德",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 39105.0,
+      "total_price": 39105.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "教学仪器",
+      "item_name": "毫米波雷达教学实验箱",
+      "brand": "欧纬德",
+      "model": "ZNNC-02",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 14949.0,
+      "total_price": 14949.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "毫米波雷达实物教学系统",
+      "brand": "欧纬德",
+      "model": "ZNNC-021",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6732.0,
+      "total_price": 6732.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "教学仪器",
+      "item_name": "视觉传感器教学实验箱",
+      "brand": "欧纬德",
+      "model": "ZNNC-03",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 12474.0,
+      "total_price": 12474.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "教学仪器",
+      "item_name": "视觉传感器实物教学系统",
+      "brand": "欧纬德",
+      "model": "ZNNC-031",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6732.0,
+      "total_price": 6732.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "教学仪器",
+      "item_name": "激光雷达教学实验箱",
+      "brand": "欧纬德",
+      "model": "ZNNC-04",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 16632.0,
+      "total_price": 16632.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "教学仪器",
+      "item_name": "激光雷达实物教学系统",
+      "brand": "欧纬德",
+      "model": "ZNNC-041",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6732.0,
+      "total_price": 6732.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "教学仪器",
+      "item_name": "组合惯导教学实验箱",
+      "brand": "欧纬德",
+      "model": "ZNNC-06",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 14652.0,
+      "total_price": 14652.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "教学仪器",
+      "item_name": "车载组合导航实物教学系统",
+      "brand": "欧纬德",
+      "model": "ZNNC-061",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6732.0,
+      "total_price": 6732.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-23",
+      "category": "其他展览服务",
+      "item_name": "智能网联汽车技术学习工作站展览服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 401800.0,
+      "total_price": 401800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "欧纬德智能科技（广州）有限公司",
+      "role": "winner",
+      "total_score": 94.63,
+      "rank": 1,
+      "amount": 1771960.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖南文思智能教学设备有限公司",
+      "role": "participant",
+      "total_score": 69.54,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东优智科技实业有限公司",
+      "role": "participant",
+      "total_score": 69.4,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

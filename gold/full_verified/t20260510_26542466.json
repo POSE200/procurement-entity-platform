@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260510_26542466",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "单包项目（磋商文件明示『包号：/』不分包），package_no=null；HTML总中标金额显示￥0.000000万元为页面异常，成交金额取表格1及附件劳务报酬支付表的331100元；无分项报价明细，只有一条总标的，quantity/unit/unit_price按规范填null不做推算；附件投标明细表该条报价为331798元，与成交金额331100元不一致，未改动原文并在此声明（item总价取成交金额331100）；磋商文件采购需求中的6条设备明细（主机立杆等，存量维保对象）无报价无品牌型号，不作为报价分项items；评分表仅有总得分列（评委分合计），无排名列，rank=null。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "济南市南部山区管理委员会生态保护与绿色发展局",
+    "project_name": "济南市南部山区管理委员会生态保护与绿色发展局2026年电子卡口4G物联网卡通讯费项目",
+    "total_amount": 331100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东泽豪消防科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市南部山区管理委员会生态保护与绿色发展局2026年电子卡口4G物联网卡通讯费项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 331100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东泽豪消防科技有限公司",
+      "role": "winner",
+      "total_score": 268.5,
+      "rank": null,
+      "amount": 331100.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南龙标电子有限公司",
+      "role": "participant",
+      "total_score": 253.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东南泽电子科技有限公司",
+      "role": "participant",
+      "total_score": 249.44,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

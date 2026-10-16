@@ -1,0 +1,154 @@
+{
+  "announcement_id": "t20260609_26715715",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包、无任何明示包号（HTML 与附件均无合同包/标包号），package_no=null。buyer 取招标文件『采购人：宁夏固原强制隔离戒毒所』（HTML 采购单位行作『固原强制隔离戒毒所』，缺『宁夏』前缀，以附件全称为准）。品目择歧：概要品目列为代码串『A02069900,A02069900,A02069900,A02069900,A02152400』（无名称），与标的信息表品目名称列（其他电气设备×4+橡胶设备×1）按顺序吻合；category 按逐项无歧义的标的信息表『品目名称』列取值（其他电气设备/橡胶设备）。标的信息表无计量单位列，unit 全部 null（招标文件采购需求仅给『计量单位：台；数量：1』的汇总占位，不逐项对应，未采用）。5 条 item 单价×数量均与总价一致，分项之和 750810.00=总中标金额，数学自洽。表格3 仅『得分』列、无排名列，rank 全部 null（含中标人，禁止『中标即第1』推定）；participant 无投标报价，amount=null。本国产品声明函仅佐证品牌/型号，未单独作为取值来源。 复核修正：2026-09-23独立复核通过。",
+  "project": {
+    "buyer": "宁夏固原强制隔离戒毒所",
+    "project_name": "固原强制隔离戒毒所场所智慧安全用电检测报警系统项目",
+    "total_amount": 750810.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "宁夏蛟龙实业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电气设备",
+      "item_name": "充电桩",
+      "brand": "宏森",
+      "model": "HSQJ-C9",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 7786.0,
+      "total_price": 15572.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电气设备",
+      "item_name": "智能防触电保护器400A 380V 4G",
+      "brand": "中科智行",
+      "model": "ZkZX-400M3P+N",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 30610.0,
+      "total_price": 153050.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电气设备",
+      "item_name": "智能防触电保护器125A 380A 4G",
+      "brand": "中科智行",
+      "model": "ZkZX-125M3P+N",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 29216.0,
+      "total_price": 204512.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他电气设备",
+      "item_name": "智能防触电保护器250A 380V 4G",
+      "brand": "中科智行",
+      "model": "ZkZX-250M3P+N",
+      "quantity": 12,
+      "unit": null,
+      "unit_price": 29658.0,
+      "total_price": 355896.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "橡胶设备",
+      "item_name": "绝缘胶垫",
+      "brand": "京东橡胶",
+      "model": "5mm 15KV",
+      "quantity": 110,
+      "unit": null,
+      "unit_price": 198.0,
+      "total_price": 21780.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "宁夏蛟龙实业有限公司",
+      "role": "winner",
+      "total_score": 78.61,
+      "rank": null,
+      "amount": 750810.0
+    },
+    {
+      "package_no": null,
+      "name": "宁夏启信达建设工程有限公司",
+      "role": "participant",
+      "total_score": 64.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "中科琉光（宁夏）人工智能科技有限公司",
+      "role": "participant",
+      "total_score": 59.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏珩祥智慧科技有限公司",
+      "role": "participant",
+      "total_score": 68.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏复兴建设工程有限公司",
+      "role": "participant",
+      "total_score": 77.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏澳隆能源科技有限公司",
+      "role": "participant",
+      "total_score": 54.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏睿创节能环保科技有限公司",
+      "role": "participant",
+      "total_score": 60.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏泓锦能源科技有限公司",
+      "role": "participant",
+      "total_score": 67.28,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260807_27097823",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表.pdf",
+  "note": "公告标题无包号，包号取附件'包(1)_开标（报价）一览表'等明示的包(1)。概要品目列空，category取HTML标的信息表'品目名称'列=教学仪器；HTML'采购标的'列两行均为'大模型计算卡等设备'，故item_name取中标人报价明细表的货物名称（大模型国产服务器/大模型计算卡），item_no沿用HTML品目号1-1-1/1-1-2。明细2条：300000元×1项+99525元×4台=300000+398100=698100元=总中标金额￥69.8100万，数学一致；明细第2条total_price=398100由单价×数量唯一互推（响应报价列同值）。制造商机（苏州超集信息科技有限公司）按口径不填入brand（brand取品牌列'超集'）。OCR疑点需视觉核验：评审劳务报酬支付表jpg错位严重，出现'70万元'但无法确认是预算还是成交金额，未采用，以报价明细表合计698100元为准。附件'包(1)_开标（报价）一览表'OCR仅表头、'包(1)_投标（响应）报价明细表'为空白模板，未中标供应商报价不可得，participant.amount=null；得分表'得分排名'列空，rank=null（含中标人）。复核：2条明细单价×数量、合计698100、3家bidder得分逐项核对无误；劳务表错位不涉及gold字段，无未决疑点。",
+  "project": {
+    "buyer": "山东石油化工学院",
+    "project_name": "山东石油化工学院计算机学科平台升级与计算中心建设项目",
+    "total_amount": 698100.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东中惠鑫研商贸有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "大模型国产服务器",
+      "brand": "超集",
+      "model": "G448-X4",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "大模型计算卡",
+      "brand": "超集",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 99525.0,
+      "total_price": 398100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东中惠鑫研商贸有限责任公司",
+      "role": "winner",
+      "total_score": 96.34,
+      "rank": null,
+      "amount": 698100.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东安博智能科技有限公司",
+      "role": "participant",
+      "total_score": 83.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东营卓远信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.13,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

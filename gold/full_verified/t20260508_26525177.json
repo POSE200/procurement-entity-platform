@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260508_26525177",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "浙江浙大网新软件产业集团有限公司同时中两个标包（96 万与 85 万）；三包金额 960000+960000+850000=2,770,000 与总中标金额 ￥277 万一致。原文未明示标包号，按表格顺序记为 1/2/3（G4 口径：HTML 结果表标包序号推断，推断需在 note 声明）。品目列仅给末级名「基础软件开发服务」照抄。附件采购文件.doc 未解析（容器拆解后 XML 均被跳过），分项明细不可得，服务标的不填数量/单价。评审总得分为总分制（399.2 等非百分制分值），原文未给排名。复核修正：按 G2 口径，将浙大网新的一条 bidder 拆为两条——2 包（得分 427.4、金额 960000，出自表格2）与 3 包（得分 402.6、金额 850000，出自表格3）各一条。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "江苏省医疗保障局（机关）",
+    "project_name": "江苏省宏观决策大数据应用系统升级（医保政策精算模型）",
+    "total_amount": 2770000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川久远银海软件股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "浙江浙大网新软件产业集团有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "浙江浙大网新软件产业集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "基础软件开发服务",
+      "item_name": "江苏省宏观决策大数据应用系统升级（医保政策精算模型）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 960000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "基础软件开发服务",
+      "item_name": "江苏省宏观决策大数据应用系统升级（医保政策精算模型）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 960000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "基础软件开发服务",
+      "item_name": "江苏省宏观决策大数据应用系统升级（医保政策精算模型）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 850000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川久远银海软件股份有限公司",
+      "role": "winner",
+      "total_score": 399.2,
+      "rank": null,
+      "amount": 960000.0
+    },
+    {
+      "package_no": "2",
+      "name": "浙江浙大网新软件产业集团有限公司",
+      "role": "winner",
+      "total_score": 427.4,
+      "rank": null,
+      "amount": 960000.0
+    },
+    {
+      "package_no": "3",
+      "name": "浙江浙大网新软件产业集团有限公司",
+      "role": "winner",
+      "total_score": 402.6,
+      "rank": null,
+      "amount": 850000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

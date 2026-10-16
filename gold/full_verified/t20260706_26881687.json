@@ -1,0 +1,146 @@
+{
+  "announcement_id": "t20260706_26881687",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表.pdf",
+  "note": "标题明示采购包1，package_no=1。品目列空且 HTML 标的信息表品目名称列为空，category=null。中标人明细取成交供应商响应文件附件 报价明细表.pdf（含品牌型号与分项总价，7条合计65094+6558+16587+5014+10352+5100+95=108800 与成交金额一致）；该表无单价列，unit_price 按 总价/数量 唯一互推（如 65094/12=5424.5）。另存在附件 报价明细表(第1轮-山东鑫清信安信息科技有限公司).pdf，分项价不同（65880/6880/16400/5260/9800/4480/100，合计亦108800），其文件名明示为第1轮报价，磋商多轮报价以成交响应文件版为准，故 items 采用成交版。评分表'得分排名'列空白，所有 bidders 的 rank 均为 null；未中标 3 家报价不可见，amount=null。复核修正：gold_source 原误写为第1轮版文件名，已改为实际取值来源 报价明细表.pdf；版本取舍经复核确认，去除视觉核验待办。",
+  "project": {
+    "buyer": "济南市公安局交通管理支队",
+    "project_name": "济南市公安局交通管理支队历下区大队女子中队数字警务室建设项目",
+    "total_amount": 108800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东鑫清信安信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "液晶拼接屏",
+      "brand": "维康国际",
+      "model": "PJ2000-55",
+      "quantity": 12,
+      "unit": "台",
+      "unit_price": 5424.5,
+      "total_price": 65094.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "视频处理器",
+      "brand": "维康国际",
+      "model": "JZ1000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 6558.0,
+      "total_price": 6558.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "解码器",
+      "brand": "海康威视",
+      "model": "DS-6A12UD",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 16587.0,
+      "total_price": 16587.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "条形屏",
+      "brand": "维康国际",
+      "model": "LED3000-L",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5014.0,
+      "total_price": 5014.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "大屏幕系统整体框架",
+      "brand": "定制",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10352.0,
+      "total_price": 10352.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "综合布线",
+      "brand": "定制",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5100.0,
+      "total_price": 5100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数字警务室大屏控制系统",
+      "brand": "维康国际",
+      "model": "v1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 95.0,
+      "total_price": 95.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鑫清信安信息科技有限公司",
+      "role": "winner",
+      "total_score": 92.42,
+      "rank": null,
+      "amount": 108800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东深彩建筑装饰工程有限公司",
+      "role": "participant",
+      "total_score": 88.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东谷联网络技术有限公司",
+      "role": "participant",
+      "total_score": 82.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南汉驰信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.44,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

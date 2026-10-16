@@ -1,0 +1,182 @@
+{
+  "announcement_id": "t20260803_27062627",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-潍坊昌宇机电设备销售安装有限公司).pdf",
+  "note": "单包货物项目（采购包1）；HTML标的信息表10行的采购标的列均为'门禁控制器等'（未逐行给货物名），item_name按'有附件以附件为准'取报价明细表的货物名称（48口千兆POE交换机等），category照抄HTML品目名称列（各行均为'其他网络设备'）；明细表10行单价×数量合计恰为90000元，与总中标金额9万元一致；评分表得分排名列为空，rank全null；文件集内包(1)_开标一览表为空白模板、包(1)_报价明细表为{供应商响应}占位模板，真值以成交供应商报价明细表为准；采购单位栏为'中国共产党山东省委员会党校'（公告标题用'中共山东省委党校（山东行政学院）'）。",
+  "project": {
+    "buyer": "中国共产党山东省委员会党校",
+    "project_name": "中共山东省委党校（山东行政学院）校园网络升级改造项目",
+    "total_amount": 90000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "潍坊昌宇机电设备销售安装有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他网络设备",
+      "item_name": "48口千兆POE交换机",
+      "brand": "H3C",
+      "model": "H3C US552S-X-P",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 6280.0,
+      "total_price": 6280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他网络设备",
+      "item_name": "24口千兆POE交换机",
+      "brand": "H3C",
+      "model": "H3C US528S-X-HP",
+      "quantity": 13,
+      "unit": "台",
+      "unit_price": 4170.0,
+      "total_price": 54210.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他网络设备",
+      "item_name": "授权扩容",
+      "brand": "H3C",
+      "model": "H3C LIS-WX-64-BE",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4750.0,
+      "total_price": 4750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他网络设备",
+      "item_name": "8口千兆POE交换机",
+      "brand": "光为视讯",
+      "model": "GW-P802GI",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 650.0,
+      "total_price": 3250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他网络设备",
+      "item_name": "光模块",
+      "brand": "H3C",
+      "model": "SFP-GE-LX-SM1310",
+      "quantity": 38,
+      "unit": "个",
+      "unit_price": 210.0,
+      "total_price": 7980.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他网络设备",
+      "item_name": "人脸识别门禁主机",
+      "brand": "海康威视",
+      "model": "DS-K1T673M",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 1840.0,
+      "total_price": 3680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他网络设备",
+      "item_name": "门禁控制器",
+      "brand": "海康威视",
+      "model": "DS-K2601",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 490.0,
+      "total_price": 490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他网络设备",
+      "item_name": "设备网梳理",
+      "brand": "昌宇",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 6000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "其他网络设备",
+      "item_name": "弱电井整改",
+      "brand": "昌宇",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1200.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "其他网络设备",
+      "item_name": "网络机柜",
+      "brand": "图腾",
+      "model": "V6409",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 720.0,
+      "total_price": 2160.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "潍坊昌宇机电设备销售安装有限公司",
+      "role": "winner",
+      "total_score": 93.66,
+      "rank": null,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南欧德威视电子有限公司",
+      "role": "participant",
+      "total_score": 84.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南裕杨科技发展有限公司",
+      "role": "participant",
+      "total_score": 83.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华智信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.84,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

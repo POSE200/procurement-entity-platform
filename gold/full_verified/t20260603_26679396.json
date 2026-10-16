@@ -1,0 +1,175 @@
+{
+  "announcement_id": "t20260603_26679396",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:（发售版）考试院招考业务系统运维项目(一)招标文件5.6.pdf,1包中小企业声明函.pdf,3包中小企业声明函.pdf,4包中小企业声明.pdf",
+  "note": "6个包各自1条服务标的。公告HTML结果表未明示各中标人所属包号：01包（京控云智）、03包（京控云智）、04包（英智兴达）由附件中小企业声明函明示包号与承接企业；02包（卓帆）、05包（联通北京）、06包（博思致新）按『中标金额与该包预算金额一致』推断分配包号（02包12.59万≈预算12.7万且其余包均被明示排除，05包37.8万、06包16.8万与预算精确相等），需视觉核验原公告确认包号对应关系。复核：01/03/04包由三份声明函直接明示（4包函并载项目编号BJJQ-2026-473/04）；02/05/06包按预算排除法唯一确定——联通37.8万超02/06包预算只能为05包、博思致新16.8万超02包预算只能为06包、卓帆12.59万归02包，对应关系无歧义，需视觉核验一项解除；六包之和2386800元核对无误。标的名称/数量1项取自招标文件包表；概要品目列与标的信息表均无品目，category=null；rank原文未给一律null；六包中标金额之和2386800=总中标金额238.68万。",
+  "project": {
+    "buyer": "北京教育考试院",
+    "project_name": "考试院招考业务系统运维项目（一）",
+    "total_amount": 2386800.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "中招办业务系统运维",
+        "winner": "北京京控云智科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "体育与健康知识机考系统运维",
+        "winner": "深圳市卓帆技术有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "高考报名系统运维",
+        "winner": "北京京控云智科技有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "高考综合业务系统运维",
+        "winner": "北京英智兴达信息技术有限公司"
+      },
+      {
+        "package_no": "05",
+        "package_name": "高考志愿填报系统运维",
+        "winner": "中国联合网络通信有限公司北京市分公司"
+      },
+      {
+        "package_no": "06",
+        "package_name": "考试缴费管理系统服务",
+        "winner": "北京博思致新互联网科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "中招办业务系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1036500.0,
+      "total_price": 1036500.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "体育与健康知识机考系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 125900.0,
+      "total_price": 125900.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "高考报名系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 318900.0,
+      "total_price": 318900.0
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "高考综合业务系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 359500.0,
+      "total_price": 359500.0
+    },
+    {
+      "package_no": "05",
+      "item_no": null,
+      "category": null,
+      "item_name": "高考志愿填报系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 378000.0,
+      "total_price": 378000.0
+    },
+    {
+      "package_no": "06",
+      "item_no": null,
+      "category": null,
+      "item_name": "考试缴费管理系统服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 168000.0,
+      "total_price": 168000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京京控云智科技有限公司",
+      "role": "winner",
+      "total_score": 92.79,
+      "rank": null,
+      "amount": 1036500.0
+    },
+    {
+      "package_no": "02",
+      "name": "深圳市卓帆技术有限公司",
+      "role": "winner",
+      "total_score": 91.81,
+      "rank": null,
+      "amount": 125900.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京京控云智科技有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 318900.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京英智兴达信息技术有限公司",
+      "role": "winner",
+      "total_score": 90.6,
+      "rank": null,
+      "amount": 359500.0
+    },
+    {
+      "package_no": "05",
+      "name": "中国联合网络通信有限公司北京市分公司",
+      "role": "winner",
+      "total_score": 90.09,
+      "rank": null,
+      "amount": 378000.0
+    },
+    {
+      "package_no": "06",
+      "name": "北京博思致新互联网科技有限责任公司",
+      "role": "winner",
+      "total_score": 91.4,
+      "rank": null,
+      "amount": 168000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

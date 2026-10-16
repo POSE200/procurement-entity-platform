@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260508_26529397",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "2包（兼投不兼中）：HTML中标表（表格1）两行未标包号，按行序对应包1/包2（移动→包1、联通→包2），两行报价之和699,000+640,000=1,339,000元恰等于总中标金额133.9万元，且均低于采购文件明示的各包最高限价70万元，佐证该对应；附件采购文件仅用于确认分包结构，字段值均来自HTML，gold_source=html；公告概要品目为空且HTML标的表无品目列，category=null；标的表无金额/数量列，item的total_price按对应包中标人报价填，quantity/unit/unit_price为null；项目无废标情形且未公布未中标名单，bidders仅2条winner，rank原文未明示为null。",
+  "project": {
+    "buyer": "山西广播电视台",
+    "project_name": "山西广播电视台互联网专线服务采购项目",
+    "total_amount": 1339000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山西有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司太原市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "1.5G互联网专线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 699000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "互联网专线",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 640000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山西有限公司",
+      "role": "winner",
+      "total_score": 96.57,
+      "rank": null,
+      "amount": 699000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司太原市分公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": null,
+      "amount": 640000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

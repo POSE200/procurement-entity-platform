@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260709_26904057",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:JSZC-320413-JZCG-G2026-0019采购文件.doc",
+  "note": "2个包（01/02）。HTML两张中标信息表未标包号，包归属为推断（已声明）：附件载明最高限价01包73万元/年、02包63.6万元/年且按单年度报价——电信常州分公司722160元≤730000元归01包、移动常州分公司630720元≤636000元归02包，若对调则超限价；两包之和722160+630720=1352880元=总中标金额￥135.288000万元。品目取概要列“网络接入服务”；items的item_name/quantity/unit（1/项）取自附件“包号|标的名称|数量|单位”表（一标段/二标段），单价=中标金额（quantity=1、总价已知，单价×数量唯一互推，note声明此推算）。原文无评审得分、无排名列，total_score/rank=null；仅中标人可见，无未中标主体名单。需视觉核验疑点：HTML“采购单位”为“常州市金坛区数据局（机关）”，附件采购人为“常州市金坛区数据局”。复核修正：按规范第1条「有附件以附件为准」，buyer修正为“常州市金坛区数据局”（（机关）为平台展示后缀，附件「采 购 人：常州市金坛区数据局」为准）；附件为解包doc（55个xml部件被跳过，仅document.xml文本可见），第五章服务需求明细中01/02包实质性条款表格内容在文本层未展开。",
+  "project": {
+    "buyer": "常州市金坛区数据局",
+    "project_name": "常州市金坛区电子政务网及互联网接入服务项目",
+    "total_amount": 1352880.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "常州市金坛区电子政务网及互联网接入服务一标段",
+        "winner": "中国电信股份有限公司常州分公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "常州市金坛区电子政务网及互联网接入服务二标段",
+        "winner": "中国移动通信集团江苏有限公司常州分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": "网络接入服务",
+      "item_name": "常州市金坛区电子政务网及互联网接入服务一标段",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 722160.0,
+      "total_price": 722160.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": "网络接入服务",
+      "item_name": "常州市金坛区电子政务网及互联网接入服务二标段",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 630720.0,
+      "total_price": 630720.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "中国电信股份有限公司常州分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 722160.0
+    },
+    {
+      "package_no": "02",
+      "name": "中国移动通信集团江苏有限公司常州分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 630720.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

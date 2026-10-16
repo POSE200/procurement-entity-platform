@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27107230",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目。package_no=1系依附件文件名'包(1)_开标（报价）一览表.pdf'推断（公告标题无包号）。单条服务标的仅有总金额2993224元（HTML标的信息表金额列），quantity留空、unit=项（原文给出），unit_price按口径留空。附件分项报价表.docx为空白模板（招标文件格式件），'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有水印叠字表头、无数据行——数量/单价线索确不可得，故留null。品目取标的信息表'品目编号及品目名称'列末级名'体育组织服务'（概要品目列为空）。HTML评分表'得分排名/推荐排名'列空白，rank全null。未中标供应商无投标报价可得（开标一览表无数据），amount=null。",
+  "project": {
+    "buyer": "聊城市教育和体育局",
+    "project_name": "聊城市教育和体育局2026年世界大学生智力运动会赛事服务项目",
+    "total_amount": 2993224.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京中锐体育产业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "体育组织服务",
+      "item_name": "聊城市教育和体育局2026年世界大学生智力运动会赛事服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 2993224.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京中锐体育产业有限公司",
+      "role": "winner",
+      "total_score": 89.24,
+      "rank": null,
+      "amount": 2993224.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京康奥体育产业有限公司",
+      "role": "participant",
+      "total_score": 87.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东王冠体育文化发展有限公司",
+      "role": "participant",
+      "total_score": 81.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中奥体育集团山东控股有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

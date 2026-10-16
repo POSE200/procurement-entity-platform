@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260311_26257826",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包，全部真值来自HTML。两标段中标金额926600+148000=1074600元与总中标金额￥107.46万一致。评分表（表格4/5）仅给各评委打分，无综合得分/排名列→total_score与rank=null；未中标原因表（表格6）确认各标段未中标主体。package_no取正文'标段一/标段二'原样。服务标的仅名称与范围/要求/时间/标准，无数量单价→价格字段null。品目列空且标的信息表无品目列→category=null。",
+  "project": {
+    "buyer": "聊城市卫生健康委员会",
+    "project_name": "聊城市卫生健康委员会全民健康信息平台运维服务项目",
+    "total_amount": 1074600.0,
+    "packages": [
+      {
+        "package_no": "标段一",
+        "package_name": "全民健康信息平台运维",
+        "winner": "众阳健康科技集团有限公司"
+      },
+      {
+        "package_no": "标段二",
+        "package_name": "全民健康信息平台安全运维",
+        "winner": "北京天融信网络安全技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "标段一",
+      "item_no": null,
+      "category": null,
+      "item_name": "全民健康信息平台运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "标段二",
+      "item_no": null,
+      "category": null,
+      "item_name": "全民健康信息平台安全运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "标段一",
+      "name": "众阳健康科技集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 926600.0
+    },
+    {
+      "package_no": "标段一",
+      "name": "国友项目管理集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "标段一",
+      "name": "济南聚博商务服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "标段一",
+      "name": "山东淳佑电子科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "标段二",
+      "name": "北京天融信网络安全技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 148000.0
+    },
+    {
+      "package_no": "标段二",
+      "name": "聊城市明阳网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "标段二",
+      "name": "聊城金恒智慧城市运营有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "标段二",
+      "name": "聊城市捷丰智能科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

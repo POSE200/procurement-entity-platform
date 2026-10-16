@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260612_26744880",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "OCR待补：包(1)_投标（响应）报价明细表.pdf、包(1)_开标（报价）一览表.pdf 文本层仅还原出（重复字符）表头、无任何数据行，疑似含标的物单价/总价明细，item的unit_price/total_price暂空（其余附件价格栏均为空白模板，无替代出处）；概要品目列为空，category取HTML标的信息表品目名称列；评分表得分排名/推荐排名列均为空，rank=null（禁止推定中标即第1）；总中标金额850,718元无法与明细逐项核对（明细缺失）；package_no=1取自附件文件名'包(1)_'明示。复核修正：经全文检索确认本包内确无任何单价/总价数据（两份报价PDF仅表头、模板类附件价格栏空白），null为规范终值，移除原『需视觉核验』标记，status改verified。",
+  "project": {
+    "buyer": "山东省地质矿产勘查开发局第四地质大队（山东省第四地质矿产勘查院）",
+    "project_name": "山东省地质矿产勘查开发局第四地质大队（山东省第四地质矿产勘查院）航遥大数据设备采购项目",
+    "total_amount": 850718.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东科普电源系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电源设备",
+      "item_name": "储能设备",
+      "brand": "华为",
+      "model": "UPS5000-E-125K-FX",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他电气设备",
+      "item_name": "制冷系统",
+      "brand": "华为",
+      "model": "NetCol5000-A050H4WE0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "机柜",
+      "item_name": "服务器机柜",
+      "brand": "科谊",
+      "model": "KE-M612",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他仪器仪表",
+      "item_name": "动力环境监控系统",
+      "brand": "科谊",
+      "model": "KEIT-DCIMCS V4.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东科普电源系统有限公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": null,
+      "amount": 850718.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东天启智能工程有限公司",
+      "role": "participant",
+      "total_score": 80.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东八马科技有限公司",
+      "role": "participant",
+      "total_score": 79.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊升华信息网络有限公司",
+      "role": "participant",
+      "total_score": 79.17,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260603_26680177",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（全文无合同包/标包编号，package_no=null）。概要品目列只给编码「A02010199,A05010602,A05010299」且与3条明细的对应关系无出处，无法逐条映射，故category退用HTML标的信息表品目名称列（其他计算机/金属质架类/其他台、桌类）。表格2「货物类」为分节标题，未当品目。重要疑点：HTML标的信息表只列出3条货物明细（9900+132095+1800=143,795元），远小于总中标金额696,260元，公告未给出其余分项明细（附件招标文件正文.pdf仅前30页无报价明细，本国产品.pdf为OCR声明函列出约50种产品但不能提供单价数量），明细不完整属公告本身缺失，未虚构补全。密集架数量91.1为原文小数（1450×91.1=132,095成立），unit原文未给=null。评分表（表格3）只有得分列无排名列，rank一律null（含中标人中移建设88.32分）。需视觉核验：①密集架规格型号「HDDAZ23」（本国产品声明函中写作HDDA-Z23）；②控制终端规格「H880-T1 /TF24E2-FVH1」的斜杠分隔两型号是否为原文样式；③概要品目3个编码与3条明细的对应顺序。；终审：明细缺失系公告自身未披露，型号取HTML版HDDAZ23（声明函HDDA-Z23系OCR断字），verified",
+  "project": {
+    "buyer": "金凤区人民检察院",
+    "project_name": "金凤区人民检察院数字档案室建设项目",
+    "total_amount": 696260.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "中移建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他计算机",
+      "item_name": "控制终端",
+      "brand": "超翔",
+      "model": "H880-T1 /TF24E2-FVH1",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 4950.0,
+      "total_price": 9900.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "金属质架类",
+      "item_name": "档案智能密集架",
+      "brand": "HDF",
+      "model": "HDDAZ23",
+      "quantity": 91.1,
+      "unit": null,
+      "unit_price": 1450.0,
+      "total_price": 132095.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "其他台、桌类",
+      "item_name": "办公桌",
+      "brand": "中誉",
+      "model": "定制",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中移建设有限公司",
+      "role": "winner",
+      "total_score": 88.32,
+      "rank": null,
+      "amount": 696260.0
+    },
+    {
+      "package_no": null,
+      "name": "宁夏天地华宇科技有限公司",
+      "role": "participant",
+      "total_score": 81.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "江西金虎保险设备集团有限公司",
+      "role": "participant",
+      "total_score": 84.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏丰安鑫商贸有限公司",
+      "role": "participant",
+      "total_score": 82.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

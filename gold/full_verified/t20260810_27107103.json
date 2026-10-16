@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27107103",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东正云信息科技有限公司).pdf",
+  "note": "附件「报价明细表(第1轮-山东正云信息科技有限公司).pdf」已在附件内容中找到并核对：单价498000元×数量1.0000项=响应报价498000元，与中标金额、总中标金额￥49.800000万一致。概要品目列为空，category取标的信息表「品目编号及品目名称」列「行业应用软件开发服务」。评分表得分排名列空白，所有bidders rank=null。无OCR待补（案例一览表为已OCR图片但仅含业绩，不影响字段）。",
+  "project": {
+    "buyer": "泰安市医疗保险事业中心",
+    "project_name": "泰安医保网络安全服务项目",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东正云信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "泰安医保网络安全服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 498000.0,
+      "total_price": 498000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东正云信息科技有限公司",
+      "role": "winner",
+      "total_score": 85.04,
+      "rank": null,
+      "amount": 498000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南众甲网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东万春网络工程有限公司",
+      "role": "participant",
+      "total_score": 72.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南子睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 65.46,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

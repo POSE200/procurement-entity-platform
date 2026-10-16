@@ -1,0 +1,376 @@
+{
+  "announcement_id": "t20260508_26525340",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中标公告 -.doc",
+  "note": "公告概要品目列与HTML标的信息表均无品目列，category=null；项目含第1-4包（评审专家名单提及），但中标公告只载明1/3/4标段中标，标段2无任何中标信息，packages仅列1/3/4；三标段中标金额2755400+2172000+1950000=6877400元恰等于总中标金额687.74万元，数学自洽；数量单位取自附件中标公告doc（套/台/项），HTML表格1无单位列；item_no原文无序号，为null；4标段「配套环境改造及系统集成」品牌/规格原文即为定制/国优，照抄；rank未明示，null。",
+  "project": {
+    "buyer": "云南艺术学院",
+    "project_name": "云南艺术学院设备更新-设计学院瞬时数字采集与资源管理中心设备采购",
+    "total_amount": 6877400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "云南艺术学院设备更新-设计学院瞬时数字采集与资源管理中心设备采购1标段",
+        "winner": "嘉兴超维信息技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "云南艺术学院设备更新-设计学院瞬时数字采集与资源管理中心设备采购3标段",
+        "winner": "天津市疆一传媒科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "云南艺术学院设备更新-设计学院瞬时数字采集与资源管理中心设备采购4标段",
+        "winner": "云南联科科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "成像单元",
+      "brand": "超维",
+      "model": "BodyCapture",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 975000.0,
+      "total_price": 975000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "光场灯光单元",
+      "brand": "超维",
+      "model": "BodyCapture",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 446800.0,
+      "total_price": 446800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据处理工作站",
+      "brand": "超维",
+      "model": "BodyCapture",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 267800.0,
+      "total_price": 267800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "设备控制工作站",
+      "brand": "华硕",
+      "model": "定制组装",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 68000.0,
+      "total_price": 136000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "集成控制系统",
+      "brand": "超维",
+      "model": "BodyCapture",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 645800.0,
+      "total_price": 645800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "移动模型处理工作站",
+      "brand": "华硕",
+      "model": "定制组装",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 42000.0,
+      "total_price": 84000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "空调机组",
+      "brand": "美的",
+      "model": "MDV-260W 及MDV-D63T2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "新风系统",
+      "brand": "贝澳乐",
+      "model": "DUT25 -4000F",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "配套环境改造及系统集成",
+      "brand": "超维",
+      "model": "/",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 142000.0,
+      "total_price": 142000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "主控渲染监视系统",
+      "brand": "MRSTAGE",
+      "model": "RS4Y",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 276500.0,
+      "total_price": 276500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "深度数据处理系统",
+      "brand": "MRSTAGE",
+      "model": "ZT4Y",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 294800.0,
+      "total_price": 294800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "虚拟资产制作系统",
+      "brand": "MRSTAGE",
+      "model": "ZMR",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 279800.0,
+      "total_price": 279800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "机械臂",
+      "brand": "疆一",
+      "model": "CRV 10",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 279500.0,
+      "total_price": 279500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "拍摄摇臂",
+      "brand": "科尔信",
+      "model": "Ker-3ML",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 26500.0,
+      "total_price": 26500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "大功率影视灯光套装",
+      "brand": "南光",
+      "model": "Evoke 1200B",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 37500.0,
+      "total_price": 75000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "太空灯",
+      "brand": "秦光影视",
+      "model": "TkS600W",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 6900.0,
+      "total_price": 41400.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "监视记录系统",
+      "brand": "奥视威",
+      "model": "DM-216H",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 18850.0,
+      "total_price": 18850.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "虚幻深度光影融合摄影机组",
+      "brand": "MRSTAGE",
+      "model": "ZRIG-X",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 349800.0,
+      "total_price": 349800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光学跟踪传感器",
+      "brand": "MRSTAGE",
+      "model": "ZTRACK-S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 124800.0,
+      "total_price": 124800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "音频拾音系统",
+      "brand": "意美捷",
+      "model": "BCP100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 6950.0,
+      "total_price": 6950.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "AI虚拟合成系统",
+      "brand": "MRSTAGE",
+      "model": "X7",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 298800.0,
+      "total_price": 298800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "配套环境改造及系统集成",
+      "brand": "疆一",
+      "model": "国标定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 99300.0,
+      "total_price": 99300.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "资源存储管理系统",
+      "brand": "华硕/云轴/数存",
+      "model": "RS720-E11-RS12ZStack分布式存储V3.0、Datapp-NBP海量数据备份管理软件V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 586300.0,
+      "total_price": 586300.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能引擎AI融合计算平台",
+      "brand": "华硕/云宏",
+      "model": "ESC8000A-E13-DR、ESC4000A-E12CNware WinSphere-8.2.2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1186800.0,
+      "total_price": 1186800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "创作渲染云桌面管理系统",
+      "brand": "艾讯云",
+      "model": "艾讯云桌面软件V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 91200.0,
+      "total_price": 91200.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "配套环境改造及系统集成",
+      "brand": "定制",
+      "model": "国优",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 85700.0,
+      "total_price": 85700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "嘉兴超维信息技术有限公司",
+      "role": "winner",
+      "total_score": 97.14,
+      "rank": null,
+      "amount": 2755400.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津市疆一传媒科技有限公司",
+      "role": "winner",
+      "total_score": 96.5,
+      "rank": null,
+      "amount": 2172000.0
+    },
+    {
+      "package_no": "4",
+      "name": "云南联科科技有限公司",
+      "role": "winner",
+      "total_score": 96.45,
+      "rank": null,
+      "amount": 1950000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260306_26237513",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "已通过OCR补齐：分项报价表.pdf（价款形式：总价，包号1，投标人数字广东网络建设有限公司），唯一明细行品目号1-1：单价1,626,800、数量1(项)、总价1,626,800.00，三值自洽且与中标金额一致。OCR行内服务名称/服务范围等文字列碎裂乱序，但价格三列清晰无歧义。可见文本无其他采购包；附件分项报价表明写「包号：1」。评分表（表格2）同时有『评分排名』与『名次』两列，第3、4行名次列为'-'，rank 取评分排名列（3、4）；participant 的 amount 取评分表报价列的投标报价。中标金额 1626800 元与总中标金额 ￥162.68 万元一致。复核修正：按新口径G4，package_no 由 null 改为 1（附件分项报价表明示「包号：1」），items.package_no 同步。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "广州市消防救援支队",
+    "project_name": "广州市消防救援支队2025-2026年信息化运维项目",
+    "total_amount": 1626800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "广州市消防救援支队2025-2026年信息化运维项目（二次）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1626800.0,
+      "total_price": 1626800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 88.86,
+      "rank": 1,
+      "amount": 1626800.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 87.9,
+      "rank": 2,
+      "amount": 1684680.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 79.22,
+      "rank": 3,
+      "amount": 1685000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东慧云科技股份有限公司",
+      "role": "participant",
+      "total_score": 71.44,
+      "rank": 4,
+      "amount": 1678800.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

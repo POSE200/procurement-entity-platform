@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260311_26258009",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:2641STC60398_01包招标文件发售稿_北京市测绘设计研究院水准外业观测工作.pdf",
+  "note": "4个包（01-04）。HTML结果表未给包号，包号01-04及包名称取自附件招标文件的包标的表；中标行与包的对应关系依行序及各包预算（173.6/144.5/449.3/222.6万元）与中标金额（173.196/144.0376/447.86224/220.24万元）一一吻合确认。item_name取附件包标的表的'标的名称'列；HTML商品名称列为空，品目列空故category=null。各包中标金额之和985.33584万元与总中标金额一致；评审总得分有明示，排名未明示故rank=null。",
+  "project": {
+    "buyer": "北京市测绘设计研究院",
+    "project_name": "水准外业观测和图元数据更新项目",
+    "total_amount": 9853358.4,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "水准外业观测工作",
+        "winner": "自然资源部第二大地测量队（黑龙江第一测绘工程院）"
+      },
+      {
+        "package_no": "02",
+        "package_name": "四环外（大兴区）部分平原地区范围图元数据更新",
+        "winner": "自然资源部第二大地测量队（黑龙江第一测绘工程院）"
+      },
+      {
+        "package_no": "03",
+        "package_name": "四环外（昌平区、怀柔区、顺义区、密云区、平谷区、房山区、门头沟区、延庆区）部分平原地区范围图元数据更新",
+        "winner": "辽宁经纬测绘规划建设股份有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "山区指定范围图元数据更新",
+        "winner": "中国建筑材料工业地质勘查中心河北总队"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "水准外业观测工作",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1731960.0,
+      "total_price": 1731960.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "四环外（大兴区）部分平原地区范围图元数据更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1440376.0,
+      "total_price": 1440376.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "四环外（昌平区、怀柔区、顺义区、密云区、平谷区、房山区、门头沟区、延庆区）部分平原地区范围图元数据更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 4478622.4,
+      "total_price": 4478622.4
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "山区指定范围图元数据更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2202400.0,
+      "total_price": 2202400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "自然资源部第二大地测量队（黑龙江第一测绘工程院）",
+      "role": "winner",
+      "total_score": 98.8,
+      "rank": null,
+      "amount": 1731960.0
+    },
+    {
+      "package_no": "02",
+      "name": "自然资源部第二大地测量队（黑龙江第一测绘工程院）",
+      "role": "winner",
+      "total_score": 96.4,
+      "rank": null,
+      "amount": 1440376.0
+    },
+    {
+      "package_no": "03",
+      "name": "辽宁经纬测绘规划建设股份有限公司",
+      "role": "winner",
+      "total_score": 97.2,
+      "rank": null,
+      "amount": 4478622.4
+    },
+    {
+      "package_no": "04",
+      "name": "中国建筑材料工业地质勘查中心河北总队",
+      "role": "winner",
+      "total_score": 94.69,
+      "rank": null,
+      "amount": 2202400.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "announcement_id": "t20260508_26523854",
+  "annotated_at": "2026-09-23-verified",
+  "status": "corrected_pending_full_review",
+  "gold_source": "html+attachment:广东省特检院在用电梯监督抽查系统运维服务等现有系统维护采购项目单一来源采购文件（2026042205）.pdf",
+  "note": "本次按成交口径修正：包1/2/3唯一服务标的总价为149600/120000/126800元；包4和5仅明确包总额80000/200000元，保留于winner.amount，不分摊到各分项。原预算来源的数量、单位、单价与分项金额移至budget_reference_items，成交字段无直接依据留null。预算数据不进入基础准确性评分。",
+  "project": {
+    "buyer": "广东省特种设备检测研究院",
+    "project_name": "广东省特检院在用电梯监督抽查系统运维服务等现有系统维护采购项目",
+    "total_amount": 676400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省特检院在用电梯监督抽查系统运维服务项目",
+        "winner": "东莞市理工软件有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "综合信息管理平台运维服务项目",
+        "winner": "深圳建广数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "广东省特检院型式试验业务管理系统运维服务项目",
+        "winner": "福州开发区创达电子有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "广东省特检院智慧特检云平台运维服务项目",
+        "winner": "广东省电信规划设计院有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "财务内控信息化系统运维服务及友报账云服务租用项目",
+        "winner": "用友网络科技股份有限公司佛山分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院在用电梯监督抽查系统运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 149600
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "综合信息管理平台运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 120000
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院型式试验业务管理系统运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 126800
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院智慧特检云平台运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-2",
+      "category": "行业应用软件开发服务",
+      "item_name": "广东省特检院智慧特检云平台定制开发优化服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "软件运维服务",
+      "item_name": "财务内控信息化系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-2",
+      "category": "行业应用软件开发服务",
+      "item_name": "财务内控信息化系统定制开发优化服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-3",
+      "category": "软件运营服务",
+      "item_name": "友报账云服务租用项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东莞市理工软件有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 149600.0
+    },
+    {
+      "package_no": "2",
+      "name": "深圳建广数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 120000.0
+    },
+    {
+      "package_no": "3",
+      "name": "福州开发区创达电子有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 126800.0
+    },
+    {
+      "package_no": "4",
+      "name": "广东省电信规划设计院有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "5",
+      "name": "用友网络科技股份有限公司佛山分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 200000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v2",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "本轮仅三篇已确认问题修正；全量语义和SFT输入未验收"
+  },
+  "budget_reference_items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院在用电梯监督抽查系统运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "综合信息管理平台运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院型式试验业务管理系统运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 130000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "软件运维服务",
+      "item_name": "广东省特检院智慧特检云平台运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 56000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-2",
+      "category": "行业应用软件开发服务",
+      "item_name": "广东省特检院智慧特检云平台定制开发优化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "软件运维服务",
+      "item_name": "财务内控信息化系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 151600.0,
+      "total_price": 151600.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-2",
+      "category": "行业应用软件开发服务",
+      "item_name": "财务内控信息化系统定制开发优化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-3",
+      "category": "软件运营服务",
+      "item_name": "友报账云服务租用项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 38400.0,
+      "total_price": 38400.0
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260702_26859657",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf,图书馆数据库采购二批次采购项目(二次)谈判文件（N510001202600045320260612001）.docx",
+  "note": "三包供应商与成交候选排序以附件评审情况表为准（'第N成交候选人'明示，rank按此填1/2/3）；包1=SCIE、包2=Scifinder、包3=Cochrane 的包↔标的映射已由谈判文件3.2技术要求明示（采购包1：SCIE…/采购包2：Scifinder…/采购包3：Cochrane…），且与三包预算85万/27.5万/6.6万及成交金额逐一吻合；品目取概要列'C17020000 互联网信息服务'原样；HTML标的表响应报价列为模板错误残留（priceSummaryList占位符），且包(1)(2)(3)_报价表.pdf附件为空表头，故items金额与数量均null；三包金额之和848,850+272,000+65,500=1,186,350元恰等于总成交金额；附件OCR繁体部件字'⼝'已归一为'口'。复核：三包评审表候选人/报价、包映射出处已独立核对，确认通过。",
+  "project": {
+    "buyer": "成都医学院",
+    "project_name": "图书馆数据库采购二批次采购项目(二次)",
+    "total_amount": 1186350.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国图书进出口（集团）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国科技资料进出口有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中国科技资料进出口有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "SCIE科学引文索引数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "Scifinder（美国化学文摘数据库）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "Cochrane Library（考克兰图书馆）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 848850.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 849450.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 849700.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 272000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 274000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 274890.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 65500.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 65800.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 65975.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "announcement_id": "t20260812_27119852",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（浙江朗域视觉科技有限公司）.pdf",
+  "note": "总成交金额栏为占位值「￥0.000000万元」，按占位总额处理total_amount=null；成交方式为折扣率报价（表格1「折扣率：96.60%」），公告未给出成交金额，bidders.amount=null；附件明细表单价/数量/折扣率/总价四列清晰可辨，6项均单价=总价（如945,000/1(项)/96.6/945,000.00），系原文即如此（折扣率未在总价中体现，属原始数据口径问题，非OCR错读），6项合计3,505,000.0元；品目取HTML标的表「品目名称」列（概要品目列为空）；4家供应商得分与得分排名原文明示（安徽天工「推荐排名」列空，得分排名=4照抄）。复核修正：单价=总价与折扣率列并存的现象已在附件文本层确认，无未决视觉核验项。",
+  "project": {
+    "buyer": "广州市白云山风景名胜区管理局",
+    "project_name": "广州市白云山风景名胜区2026年城维计划—景区日常基础设施维护及环境综合整治经费--景区导览系统整体提升项目（第一期）带量采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "白云山风景名胜区2026年城维计划—景区日常基础设施维护及环境综合整治经费--景区导览系统整体提升项目（第一期）",
+        "winner": "浙江朗域视觉科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山明珠楼景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 945000.0,
+      "total_price": 945000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山雕塑景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山鸣春谷景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 950000.0,
+      "total_price": 950000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山麓湖景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山摩星岭景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 700000.0,
+      "total_price": 700000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "市政公用设施管理服务",
+      "item_name": "广州市白云山云台景区管理中心城维计划—景区日常基础设施维护及环境综合整治经费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 530000.0,
+      "total_price": 530000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浙江朗域视觉科技有限公司",
+      "role": "winner",
+      "total_score": 85.83,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州土星铱人文化传媒科技有限公司",
+      "role": "participant",
+      "total_score": 57.81,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市自由空间标识有限公司",
+      "role": "participant",
+      "total_score": 53.86,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "安徽天工标识标牌股份有限公司",
+      "role": "participant",
+      "total_score": 49.71,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

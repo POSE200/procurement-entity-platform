@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260810_27101421",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包：项目名/标题明示'包B实体数据更新'→package_no='B'，package_name='实体数据更新'；品目列空，正文'服务类'为分节标题不算品目→category=null；服务标的仅一个总金额（中标金额599380.00元，与概要59.938万元一致），数量/单价无线索→null，item.total_price取该单标的项目中标金额；无未中标名单，bidders仅winner一条，评审得分未公布→total_score=null。",
+  "project": {
+    "buyer": "寿光市自然资源和规划局",
+    "project_name": "山东省潍坊市寿光市自然资源和规划局2026年基础测绘项目-基础地理信息数据库更新采购项目",
+    "total_amount": 599380.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": "实体数据更新",
+        "winner": "山东正元航空遥感技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "基础地理信息数据库更新采购项目包B实体数据更新服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 599380.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东正元航空遥感技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 599380.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

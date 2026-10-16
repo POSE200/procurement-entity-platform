@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260707_26888137",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "三包结果公告；三包中标金额之和 47,000+565,000+68,000=680,000=总中标金额68万，核验一致。概要品目列空，category 取 HTML 标的信息表品目名称列原文「C19990000 其他专业技术服务」（含编号前缀，照抄）。HTML 标的信息表响应报价栏为模板渲染残留值（0}\"...），各包标的 total_price 取供应商评审情况表中该包第一中标候选人报价金额（与中标金额一致）；无分项数量/单价，quantity/unit_price 为 null。rank 取自评审情况表「第N中标候选人」表述（明示）；包2 的四川省川核测绘地理信息有限公司未列入中标候选人，rank=null。包级合同包名称原文未给，package_name=null。中小企业声明函为声明性文件不提供真值字段。复核修正：item_no 原填 1 系自造序号，原文无序号但有品目编号列，按规范保留原文品目号 C19990000。",
+  "project": {
+    "buyer": "四川省国土科学技术研究院（四川省卫星应用技术中心）",
+    "project_name": "盐源抽水蓄能电站界桩测量埋设及勘测定界等专题外业工作",
+    "total_amount": 680000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川汇亿世纪科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "西安建材地质工程勘察院有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "柒零叁信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "C19990000",
+      "category": "C19990000 其他专业技术服务",
+      "item_name": "非农痕迹核查技术辅助工作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 47000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "C19990000",
+      "category": "C19990000 其他专业技术服务",
+      "item_name": "界桩测量埋设及勘测定界外业辅助工作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 565000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "C19990000",
+      "category": "C19990000 其他专业技术服务",
+      "item_name": "征地社会稳定风险评估外业辅助工作",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 68000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川汇亿世纪科技有限公司",
+      "role": "winner",
+      "total_score": 98.4,
+      "rank": 1,
+      "amount": 47000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川正维空间科技有限公司",
+      "role": "participant",
+      "total_score": 93.11,
+      "rank": 2,
+      "amount": 47450.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川弘毅拓新工程技术有限公司",
+      "role": "participant",
+      "total_score": 90.63,
+      "rank": 3,
+      "amount": 47400.0
+    },
+    {
+      "package_no": "2",
+      "name": "西安建材地质工程勘察院有限公司",
+      "role": "winner",
+      "total_score": 97.32,
+      "rank": 1,
+      "amount": 565000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川和兴勘测设计有限公司",
+      "role": "participant",
+      "total_score": 93.6,
+      "rank": 2,
+      "amount": 560000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中建材西南勘测设计有限公司",
+      "role": "participant",
+      "total_score": 93.16,
+      "rank": 3,
+      "amount": 569800.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川省川核测绘地理信息有限公司",
+      "role": "participant",
+      "total_score": 90.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "柒零叁信息科技有限公司",
+      "role": "winner",
+      "total_score": 98.4,
+      "rank": 1,
+      "amount": 68000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川省地质测绘院有限公司",
+      "role": "participant",
+      "total_score": 91.83,
+      "rank": 2,
+      "amount": 70000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川冶勘汇宇地理信息有限公司",
+      "role": "participant",
+      "total_score": 91.14,
+      "rank": 3,
+      "amount": 69600.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

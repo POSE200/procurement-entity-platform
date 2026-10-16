@@ -1,0 +1,187 @@
+{
+  "announcement_id": "t20260811_27110283",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东安联网络安全技术有限公司）.pdf,合同包2：报价明细附件（江西神舟信息安全评估中心有限公司）.pdf",
+  "note": "两包项目：包1网络安全运营服务（中标1,770,000元）+包2等级保护测评服务（中标440,000元），两包之和=2,210,000元=总中标金额221万元，数学自洽。报价明细附件zip被跳过但其解包内容（合同包1/包2报价明细附件.pdf）均在附件内容中解析成功并核对（单价=总价，数量1项）。品目取HTML标的信息表品目名称列（概要品目列空）。评分表分列两包，rank为原文得分排名列明示值。",
+  "project": {
+    "buyer": "广东省监狱管理局",
+    "project_name": "省监狱局网络安全运营服务（2026年）项目(二次)",
+    "total_amount": 2210000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络安全运营服务",
+        "winner": "广东安联网络安全技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "等级保护测评服务",
+        "winner": "江西神舟信息安全评估中心有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "运营服务",
+      "item_name": "网络安全运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1770000.0,
+      "total_price": 1770000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "等级保护测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 440000.0,
+      "total_price": 440000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东安联网络安全技术有限公司",
+      "role": "winner",
+      "total_score": 95.88,
+      "rank": 1,
+      "amount": 1770000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中网讯信息科技（广州）有限公司",
+      "role": "participant",
+      "total_score": 94.93,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东运通奇安科技有限公司",
+      "role": "participant",
+      "total_score": 93.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东中科网新信息科技有限公司",
+      "role": "participant",
+      "total_score": 92.39,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东颐点科技有限公司",
+      "role": "participant",
+      "total_score": 82.2,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州鑫逾越信息技术有限公司",
+      "role": "participant",
+      "total_score": 80.3,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "江西神舟信息安全评估中心有限公司",
+      "role": "winner",
+      "total_score": 88.6,
+      "rank": 1,
+      "amount": 440000.0
+    },
+    {
+      "package_no": "2",
+      "name": "新潮睿石信息技术有限公司",
+      "role": "participant",
+      "total_score": 87.53,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 86.53,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市盛通建设工程质量检测有限公司",
+      "role": "participant",
+      "total_score": 85.31,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中检集团天帷网络安全技术（合肥）有限公司",
+      "role": "participant",
+      "total_score": 84.77,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京时代新威信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.71,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": 84.3,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州华南检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 82.55,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市博通智能技术有限公司",
+      "role": "participant",
+      "total_score": 75.54,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 64.09,
+      "rank": 10,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260805_27080437",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_结果公告附件\\结果公告附件\\包一\\12报价明细表.pdf,_unpacked_结果公告附件\\结果公告附件\\包二\\12报价明细表.pdf",
+  "note": "两包：包1成交移动（95.00分）、包2成交联通威海分公司（94.67分），包2中移动综合得分同为94.67但因『在包1成交』未中标；总中标金额￥0.039600万元=396元=两包中标金额198+198之和（复核：金额均为原文明示的198.00元，无需视觉核验），198元实为单价（执行标准栏：单价198.00元，单位元/月/部），终端数量（部数）原文未给→quantity=null、unit_price=198、total_price=198；附件包一/包二报价明细表为单价构成（包一143+5+50=198、包二148+0+50=198，空窗期通讯费50元为据实结算另计不计入合计）；得分排名列均为空→rank=null；package_no取结果公告附件『包一/包二』目录名及HTML品目号1-1/2-1；概要品目列为空，category取HTML品目编号及品目名称列『其他运营服务』。",
+  "project": {
+    "buyer": "威海市公安局临港经济技术开发区分局",
+    "project_name": "威海市公安局临港经济技术开发区分局2026年移动警务终端服务项目",
+    "total_amount": 396.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司威海市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "威海市公安局临港经济技术开发区分局2026年移动警务终端服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "元/月/部",
+      "unit_price": 198.0,
+      "total_price": 198.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运营服务",
+      "item_name": "威海市公安局临港经济技术开发区分局2026年移动警务终端服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "元/月/部",
+      "unit_price": 198.0,
+      "total_price": 198.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": null,
+      "amount": 198.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司威海市分公司",
+      "role": "participant",
+      "total_score": 94.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "威海万维传媒有限公司",
+      "role": "participant",
+      "total_score": 61.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东奥维乾银信息科技有限公司",
+      "role": "participant",
+      "total_score": 50.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司威海市分公司",
+      "role": "winner",
+      "total_score": 94.67,
+      "rank": null,
+      "amount": 198.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 94.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "威海万维传媒有限公司",
+      "role": "participant",
+      "total_score": 61.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东奥维乾银信息科技有限公司",
+      "role": "participant",
+      "total_score": 50.33,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

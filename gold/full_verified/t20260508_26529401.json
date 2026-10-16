@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260508_26529401",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告概要品目列为项目级代码串（A02010104,A02010104,A02019900）且无法逐条确认与item的对应，category 取HTML标的信息表「品目名称」列（服务器/服务器/其他信息化设备）；3条item均为数量1，186,800+164,200+520,200=871,200元恰等于总中标金额87.12万元，数学自洽；标的信息表序号列为空，item_no=null；数量列无计量单位，unit=null；项目不分包，package_no=null；评分表「备注」列明示第1-6名，rank照抄；未中标5家无报价，amount=null。附件招标文件仅前30页且未提供明细字段值，字段值均来自HTML。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "石嘴山市公安局",
+    "project_name": "石嘴山市公安局涉案视频图像实战应用平台",
+    "total_amount": 871200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "宁夏众兴合创自动化科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务器",
+      "item_name": "涉案视频图像串并分析服务器",
+      "brand": "浪潮",
+      "model": "CS5280H2",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 186800.0,
+      "total_price": 186800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务器",
+      "item_name": "视频存储服务器",
+      "brand": "浪潮",
+      "model": "CS5260H2",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 164200.0,
+      "total_price": 164200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他信息化设备",
+      "item_name": "涉案视频图像智能串并分析系统",
+      "brand": "金世达",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 520200.0,
+      "total_price": 520200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁夏众兴合创自动化科技有限公司",
+      "role": "winner",
+      "total_score": 92.17,
+      "rank": 1,
+      "amount": 871200.0
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏云洲信息科技有限公司",
+      "role": "participant",
+      "total_score": 86.06,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏桥石科技有限公司",
+      "role": "participant",
+      "total_score": 75.09,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏胜聚智能科技有限公司",
+      "role": "participant",
+      "total_score": 74.1,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏利昌德商贸有限公司",
+      "role": "participant",
+      "total_score": 71.37,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "陕西大妍信息安全技术有限公司",
+      "role": "participant",
+      "total_score": 70.99,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

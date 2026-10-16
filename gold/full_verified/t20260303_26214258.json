@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260303_26214258",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目取自标的信息表品目名称列（概要品目列为空）；1-4服务标金额列空缺留null，货物明细合计730800元≠总成交金额809800元，差额79000元疑似1-4服务金额但原文未写，未推算；附件《报价明细附件》为html未知类型被跳过，明细以HTML标的信息表为准；package_no=1来自合同包1（附件名及代理费表合同包号）。",
+  "project": {
+    "buyer": "松山湖材料实验室",
+    "project_name": "松山湖材料实验室超融合一体化设备及服务采购项目",
+    "total_amount": 809800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "超融合一体化设备及服务",
+        "winner": "广东数为信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务器",
+      "item_name": "超融合一体机",
+      "brand": "华为",
+      "model": "FusionCube 1000-DP2220",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 185600.0,
+      "total_price": 556800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "基础软件",
+      "item_name": "虚拟化软件授权",
+      "brand": "华为",
+      "model": "DCS虚拟化套件",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 42000.0,
+      "total_price": 42000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "交换设备",
+      "item_name": "万兆交换机",
+      "brand": "华为",
+      "model": "CE6881H-48S6CQ",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 66000.0,
+      "total_price": 132000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他系统集成实施服务",
+      "item_name": "超融合实施及数据迁移服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东数为信息科技有限公司",
+      "role": "winner",
+      "total_score": 81.23,
+      "rank": 1,
+      "amount": 809800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东优尔能信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.7,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东品云信息技术有限公司",
+      "role": "participant",
+      "total_score": 53.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 44.58,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

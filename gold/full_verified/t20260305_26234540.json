@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260305_26234540",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空；标的信息表（表格3）首列『服务类』为分节标题，按规范不作品目，故 category=null。附件 公开招标文件.docx 跳过未知类型未解析，无分项报价明细。4 条 item 的名称与数量取自标的表服务范围列的原文计数（租赁台次）：3731台次屏蔽器、379台次身份识别仪+隐形耳机探测仪、194台次智能安检门、68台次UPS；项目名称中的『防作弊器』对应服务范围用词『屏蔽器』，item_name 照抄服务范围。仅给台次数，单价/总价原文未披露，unit_price/total_price 均为 null。单包（第1包）无独立包名，package_name=null。中标金额 115.98万元=1159800元 与总中标金额一致；评审报价万元→元换算：115.73万=1157300元、93.8424万=938424元。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "天津市滨海新区招生考试中心",
+    "project_name": "2026年滨海新区教育考试租赁防作弊器、智能安检门、UPS项目",
+    "total_amount": 1159800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中移系统集成有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "屏蔽器",
+      "brand": null,
+      "model": null,
+      "quantity": 3731,
+      "unit": "台次",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "身份识别仪+隐形耳机探测仪",
+      "brand": null,
+      "model": null,
+      "quantity": 379,
+      "unit": "台次",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能安检门",
+      "brand": null,
+      "model": null,
+      "quantity": 194,
+      "unit": "台次",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "UPS",
+      "brand": null,
+      "model": null,
+      "quantity": 68,
+      "unit": "台次",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中移系统集成有限公司",
+      "role": "winner",
+      "total_score": 97.29,
+      "rank": 1,
+      "amount": 1159800.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津中科汇智科技有限公司",
+      "role": "participant",
+      "total_score": 86.91,
+      "rank": 2,
+      "amount": 1157300.0
+    },
+    {
+      "package_no": "1",
+      "name": "智慧（天津）信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.4,
+      "rank": 3,
+      "amount": 938424.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

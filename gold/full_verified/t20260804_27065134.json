@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27065134",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列为空，category 取主要标的信息表品目名称列「硬件运维服务」；单价/数量/总价取自中标人报价明细附件（2,615,000元×1项）；评审表得分排名列明示，rank 据此填写；包金额2,615,000元=总额，数学自查通过。",
+  "project": {
+    "buyer": "广州市公安局",
+    "project_name": "广州市公安局交管支队2026年信息化运维项目-GZ-ITMS桌面、硬件及网络基础设施维护项目(二次)",
+    "total_amount": 2615000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市公安局交管支队2026年信息化运维项目-GZ-ITMS桌面、硬件及网络基础设施维护项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "广州市公安局交管支队2026年信息化运维项目-GZ-ITMS桌面、硬件及网络基础设施维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2615000.0,
+      "total_price": 2615000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 98.4,
+      "rank": 1,
+      "amount": 2615000.0
+    },
+    {
+      "package_no": "1",
+      "name": "华鑫技术有限公司",
+      "role": "participant",
+      "total_score": 82.02,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州沃龙信息技术有限公司",
+      "role": "participant",
+      "total_score": 53.87,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市单元信息科技有限公司",
+      "role": "participant",
+      "total_score": 53.76,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

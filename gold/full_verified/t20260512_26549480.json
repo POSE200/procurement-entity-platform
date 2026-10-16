@@ -1,0 +1,112 @@
+{
+  "announcement_id": "t20260512_26549480",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:【招标文件】清华大学局部河流模拟系统.pdf",
+  "note": "HTML中标表按序号1/2/3列出3家供应商及所投货物，与招标文件包号01/02/03的标的一一对应，序号→包号的映射为推断；01包含两台设备，各条item单价×数量1套即为其金额，01包金额1528000元为两单价之和（原文未单独给出包合计，与总中标金额281.68万元自洽）；品目取概要品目完整路径；无未中标人及得分信息；招标文件附件仅前30页，不影响本表取值。",
+  "project": {
+    "buyer": "清华大学",
+    "project_name": "清华大学局部河流模拟系统",
+    "total_amount": 2816800.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "原位电化学测试分析系统",
+        "winner": "东方理德（北京）科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "纳米粒度及Zeta电位分析仪",
+        "winner": "伟量科技（北京）有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "全电动倒置荧光显微镜",
+        "winner": "北京东方奥舟科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "激光显微拉曼光谱仪",
+      "brand": "Thermo Scientific",
+      "model": "DXR3",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 978000.0,
+      "total_price": 978000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "电化学质谱系统",
+      "brand": "零露",
+      "model": "QAS 100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 550000.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "纳米粒度及Zeta电位分析仪",
+      "brand": "MALVERN PANALYTICAL",
+      "model": "Zetasizer Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 598800.0,
+      "total_price": 598800.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "全电动倒置荧光显微镜",
+      "brand": "Leica",
+      "model": "DMi8",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 690000.0,
+      "total_price": 690000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "东方理德（北京）科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1528000.0
+    },
+    {
+      "package_no": "02",
+      "name": "伟量科技（北京）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 598800.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京东方奥舟科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 690000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

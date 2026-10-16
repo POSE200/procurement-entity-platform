@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260501_26509147",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "4个标项：结果表按序号1-4列示中标人及报价，行序对应标项一~四（附件招标文件预算'标项一89.99万/标项二99.99万/标项三138.54万/标项四97.98万'与各行报价899900/999900/1385160/979755一一对应，佐证映射；推断已在note声明）。中国电信昌吉分公司同时中标标项一、二（bidders每包各一条）。各行报价之和=4,264,715元，与概要总中标金额426.48万（=4,264,800元）差85元，系概要两位小数舍入，按口径不改原文、total_amount取概要值。评分表仅'评审总得分'列无排名列，rank=null。item无品目列、无数量/单价，quantity/unit_price=null，item总价取对应标项中标报价。需视觉核验：表格1各行报价与得分的行序对应关系。",
+  "project": {
+    "buyer": "昌吉回族自治州公安局",
+    "project_name": "昌吉州公安局2026年托管机房服务项目",
+    "total_amount": 4264800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "昌吉州公安局2026年托管机房服务项目（标项一）",
+        "winner": "中国电信股份有限公司昌吉分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "昌吉州公安局2026年托管机房服务项目（标项二）",
+        "winner": "中国电信股份有限公司昌吉分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "昌吉州公安局2026年托管机房服务项目（标项三）",
+        "winner": "中国移动通信集团新疆有限公司昌吉州分公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "昌吉州公安局2026年托管机房服务项目（标项四）",
+        "winner": "中国联合网络通信有限公司昌吉回族自治州分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "昌吉州公安局2026年托管机房服务项目（标项一）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 899900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "昌吉州公安局2026年托管机房服务项目（标项二）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 999900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "昌吉州公安局2026年托管机房服务项目（标项三）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1385160.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": null,
+      "item_name": "昌吉州公安局2026年托管机房服务项目（标项四）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 979755.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司昌吉分公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": null,
+      "amount": 899900.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司昌吉分公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 999900.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团新疆有限公司昌吉州分公司",
+      "role": "winner",
+      "total_score": 91.2,
+      "rank": null,
+      "amount": 1385160.0
+    },
+    {
+      "package_no": "4",
+      "name": "中国联合网络通信有限公司昌吉回族自治州分公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": null,
+      "amount": 979755.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

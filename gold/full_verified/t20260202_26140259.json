@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260202_26140259",
+  "annotated_at": "2026-09-22",
+  "gold_source": "attachment:报价明细附件.pdf + 开标记录表",
+  "note": "两个采购包；服务类无品牌/型号/数量列；投标报价来自开标记录表（包1三家、包2三家）；复核修正：附件报价明细表有数量/单位/单价（非仅HTML无数量列），已补填；包名按原文补全；复核修正：bidders 补 package_no 字段；多包条目按标注包评分表（各包一节）顺序归组定 package_no",
+  "project": {
+    "buyer": "哈尔滨市住房和城乡建设局",
+    "project_name": "哈尔滨城市级数智化供热监管平台项目",
+    "total_amount": 9476000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "哈尔滨城市级数智化供热监管平台项目基础软件开发服务",
+        "winner": "哈工智慧城市研究院（哈尔滨）有限公司(联合体成员：哈尔滨工业大学人工智能研究院有限公司)"
+      },
+      {
+        "package_no": "2",
+        "package_name": "哈尔滨城市级数智化供热监管平台项目信息化工程监理服务",
+        "winner": "黑龙江赛宝信息技术咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础软件开发服务",
+      "item_name": "哈尔滨城市级数智化供热监管平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "个",
+      "unit_price": 9281000.0,
+      "total_price": 9281000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息化工程监理服务",
+      "item_name": "哈尔滨城市级数智化供热监管平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "个",
+      "unit_price": 195000.0,
+      "total_price": 195000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "哈工智慧城市研究院（哈尔滨）有限公司(联合体成员：哈尔滨工业大学人工智能研究院有限公司)",
+      "role": "winner",
+      "total_score": 98.7,
+      "rank": 1,
+      "amount": 9281000.0
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市新金电子有限公司",
+      "role": "participant",
+      "total_score": 71.09,
+      "rank": 2,
+      "amount": 9390000.0
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江省应用电子有限责任公司",
+      "role": "participant",
+      "total_score": 70.92,
+      "rank": 3,
+      "amount": 9363500.0
+    },
+    {
+      "package_no": "2",
+      "name": "黑龙江赛宝信息技术咨询有限公司",
+      "role": "winner",
+      "total_score": 95.2,
+      "rank": 1,
+      "amount": 195000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 85.78,
+      "rank": 2,
+      "amount": 230000.0
+    },
+    {
+      "package_no": "2",
+      "name": "黑龙江省同风起工程管理服务有限公司",
+      "role": "participant",
+      "total_score": 81.4,
+      "rank": 3,
+      "amount": 117000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260709_26901367",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:0752中标结果公告.docx",
+  "note": "3个采购包01/02/03，包号与各包归属以附件《0752中标结果公告.docx》为准：01包=教育大数据平台基础及数据维护（北京博信高科技术有限公司，3410000元），02包=教育大数据平台数据目录维护（北京盛学成长科技有限公司，575600元），03包=教育大数据平台驾驶舱维护（太极计算机股份有限公司，359777元）；三包之和4345377元与总中标金额￥434.537700万元一致。品目列空、HTML标的信息表（供应商/商品名称/规格型号/数量/单价/总价）无品目名称列，category=null；规格型号列值为“/”，model=null。数量1、单价=总价为原文明示（非推算），unit原文未给填null。评审总得分94.2/88.2/89.13原文明示，rank原文未给排名列或“第N中标候选人”字样，一律null。需视觉核验疑点：docx“四、主要标的信息”处的第01/02/03包表格在文本层未展开（仅见“第01包/第02包/第03包”占位），服务类明细取自docx尾部文本；01包中小企业声明函.pdf为OCR文本，错字较多（如“花京市数字教育中心”应为“北京市数字教育中心”、“法京牌信高科术有限公司”应为“北京博信高科技术有限公司”），该文件仅涉及中小企业资格，不影响gold字段取值。复核：HTML表格0项目名称作「信息系统运维类项目---应用平台运维与服务支撑」（三个短横，疑为平台转义），docx与公告标题均作「信息系统运维类项目—应用平台运维与服务支撑」，按附件为准采用docx写法；docx「三、中标信息」明示01包=北京博信高科3,410,000元、02包=北京盛学成长575,600元、03包=太极计算机359,777元，与HTML表格1金额逐一对应，三包之和4,345,377元=总中标金额￥434.5377万。",
+  "project": {
+    "buyer": "北京市数字教育中心（北京电化教育馆）",
+    "project_name": "信息系统运维类项目—应用平台运维与服务支撑",
+    "total_amount": 4345377.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "教育大数据平台基础及数据维护",
+        "winner": "北京博信高科技术有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "教育大数据平台数据目录维护",
+        "winner": "北京盛学成长科技有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "教育大数据平台驾驶舱维护",
+        "winner": "太极计算机股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "教育大数据平台基础及数据维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3410000.0,
+      "total_price": 3410000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "教育大数据平台数据目录维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 575600.0,
+      "total_price": 575600.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "教育大数据平台驾驶舱维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 359777.0,
+      "total_price": 359777.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京博信高科技术有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": null,
+      "amount": 3410000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京盛学成长科技有限公司",
+      "role": "winner",
+      "total_score": 88.2,
+      "rank": null,
+      "amount": 575600.0
+    },
+    {
+      "package_no": "03",
+      "name": "太极计算机股份有限公司",
+      "role": "winner",
+      "total_score": 89.13,
+      "rank": null,
+      "amount": 359777.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

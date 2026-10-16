@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260602_26673695",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个附件（招标文件docx、中小企业声明函pdf）均为unknown类型被跳过，但均非报价明细，不影响结果字段；标的表为服务类汇总行，无数量/单价/金额列，唯一标的的total_price取第1包中标金额818000元（note声明），quantity/unit/unit_price无线索置null；品目概要列与标的表均无品目列，category=null；表格2'排序'列为明示排名，rank据此填写；未中标供应商金额取其评审报价（万元换算元）。复核：评审报价换算逐一核对无误，排序列为明示排名依据；被跳过附件为招标文件与中小企业声明函，均非报价明细，不影响结果字段，全部字段核对无误。",
+  "project": {
+    "buyer": "天津市民政局机关",
+    "project_name": "天津市民政局2026年档案数字化服务项目",
+    "total_amount": 818000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "天津市民政局2026年档案数字化服务项目",
+        "winner": "天津市天勘兰台工程技术咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年档案数字化服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 818000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津市天勘兰台工程技术咨询有限公司",
+      "role": "winner",
+      "total_score": 95.34,
+      "rank": 1,
+      "amount": 818000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京汉龙思琪数码科技有限公司",
+      "role": "participant",
+      "total_score": 91.8,
+      "rank": 2,
+      "amount": 747360.0
+    },
+    {
+      "package_no": "1",
+      "name": "南京珥仁科技有限公司",
+      "role": "participant",
+      "total_score": 87.78,
+      "rank": 3,
+      "amount": 779980.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京网智易通科技有限公司",
+      "role": "participant",
+      "total_score": 87.6,
+      "rank": 4,
+      "amount": 795000.0
+    },
+    {
+      "package_no": "1",
+      "name": "安通长青（天津）档案管理有限公司",
+      "role": "participant",
+      "total_score": 62.5,
+      "rank": 5,
+      "amount": 821000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津汇信诚建设工程技术咨询有限公司",
+      "role": "participant",
+      "total_score": 56.83,
+      "rank": 6,
+      "amount": 827500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

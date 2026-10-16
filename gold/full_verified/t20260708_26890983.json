@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260708_26890983",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（数字广东网络建设有限公司）.pdf",
+  "note": "单包（合同包1），联合体中标：数字广东网络建设有限公司(联合体成员：广州赋安数字科技有限公司)，winner原样保留联合体写法。概要品目列空，category取HTML标的信息表'品目名称'列（其他运行维护服务）。附件报价明细两行共用品目号1-1（序号1/2），item_no按'品目号-序号'写成1-1-1/1-1-2。单价×数量=总价成立，两项之和807000+37000=844000与中标金额及总中标金额￥84.4万元一致。评分表第3、4名'推荐排名'列空但'得分排名'列有明示（3/4），rank取得分排名。需视觉核验疑点：①附件单价807,000/37,000是否为含折扣后单价；②服务时间中'2022年度内容15个月、2023年度内容4个月'拆分是否影响数量口径（原文数量均为1项）。独立复核（0924）：疑点①附件'单价'列直接明示807,000/37,000且总价列一致；疑点②附件数量列明示'1 (项)'，口径以原文为准。两项均无需视觉核验。",
+  "project": {
+    "buyer": "广东省海洋发展规划研究中心",
+    "project_name": "省自然资源厅政务信息化运维类（2026年）采购项目",
+    "total_amount": 844000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "海洋数据应用系统运维（软件系统运行维护服务）",
+        "winner": "数字广东网络建设有限公司(联合体成员：广州赋安数字科技有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他运行维护服务",
+      "item_name": "其他运行维护服务/海洋数据应用系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 807000.0,
+      "total_price": 807000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他运行维护服务",
+      "item_name": "其他运行维护服务/专业基础设施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 37000.0,
+      "total_price": 37000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司(联合体成员：广州赋安数字科技有限公司)",
+      "role": "winner",
+      "total_score": 96.67,
+      "rank": 1,
+      "amount": 844000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 82.74,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市中地软件工程有限公司",
+      "role": "participant",
+      "total_score": 70.94,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州创想云科技有限公司",
+      "role": "participant",
+      "total_score": 65.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

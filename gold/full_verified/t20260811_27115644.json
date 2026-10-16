@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115644",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-德州润宁通讯技术有限公司).pdf",
+  "note": "单包1服务项目。概要品目列为空，category取HTML标的信息表『品目编号及品目名称』列（其他电信和信息传输服务）。单价729600元×1项=729600元来自中标人第1轮报价明细表（最高限价750000元与磋商文件采购包1预算/最高限价750,000.00元一致；响应报价=合计=中标金额729,600.00元；HTML标的表『金额(元)』列为空）。评分表『得分排名/推荐排名』列空，rank=null。",
+  "project": {
+    "buyer": "宁津县公安局机关",
+    "project_name": "宁津县公安局天网监控维保服务项目",
+    "total_amount": 729600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "德州润宁通讯技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "宁津县公安局天网监控维保服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 729600.0,
+      "total_price": 729600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "德州润宁通讯技术有限公司",
+      "role": "winner",
+      "total_score": 84.33,
+      "rank": null,
+      "amount": 729600.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东万博科技股份有限公司",
+      "role": "participant",
+      "total_score": 83.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "德州捷通信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省旭瑞电子工程有限公司",
+      "role": "participant",
+      "total_score": 69.08,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

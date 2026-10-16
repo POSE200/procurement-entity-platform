@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260803_27056034",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（佛山市格林盈璐电器科技有限公司）.pdf",
+  "note": "单包单条明细：单价14880×100台=1488000与总价/总中标金额一致。评分表中青岛清数科技有限公司因'不通过符合性审查'未进入评审，无得分/排名/报价，按participant收录且相关值置null。得分排名/推荐排名列有明示（1/2/3），已按原文填写。",
+  "project": {
+    "buyer": "广州市南沙区疾病预防控制中心",
+    "project_name": "2026年南沙区蚊媒智能化监测设备及维护服务(三次)",
+    "total_amount": 1488000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "蚊媒智能化监测设备及维护服务",
+        "winner": "佛山市格林盈璐电器科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "环保监测设备",
+      "item_name": "蚊媒智能化监测设备及维护服务",
+      "brand": "佛山市格林盈璐电器科技有限公司",
+      "model": "GM977B",
+      "quantity": 100,
+      "unit": "台",
+      "unit_price": 14880.0,
+      "total_price": 1488000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "佛山市格林盈璐电器科技有限公司",
+      "role": "winner",
+      "total_score": 93.95,
+      "rank": 1,
+      "amount": 1488000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东优控生物科技有限公司",
+      "role": "participant",
+      "total_score": 89.54,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东佰胜生物科技有限公司",
+      "role": "participant",
+      "total_score": 84.19,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛清数科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

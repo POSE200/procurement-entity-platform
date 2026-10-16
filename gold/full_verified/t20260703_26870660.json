@@ -1,0 +1,199 @@
+{
+  "announcement_id": "t20260703_26870660",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "两个采购包（磋商文件及附件名明示'采购包1/包2'）；包1成交722,200元+包2成交156,500元=878,700元恰等于总成交金额87.87万元；排名取自评审情况表'第N成交候选人'明示（同方知网未入候选名单故rank=null），第二/第三候选人报价金额取自评审结果栏；HTML标的信息表'响应报价'列为模板占位符乱码（无有效值），磋商文件报价表'响应报价'亦为{供应商响应}占位，故各明细条目单价/总价=null（无线索，不推算）；数量1.00项取自磋商文件报价表（仅覆盖其列出的条目）；包1标的信息表7条与报价表6条不一致（HTML多出'大学生毕业设计（论文）管理系统'）、包2标的信息表2条与报价表1条不一致（HTML多出'商业管理和会计专辑数据库'），均按HTML照录且该两条无数量线索；包2第二候选人156,962元高于第三候选人156,900元系原文如此（按得分排序）；category照抄标的信息表'品目名称'列'C17020000 互联网信息服务'（概要品目列空）。需视觉核验：包1/包2评审情况表中'评审结果'单元格OCR将全部候选人文本并入第1行，候选人-报价对应关系建议人工复核。复核修正：已人工复核该单元格文本，'第N成交候选人：xxx；报价金额：合计：yyy'逐条显式成对出现，对应关系明确，无需视觉核验；其余字段均与原文核对一致。",
+  "project": {
+    "buyer": "四川旅游学院",
+    "project_name": "2026年电子资源采购项目",
+    "total_amount": 878700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "海枣数字科技（北京）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "北京中科进出口有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "中文学术文献资源系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "中文期刊服务系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "报刊资料数据库信息系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "移动图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "计算机技能网络视频学习系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "国外学术论文平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "大学生毕业设计（论文）管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "综合学科参考类全文数据库+商管财经类全文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "商业管理和会计专辑数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "海枣数字科技（北京）有限公司",
+      "role": "winner",
+      "total_score": 95.52,
+      "rank": 1,
+      "amount": 722200.0
+    },
+    {
+      "package_no": "1",
+      "name": "成都世纪超星信息技术有限公司",
+      "role": "participant",
+      "total_score": 88.52,
+      "rank": 2,
+      "amount": 722300.0
+    },
+    {
+      "package_no": "1",
+      "name": "重庆亮芯数智科技有限公司",
+      "role": "participant",
+      "total_score": 85.17,
+      "rank": 3,
+      "amount": 723000.0
+    },
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": 84.0,
+      "rank": 1,
+      "amount": 156500.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国教育图书进出口有限公司",
+      "role": "participant",
+      "total_score": 83.92,
+      "rank": 2,
+      "amount": 156962.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "participant",
+      "total_score": 82.43,
+      "rank": 3,
+      "amount": 156900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

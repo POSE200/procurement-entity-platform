@@ -1,0 +1,158 @@
+{
+  "announcement_id": "t20260710_26916365",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东慧创意文物保护有限公司).pdf",
+  "note": "package_no=1 来自附件明示『包(1)_投标（响应）报价明细表』『包(1)_开标（报价）一览表』。8条明细（单价/数量/总价）取自中标人报价明细表，之和449,600元=合计大写肆拾肆万玖仟陆佰元整=成交金额449,600元（￥44.96万），且各条单价×数量=总价全部一致；报价明细表序号1-8按顺序对应HTML标的信息表品目号1-1-1~1-1-8（两表均无区分性文字，按行序对应，需视觉核验）。品目取HTML标的信息表品目名称列『其他专业技术服务』（8行相同）。品牌/型号：第1、2条为慧创意/文物三维数据采集管理系统V1.0，第5条为SKYWORTH创维/M55PJEGL-DS，第6、7条原文仅写『品牌:国产 型号:定制』照抄，第8条系统开发为慧创意/定制（其配套设备联想ThinkStation P360为描述文字，未单列条目）；第3、4条原文无品牌型号，null。HTML评分表得分排名/推荐排名列为空，所有bidder的rank=null；未中标供应商报价原文未给，amount=null。需视觉核验：①报价明细表为竖排OCR文字，单价与总价已用乘法互验；②第6条25,900元写成『25900元』无小数；③磋商文件空白模板仅6行（缺光学触摸屏、系统开发两行），实际响应为8行。",
+  "project": {
+    "buyer": "山东省文物保护修复与鉴定中心",
+    "project_name": "山东省文物保护修复与鉴定中心东平县博物馆珍贵文物数字化保护项目",
+    "total_amount": 449600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东慧创意文物保护有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他专业技术服务",
+      "item_name": "珍贵文物三维采集与制作（1米以下常规文物采集加工）",
+      "brand": "慧创意",
+      "model": "文物三维数据采集管理系统V1.0",
+      "quantity": 59,
+      "unit": "件",
+      "unit_price": 3100.0,
+      "total_price": 182900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他专业技术服务",
+      "item_name": "珍贵文物三维采集与制作（1米以上文物采集加工）",
+      "brand": "慧创意",
+      "model": "文物三维数据采集管理系统V1.0",
+      "quantity": 11,
+      "unit": "件",
+      "unit_price": 4400.0,
+      "total_price": 48400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他专业技术服务",
+      "item_name": "珍贵文物二维采集及制作（图像采集）",
+      "brand": null,
+      "model": null,
+      "quantity": 47,
+      "unit": "件",
+      "unit_price": 400.0,
+      "total_price": 18800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他专业技术服务",
+      "item_name": "珍贵文物二维采集与制作（后期处理）",
+      "brand": null,
+      "model": null,
+      "quantity": 47,
+      "unit": "件",
+      "unit_price": 400.0,
+      "total_price": 18800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他专业技术服务",
+      "item_name": "文物多维度信息展示系统（液晶拼接屏）",
+      "brand": "SKYWORTH创维",
+      "model": "M55PJEGL-DS",
+      "quantity": 6,
+      "unit": "块",
+      "unit_price": 15800.0,
+      "total_price": 94800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他专业技术服务",
+      "item_name": "文物多维度信息展示系统（光学触摸屏）",
+      "brand": "国产",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 25900.0,
+      "total_price": 25900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他专业技术服务",
+      "item_name": "文物多维度信息展示系统（箱体或支架）",
+      "brand": "国产",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他专业技术服务",
+      "item_name": "文物多维度信息展示系统（文物多维度信息展示系统开发）",
+      "brand": "慧创意",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东慧创意文物保护有限公司",
+      "role": "winner",
+      "total_score": 90.0,
+      "rank": null,
+      "amount": 449600.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州黑曜石展示设计有限公司",
+      "role": "participant",
+      "total_score": 60.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东建大建设科技有限公司",
+      "role": "participant",
+      "total_score": 60.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河北普勤科技有限公司",
+      "role": "participant",
+      "total_score": 58.66,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

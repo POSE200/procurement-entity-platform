@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260601_26667066",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "报价明细附件.zip及其他附件.zip为压缩容器被跳过（内容不可见），但HTML已提供单价与数量；中标（成交）金额列为单价合同（单价13,000元/台×各1台），item单价/总价由中标单价×数量得出并在note声明；『执行标准』列单价12,960/12,985元为评审口径，未作为成交单价；总中标金额2.6万元=13000×2台自洽；得分排名列全空→rank=null；品目取HTML品目名称列末级名『彩票销售设备』。",
+  "project": {
+    "buyer": "山东省体育彩票管理中心机关",
+    "project_name": "山东省体育彩票管理中心2026年彩票销售传统终端机",
+    "total_amount": 26000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京英特达系统技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "青岛海石商用科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "彩票销售设备",
+      "item_name": "传统终端机",
+      "brand": "IntraDak",
+      "model": "TPT-II-310-03",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 13000.0,
+      "total_price": 13000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "彩票销售设备",
+      "item_name": "传统终端机",
+      "brand": "海石",
+      "model": "HC-A600-05-01",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 13000.0,
+      "total_price": 13000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京英特达系统技术有限公司",
+      "role": "winner",
+      "total_score": 104.82,
+      "rank": null,
+      "amount": 13000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州洛图终端技术有限公司",
+      "role": "participant",
+      "total_score": 87.41,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市穗彩科技开发有限公司",
+      "role": "participant",
+      "total_score": 76.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛海石商用科技股份有限公司",
+      "role": "winner",
+      "total_score": 101.82,
+      "rank": null,
+      "amount": 13000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州洛图终端技术有限公司",
+      "role": "participant",
+      "total_score": 86.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市穗彩科技开发有限公司",
+      "role": "participant",
+      "total_score": 77.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京英特达系统技术有限公司",
+      "role": "participant",
+      "total_score": 104.03,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

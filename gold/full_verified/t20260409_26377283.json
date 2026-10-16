@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260409_26377283",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件；品目列空故 category=null；A/B 包服务类标的仅有中标总金额，无单价数量线索，按规范不填 quantity=1/unit_price=总价；两包金额之和 44.72+37.1=81.82 万元与总中标金额一致。",
+  "project": {
+    "buyer": "山东省民政厅机关",
+    "project_name": "2026年度山东省民政厅政务信息系统等保和密评项目",
+    "total_amount": 818200.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东新潮信息技术有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "济南时代确信信息安全测评有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "政务信息系统密评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 447200.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "政务信息系统等保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 371000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东新潮信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 447200.0
+    },
+    {
+      "package_no": "B",
+      "name": "济南时代确信信息安全测评有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 371000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

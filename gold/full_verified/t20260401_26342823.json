@@ -1,0 +1,200 @@
+{
+  "announcement_id": "t20260401_26342823",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "7个标包A-G，各包仅一条服务标的且只有中标金额，无数量/单价信息，按口径不填quantity=1；各包金额之和6.765+3.3+29.95+6.75+26.3+7.7+44.5=125.265万元与总中标金额一致；无附件。",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）信息中心系统运维",
+    "total_amount": 1252650.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "感控工作间基础防控版系统运维",
+        "winner": "湖南德雅曼达科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "医院感染管理系统运维",
+        "winner": "上海泽信软件有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "手术室与ICU智能药品流程优化系统运维",
+        "winner": "北京和创吉祥科技有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": "手术移动护理信息系统运维",
+        "winner": "山东文汇信息服务有限公司"
+      },
+      {
+        "package_no": "E",
+        "package_name": "重症监护管理信息系统运维",
+        "winner": "山东微尚云数据服务有限公司"
+      },
+      {
+        "package_no": "F",
+        "package_name": "临床合理用药管理系统运维",
+        "winner": "天际健康医疗科技有限公司"
+      },
+      {
+        "package_no": "G",
+        "package_name": "数智病理中心建设项目",
+        "winner": "山东云旗信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "感控工作间基础防控版系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 67650.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "医院感染管理系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 33000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "手术室与ICU智能药品流程优化系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 299500.0
+    },
+    {
+      "package_no": "D",
+      "item_no": null,
+      "category": null,
+      "item_name": "手术移动护理信息系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 67500.0
+    },
+    {
+      "package_no": "E",
+      "item_no": null,
+      "category": null,
+      "item_name": "重症监护管理信息系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 263000.0
+    },
+    {
+      "package_no": "F",
+      "item_no": null,
+      "category": null,
+      "item_name": "临床合理用药管理系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 77000.0
+    },
+    {
+      "package_no": "G",
+      "item_no": null,
+      "category": null,
+      "item_name": "数智病理中心建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 445000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "湖南德雅曼达科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 67650.0
+    },
+    {
+      "package_no": "B",
+      "name": "上海泽信软件有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 33000.0
+    },
+    {
+      "package_no": "C",
+      "name": "北京和创吉祥科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 299500.0
+    },
+    {
+      "package_no": "D",
+      "name": "山东文汇信息服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 67500.0
+    },
+    {
+      "package_no": "E",
+      "name": "山东微尚云数据服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 263000.0
+    },
+    {
+      "package_no": "F",
+      "name": "天际健康医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 77000.0
+    },
+    {
+      "package_no": "G",
+      "name": "山东云旗信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 445000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

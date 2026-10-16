@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260511_26547312",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "四个包的包号与包名取自HTML中标信息表服务名称列（-01包至-04包）；各包中标金额、评审得分、排名在公告与附件（各包招标文件，均仅前30页）中均未给出，bidders的score/rank/amount及items的数量/单价/总价全为null；附件给出的包预算（1080/756/604.8/496.8万元，合计2939.6万元）为预算非中标金额，不得与总中标金额2934.3452万元混用；品目取公告概要完整分类路径原样保留。",
+  "project": {
+    "buyer": "国家税务总局北京市税务局",
+    "project_name": "国家税务总局北京市税务局2026年应用系统运行维护项目",
+    "total_amount": 29343452.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "2026年应用系统运行维护项目-01包",
+        "winner": "中软信息技术创新有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "2026年应用系统运行维护项目-02包",
+        "winner": "浙江税友信创科技有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "2026年应用系统运行维护项目-03包",
+        "winner": "神州数码信息系统有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "2026年应用系统运行维护项目-04包",
+        "winner": "北京方欣恒利科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "2026年应用系统运行维护项目-01包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "02",
+      "item_no": "2",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "2026年应用系统运行维护项目-02包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "03",
+      "item_no": "3",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "2026年应用系统运行维护项目-03包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "04",
+      "item_no": "4",
+      "category": "服务/信息技术服务/运行维护服务/其他运行维护服务",
+      "item_name": "2026年应用系统运行维护项目-04包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "中软信息技术创新有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "02",
+      "name": "浙江税友信创科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "03",
+      "name": "神州数码信息系统有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "04",
+      "name": "北京方欣恒利科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

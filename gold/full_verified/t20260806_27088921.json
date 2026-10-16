@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088921",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东政通科技发展有限公司).pdf",
+  "note": "概要品目列为空，category 取 HTML 标的信息表品目名称列『硬件运维服务』；附件『报价明细表(第1轮-山东政通科技发展有限公司).pdf』已核对：1条明细，单价84000元×数量1项=响应报价84000元=中标金额，数学一致（最高限价85400元为磋商预算，不计入标的金额）；package_no=1 来自公告标题『（采购包1）』及附件『包(1)_』；得分排名/推荐排名列空白，rank 未明示填 null；济南子睿信息技术有限公司因资格性审查未通过未中标，作为参与主体收录（无得分）；需视觉核验：附件OCR有断字空格，已按HTML对照修正。复核：附件第1轮报价明细表1条明细（84000×1项）、合计与中标金额、评分表及未中标原因（济南子睿资格性审查未通过）均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "山东省公安厅机关",
+    "project_name": "山东省公安厅智能公文交换中心驻场运维服务项目",
+    "total_amount": 84000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东政通科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "智能公文交换中心驻场运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 84000.0,
+      "total_price": 84000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东政通科技发展有限公司",
+      "role": "winner",
+      "total_score": 92.66,
+      "rank": null,
+      "amount": 84000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东华特智慧科技有限公司",
+      "role": "participant",
+      "total_score": 83.24,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东星科数字科技有限公司",
+      "role": "participant",
+      "total_score": 81.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南子睿信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

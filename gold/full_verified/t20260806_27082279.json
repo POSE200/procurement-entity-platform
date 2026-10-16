@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260806_27082279",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:供应商未成交原因（A包）.pdf,供应商未成交原因（B包）.pdf",
+  "note": "品目列为空→category=null；两包均为单条服务标的、无分项报价，quantity/unit_price 按规范留空，item total_price 取各包成交金额（895800+894000=1789800 与总中标金额一致）；移动、联通分别在对方包中未成交（A包联通87.61分综合排序2、B包移动83.25分综合排序2），按 G2 口径 bidders 按主体×采购包组合收录共 6 条，移动/联通各两条（A包在前、B包在后），各带本包 role/得分/排名/金额；专家支付表.pdf、专家支付表_2.pdf 无文本层待OCR，但属评审费凭证、不含标的明细。复核修正：按 G2 口径，将移动、联通各自的单条 bidder 拆为两条（A包/B包各一条），未成交方得分/排名取自附件《供应商未成交原因（A包/B包）.pdf》的「综合得分/综合排序」列（联通87.61/排序2、移动83.25/排序2），已核验；蓝洵（A包64.95/排序3）、阿赛浦（B包61.59/排序3）各维持一条。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "青岛市市北区大数据发展管理局",
+    "project_name": "市北区电子政务外网链路接入及网络运维服务项目",
+    "total_amount": 1789800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "市北区电子政务外网链路接入及网络运维服务项目（第一包）",
+        "winner": "中国移动通信集团山东有限公司青岛分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "市北区电子政务外网链路接入及网络运维服务项目（第二包)",
+        "winner": "中国联合网络通信有限公司青岛市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "市北区电子政务外网链路接入及网络运维服务项目（第一包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 895800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "市北区电子政务外网链路接入及网络运维服务项目（第二包)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 894000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国移动通信集团山东有限公司青岛分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 895800.0
+    },
+    {
+      "package_no": "A",
+      "name": "中国联合网络通信有限公司青岛市分公司",
+      "role": "participant",
+      "total_score": 87.61,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "青岛蓝洵信息技术科技有限公司",
+      "role": "participant",
+      "total_score": 64.95,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国移动通信集团山东有限公司青岛分公司",
+      "role": "participant",
+      "total_score": 83.25,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国联合网络通信有限公司青岛市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 894000.0
+    },
+    {
+      "package_no": "B",
+      "name": "阿赛浦（青岛）投资发展集团有限公司",
+      "role": "participant",
+      "total_score": 61.59,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

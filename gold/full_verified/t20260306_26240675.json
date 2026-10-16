@@ -1,0 +1,158 @@
+{
+  "announcement_id": "t20260306_26240675",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（HTML明示『第1包』，package_no按原文照抄）；品目列空，标的信息表无品目名称列，『货物类』为分节标题不算品目，category=null；标的表数量列无计量单位列，unit=null；总价列缺失，total_price由单价×数量唯一互推（8条之和805800元恰好等于总中标金额80.58万元，数学自洽）；评审报价表『排序』列为原文明示排名，rank照抄（1-4）；3个附件均为跳过未知类型不可见，但分项明细在HTML标的表已完整给出，无OCR待补。",
+  "project": {
+    "buyer": "天津国家海洋博物馆",
+    "project_name": "天津国家海洋博物馆京津冀及周边地区野生动植物罚没品存储项目",
+    "total_amount": 805800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "宁波邦达实业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "无线温湿度监测终端",
+      "brand": "国衍科技",
+      "model": "规格：φ85mm*35mm 型号：GY-M601",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 7500.0,
+      "total_price": 52500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "无线数据转发中继",
+      "brand": "国衍科技",
+      "model": "规格：150.5mm*82.25mm*26mm 型号：GY-M200",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 7500.0,
+      "total_price": 7500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能恒湿净化一体机",
+      "brand": "鑫泰格",
+      "model": "规格：L600mm*W500mm*H1870mm 型号：定制",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 25000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "固定开架式文物储藏系统设施",
+      "brand": "邦达",
+      "model": "规格：2000*800*2400mm 型号：BDGDJ-HL01",
+      "quantity": 14,
+      "unit": null,
+      "unit_price": 15000.0,
+      "total_price": 210000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "固定层板式文物储藏系统设施",
+      "brand": "邦达",
+      "model": "规格：1200*700*2400mm 型号：BDGDJ-CB01",
+      "quantity": 28,
+      "unit": null,
+      "unit_price": 16000.0,
+      "total_price": 448000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "藏品转运车",
+      "brand": "邦达",
+      "model": "规格：950*600*1000 型号：BD-TC",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 6000.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "藏品登高梯",
+      "brand": "邦达",
+      "model": "规格：500*700*1500 型号：BD-DGT",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "藏品整理台",
+      "brand": "邦达",
+      "model": "规格：1600*800*800 型号：BD-ZLT",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 6000.0,
+      "total_price": 18000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁波邦达实业有限公司",
+      "role": "winner",
+      "total_score": 99.2,
+      "rank": 1,
+      "amount": 805800.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津永兴博图科技有限公司",
+      "role": "participant",
+      "total_score": 79.53,
+      "rank": 2,
+      "amount": 1598000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津博越宏达科技有限公司",
+      "role": "participant",
+      "total_score": 66.0,
+      "rank": 3,
+      "amount": 1589890.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津瑞闻科技发展有限公司",
+      "role": "participant",
+      "total_score": 64.91,
+      "rank": 4,
+      "amount": 1600000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

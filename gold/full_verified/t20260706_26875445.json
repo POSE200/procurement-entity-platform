@@ -1,0 +1,142 @@
+{
+  "announcement_id": "t20260706_26875445",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列为空，category取HTML标的信息表品目名称列；HTML服务标的表1-5/1-6金额列为空，金额取自附件报价明细（396000、3295000）；六条item合计9870000+1496000+796000+1496000+396000+3295000=17349000与总中标金额17,349,000.00元一致；1-1计算及网络系统设备、1-3机房设施的品牌/规格型号原文写『详见投标文件《明细报价表》』但该明细报价表未随公告发布，故填null；1-2型号HTML与附件OCR互证为H3C UniStor Polaris X28000（OCR含水印已忽略）；附件本国产品声明函为OCR件，仅格式声明无额外字段值，未计入gold_source。",
+  "project": {
+    "buyer": "南方海洋科学与工程广东省实验室（珠海）",
+    "project_name": "科研智算资源整合及能力扩展采购项目",
+    "total_amount": 17349000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "科研智算资源整合及能力扩展采购项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "计算及网络系统设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 9870000.0,
+      "total_price": 9870000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他存储设备",
+      "item_name": "存储系统设备",
+      "brand": "新华三",
+      "model": "H3C UniStor Polaris X28000",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 1496000.0,
+      "total_price": 1496000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他机房辅助设备",
+      "item_name": "机房设施",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 796000.0,
+      "total_price": 796000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "智算平台",
+      "brand": "中国移动",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1496000.0,
+      "total_price": 1496000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "基础环境集成实施服务",
+      "item_name": "机房安装调试",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 396000.0,
+      "total_price": 396000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他系统集成实施服务",
+      "item_name": "集成调测运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3295000.0,
+      "total_price": 3295000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 81.98,
+      "rank": 1,
+      "amount": 17349000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东精点数据科技股份有限公司",
+      "role": "participant",
+      "total_score": 66.98,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海迈科智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 59.57,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东申立信息工程股份有限公司",
+      "role": "participant",
+      "total_score": 50.64,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京中科储天信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

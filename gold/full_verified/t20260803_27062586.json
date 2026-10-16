@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27062586",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-智惠洲大数据科技（山东）有限公司).pdf",
+  "note": "单包服务项目（采购包1，包号见标题及附件名'包(1)'，无明示包名称故package_name=null）；item单价/数量/总价取自报价明细表（响应报价108800元与中标金额一致）；概要品目列为空，category取HTML标的信息表品目名称列（基础环境运维服务）；评分表得分排名列为空且智惠洲与讯飞智元综合得分同为87.00（未中标原因：按最后报价排序），rank全null；文件集内的包(1)_开标一览表/报价明细表为空白模板（仅表头），真值以成交供应商报价明细表为准。",
+  "project": {
+    "buyer": "山东省公安厅机关",
+    "project_name": "山东省公安厅语音库综合应用系统新增运维项目",
+    "total_amount": 108800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "智惠洲大数据科技（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境运维服务",
+      "item_name": "山东省公安厅语音库综合应用系统新增运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 108800.0,
+      "total_price": 108800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "智惠洲大数据科技（山东）有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": 108800.0
+    },
+    {
+      "package_no": "1",
+      "name": "讯飞智元信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东融基伟业科技有限公司",
+      "role": "participant",
+      "total_score": 85.68,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

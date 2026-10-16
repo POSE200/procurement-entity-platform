@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260209_26163080",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "表格1按『（二标段）/（三标段）』后缀区分中标人；评分表包归属按第一名与中标人对应确定：表4第一名宁夏君盾=二标段中标人（表4为二标段评分），表3第一名宁夏智宇=三标段中标人（表3为三标段评分）。374000+168000=542000 与总中标金额￥54.2万完全一致。品目概要列仅有编码『C16990000,C16990000』，category 取HTML标的表品目名称列『其他信息技术服务』（与该编码对应），择歧已记。数量1无单位，unit=null；序号列空，item_no=null。评分表备注列原文明示『第一名』，中标人rank=1；其余供应商无排名，rank=null。HTML信息完整，无需视觉核验。",
+  "project": {
+    "buyer": "宁夏回族自治区应急管理厅",
+    "project_name": "宁夏回族自治区应急管理厅信息化运维项目（二、三标段）",
+    "total_amount": 542000.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "宁夏回族自治区应急管理厅信息化运维项目（二标段）",
+        "winner": "宁夏君盾科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "宁夏回族自治区应急管理厅信息化运维项目（三标段）",
+        "winner": "宁夏智宇信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "其他信息技术服务",
+      "item_name": "宁夏回族自治区应急管理厅信息化运维项目（二标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 374000.0,
+      "total_price": 374000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "其他信息技术服务",
+      "item_name": "宁夏回族自治区应急管理厅信息化运维项目（三标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 168000.0,
+      "total_price": 168000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "宁夏君盾科技有限公司",
+      "role": "winner",
+      "total_score": 86.8,
+      "rank": 1,
+      "amount": 374000.0
+    },
+    {
+      "package_no": "2",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 83.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "湖南浩基信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "宁夏智宇信息科技有限公司",
+      "role": "winner",
+      "total_score": 83.15,
+      "rank": 1,
+      "amount": 168000.0
+    },
+    {
+      "package_no": "3",
+      "name": "深圳市鑫威盾智能装备有限公司",
+      "role": "participant",
+      "total_score": 76.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "河南清维科技有限公司",
+      "role": "participant",
+      "total_score": 76.6,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

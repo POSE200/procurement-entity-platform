@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260812_27123358",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "HTML标的信息表的品牌/规格型号/数量/单价均写'详见附件'，但公告无任何附件（附件处理声明为空包），明细不可得，对应字段留null；items按规范写一条总称记录（品目/品牌/型号/数量/单价均无出处）；标的信息表无品目名称列，category=null；成交金额1,469,600元与总中标金额一致；package_no='A'取自成交信息'标包：A'明示。",
+  "project": {
+    "buyer": "临沂市公安局",
+    "project_name": "临沂市公安局数据中心优化升级项目",
+    "total_amount": 1469600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "临沂市公安局数据中心优化升级项目",
+        "winner": "北京海致科技集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "临沂市公安局数据中心优化升级项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京海致科技集团股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1469600.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

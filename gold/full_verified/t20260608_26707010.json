@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260608_26707010",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个包，包号明示于公告标题（1包：其他厨卫用具、2包：其他物资）及两份招标文件（1包预算64.498349万、2包预算30.516032万，预算仅作背景不填gold值）。表格1两行中标人与包的对应关系经表格2商品名称列匹配：金鼎正（其他厨卫用具）=包1（59.9947万<预算64.498349万相符）、锦绣益泰（其他物资）=包2（30.405614万<预算30.516032万相符）。30.405614万+59.9947万=90.400314万=总中标金额，精确相符。概要品目空、HTML无品目名称列，category=null。规格型号原文为'/'，填null。数量列为1无计量单位，unit=null。评审总得分取自中标成交备注信息（综合评分法），无排名列，rank=null。bidders仅2家中标人，公告未列未中标主体。需视觉核验：无重大疑点（30.405614万元小数位较多，建议核验304056.14元）。复核：已解除——304056.14+599947=904003.14与总中标金额￥90.400314万精确吻合，且30.405614万元在表格1/表格2两处一致，算术自洽验证数字无误。",
+  "project": {
+    "buyer": "中国共产党北京市昌平区委员会党校本级",
+    "project_name": "党校东校区开办项目其他视频会议系统设备采购项目",
+    "total_amount": 904003.14,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "其他厨卫用具",
+        "winner": "北京金鼎正厨房设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "其他物资",
+        "winner": "北京锦绣益泰商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他厨卫用具",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 599947.0,
+      "total_price": 599947.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他物资",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 304056.14,
+      "total_price": 304056.14
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京金鼎正厨房设备有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": null,
+      "amount": 599947.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京锦绣益泰商贸有限公司",
+      "role": "winner",
+      "total_score": 91.2,
+      "rank": null,
+      "amount": 304056.14
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "announcement_id": "t20260604_26690406",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1~包10分项报价.docx",
+  "note": "10个采购包各一家中标；附件专家费支付表用字母包号A包~K包（缺I包），与附件文件夹包1~包10及HTML中标表序号1~10一一对应（A=1山西同方知网、B=2济南泉方、C=3读秀、D=4重庆聚合、E=5万方、F=6布局未来、G=7爱琴海、H=8易考、J=9搜搜中医、K=10华之杰），package_no取附件文件夹的包1~包10；概要品目列为空，category取标的信息表『品目名称』列『书籍、课本』；包1分项报价表无单价列，unit_price=319900由成交价÷数量1宗唯一互推，其余包单价为附件明示；评审表『得分排名』列全空，total_score/rank=null；总中标金额￥101.655万与10包之和1,016,550元一致；各包无未中标供应商名单。复核：10个分项报价表单价逐表核实（包1无单价列按互推，包5/9未采用最高限价77000/55000），A包~K包字母与包1~包10经专家费表金额对应（A=31.99万…K=3.5万）确认一一映射；确认verified。",
+  "project": {
+    "buyer": "山东医药大学",
+    "project_name": "山东医药大学2026年图书馆数字资源采购项目",
+    "total_amount": 1016550.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "济南泉方科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "重庆聚合科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "北京布局未来科技发展有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": null,
+        "winner": "北京爱琴海乐之技术有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": null,
+        "winner": "济南易考软件技术有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": null,
+        "winner": "山东搜搜中医信息科技有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": null,
+        "winner": "河南华之杰文化传播有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "书籍、课本",
+      "item_name": "CNKI系列数据库（总库平台）",
+      "brand": "CNKI",
+      "model": "中国学术期刊（网络版）：2026年度，AEFGHIJ专辑，云托管；CNKIAI：2026年度，畅享版20，云租用",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 319900.0,
+      "total_price": 319900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "书籍、课本",
+      "item_name": "本地PUBMED及数据分析系统",
+      "brand": "泉方",
+      "model": "QF-V2.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 239000.0,
+      "total_price": 239000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "书籍、课本",
+      "item_name": "读秀知识库",
+      "brand": "读秀",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 148900.0,
+      "total_price": 148900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "书籍、课本",
+      "item_name": "中国生物医学文献服务系统",
+      "brand": "SinoMed",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "书籍、课本",
+      "item_name": "万方数据知识服务平台",
+      "brand": "万方数据",
+      "model": "中国学术期刊数据库（医药卫生类）；中国学位论文全文数据库（医药卫生类）",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 76850.0,
+      "total_price": 76850.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "书籍、课本",
+      "item_name": "新东方多媒体学习库",
+      "brand": "新东方",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "书籍、课本",
+      "item_name": "NoteExpress Web文献检索与管理系统[简称：青提学术]V1.0",
+      "brand": "爱琴海",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "书籍、课本",
+      "item_name": "中华医学期刊全文数据库（云端版）",
+      "brand": "中华医学会",
+      "model": "云端版",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 52000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "书籍、课本",
+      "item_name": "博览医书—中西医百科数据平台",
+      "brand": "搜搜中医",
+      "model": "博览医书—中西医百科数据平台",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 54900.0,
+      "total_price": 54900.0
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1",
+      "category": "书籍、课本",
+      "item_name": "优秀传统文化视频资源库",
+      "brand": "华之杰",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 319900.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南泉方科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 239000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 148900.0
+    },
+    {
+      "package_no": "4",
+      "name": "重庆聚合科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 30000.0
+    },
+    {
+      "package_no": "5",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 76850.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京布局未来科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 20000.0
+    },
+    {
+      "package_no": "7",
+      "name": "北京爱琴海乐之技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "8",
+      "name": "济南易考软件技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 52000.0
+    },
+    {
+      "package_no": "9",
+      "name": "山东搜搜中医信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 54900.0
+    },
+    {
+      "package_no": "10",
+      "name": "河南华之杰文化传播有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 35000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

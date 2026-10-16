@@ -1,0 +1,80 @@
+{
+  "announcement_id": "t20260602_26669364",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:5.18-发布稿浙江省衢州数字工业学校2026年工会疗休养项目竞争性磋商文件（电子招标文件）.docx",
+  "note": "总中标金额￥0.6万元与磋商文件各标项预算（186000/117000/117000）及按单价（3000元/人）/折扣计价的成交方式明显对不上，原文如此未改动；成交金额列只给响应折扣/响应单价，无元金额→bidders.amount=null；标项三废标（有效供应商不足三家）无winner，标的表中亦未列出；package_no由标项序号1/2/3推断；表格1序号→标项一/二的对应按『先标项一后标项二、同一供应商最多中一个标项』的评审顺序推断；各标项数量1来自磋商文件（unit未明示→null）；品目列空→category=null。；核验：HTML源文件确认总中标金额原文即为￥0.600000万元，数据源固有矛盾",
+  "project": {
+    "buyer": "浙江省衢州数字工业学校",
+    "project_name": "浙江省衢州数字工业学校2026年工会疗休养项目",
+    "total_amount": 6000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "浙江省衢州数字工业学校2026年工会疗休养项目标项一",
+        "winner": "常山县新视界旅行社有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "浙江省衢州数字工业学校2026年工会疗休养项目标项二",
+        "winner": "常山县华夏旅行社有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "浙江省衢州数字工业学校2026年工会疗休养项目标项三",
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "浙江省衢州数字工业学校2026年工会疗休养项目标项一",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "浙江省衢州数字工业学校2026年工会疗休养项目标项二",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "常山县新视界旅行社有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "常山县华夏旅行社有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260410_26385565",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（上海形宙数字技术有限公司）.pdf",
+  "note": "单包（合同包1）。11条明细以HTML主要标的信息表为准（附件报价明细数值一致，但附件OCR有水印污染，如'4 台 Pupil Neo平n 云 慧'实为Pupil Neon、'Explore +32'应为Explorer +32，采用HTML的干净写法）。品目=教学仪器取自HTML品目名称列。附件声明函中Explorer +32写作'Explore +32'（疑OCR漏r），需视觉核验。各item单价×数量=总价校验通过；11条合计2,198,000元=总中标金额219.8万元，一致。哈尔滨市南岗区成拾商贸行未通过符合性审查，无得分/排名/金额。附件声明函占比列与HTML金额可互证，无冲突。复核：11条item与HTML表格2核对一致，Explorer +32经HTML表格2与附件报价明细两处一致确认，疑点关闭；通过。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "多感智能交互应用创新型联合工作坊",
+    "total_amount": 2198000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "多感智能交互应用创新型联合工作坊",
+        "winner": "上海形宙数字技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "可穿戴眼动追踪系统 模块一：眼镜式眼动追踪系统",
+      "brand": "PPB",
+      "model": "Pupil Neon",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 128000.0,
+      "total_price": 128000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "多通道生理信号记录分析系统 模块二：高精度多通道生理信号记录分析系统",
+      "brand": "PPB",
+      "model": "BioPro-10",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 170000.0,
+      "total_price": 170000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "刺激呈现系统",
+      "brand": "PPB",
+      "model": "E-prime 3.0",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 15000.0,
+      "total_price": 75000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "干湿兼容的无线脑电信号采集系统",
+      "brand": "PPB",
+      "model": "Explorer +32",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 280000.0,
+      "total_price": 280000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "面部表情分析系统",
+      "brand": "PPB",
+      "model": "PPB-FAS",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "行为观察统计分析系统",
+      "brand": "PPB",
+      "model": "INTERACT Premium",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 329000.0,
+      "total_price": 329000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "遥测式眼动追踪系统 模块二；桌面遥测式眼动追踪系统",
+      "brand": "PPB",
+      "model": "GP3",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "遥测式眼动追踪系统 模块一：高精度遥测式眼动追踪系统",
+      "brand": "PPB",
+      "model": "GP3 HD UX",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 158000.0,
+      "total_price": 158000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "可穿戴眼动追踪系统 模块二：头戴式眼动追踪系统",
+      "brand": "PPB",
+      "model": "Pupil Core",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "多模态数据同步采集融合系统",
+      "brand": "PPB",
+      "model": "FusionLab Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 198000.0,
+      "total_price": 198000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "多通道生理信号记录分析系统 模块一：生物信号采集开发板",
+      "brand": "PPB",
+      "model": "PsychoBIT",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 6000.0,
+      "total_price": 60000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海形宙数字技术有限公司",
+      "role": "winner",
+      "total_score": 96.8,
+      "rank": 1,
+      "amount": 2198000.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖南嘉合鑫创科技有限公司",
+      "role": "participant",
+      "total_score": 87.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海炘波科技有限公司",
+      "role": "participant",
+      "total_score": 86.85,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市南岗区成拾商贸行（个体工商户）",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

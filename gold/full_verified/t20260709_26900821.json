@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260709_26900821",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "2个采购包，各1条标的。各包中标金额117,600+370,000=487,600元，与总中标金额￥48.76万元一致；单价×数量：2,450×48=117,600、3,700×100=370,000均自洽，且与中标人报价明细表附件（包1山东医博康、包2山东海恩斯）完全一致。品目列（公告概要）为空、标的信息表「品目编号及品目名称」列也为空，category=null。item_name照抄采购标的列（含项目名前缀「潍坊市人民医院2026年度信息终端设备采购项目--包1诊室门口屏/包2签字板」）。评审结果表「得分排名」列为空，所有rank=null。participant投标报价原文未披露，amount=null。",
+  "project": {
+    "buyer": "潍坊市人民医院",
+    "project_name": "潍坊市人民医院2026年度信息终端设备采购项目",
+    "total_amount": 487600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "包1诊室门口屏",
+        "winner": "山东医博康信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "包2签字板",
+        "winner": "山东海恩斯信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市人民医院2026年度信息终端设备采购项目--包1诊室门口屏",
+      "brand": "神州视翰",
+      "model": "LED22-A64S-I",
+      "quantity": 48,
+      "unit": "台",
+      "unit_price": 2450.0,
+      "total_price": 117600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市人民医院2026年度信息终端设备采购项目--包2签字板",
+      "brand": "BJCA",
+      "model": "AnySign-FSXP1001W",
+      "quantity": 100,
+      "unit": "台",
+      "unit_price": 3700.0,
+      "total_price": 370000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东医博康信息技术有限公司",
+      "role": "winner",
+      "total_score": 70.74,
+      "rank": null,
+      "amount": 117600.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东聚智达信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛星耀创科信息技术有限公司",
+      "role": "participant",
+      "total_score": 64.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东海恩斯信息科技有限公司",
+      "role": "winner",
+      "total_score": 82.6,
+      "rank": null,
+      "amount": 370000.0
+    },
+    {
+      "package_no": "2",
+      "name": "烟台荣创信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东医鼎信息科技有限公司",
+      "role": "participant",
+      "total_score": 64.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

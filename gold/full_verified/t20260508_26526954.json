@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260508_26526954",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:0365中标结果公告.docx,0365 招标文件（发布稿）.pdf",
+  "note": "同一供应商（北京青湖软件有限公司）中标全部3个包；HTML表格1的三行中标金额（98万/53.6万/73.8万）未标包号，包归属依据附件中标结果公告docx逐包金额（01包738,000/02包536,000/03包980,000）及表格2商品名称对应关系确定；三包金额之和2,254,000元恰等于总中标金额225.4万元，数学自洽；公告概要品目列为空且HTML主要标的表无品目列，category=null；HTML标的表数量列为1但无单位，unit=null；规格型号原文为\"/\"，brand/model=null；各包中标人评审总得分90.60/87.00/88.80，rank未明示为null。",
+  "project": {
+    "buyer": "北京市数字教育中心（北京电化教育馆）",
+    "project_name": "基础教育内涵发展-中小学智慧教育平台资源与服务购置",
+    "total_amount": 2254000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "智慧课堂质量提升服务",
+        "winner": "北京青湖软件有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "智慧阅读平台服务",
+        "winner": "北京青湖软件有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "AI项目式学习智能服务",
+        "winner": "北京青湖软件有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧课堂质量提升服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 738000.0,
+      "total_price": 738000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧阅读平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 536000.0,
+      "total_price": 536000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "AI项目式学习智能服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 980000.0,
+      "total_price": 980000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京青湖软件有限公司",
+      "role": "winner",
+      "total_score": 90.6,
+      "rank": null,
+      "amount": 738000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京青湖软件有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": 536000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京青湖软件有限公司",
+      "role": "winner",
+      "total_score": 88.8,
+      "rank": null,
+      "amount": 980000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

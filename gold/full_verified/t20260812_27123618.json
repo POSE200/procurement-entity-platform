@@ -1,0 +1,63 @@
+{
+  "announcement_id": "t20260812_27123618",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "A、B两包中标人均为中国联合网络通信有限公司烟台市分公司（A包2368000元、B包956000元，合计3324000元=总中标金额，原文明示'本项目合计中标金额：3324000元'）；主要标的信息仅一条服务标的'心安蓬莱信息化系统改造'，未按A/B包分列金额与数量，故items金额/数量/单价留空、package_no=null；品目列与标的信息表均无品目，category=null。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "烟台市蓬莱人民医院",
+    "project_name": "心安蓬莱信息化系统改造",
+    "total_amount": 3324000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司烟台市分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司烟台市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "心安蓬莱信息化系统改造",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "中国联合网络通信有限公司烟台市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2368000.0
+    },
+    {
+      "package_no": "B",
+      "name": "中国联合网络通信有限公司烟台市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 956000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27101751",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "概要品目列空，category取自HTML标的信息表品目名称列（安全运维服务，招标文件标的信息表同值印证）；报价明细附件明示单价2,201,200元、数量1(项)、总价2,201,200.00元，单价×数量=总价成立；仅1个采购包，未中标2家（中移系统集成、云仓库（广东））投标报价原文未给→amount=null；招标文件（仅前30页可见）载明分项预算2,450,000元，系预算口径未作为字段值；得分排名/推荐排名有明示，照抄",
+  "project": {
+    "buyer": "广东省人民医院",
+    "project_name": "广东省人民医院网络安全运营项目（2年：2026-2027年度）",
+    "total_amount": 2201200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络安全运营服务（2年：2026-2027年度）",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "安全运维服务",
+      "item_name": "网络安全运营服务（2年：2026-2027年度）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2201200.0,
+      "total_price": 2201200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 83.82,
+      "rank": 1,
+      "amount": 2201200.0
+    },
+    {
+      "package_no": "1",
+      "name": "中移系统集成有限公司",
+      "role": "participant",
+      "total_score": 78.92,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "云仓库（广东）信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.34,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

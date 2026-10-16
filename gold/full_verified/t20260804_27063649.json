@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27063649",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:医务人员专科培训教学管理平台招标文件（2026070802）.pdf",
+  "note": "复核修正：中标金额无需视觉核验——HTML表格1'1,056,000.00元'与总中标金额'￥105.6万'两处互证。单包项目（合同包1）。HTML标的信息表金额列为空；招标文件标的信息表明示数量1(项)，故quantity=1/unit=项有出处；单价与总价由中标金额1,056,000.00元按单价×数量唯一互推（1×1056000）。概要品目列空，category取HTML标的信息表品目名称列'行业应用软件开发服务'。评审表得分排名列明示1-4，rank照填。中小企业声明函PDF文字受水印字符污染（'ZXFLZ台平云慧智购采府政东广'等），不影响取值字段。招标文件中的分项预算单价2,000,000.00元为预算价而非成交价，未采用。",
+  "project": {
+    "buyer": "佛山市妇幼保健院",
+    "project_name": "医务人员专科培训教学管理平台",
+    "total_amount": 1056000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "医务人员专科培训教学管理平台",
+        "winner": "北京网梯科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "医务人员专科培训教学管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1056000.0,
+      "total_price": 1056000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京网梯科技发展有限公司",
+      "role": "winner",
+      "total_score": 88.6,
+      "rank": 1,
+      "amount": 1056000.0
+    },
+    {
+      "package_no": "1",
+      "name": "赛姆科技（广东）有限公司",
+      "role": "participant",
+      "total_score": 85.81,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东翌安科技有限公司",
+      "role": "participant",
+      "total_score": 67.68,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州务祺信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 62.14,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

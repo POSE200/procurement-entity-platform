@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260803_27062698",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两标包A/B均由北京中科恒业科技有限公司中标，无附件（实施范围'详见附件'但公告无附件包），标的信息表无品目/品牌/型号/数量/单价/总价列，items按包写总称记录、金额字段全null；项目实施范围等明细OCR待补：无（附件本就缺失）；bidders仅有中标信息，无评分表/未中标名单，participant无可收录主体。",
+  "project": {
+    "buyer": "临沂市人民医院",
+    "project_name": "临沂市人民医院体检系统升级及接口对接采购项目",
+    "total_amount": 902750.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "体检系统升级采购项目",
+        "winner": "北京中科恒业科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "体检系统接口对接采购项目",
+        "winner": "北京中科恒业科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "体检系统升级采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "体检系统接口对接采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京中科恒业科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 625750.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京中科恒业科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 277000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

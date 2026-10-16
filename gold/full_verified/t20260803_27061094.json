@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260803_27061094",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东力迅信息技术有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（软件运维服务）。HTML表格2金额列为空，单价2,168,800元/数量1项/总价2,168,800元明示于报价明细附件。包号1来自合同包号列。rank取表格4得分排名列（原文明示1-4）。未中标供应商投标报价原文未列，amount=null。",
+  "project": {
+    "buyer": "广州市第一人民医院",
+    "project_name": "广州市第一人民医院2026年度信息系统软件运维服务",
+    "total_amount": 2168800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市第一人民医院2026年度信息系统软件运维服务",
+        "winner": "广东力迅信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "2026年度信息系统软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2168800.0,
+      "total_price": 2168800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东力迅信息技术有限公司",
+      "role": "winner",
+      "total_score": 96.28,
+      "rank": 1,
+      "amount": 2168800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州慧业信息科技有限公司",
+      "role": "participant",
+      "total_score": 86.22,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市捷信科技有限公司",
+      "role": "participant",
+      "total_score": 73.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州新睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.15,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

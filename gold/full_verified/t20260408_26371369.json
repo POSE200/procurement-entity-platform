@@ -1,0 +1,162 @@
+{
+  "announcement_id": "t20260408_26371369",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中网讯信息科技（广州）有限公司）.pdf",
+  "note": "单包（合同包1）。总中标金额栏￥152.232900万元为四舍五入值，取表格1精确中标金额1,522,329.18元（与附件分项之和一致，差0.18元系概要栏舍入）。三条服务标的单价×数量=总价（数量均为1项），金额可互推。品目取HTML标的信息表品目名称列「其他运行维护服务」（概要品目列为空）。附件声明函仅中小企业声明，未提供字段值，不计入gold_source。",
+  "project": {
+    "buyer": "广东省女子监狱",
+    "project_name": "广东省女子监狱政务信息化基础设施及办公电子设备运维（2026年）项目",
+    "total_amount": 1522329.18,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省女子监狱政务信息化基础设施及办公电子设备运维（2026年）项目",
+        "winner": "中网讯信息科技（广州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "广东省女子监狱政务信息化基础设施运维（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1255748.0,
+      "total_price": 1255748.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他运行维护服务",
+      "item_name": "广东省女子监狱办公电子设备运维（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 237064.46,
+      "total_price": 237064.46
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他运行维护服务",
+      "item_name": "广东省广裕集团嘉顺实业有限责任公司办公电子设备运维（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 29516.72,
+      "total_price": 29516.72
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中网讯信息科技（广州）有限公司",
+      "role": "winner",
+      "total_score": 92.31,
+      "rank": 1,
+      "amount": 1522329.18
+    },
+    {
+      "package_no": "1",
+      "name": "广东南电智控系统有限公司",
+      "role": "participant",
+      "total_score": 90.45,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东瑞普科技股份有限公司",
+      "role": "participant",
+      "total_score": 90.23,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东技安科技有限公司",
+      "role": "participant",
+      "total_score": 89.05,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "金税信息技术服务股份有限公司",
+      "role": "participant",
+      "total_score": 85.98,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "睿冠（广东）信息科技有限公司",
+      "role": "participant",
+      "total_score": 85.47,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东致盛技术有限公司",
+      "role": "participant",
+      "total_score": 84.2,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省信息工程有限公司",
+      "role": "participant",
+      "total_score": 84.07,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东高德智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 75.99,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州威阿科技股份有限公司",
+      "role": "participant",
+      "total_score": 66.81,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东艾迪科技有限公司",
+      "role": "participant",
+      "total_score": 55.1,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东新能科技有限公司",
+      "role": "participant",
+      "total_score": 47.8,
+      "rank": 12,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

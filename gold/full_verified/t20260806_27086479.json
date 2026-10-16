@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27086479",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包但全文无采购包号明示（无代理服务费表/合同包号），package_no=null。概要品目列为完整分类路径'服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务'，items.category照抄。无报价明细附件（附件仅中小企业声明函，已OCR可见，无价格信息），quantity/unit_price/total_price无线索留null——单条标的仅有总成交金额，按口径不做数量/单价互推。总成交金额￥25.390000万元=253,900元为唯一包成交金额，填入project.total_amount并作为winner.amount。得分/排名取评标表'最终得分/最终排名'列。复核确认：中小企业声明函盖章处OCR为'飞东尖青牛科技有限公司'系扫描件字迹噪声，供应商全称以HTML及声明函正文'广东大青牛科技有限公司'为准，不影响任何字段值。",
+  "project": {
+    "buyer": "珠海市消防救援支队",
+    "project_name": "广东省消防行业职业技能鉴定（珠海）站网络安全等级保护服务采购项目",
+    "total_amount": 253900.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "广东大青牛科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "网络安全等级保护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "广东大青牛科技有限公司",
+      "role": "winner",
+      "total_score": 92.44,
+      "rank": 1,
+      "amount": 253900.0
+    },
+    {
+      "package_no": null,
+      "name": "珠海昱恒电子科技有限公司",
+      "role": "participant",
+      "total_score": 72.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广东强安智云科技有限公司",
+      "role": "participant",
+      "total_score": 61.83,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

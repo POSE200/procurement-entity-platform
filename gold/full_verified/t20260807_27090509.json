@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260807_27090509",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-北京理工大学出版社有限责任公司).pdf",
+  "note": "采购包1单包；强制核验的『报价明细表(第1轮-北京理工大学出版社有限责任公司).pdf』已在附件内容找到：单价496000元×数量1.0000(项)=响应报价496000元，与总中标金额￥49.6万一致；概要品目列为空，品目取HTML标的表『品目编号及品目名称』列=教育课程研究与开发服务；评分表『得分排名』列全部为空，按口径rank一律null（禁止中标即第1）；供应商应答文件里的『包(1)_开标（报价）一览表』『包(1)_投标（响应）报价明细表』仅解析出表头模板、无数据行；公示附件专家支付表中项目名称写为『智慧课程建设服务项目』、成交金额498万元，与本公告不符（疑似其他项目文档混入），未采用；中小企业声明函的承接企业南京超星数图信息技术有限公司非投标主体，未计入bidders；附件成交金额496,000元与total_amount一致。复核：第1轮报价明细表（496000×1项）、HTML标的表、评分表3家得分均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "济南工程职业技术学院",
+    "project_name": "数字化教材项目",
+    "total_amount": 496000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京理工大学出版社有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "数字化教材项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 496000.0,
+      "total_price": 496000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京理工大学出版社有限责任公司",
+      "role": "winner",
+      "total_score": 96.17,
+      "rank": null,
+      "amount": 496000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津大学出版社有限责任公司",
+      "role": "participant",
+      "total_score": 88.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国水利水电出版社有限公司",
+      "role": "participant",
+      "total_score": 84.44,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

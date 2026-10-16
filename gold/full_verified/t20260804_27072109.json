@@ -1,0 +1,254 @@
+{
+  "announcement_id": "t20260804_27072109",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（分包名称：教学仪器），原文未明示包号，package_no=null。HTML标的信息表列名'明细报价'为单价口径（数量21.0套等），各item总价=单价×数量唯一互推（note声明），合计 2956800+530000=3486800 与中标金额3486800.0一致；item_no原文无序号列全null；概要品目列空且标的信息表无品目名称列，category=null；第一条item_name原文带项目符号'●'已去除；rank取评标得分表'排序'列（原文明示1-4）；附件（专家支付费用表、声明函）不提供新增字段值，品牌'北斗教仪'对应制造商北京北斗教仪科技有限公司（声明函），品牌列照抄HTML。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "青岛工程职业学院北斗卫星应用实训中心项目",
+    "total_amount": 3486800.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "教学仪器",
+        "winner": "北京北方至信人力资源服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星导航原理实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2112",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 21000.0,
+      "total_price": 441000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星导航基础技能实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2126",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 11000.0,
+      "total_price": 231000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "北斗授时与时间同步实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2193",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 11000.0,
+      "total_price": 231000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "导航接收机电气检测实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2135",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 15500.0,
+      "total_price": 325500.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星物联网通信实训套件",
+      "brand": "北斗教仪",
+      "model": "iN2153",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 22000.0,
+      "total_price": 462000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "北斗物联网集成与开发实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2162",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 5000.0,
+      "total_price": 105000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "北斗智慧城市应用实训设备",
+      "brand": "北斗教仪",
+      "model": "iN2196",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 20000.0,
+      "total_price": 420000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "北斗位置监控实训终端",
+      "brand": "北斗教仪",
+      "model": "iN2182",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 2500.0,
+      "total_price": 52500.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星应用技术实训工具套装",
+      "brand": "北斗教仪",
+      "model": "iN2205",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 7800.0,
+      "total_price": 163800.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星通信与导航技术实训操作台",
+      "brand": "北斗教仪",
+      "model": "iN2302",
+      "quantity": 21,
+      "unit": "套",
+      "unit_price": 25000.0,
+      "total_price": 525000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "移动式生态环境卫星通信监测站",
+      "brand": "北斗教仪",
+      "model": "XT2105",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "北斗精密定位地基增强系统",
+      "brand": "北斗教仪",
+      "model": "SG6052",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星导航信号转发增强及干扰监测系统",
+      "brand": "北斗教仪",
+      "model": "SG7051",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "多系统导航卫星信号模拟发生器",
+      "brand": "北斗教仪",
+      "model": "SG7068",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 210000.0,
+      "total_price": 210000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星信号增强设备实训操作台",
+      "brand": "北斗教仪",
+      "model": "iN2311",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "课程建设",
+      "brand": "北方至信",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "北京北方至信人力资源服务有限公司",
+      "role": "winner",
+      "total_score": 88.9,
+      "rank": 1,
+      "amount": 3486800.0
+    },
+    {
+      "package_no": null,
+      "name": "山西中北测控科技有限公司",
+      "role": "participant",
+      "total_score": 75.53,
+      "rank": 2,
+      "amount": 3495400.0
+    },
+    {
+      "package_no": null,
+      "name": "北京捷蓝信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.79,
+      "rank": 3,
+      "amount": 3499410.0
+    },
+    {
+      "package_no": null,
+      "name": "湖北仿臻科技有限公司",
+      "role": "participant",
+      "total_score": 73.59,
+      "rank": 4,
+      "amount": 3488000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

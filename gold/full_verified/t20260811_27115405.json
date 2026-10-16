@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115405",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单价158000/数量1宗/总价1799200取自附件「投标（响应）报价明细表.pdf」（已核对，未留空）；品目取HTML标的信息表品目名称列\"防洪管理服务\"（概要品目列为空）；HTML评分表得分排名列空白，所有rank=null；包号\"1\"来自公告标题\"（采购包1）\"。",
+  "project": {
+    "buyer": "威海市水务局",
+    "project_name": "黄垒河和母猪河水资源调配与拦蓄工程运维项目",
+    "total_amount": 1799200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "威海水利工程集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "防洪管理服务",
+      "item_name": "水库管理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1799200.0,
+      "total_price": 1799200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "威海水利工程集团有限公司",
+      "role": "winner",
+      "total_score": 93.6,
+      "rank": null,
+      "amount": 1799200.0
+    },
+    {
+      "package_no": "1",
+      "name": "乳山市水利工程有限公司",
+      "role": "participant",
+      "total_score": 71.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "威海高发市政工程有限公司",
+      "role": "participant",
+      "total_score": 67.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

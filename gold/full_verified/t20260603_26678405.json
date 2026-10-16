@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260603_26678405",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf,中小企业声明函_2.pdf,南宁市房屋市场发展中心2026年软件、信息系统和机房服务项目采购文件(定稿发布).doc",
+  "note": "4个分标：皖凯中标分标1/分标2（附件声明函明示），勘测设计院中标分标3/分标4（标的名称自带『分标3/4：』前缀），且与采购文件各分标最高限价吻合（169250≤17万、698000≤70万、935500≤93.66万、374000≤37.5万）。四包中标金额之和2176750元，与HTML总中标金额2176800元（￥217.680000万）差50元，系总额按万元两位小数四舍五入（217.675万→217.68万）所致，按公告原文取2176800。概要品目列与标的信息表均无品目，category=null；标的表无数量/单价栏，quantity/unit/unit_price=null；公告未给评审得分与未中标人名单，bidders仅4条winner、score/rank=null。复核：分标1中标人皖凯经附件声明函明示（分标2同），分标3/4中标人由表格1序号3/4与标的表序号对应确认且金额均在各分标限价内；金额差50元系万元两位小数四舍五入；全部字段核对无误。",
+  "project": {
+    "buyer": "南宁市房屋市场发展中心",
+    "project_name": "南宁市房屋市场发展中心2026年软件、信息系统和机房服务项目",
+    "total_amount": 2176800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "机房日立数据存储设备延保服务",
+        "winner": "南宁市皖凯科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "机房核心设备外包维保服务",
+        "winner": "南宁市皖凯科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "中心业务系统维护服务",
+        "winner": "南宁市勘测设计院集团有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "存量房交易网签系统客户端软硬件维护",
+        "winner": "南宁市勘测设计院集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "机房日立数据存储设备延保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 169250.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "机房核心设备外包维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 698000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "中心业务系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 935500.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": null,
+      "item_name": "存量房交易网签系统客户端软硬件维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 374000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "南宁市皖凯科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 169250.0
+    },
+    {
+      "package_no": "2",
+      "name": "南宁市皖凯科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 698000.0
+    },
+    {
+      "package_no": "3",
+      "name": "南宁市勘测设计院集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 935500.0
+    },
+    {
+      "package_no": "4",
+      "name": "南宁市勘测设计院集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 374000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

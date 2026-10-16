@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260708_26897949",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "3个采购包：表格1明示「第1包」，表格2/表格3的包号标签在HTML转换中丢失，按表格序与排序表（表4/5/6）的一一对应关系推断为第2包/第3包（需视觉核验包号）。品目列（公告概要）为空，标的信息表仅有「类型=服务类」列（分节性质，非品目），category=null。3条服务标的均无数量/单价线索，quantity/unit/unit_price=null，total_price取该包中标金额（单条服务标的不做单价×数量互推）。各包中标金额84.01752+19.5+25=128.51752万元，与总中标金额一致。participant的amount取排序表评审报价（万元换算成元）；rank取自排序表「排序」列（原文明示）。附件2个均跳过未解析（声明函+采购文件docx），无标的明细缺失。独立复核（0924）：全部字段逐项核对无误，万元→元换算复核一致。",
+  "project": {
+    "buyer": "天津外国语大学",
+    "project_name": "天津外国语大学2026-2027年度校园网出口带宽项目",
+    "total_amount": 1285175.2,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "赛尔网络有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国电信集团有限公司天津分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司天津市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "校园网教学用网出口带宽",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 840175.2
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "校园网公网出口带宽和两校区间裸光纤",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 195000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "校园网公网出口备用带宽和两条IPTV接入链路",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 250000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "赛尔网络有限公司",
+      "role": "winner",
+      "total_score": 98.7142,
+      "rank": 1,
+      "amount": 840175.2
+    },
+    {
+      "package_no": "1",
+      "name": "天津市亿信通网络工程技术有限公司",
+      "role": "participant",
+      "total_score": 80.2247,
+      "rank": 2,
+      "amount": 850000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津数科信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.4375,
+      "rank": 3,
+      "amount": 848000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信集团有限公司天津分公司",
+      "role": "winner",
+      "total_score": 98.0351,
+      "rank": 1,
+      "amount": 195000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团天津有限公司",
+      "role": "participant",
+      "total_score": 92.9999,
+      "rank": 2,
+      "amount": 187800.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国广电网络股份有限公司天津分公司",
+      "role": "participant",
+      "total_score": 88.3164,
+      "rank": 3,
+      "amount": 196000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司天津市分公司",
+      "role": "winner",
+      "total_score": 87.28,
+      "rank": 1,
+      "amount": 250000.0
+    },
+    {
+      "package_no": "3",
+      "name": "同瀛科技（天津）有限公司",
+      "role": "participant",
+      "total_score": 61.1429,
+      "rank": 2,
+      "amount": 144000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津文源通讯科技有限公司",
+      "role": "participant",
+      "total_score": 50.7438,
+      "rank": 3,
+      "amount": 199992.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

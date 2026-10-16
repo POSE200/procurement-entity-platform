@@ -1,0 +1,330 @@
+{
+  "announcement_id": "t20260804_27066550",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列为空，category 取标的信息表品目名称列（防火墙/密码产品/其他信息安全设备/其他信息化设备/行业应用软件开发服务）；item_no 为品目号，同一品目号含多条明细（附件报价明细另有行内序号1-13，未并入item_no）；22条货物+1条服务合计1,249,241元=总额，数学自查通过；评审表得分排名列明示，rank 据此填写。",
+  "project": {
+    "buyer": "汕头市濠江职业技术教育中心",
+    "project_name": "汕头市濠江职业技术教育中心信息化建设项目",
+    "total_amount": 1249241.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "汕头市濠江职业技术教育中心信息化建设项目",
+        "winner": "广东卓商网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "防火墙",
+      "item_name": "下一代防火墙",
+      "brand": "天融信",
+      "model": "NGFW4000-UF(FT-B)(千兆)V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 63620.0,
+      "total_price": 63620.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "国密SSL VPN安全网关",
+      "brand": "三未信安",
+      "model": "SecGW G1300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 116200.0,
+      "total_price": 116200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "签名验签服务器",
+      "brand": "三未信安",
+      "model": "SRJ1907-G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 86280.0,
+      "total_price": 86280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "服务器密码机",
+      "brand": "三未信安",
+      "model": "SJJ1948-G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 79360.0,
+      "total_price": 79360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "堡垒机",
+      "brand": "三未信安",
+      "model": "SecHAC",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 126360.0,
+      "total_price": 126360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "智能密码钥匙（含个人证书3年）",
+      "brand": "广东CA",
+      "model": "PKIUKEY-G",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 336.0,
+      "total_price": 3360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "密码产品",
+      "item_name": "SSL站点证书（3年）",
+      "brand": "广东CA",
+      "model": "UKDC-E",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7500.0,
+      "total_price": 7500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息安全设备",
+      "item_name": "日志收集与分析系统",
+      "brand": "天融信",
+      "model": "TA-LOG",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 66930.0,
+      "total_price": 66930.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息安全设备",
+      "item_name": "终端威胁防御系统",
+      "brand": "天融信",
+      "model": "TopEDR",
+      "quantity": 20,
+      "unit": "点",
+      "unit_price": 300.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "机房动力环境监控主机",
+      "brand": "摩稳",
+      "model": "MW600无线",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4680.0,
+      "total_price": 4680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "电池承重架",
+      "brand": "卓商网络",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 800.0,
+      "total_price": 800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "空调监控模块",
+      "brand": "摩稳",
+      "model": "WXPKT801",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 718.0,
+      "total_price": 1436.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "4G短信报警模块",
+      "brand": "摩稳",
+      "model": "SMS803",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 650.0,
+      "total_price": 650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "数据库软件",
+      "brand": "达梦",
+      "model": "DM8",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 75520.0,
+      "total_price": 75520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "核心交换机",
+      "brand": "华为",
+      "model": "S5736-S24T4XC",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 6720.0,
+      "total_price": 13440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "UPS监控模块（含接口软件模块）",
+      "brand": "摩稳",
+      "model": "WXUPS801",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1670.0,
+      "total_price": 1670.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "烟雾传感器",
+      "brand": "摩稳",
+      "model": "WXYW801",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 250.0,
+      "total_price": 500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "声光报警器",
+      "brand": "摩稳",
+      "model": "WXSG801",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 115.0,
+      "total_price": 115.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "市电停电断电传感器",
+      "brand": "摩稳",
+      "model": "WXTD801",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 510.0,
+      "total_price": 510.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "漏水传感器",
+      "brand": "摩稳",
+      "model": "WXLS801",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 620.0,
+      "total_price": 1240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "机柜",
+      "brand": "图腾",
+      "model": "G2664201Z000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3420.0,
+      "total_price": 3420.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "温湿度传感器",
+      "brand": "摩稳",
+      "model": "WXTH803S",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 350.0,
+      "total_price": 350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "行业应用软件开发服务",
+      "item_name": "智慧校园数字管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 589300.0,
+      "total_price": 589300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东卓商网络科技有限公司",
+      "role": "winner",
+      "total_score": 97.57,
+      "rank": 1,
+      "amount": 1249241.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州蓝牙信息科技有限公司",
+      "role": "participant",
+      "total_score": 62.55,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中电通技术有限公司",
+      "role": "participant",
+      "total_score": 56.6,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260803_27062711",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南出版有限责任公司).pdf",
+  "note": "单价制服务项目：报价明细表给出两条单价（拓片数字化加工2.2元/拍、古籍数字化加工4.0元/筒子叶，合计6.2元与中标金额表'执行标准：单价6.20元'一致），但全篇未给出工作量数量，150万元总价无法拆分到各条目，故quantity与total_price均为null（禁止用总价反推数量）；HTML标的信息表'金额(元)'列的2.20/4.00实为单价，已按单价填入unit_price；item_name取附件服务名称（拓片数字化加工/古籍数字化加工），category照抄HTML品目名称列（数据加工处理服务）；评分表得分排名列为空，rank全null；文件集内包(1)_开标一览表/报价明细表为空白模板；HTML服务范围列有'拓?''加?'等原文缺字，但不涉及任何gold字段（服务范围描述非标注项），附件服务名称完整可读。",
+  "project": {
+    "buyer": "济南市图书馆",
+    "project_name": "济南市图书馆古籍数字化项目",
+    "total_amount": 1500000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南出版有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "数据加工处理服务",
+      "item_name": "拓片数字化加工",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "拍",
+      "unit_price": 2.2,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "数据加工处理服务",
+      "item_name": "古籍数字化加工",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "筒子叶",
+      "unit_price": 4.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南出版有限责任公司",
+      "role": "winner",
+      "total_score": 88.71,
+      "rank": null,
+      "amount": 1500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京汉王数字科技有限公司",
+      "role": "participant",
+      "total_score": 86.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京今朝在线科技有限公司",
+      "role": "participant",
+      "total_score": 86.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京世纪超星信息技术发展有限责任公司",
+      "role": "participant",
+      "total_score": 84.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东文智数字科技有限公司",
+      "role": "participant",
+      "total_score": 79.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南龙华信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.17,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

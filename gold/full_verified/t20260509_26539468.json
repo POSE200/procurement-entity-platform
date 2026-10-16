@@ -1,0 +1,221 @@
+{
+  "announcement_id": "t20260509_26539468",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1分项报价一览表.pdf,包2分项报价一览表.pdf,包3分项报价一览表.pdf,包4分项报价一览表.pdf",
+  "note": "原始HTML明确披露四包供应商、金额及评审总得分，四包金额合计15172200元。正文采购范围使用包1至包4，结果行包号为豫政采(2)20260393-1至-4；沿用现有1至4作为跨表包键。原有附件明细不在本主体补丁中更改；预算和最高限价不作为中标价。rank未披露，保留null。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "河南科技大学",
+    "project_name": "河南科技大学航空航天先进动力技术平台国防学科提升项目",
+    "total_amount": 15172200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "河南科技大学航空航天先进动力技术平台国防学科提升项目包1",
+        "winner": "河南新时达科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "河南科技大学航空航天先进动力技术平台国防学科提升项目包2",
+        "winner": "洛阳慧研智能科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "河南科技大学航空航天先进动力技术平台国防学科提升项目包3",
+        "winner": "郑州广灿机电设备有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "河南科技大学航空航天先进动力技术平台国防学科提升项目包4",
+        "winner": "郑州迅驰电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "显微维氏硬度计",
+      "brand": "依工",
+      "model": "VH3300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 548000.0,
+      "total_price": 548000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "表面能测试仪",
+      "brand": "常州浩岩",
+      "model": "Theta Flex",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 699000.0,
+      "total_price": 699000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "3D轮廓仪",
+      "brand": "仪景通",
+      "model": "OLS5500",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 992000.0,
+      "total_price": 992000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "微纳米力学测试系统",
+      "brand": "开铂瑞",
+      "model": "MCT",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1396000.0,
+      "total_price": 1396000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "超高温疲劳试验机",
+      "brand": "中机试验",
+      "model": "DY-0300",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 1685000.0,
+      "total_price": 3370000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "激光微加工系统",
+      "brand": "大族激光",
+      "model": "HANS-PS-UV20-WN",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 958000.0,
+      "total_price": 958000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "X射线微型计算机断层扫描系统",
+      "brand": "光影智测",
+      "model": "Desktop 130",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1520000.0,
+      "total_price": 1520000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "100kN温湿振三综合试验系统",
+      "brand": "东菱振动",
+      "model": "ES-100LS 4-445",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1829200.0,
+      "total_price": 1829200.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "1",
+      "category": null,
+      "item_name": "具身智能类脑机器人",
+      "brand": "中科深谷",
+      "model": "VSAI-H2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 980000.0,
+      "total_price": 980000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "2",
+      "category": null,
+      "item_name": "具身智能机器人",
+      "brand": "智元远征",
+      "model": "A2旗舰版",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 710000.0,
+      "total_price": 1420000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "3",
+      "category": null,
+      "item_name": "智能无序抓取-探伤应用平台",
+      "brand": "机械臂：光尺 3D智能相机：埃尔森 超声波相控阵探伤仪：艾因蒂克",
+      "model": "机械臂：SR5-5/0.9C 3D智能相机：AT-S1000-06C=S2 V2 超声波相控阵探伤仪：PHASEYE PA 32-64PR",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 680000.0,
+      "total_price": 680000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": null,
+      "item_name": "智能系统故障预警平台",
+      "brand": "瓦伦尼安",
+      "model": "PT580",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 780000.0,
+      "total_price": 780000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "河南新时达科技有限公司",
+      "role": "winner",
+      "total_score": 92.79,
+      "rank": null,
+      "amount": 3635000.0
+    },
+    {
+      "package_no": "2",
+      "name": "洛阳慧研智能科技有限公司",
+      "role": "winner",
+      "amount": 4328000,
+      "total_score": 92.96,
+      "rank": null
+    },
+    {
+      "package_no": "3",
+      "name": "郑州广灿机电设备有限公司",
+      "role": "winner",
+      "amount": 3349200,
+      "total_score": 93.03,
+      "rank": null
+    },
+    {
+      "package_no": "4",
+      "name": "郑州迅驰电子科技有限公司",
+      "role": "winner",
+      "amount": 3860000,
+      "total_score": 95.43,
+      "rank": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

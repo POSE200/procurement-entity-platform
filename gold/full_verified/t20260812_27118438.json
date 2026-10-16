@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27118438",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州为理科技有限公司）.pdf",
+  "note": "brand/model单元格原文即「广州纳微等，详见投标文件中的《分项报价表》」/「NWDPS II 40等，详见投标文件中的《分项报价表》」，该《分项报价表》未随附件提供，分项单价不可得，故仅1条汇总item（2,196,000×1(批)=2,196,000.00，与总中标金额219.6万一致）；附件「关于符合本国产品标准的声明函」列48项设备型号（快速纳米药物制备系统等）但无分项价格，无法拆分items；声明函中该系统型号一处写作「NWDPSII48-0」、多处「NWDPSII40」——但gold的model取自HTML标的表「NWDPS II 40等」（与报价明细附件一致），声明函型号差异不影响gold取值，复核确认无未决视觉核验项；委托协议载明预算金额220万元，仅作背景不录入字段。",
+  "project": {
+    "buyer": "广东医科大学",
+    "project_name": "广东医科大学药物制备系统等设备更新采购项目",
+    "total_amount": 2196000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东医科大学药物制备系统等设备更新采购项目",
+        "winner": "广州为理科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他仪器仪表",
+      "item_name": "快速纳米药物制备系统等",
+      "brand": "广州纳微等，详见投标文件中的《分项报价表》",
+      "model": "NWDPS II 40等，详见投标文件中的《分项报价表》",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 2196000.0,
+      "total_price": 2196000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州为理科技有限公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": 1,
+      "amount": 2196000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州思威泰克供应链管理有限公司",
+      "role": "participant",
+      "total_score": 69.78,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州莱硕科技有限公司",
+      "role": "participant",
+      "total_score": 67.35,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市学思生物科技有限公司",
+      "role": "participant",
+      "total_score": 66.18,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

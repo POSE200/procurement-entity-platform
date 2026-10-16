@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260806_27088714",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "概要品目列空，category 取标的信息表品目名称列'视频信息处理设备'（两包同）；package_no=1/2 取自公告标题'（采购包1、2）'与品目号1-1/2-1，附件明示采购包一/二；包二品牌与规格型号原文两级均写'见报价明细表'，其指向的明细（解包后PDF）亦仅写'见报价明细表'，最深无值故 null（报价明细附件.zip 被跳过，仅见解包出的两个报价明细表PDF）；评审劳务报酬支付表 OCR 采购人作'山东科技职业大学'，与 HTML'山东科技职业学院'不一致；复核确认：公告信息表、项目名称及附件业绩一览表均写'山东科技职业学院'，以 HTML 为准，OCR 系扫描件噪声，无需视觉核验；得分排名/推荐排名列空白，rank 全 null；总分 1996497=包1 999770+包2 996727，一致。",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院智能制造实践平台项目",
+    "total_amount": 1996497.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能制造实践平台项目采购包一",
+        "winner": "山东鑫沃网络科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智能制造实践平台项目采购包二",
+        "winner": "山东圣祥信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "视频信息处理设备",
+      "item_name": "智能制造实践平台项目采购包一",
+      "brand": "校云智慧",
+      "model": "智慧教室班牌",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 999770.0,
+      "total_price": 999770.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "视频信息处理设备",
+      "item_name": "智能制造实践平台项目采购包二",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 996727.0,
+      "total_price": 996727.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东鑫沃网络科技有限公司",
+      "role": "winner",
+      "total_score": 90.6,
+      "rank": null,
+      "amount": 999770.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东国迈智能科技有限公司",
+      "role": "participant",
+      "total_score": 87.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊菲沐安防科技有限公司",
+      "role": "participant",
+      "total_score": 84.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东星谷大数据有限公司",
+      "role": "participant",
+      "total_score": 81.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东圣祥信息科技有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 996727.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南视教信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东方立合信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东海科纳源智能工程有限公司",
+      "role": "participant",
+      "total_score": 71.91,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

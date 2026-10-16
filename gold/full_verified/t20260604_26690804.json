@@ -1,0 +1,147 @@
+{
+  "announcement_id": "t20260604_26690804",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细附件/投标（响应）报价明细表([1]).pdf,报价明细附件/投标（响应）报价明细表([2]).pdf",
+  "note": "2个采购包（包1信息系统监理服务/包2第三方软件测试）。品目：概要列空，取标的信息表「品目名称」列（信息化工程监理服务/测试评估认证服务）。items每包1条标的，单价/数量/计量单位取自中标人投标（响应）报价明细表附件（包1单价105500.00元、包2单价89800.0000元，数量均1.000项，最高限价均135000元），附件合计=各包中标金额，两包之和195300元=总中标金额￥19.530000万，数学自查通过。评分表与包对应：表格5含包1中标人北方实验室且其79.11为最高分，表格6含包2中标人赛迪国软且其78.23为最高分，故表格5=包1、表格6=包2。本项目兼投不兼中（招标文件），赛迪国软两包均投标、仅中包2。得分排名/推荐排名两列原文全空，rank一律null。",
+  "project": {
+    "buyer": "山东省司法厅机关",
+    "project_name": "2026年度山东省司法厅司法行政智能化升级改造项目（监理及第三方软件测试）",
+    "total_amount": 195300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息系统监理服务",
+        "winner": "北方实验室（沈阳）股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "第三方软件测试",
+        "winner": "青岛赛迪国软信息系统治理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "信息系统监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 105500.0,
+      "total_price": 105500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "第三方软件测试",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 89800.0,
+      "total_price": 89800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "winner",
+      "total_score": 79.11,
+      "rank": null,
+      "amount": 105500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东锐通信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京得网时代信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛赛迪国软信息系统治理有限公司",
+      "role": "participant",
+      "total_score": 76.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东国佳基业科技开发有限公司",
+      "role": "participant",
+      "total_score": 75.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛赛迪国软信息系统治理有限公司",
+      "role": "winner",
+      "total_score": 78.23,
+      "rank": null,
+      "amount": 89800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东锐通信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "国家网络软件产品质量监督检验中心（济南）",
+      "role": "participant",
+      "total_score": 73.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "南京航科信息系统测评有限公司",
+      "role": "participant",
+      "total_score": 71.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "苏测检测技术有限公司",
+      "role": "participant",
+      "total_score": 69.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

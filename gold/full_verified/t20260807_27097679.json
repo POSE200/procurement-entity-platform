@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260807_27097679",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东舜网传媒股份有限公司).pdf",
+  "note": "单包（标题「采购包1」、附件名「包(1)_」）。强制检查已完成：附件「报价明细表(第1轮-山东舜网传媒股份有限公司).pdf」解析完整，1行明细：单价190000元×数量1.0000项=响应报价190000元，与成交金额190,000.00元及总中标金额￥19万一致（单价/数量为附件明示，非推算）。附件「服务分项报价表.docx」为空白模板（仅表头示例行1.1/1.2无内容），无可用分项数据。品目概要列空，category取HTML标的信息表品目名称列「公共信息服务」。得分排名列空，rank一律null。需视觉核验：无重大疑点。复核：单价/数量/响应报价与附件逐字核对一致，5家bidder得分核对无误。",
+  "project": {
+    "buyer": "中共山东省委网络安全和信息化委员会办公室",
+    "project_name": "2026山东“双百”正能量网络精品征集展播活动",
+    "total_amount": 190000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东舜网传媒股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "公共信息服务",
+      "item_name": "2026山东“双百”正能量网络精品征集展播活动",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东舜网传媒股份有限公司",
+      "role": "winner",
+      "total_score": 83.58,
+      "rank": null,
+      "amount": 190000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛上合国际会展有限公司",
+      "role": "participant",
+      "total_score": 66.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东传普信息系统有限公司",
+      "role": "participant",
+      "total_score": 58.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东禹科信息技术有限公司",
+      "role": "participant",
+      "total_score": 54.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东久辉信息科技有限公司",
+      "role": "participant",
+      "total_score": 52.17,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

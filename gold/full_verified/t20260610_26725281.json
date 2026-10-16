@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260610_26725281",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中标公告.docx",
+  "note": "项目分01/02两个包，各包单一中标人、各一条明细：01包北京和兴创联健康科技有限公司（呼吸重症监护智能系统 V3.0，品牌和兴医疗，1台/套，1495000元，评审总得分96.2）；02包北京同健冠远经贸有限公司（呼吸机，品牌迈瑞，型号TV80，1台/套，180000元，评审总得分97.1）。两包金额之和1495000+180000=1675000 与总中标金额 ￥167.500000万 一致。金额精确值（￥1,495,000.00/￥180,000.00）与品牌（和兴医疗/迈瑞）取自附件中标公告.docx 标的信息表，HTML 表格2 仅给万元粗值。品目概要列空，标的信息表（包号|品目号|名称|品牌|规格型号|数量|单价）无品目名称列，category=null。数量列头为'数量(台/套)'，unit 照抄为'台/套'。原文未给排名列，rank=null（禁止'中标即第1'）；公告未附其余投标人名单，bidders 仅2条winner。附件rar为声明函图片（已OCR），无字段值。无需视觉核验疑点（声明函OCR印章遮挡不影响字段）。复核：全部字段与原文一致。",
+  "project": {
+    "buyer": "北京市呼吸疾病研究所",
+    "project_name": "北京市呼吸疾病研究所呼吸系统重大疾病智慧诊疗技术的应用研究设备购置项目",
+    "total_amount": 1675000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": null,
+        "winner": "北京和兴创联健康科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": null,
+        "winner": "北京同健冠远经贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1-1",
+      "category": null,
+      "item_name": "呼吸重症监护智能系统",
+      "brand": "和兴医疗",
+      "model": "V3.0",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 1495000.0,
+      "total_price": 1495000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "2-1",
+      "category": null,
+      "item_name": "呼吸机",
+      "brand": "迈瑞",
+      "model": "TV80",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京和兴创联健康科技有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": 1495000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京同健冠远经贸有限公司",
+      "role": "winner",
+      "total_score": 97.1,
+      "rank": null,
+      "amount": 180000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

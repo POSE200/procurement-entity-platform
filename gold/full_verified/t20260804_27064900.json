@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260804_27064900",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司佛山分公司）.pdf",
+  "note": "概要品目列为空，category 取主要标的信息表品目名称列「其他运行维护服务」；单价/数量/总价取自中标人报价明细附件（3,806,880元×1项）；联合体供应商名原样保留；评审表得分排名列明示，rank 据此填写；包金额3,806,880元=总额，数学自查通过。",
+  "project": {
+    "buyer": "佛山市南海区狮山镇公共服务办公室",
+    "project_name": "2026-2028年狮山镇电子政务运维服务项目",
+    "total_amount": 3806880.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2028年狮山镇电子政务运维服务项目",
+        "winner": "中国移动通信集团广东有限公司佛山分公司(联合体成员：佛山市迅城信息技术有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "2026-2028年狮山镇电子政务运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3806880.0,
+      "total_price": 3806880.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司佛山分公司(联合体成员：佛山市迅城信息技术有限公司)",
+      "role": "winner",
+      "total_score": 86.7,
+      "rank": 1,
+      "amount": 3806880.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司佛山分公司(联合体成员：佛山昌寰技术服务有限公司)",
+      "role": "participant",
+      "total_score": 86.08,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司(联合体成员：佛山壹联信息科技有限公司)",
+      "role": "participant",
+      "total_score": 84.53,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市南海长建安防通信工程有限公司",
+      "role": "participant",
+      "total_score": 42.8,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东致胜科技有限公司",
+      "role": "participant",
+      "total_score": 26.44,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

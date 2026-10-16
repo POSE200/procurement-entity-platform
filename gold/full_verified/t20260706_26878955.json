@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260706_26878955",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列为空，category取HTML标的信息表品目名称列『图形工作站』；附件报价明细与HTML标的信息表数值一致（23750×50=1187500，49680×2=99360，合计1286860与总中标金额一致）；附件OCR品牌/型号列含水印字符（如G惠普ZH11、台平云），以HTML表格为准；规格型号Z2 Tower G1i/Z4 G5两处互证；附件本国产品声明函为格式文本，未提供额外字段值，未计入gold_source。",
+  "project": {
+    "buyer": "广东省技师学院",
+    "project_name": "广东省技师学院计算机广告专业建设设备采购项目",
+    "total_amount": 1286860.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省技师学院计算机广告专业建设设备采购项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图形工作站",
+      "item_name": "图形工作站1",
+      "brand": "惠普",
+      "model": "Z2 Tower G1i",
+      "quantity": 50,
+      "unit": "套",
+      "unit_price": 23750.0,
+      "total_price": 1187500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "图形工作站",
+      "item_name": "图形工作站2",
+      "brand": "惠普",
+      "model": "Z4 G5",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 49680.0,
+      "total_price": 99360.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 94.83,
+      "rank": 1,
+      "amount": 1286860.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州睿纵信息科技有限公司",
+      "role": "participant",
+      "total_score": 85.21,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东安信科技有限公司",
+      "role": "participant",
+      "total_score": 66.0,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

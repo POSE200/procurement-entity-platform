@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260206_26156910",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目。品目取自HTML主要标的信息表品目名称列（概要品目列空）。中标人报价明细附件（合同包1：报价明细附件（广东升捷仪器有限公司）.pdf）为html类型被跳过不可见，items以HTML标的信息2条为准；998500+1498500=2497000与总中标金额2497000元相符，无需视觉核验。",
+  "project": {
+    "buyer": "佛山大学",
+    "project_name": "佛山大学动物科学人工智能平台设备采购-动物智能穿戴及宠居边缘智能终端并行采集设施等设备",
+    "total_amount": 2497000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "动物智能穿戴及宠居边缘智能终端并行采集设施等设备",
+        "winner": "广东升捷仪器有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "畜牧饲养机械",
+      "item_name": "动物智能穿戴及宠居边缘智能终端并行采集设施",
+      "brand": "天木生物",
+      "model": "MISS cell-G2c",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 998500.0,
+      "total_price": 998500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "生物、医学样品制备设备",
+      "item_name": "智慧养殖数字孪生系统",
+      "brand": "浙江优嘉",
+      "model": "YJ-CHF-5A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1498500.0,
+      "total_price": 1498500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东升捷仪器有限公司",
+      "role": "winner",
+      "total_score": 91.64,
+      "rank": 1,
+      "amount": 2497000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州画诺生物科技有限公司",
+      "role": "participant",
+      "total_score": 76.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州吴涵机电设备有限公司",
+      "role": "participant",
+      "total_score": 68.65,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

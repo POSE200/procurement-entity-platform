@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260812_27123423",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且主要标的信息表无品目名称列，category=null；服务类标的仅有中标金额247000元，quantity/unit_price无线索留null；package_no取自公告标题及项目名称明示的'项目包C'；无附件包。复核修正：item_name原'基础地理信息数据更新服务'有误，原文主要标的信息表为'名称：基础地理信息数据更新'（后接'服务范围：'），已照抄改回。",
+  "project": {
+    "buyer": "寿光市自然资源和规划局",
+    "project_name": "山东省潍坊市寿光市自然资源和规划局2026年基础测绘项目-基础地理信息数据库更新采购项目",
+    "total_amount": 247000.0,
+    "packages": [
+      {
+        "package_no": "C",
+        "package_name": "基础地理信息数据更新",
+        "winner": "山东华岳勘察测绘有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "基础地理信息数据更新",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 247000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "C",
+      "name": "山东华岳勘察测绘有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 247000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

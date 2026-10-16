@@ -1,0 +1,134 @@
+{
+  "announcement_id": "t20260805_27080699",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报 价明细表.pdf",
+  "note": "品目概要列空，category 取 HTML 主要标的信息表'品目名称'列（专业摄像机和信号源设备）；item_name 取附件报价明细表货物名称（HTML 采购标的列四行均为'智慧教室录播系统'，附件给出具体货物名），单价/总价/数量来自附件报价明细表，4条单价×数量=总价全部吻合，合计798988元与中标金额一致；package_no='1'（公告标题'采购包1'且附件明示采购包：1）；评分表'得分排名/推荐排名'列空白，rank 全部 null，综合得分来自HTML评审表；中标金额798,988.00元。",
+  "project": {
+    "buyer": "山东农业大学",
+    "project_name": "山东农业大学教务处植保大楼（北楼）智慧教室录播系统采购项目",
+    "total_amount": 798988.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧教室录播系统",
+        "winner": "山东博威装备科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "专业摄像机和信号源设备",
+      "item_name": "4K跟踪摄像机",
+      "brand": "翰博尔（PowerCreator）",
+      "model": "Q49T",
+      "quantity": 38,
+      "unit": "台",
+      "unit_price": 4300.0,
+      "total_price": 163400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "专业摄像机和信号源设备",
+      "item_name": "4K全景摄像机",
+      "brand": "翰博尔（PowerCreator）",
+      "model": "Q49S",
+      "quantity": 38,
+      "unit": "套",
+      "unit_price": 4146.0,
+      "total_price": 157548.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "专业摄像机和信号源设备",
+      "item_name": "多功能教学终端",
+      "brand": "翰博尔（PowerCreator）",
+      "model": "T33 Mini",
+      "quantity": 38,
+      "unit": "套",
+      "unit_price": 11280.0,
+      "total_price": 428640.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "专业摄像机和信号源设备",
+      "item_name": "专业全向拾音麦克风",
+      "brand": "翰博尔（PowerCreator）",
+      "model": "HD-PCM20",
+      "quantity": 38,
+      "unit": "个",
+      "unit_price": 1300.0,
+      "total_price": 49400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东博威装备科技有限公司",
+      "role": "winner",
+      "total_score": 91.99,
+      "rank": null,
+      "amount": 798988.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东德翰实验室设备有限公司",
+      "role": "participant",
+      "total_score": 83.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东泰芯信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东敏行电子有限公司",
+      "role": "participant",
+      "total_score": 89.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "亿维数字技术股份有限公司",
+      "role": "participant",
+      "total_score": 79.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东朗信环保科技有限公司",
+      "role": "participant",
+      "total_score": 76.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中电教学设备有限公司",
+      "role": "participant",
+      "total_score": 75.82,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

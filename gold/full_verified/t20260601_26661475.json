@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260601_26661475",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东创业科技有限公司）.pdf",
+  "note": "单包1条服务标的，单价/数量/总价取自附件报价明细（单价×数量=总价，附件明示数量1项）；1,188,000元与总中标金额￥118.8万元一致；品目名称取自HTML主要标的信息表品目名称列。",
+  "project": {
+    "buyer": "广东省中山市中级人民法院",
+    "project_name": "广东省中山市中级人民法院机房、视频监控、视频会议、桌面办公设备运维项目",
+    "total_amount": 1188000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "机房、视频监控、视频会议、桌面办公设备运维",
+        "winner": "广东创业科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "广东省中山市中级人民法院机房、视频监控、视频会议、桌面办公设备运维项目/采购包1(机房、视频监控、视频会议、桌面办公设备运维)",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1188000.0,
+      "total_price": 1188000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东创业科技有限公司",
+      "role": "winner",
+      "total_score": 90.23,
+      "rank": 1,
+      "amount": 1188000.0
+    },
+    {
+      "package_no": "1",
+      "name": "京信科技股份有限公司",
+      "role": "participant",
+      "total_score": 68.21,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中山市奥图电子工程有限公司",
+      "role": "participant",
+      "total_score": 39.8,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27101367",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东省齐鲁大数据研究院).pdf",
+  "note": "单包：包号1取自附件文件名'包(1)_'（推断，需视觉核验）；品目取自HTML标的表品目名称列（概要品目列空）；HTML标的表金额列为空，数量1.0000宗/单价296000元/响应报价296000元来自附件报价明细表(第1轮-山东省齐鲁大数据研究院)（最高限价300000元）；评审表得分排名列为空，各bidders rank=null，未中标供应商报价未公布→amount=null。",
+  "project": {
+    "buyer": "山东省应急管理厅机关",
+    "project_name": "山东省应急管理厅数智应急建设咨询服务",
+    "total_amount": 296000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东省齐鲁大数据研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "数智应急建设咨询服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 296000.0,
+      "total_price": 296000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东省齐鲁大数据研究院",
+      "role": "winner",
+      "total_score": 89.03,
+      "rank": null,
+      "amount": 296000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省经济和信息化发展研究院",
+      "role": "participant",
+      "total_score": 80.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东新一代标准化研究院有限公司",
+      "role": "participant",
+      "total_score": 80.01,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260305_26232887",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州银政信息科技有限公司）.pdf",
+  "note": "单包项目（合同包1）；品目概要列为空，category取标的信息表『品目名称』列『硬件集成实施服务』（HTML与附件明细品目号均为1-1）；4条明细的单价/数量/总价取自附件报价明细表（HTML标的信息表金额列全空），各条单价×数量与总价一致，4条总价之和=390000元与中标金额及概要总金额39万元一致；附件为OCR文本且带水印噪声（如『包购』『台平云慧智』『广东政采』穿插字），已按语义清理，需视觉核验的疑点：4条数量单位分别为(台)/(台)/(项)/(点)；brand/model原文未提供，为null。",
+  "project": {
+    "buyer": "广州工程技术职业学院",
+    "project_name": "广州工程技术职业学院ERP沙盘实训室设备更新及改造项目",
+    "total_amount": 390000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州工程技术职业学院ERP沙盘实训室设备更新及改造项目",
+        "winner": "广州银政信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "硬件集成实施服务",
+      "item_name": "实验教学终端",
+      "brand": null,
+      "model": null,
+      "quantity": 56,
+      "unit": "台",
+      "unit_price": 5910.0,
+      "total_price": 330960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "硬件集成实施服务",
+      "item_name": "48口数据交换设备",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 5980.0,
+      "total_price": 11960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "硬件集成实施服务",
+      "item_name": "机房内部综合布线服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 25800.0,
+      "total_price": 25800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "硬件集成实施服务",
+      "item_name": "桌面同传系统",
+      "brand": null,
+      "model": null,
+      "quantity": 56,
+      "unit": "点",
+      "unit_price": 380.0,
+      "total_price": 21280.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州银政信息科技有限公司",
+      "role": "winner",
+      "total_score": 97.21,
+      "rank": 1,
+      "amount": 390000.0
+    },
+    {
+      "package_no": "1",
+      "name": "高瓴信息科技（广州）有限公司",
+      "role": "participant",
+      "total_score": 41.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州智橡信息科技有限公司",
+      "role": "participant",
+      "total_score": 40.71,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

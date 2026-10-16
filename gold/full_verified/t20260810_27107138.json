@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260810_27107138",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-潍坊嘉诚工程咨询有限公司).pdf",
+  "note": "附件「报价明细表(第1轮-潍坊嘉诚工程咨询有限公司).pdf」已在附件内容中找到并核对：单价80000元×数量1.0000项=响应报价80000元，与中标金额、总中标金额￥8.000000万一致（注意：预算/最高限价为91252元，成交价低于预算属正常，不改原文）。概要品目列为空，category取主要标的信息表品目名称列「审计服务」。评分表得分排名列空白，所有bidders rank=null（共7家参与，1家中标6家未中）。无OCR待补（业绩1/2.png、劳务报酬.png为已OCR件，仅含业绩与劳务信息，不影响字段）。",
+  "project": {
+    "buyer": "山东省工业和信息化厅机关",
+    "project_name": "首批中小企业数字化转型引导区奖补资金绩效复查项目",
+    "total_amount": 80000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "潍坊嘉诚工程咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "审计服务",
+      "item_name": "首批中小企业数字化转型引导区奖补资金绩效复查项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "潍坊嘉诚工程咨询有限公司",
+      "role": "winner",
+      "total_score": 91.9,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "1",
+      "name": "沃尔德管理咨询集团有限公司",
+      "role": "participant",
+      "total_score": 91.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天佑德（山东）建设咨询有限公司",
+      "role": "participant",
+      "total_score": 83.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京中平建华浩会计师事务所有限公司",
+      "role": "participant",
+      "total_score": 81.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "龙达恒信工程咨询有限公司",
+      "role": "participant",
+      "total_score": 78.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东世纪华都工程咨询有限公司",
+      "role": "participant",
+      "total_score": 77.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东亿德会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 77.5,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

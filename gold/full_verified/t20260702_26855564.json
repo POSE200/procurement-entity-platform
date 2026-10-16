@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260702_26855564",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "总额栏为￥0.000000万占位值，total_amount=null；中标（成交）金额栏为折扣率82.16%非金额，bidders.amount=null。合同包1（HTML明示合同包号）。品目取标的信息表品目名称列（纸及纸板），概要品目空。2条明细单价×数量=总价核对一致（185×1872=346320；185×9300=1720500），明细合计2066820元。附件报价明细OCR有水印乱字（60g误作6404g等），gold值以HTML表格2干净文本为准，无取值不确定处（原视觉核验疑点已复核关闭：规格型号/折扣率在HTML中均清晰可读）。评分表明示得分排名1-6，rank照抄；未中标供应商投标报价原文未给。",
+  "project": {
+    "buyer": "开平市第一中学",
+    "project_name": "2026年开平市学校一体机纸带量集中采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年开平市学校一体机纸带量集中采购项目的第1包",
+        "winner": "佛山市富丽星纸品有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "纸及纸板",
+      "item_name": "一体机纸16K",
+      "brand": "富丽星",
+      "model": "富丽星 一体机纸 60g 8000p 16K",
+      "quantity": 1872,
+      "unit": "箱",
+      "unit_price": 185.0,
+      "total_price": 346320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "纸及纸板",
+      "item_name": "一体机纸8K",
+      "brand": "富丽星",
+      "model": "富丽星 一体机纸 60g 4000p 8K",
+      "quantity": 9300,
+      "unit": "箱",
+      "unit_price": 185.0,
+      "total_price": 1720500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "佛山市富丽星纸品有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东天章信息纸品有限公司",
+      "role": "participant",
+      "total_score": 99.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "开平市科达办公设备有限公司",
+      "role": "participant",
+      "total_score": 97.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "开平市银河计算机工程有限公司",
+      "role": "participant",
+      "total_score": 97.47,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江门市源峰办公用品有限公司",
+      "role": "participant",
+      "total_score": 96.56,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "开平市景熙计算机工程有限公司",
+      "role": "participant",
+      "total_score": 95.33,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

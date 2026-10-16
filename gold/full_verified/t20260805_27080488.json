@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260805_27080488",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包，HTML亦无标的明细表/品目列/评分表，items按规范写每包一条总称记录（值多null）；total_price取该包中标金额（71.3万/73.3万），unit_price与quantity按口径禁止由总额反推故为null。A、B两包中标供应商为同一家（北京微宝金网科技有限公司），bidders按包各一条。无参与人名单、无得分排名列，相关字段为null。总中标金额144.6万=A包71.3万+B包73.3万，数学一致。需视觉核验：无（本篇无附件、表格简单）。",
+  "project": {
+    "buyer": "莒县经济开发区管理委员会",
+    "project_name": "莒县撬装加油装置智慧物联数控设备服务平台建设及加油站智慧物联数控设备项目",
+    "total_amount": 1446000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "撬装加油装置智慧物联数控设备服务平台建设",
+        "winner": "北京微宝金网科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "加油站智慧物联数控设备项目",
+        "winner": "北京微宝金网科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "撬装加油装置智慧物联数控设备服务平台建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 713000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "加油站智慧物联数控设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 733000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京微宝金网科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 713000.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京微宝金网科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 733000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

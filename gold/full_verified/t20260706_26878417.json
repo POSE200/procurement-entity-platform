@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260706_26878417",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "三个包：包号由附件『包1/包2/包3供应商评审情况表』及中小企业声明函（合同包1杭州图特、合同包2成都华西公用、合同包3四川云智）明示，与HTML中标信息表行序及标的信息表（HRP系统维护/华西相关系统维护/医保相关系统维护）一一对应；各包综合得分、第N中标候选人排名及候选人报价金额均取自附件评审情况表（原文明示『第N中标候选人』，rank按候选人次序填，与得分排序一致）；三包中标金额之和288000+66000+58000=412000与总中标金额41.2万元一致；HTML标的信息表的响应报价列为页面模板渲染错误串（0}\" class=...），无有效值，且包(1)(2)(3)_报价表.pdf仅表头无数据行，故items的数量/单价/总价均无出处填null；category照抄品目名称列原文『C16070300 软件运维服务』，item_no填品目编号C16070300。",
+  "project": {
+    "buyer": "成都市双流区第一人民医院",
+    "project_name": "四川大学华西空港医院2026年第一批信息化服务采购项目",
+    "total_amount": 412000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "HRP系统维护服务",
+        "winner": "杭州图特信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "华西相关系统维护服务",
+        "winner": "成都华西公用医疗信息服务有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "医保相关系统维护服务",
+        "winner": "四川云智科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "C16070300",
+      "category": "C16070300 软件运维服务",
+      "item_name": "HRP系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "C16070300",
+      "category": "C16070300 软件运维服务",
+      "item_name": "华西相关系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "C16070300",
+      "category": "C16070300 软件运维服务",
+      "item_name": "医保相关系统维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "杭州图特信息科技有限公司",
+      "role": "winner",
+      "total_score": 99.5,
+      "rank": 1,
+      "amount": 288000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川商众信息技术有限公司",
+      "role": "participant",
+      "total_score": 87.36,
+      "rank": 3,
+      "amount": 290000.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州希和信息技术有限公司",
+      "role": "participant",
+      "total_score": 98.88,
+      "rank": 2,
+      "amount": 289800.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都华西公用医疗信息服务有限公司",
+      "role": "winner",
+      "total_score": 79.8,
+      "rank": 1,
+      "amount": 66000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川腾辉空间信息科技有限公司",
+      "role": "participant",
+      "total_score": 54.23,
+      "rank": 3,
+      "amount": 62000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都博胜伟业科技有限公司",
+      "role": "participant",
+      "total_score": 69.0,
+      "rank": 2,
+      "amount": 59000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川云智科技有限责任公司",
+      "role": "winner",
+      "total_score": 96.0,
+      "rank": 1,
+      "amount": 58000.0
+    },
+    {
+      "package_no": "3",
+      "name": "重庆昊廷众诚实业有限公司",
+      "role": "participant",
+      "total_score": 95.79,
+      "rank": 2,
+      "amount": 58400.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都智医慧信息技术有限公司",
+      "role": "participant",
+      "total_score": 95.05,
+      "rank": 3,
+      "amount": 58300.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

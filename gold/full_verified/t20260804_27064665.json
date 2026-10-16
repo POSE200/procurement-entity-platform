@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27064665",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东瀚祥船舶服务有限公司).pdf",
+  "note": "单包项目（采购包1）。附件报价明细表（第1轮-山东瀚祥船舶服务有限公司）明示：最高限价448000元、单价427950元、数量1.0000宗、响应报价427950元，与HTML中标金额427,950.00元一致。category取HTML标的信息表'品目编号及品目名称'列'渔业船舶检验监管服务'。附件'单价明细.docx'为空白模板（24米及以上/以下船舶单价未填），实际按总价报价，结算方式为'按实际排查艘数×单价据实结算'。评审表得分排名列为空，rank=null；山东强岚海洋发展有限公司资格性审查未通过（无综合得分），收录为participant。需视觉核验：OCR扫描件'附件.pdf'（中小企业声明函）落款盖章名显示'山东潮铂服务有限公司'，疑为'山东瀚祥船舶服务有限公司'的OCR截断错字；该疑点仅涉及声明函落款，不影响本 gold 任何取值字段（取值均出自 HTML 与报价明细表，复核已逐字段核对一致）。磋商文件PDF仅前30页、12个docx容器被跳过（均为声明函/承诺函类，不影响取值字段）。",
+  "project": {
+    "buyer": "威海经济技术开发区应急管理局",
+    "project_name": "经区捕捞渔船安全评估检测",
+    "total_amount": 427950.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东瀚祥船舶服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "渔业船舶检验监管服务",
+      "item_name": "经区捕捞渔船安全评估检测",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 427950.0,
+      "total_price": 427950.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东瀚祥船舶服务有限公司",
+      "role": "winner",
+      "total_score": 87.34,
+      "rank": null,
+      "amount": 427950.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省北海船舶技术咨询有限责任公司",
+      "role": "participant",
+      "total_score": 78.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台欧星船舶服务有限公司",
+      "role": "participant",
+      "total_score": 68.27,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东强岚海洋发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

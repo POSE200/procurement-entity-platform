@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260403_26358300",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方日报经营有限公司）.pdf",
+  "note": "单合同包。品目概要列为空，category 取 HTML 标的信息表品目名称列「其他展览服务」。7条明细来自报价明细附件（附件与HTML的采购标的一致），单价×数量=总价均成立，7条合计2,379,995.34元=总成交金额￥237.9995万，数学一致。附件中第4条（第二部分-硬件设备）行尾有一空行碎片单元格，不影响取值。声明函为佐证文件，不提供字段值。品牌/规格型号原文未给，null。",
+  "project": {
+    "buyer": "东莞市万江街道人大办公室",
+    "project_name": "万江街道“三合一”人大工作平台布展服务项目",
+    "total_amount": 2379995.34,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "万江街道“三合一”人大工作平台布展服务",
+        "winner": "广东南方日报经营有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他展览服务",
+      "item_name": "第一部分-硬件设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 315708.44,
+      "total_price": 315708.44
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他展览服务",
+      "item_name": "第一部分-多媒体系统费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 316982.4,
+      "total_price": 316982.4
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他展览服务",
+      "item_name": "第一部分-展览陈列费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 317994.7,
+      "total_price": 317994.7
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他展览服务",
+      "item_name": "第二部分-硬件设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 191512.4,
+      "total_price": 191512.4
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他展览服务",
+      "item_name": "第二部分-布展装饰及配套安装",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 448901.24,
+      "total_price": 448901.24
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他展览服务",
+      "item_name": "第二部分-展览陈列费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 321271.16,
+      "total_price": 321271.16
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他展览服务",
+      "item_name": "第二部分-宣传推广",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 467625.0,
+      "total_price": 467625.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方日报经营有限公司",
+      "role": "winner",
+      "total_score": 92.67,
+      "rank": 1,
+      "amount": 2379995.34
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市视澜文化传播有限公司",
+      "role": "participant",
+      "total_score": 44.29,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东莞彩广告有限公司",
+      "role": "participant",
+      "total_score": 44.25,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

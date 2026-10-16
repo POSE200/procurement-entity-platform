@@ -1,0 +1,162 @@
+{
+  "announcement_id": "t20260701_26852163",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "单包（合同包1）。概要品目列为空，category取HTML标的信息表品目名称列（图形工作站/音频功率放大器设备（功放设备）/音箱/收音设备/交换设备/机柜）。7条明细单价×数量=总价，之和4,680,000元与中标金额一致。附件OCR有水印污染但型号/品牌可与HTML互证（如慧天M5、慧天V24）。声明函附件未提供字段值，不计入gold_source。",
+  "project": {
+    "buyer": "广东轻工职业技术大学",
+    "project_name": "广东轻工职业技术大学2026年度公共计算机实训室升级改造项目",
+    "total_amount": 4680000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年度公共计算机实训室升级改造",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图形工作站",
+      "item_name": "图形工作站",
+      "brand": "慧天",
+      "model": "慧天M5、慧天V24",
+      "quantity": 396,
+      "unit": "台",
+      "unit_price": 11670.0,
+      "total_price": 4621320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "音频功率放大器设备（功放设备）",
+      "item_name": "功放",
+      "brand": "CS",
+      "model": "CS MPA800DY",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 2485.0,
+      "total_price": 14910.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "音箱",
+      "item_name": "音箱",
+      "brand": "CS",
+      "model": "CS K1023T",
+      "quantity": 14,
+      "unit": "个",
+      "unit_price": 1200.0,
+      "total_price": 16800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "收音设备",
+      "item_name": "麦克风",
+      "brand": "CS",
+      "model": "CS CES126CD",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 1350.0,
+      "total_price": 8100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "交换设备",
+      "item_name": "48口交换机",
+      "brand": "锐捷",
+      "model": "锐捷 RG-ES124G-E",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 1980.0,
+      "total_price": 3960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "交换设备",
+      "item_name": "24口交换设备",
+      "brand": "锐捷",
+      "model": "锐捷 RG-NBS1850GC V2",
+      "quantity": 15,
+      "unit": "个",
+      "unit_price": 650.0,
+      "total_price": 9750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "机柜",
+      "item_name": "交换机柜",
+      "brand": "三拓",
+      "model": "三拓ST.6622",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 860.0,
+      "total_price": 5160.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 82.68,
+      "rank": 1,
+      "amount": 4680000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州正特科技有限公司",
+      "role": "participant",
+      "total_score": 82.31,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东中鑫华科技有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州力富科技有限公司",
+      "role": "participant",
+      "total_score": 69.82,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州林智智能科技有限公司",
+      "role": "participant",
+      "total_score": 62.2,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市时代尖端科技发展有限公司",
+      "role": "participant",
+      "total_score": 60.18,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "announcement_id": "t20260509_26538802",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中通服建设有限公司）.pdf",
+  "note": "概要品目列为空，category取HTML标的信息表「品目名称」列逐条照抄；品牌/规格型号原文（HTML与附件）均为「详见投标文件《三、分项报价表》」指针文字，无实际值，填null；13条明细单价×数量=总价核对一致，合计2944525元与总中标金额一致；评分表同时有得分排名与推荐排名两列且不一致（如中国移动云浮分公司得分第3、推荐第2；联通（广东）产业互联网得分第2、无推荐排名），rank按得分排名列填写；附件表格含水印噪声字符。",
+  "project": {
+    "buyer": "云浮市云安区都杨镇人民政府",
+    "project_name": "云浮市云安区都杨镇湾边文旅产业基础设施配套工程—智能化指挥设备采购项目",
+    "total_amount": 2944525.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中通服建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "安全、检查、监视、报警设备（紧急求助报警系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 162600.0,
+      "total_price": 162600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "安全、检查、监视、报警设备（停车场管理系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 385700.0,
+      "total_price": 385700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "视频监控设备",
+      "item_name": "视频监控设备（视频监控系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 610380.0,
+      "total_price": 610380.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "视频会议系统及会议室音频系统",
+      "item_name": "视频会议系统及会议室音频系统（会议音视频系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 274440.0,
+      "total_price": 274440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他网络设备",
+      "item_name": "其他网络设备（计算机网络电话系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 285440.0,
+      "total_price": 285440.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "安全、检查、监视、报警设备（门禁管理系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 25040.0,
+      "total_price": 25040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他音频设备",
+      "item_name": "其他音频设备（背景音乐系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 72480.0,
+      "total_price": 72480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他照明设备",
+      "item_name": "智慧照明灯2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 263445.0,
+      "total_price": 263445.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他系统集成实施服务",
+      "item_name": "其他系统集成实施服务（其他服务）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 332500.0,
+      "total_price": 332500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "行业应用软件开发服务",
+      "item_name": "行业应用软件开发服务（软件定制）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 439000.0,
+      "total_price": 439000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "网络存储设备",
+      "item_name": "网络存储设备（存储设备（视频监控系统））",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 24800.0,
+      "total_price": 49600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "服务器",
+      "item_name": "服务器（网络服务器（视频监控系统））",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 21100.0,
+      "total_price": 21100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "平板显示设备",
+      "item_name": "平板显示设备（显示设备（会议音视频系统））",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 22800.0,
+      "total_price": 22800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中通服建设有限公司",
+      "role": "winner",
+      "total_score": 96.68,
+      "rank": 1,
+      "amount": 2944525.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司云浮分公司",
+      "role": "participant",
+      "total_score": 59.36,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "重庆德生鼎盛实业发展有限公司",
+      "role": "participant",
+      "total_score": 52.87,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 68.12,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东天黎科盛信息技术有限公司",
+      "role": "participant",
+      "total_score": 49.91,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东永悦建设工程有限公司",
+      "role": "participant",
+      "total_score": 45.6,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

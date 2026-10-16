@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260609_26719731",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东融基伟业科技有限公司).pdf",
+  "note": "公告标题明示仅含采购包1（项目为多包项目，其余包不在本公告）。4 条明细来自附件报价明细表（第1轮-山东融基伟业科技有限公司），合计 69,290+45,436+156,498+13,776=285,000 元与总中标金额完全一致。第 2 条『上网行为管理』的品牌单元格被水印『投标（响应）报价明细表』（文件名）污染，HTML 表格2 品牌列同样被污染 → brand=null（该行制造商为北京网御星云信息技术有限公司，是否填『网御星云』待视觉核验原PDF）。得分排名/推荐排名列存在但值为空 → 所有 rank=null。概要品目列空，category 取品目名称列『其他网络设备』。 复核修正：2026-09-23独立复核通过——1-2品牌单元格在HTML与附件两处文本层均被同名水印遮蔽且无任何可恢复文字，brand=null为规范下唯一可出处取值（不得按制造商推定网御星云），无未决取值歧义。",
+  "project": {
+    "buyer": "山东博物馆",
+    "project_name": "山东博物馆网络设备升级改造项目",
+    "total_amount": 285000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东融基伟业科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他网络设备",
+      "item_name": "入侵监测与防御",
+      "brand": "网御星云",
+      "model": "网御入侵防护系统leadsec-6000IPS（千兆）/V3.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 69290.0,
+      "total_price": 69290.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他网络设备",
+      "item_name": "上网行为管理",
+      "brand": null,
+      "model": "网御上网行为管理系统V3.0leadsec ACM",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 45436.0,
+      "total_price": 45436.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他网络设备",
+      "item_name": "路由器",
+      "brand": "H3C",
+      "model": "H3C SR6608-M",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 156498.0,
+      "total_price": 156498.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他网络设备",
+      "item_name": "交换机",
+      "brand": "H3C",
+      "model": "H3C S5130S-52MS-EI-G",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 6888.0,
+      "total_price": 13776.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东融基伟业科技有限公司",
+      "role": "winner",
+      "total_score": 90.0,
+      "rank": null,
+      "amount": 285000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东鑫清信安信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东超链信息安全技术有限公司",
+      "role": "participant",
+      "total_score": 79.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东认知时代信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.58,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

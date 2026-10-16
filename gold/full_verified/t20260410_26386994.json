@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260410_26386994",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf,中小企业声明函_2.pdf,中小企业声明函_3.pdf",
+  "note": "3个采购包（包1/2/3，各预算900,000元）。包对应关系由各包中小企业声明函明示：包1=山西应物科技有限公司850,000元、包2=浙江星汉信息技术股份有限公司800,000元、包3=山西中盛方仁科技有限公司891,000元，三包之和2,541,000元=总中标金额254.1万元，一致。附件为三份声明函+竞争性磋商文件，无分项报价明细，每包仅一条标的记录：total_price取该包成交金额，quantity/unit/unit_price均null（'完成200万页整理及数字化加工'是服务范围表述而非数量字段，从严不填数量）。品目列空且标的信息表无品目列，category=null；表3标的名称列仅写'包1/包2/包3'，item_name采用其服务范围描述。评审总得分有值但原文无排名列，rank=null。除三位成交供应商外无其他参与供应商名单，bidders各包仅1条。复核：三包归属经三份声明函明示，金额/得分与表格1核对一致，之和=总中标金额，通过。",
+  "project": {
+    "buyer": "山西省档案馆",
+    "project_name": "山西省档案馆馆藏建国后档案整理及数字化加工服务",
+    "total_amount": 2541000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "包1",
+        "winner": "山西应物科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "包2",
+        "winner": "浙江星汉信息技术股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "包3",
+        "winner": "山西中盛方仁科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "山西省档案馆馆藏建国后档案整理及数字化加工服务（200万页）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 850000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "山西省档案馆馆藏建国后档案整理及数字化加工服务（200万页）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "山西省档案馆馆藏建国后档案整理及数字化加工服务（200万页）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 891000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西应物科技有限公司",
+      "role": "winner",
+      "total_score": 94.08,
+      "rank": null,
+      "amount": 850000.0
+    },
+    {
+      "package_no": "2",
+      "name": "浙江星汉信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 92.33,
+      "rank": null,
+      "amount": 800000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山西中盛方仁科技有限公司",
+      "role": "winner",
+      "total_score": 88.65,
+      "rank": null,
+      "amount": 891000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27082313",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东省工程咨询院（山东省政府投资项目评审中心）).pdf",
+  "note": "强制核对附件『报价明细表(第1轮-山东省工程咨询院)』：单价260000元×数量1项=响应报价260000元，与合计、中标（成交）金额260,000.00元、总中标金额￥26万、劳动报酬支付表26万元全部一致；最高限价300000元仅作原文参照未入字段；包号取自附件文件名『包(1)_开标（报价）一览表』明示的包1；品目取自标的信息表品目名称列（概要品目列为空）；评审表得分排名列为空，rank一律null。",
+  "project": {
+    "buyer": "德州学院",
+    "project_name": "德州学院智能制造与先进材料产教融合基地工程可行性研究报告编制及评估项目",
+    "total_amount": 260000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东省工程咨询院（山东省政府投资项目评审中心）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "工程设计前咨询服务",
+      "item_name": "智能制造与先进材料产教融合基地工程可行性研究报告编制及评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 260000.0,
+      "total_price": 260000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东省工程咨询院（山东省政府投资项目评审中心）",
+      "role": "winner",
+      "total_score": 86.37,
+      "rank": null,
+      "amount": 260000.0
+    },
+    {
+      "package_no": "1",
+      "name": "国信国际工程咨询集团股份有限公司",
+      "role": "participant",
+      "total_score": 83.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东衡泰工程咨询有限公司",
+      "role": "participant",
+      "total_score": 70.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "德州凯元工程咨询有限公司",
+      "role": "participant",
+      "total_score": 70.11,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

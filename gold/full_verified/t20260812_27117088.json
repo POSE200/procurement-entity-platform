@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260812_27117088",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，包号取自代理服务费表『合同包号1』；综合得分88.40/得分排名列明示rank=1，其余两家按得分排名列填rank。附件报价明细与HTML标的信息表数值一致（479,000×2=958,000），但附件OCR规格型号含水印噪声（Obeye 1 4 0），故品牌/规格型号/数量单价均以HTML标的信息表为准（莲印/Obeye 1）。复核修正：附件OCR串行疑点不影响gold取值（HTML明示），无未决视觉核验项。",
+  "project": {
+    "buyer": "佛山市妇幼保健院",
+    "project_name": "产程数据监测与可视化系统",
+    "total_amount": 958000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "产程数据监测与可视化系统",
+        "winner": "中盈华诺（广东）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "医用超声波仪器及设备",
+      "item_name": "产程数据监测与可视化系统（注册证名称：彩色多普勒超声系统）",
+      "brand": "莲印",
+      "model": "Obeye 1",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 479000.0,
+      "total_price": 958000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中盈华诺（广东）科技有限公司",
+      "role": "winner",
+      "total_score": 88.4,
+      "rank": 1,
+      "amount": 958000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州贺安贸易有限公司",
+      "role": "participant",
+      "total_score": 70.09,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市朗德生物科技有限公司",
+      "role": "participant",
+      "total_score": 69.36,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

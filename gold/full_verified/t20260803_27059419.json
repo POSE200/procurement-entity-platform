@@ -1,0 +1,87 @@
+{
+  "announcement_id": "t20260803_27059419",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目为完整分类路径（货物/设备/信息化设备/计算机/服务器），原样保留为全部item的category。HTML中标货物表将包组1两种货物合并在一行（以「；」分隔），按最细粒度拆为item_no 1-1/1-2，包组2为序号2；供应商名后的（包组N）剥离为package_no。item的total_price原文未直接给出，由单价×数量唯一互推（2×266,000=532,000；2×1,458,900=2,917,800；1×1,476,800=1,476,800），三者之和4,926,600元=总中标金额492.66万元，数学一致。各包中标金额原文未单独列示，bidder.amount=null（可推得包1=3,449,800元、包2=1,476,800元）。原文无得分/排名，total_score与rank均null。附件为本国产品声明函，不提供字段值。",
+  "project": {
+    "buyer": "中山大学",
+    "project_name": "中山大学深圳校区信息化项目之存储和数据库服务器采购项目",
+    "total_amount": 4926600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广东恒电信息科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "广州易宝信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "货物/设备/信息化设备/计算机/服务器",
+      "item_name": "数据库管理服务器",
+      "brand": "联想",
+      "model": "联想开天 KR722h G3",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 266000.0,
+      "total_price": 532000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "货物/设备/信息化设备/计算机/服务器",
+      "item_name": "数据库计算存储节点服务器",
+      "brand": "联想",
+      "model": "联想开天 KR722h G3",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 1458900.0,
+      "total_price": 2917800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/设备/信息化设备/计算机/服务器",
+      "item_name": "数据中心业务存储",
+      "brand": "华为",
+      "model": "OceanStor 5510",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1476800.0,
+      "total_price": 1476800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东恒电信息科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州易宝信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "announcement_id": "t20260604_26683090",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州历康信息科技股份有限公司）.pdf",
+  "note": "合同包1。品目取HTML标的信息表品目名称列（概要品目列空），三条明细品目号均为1-1，item_no按『品目号-附件序号』记为1-1-1/1-1-2/1-1-3。数量单位宗/页来自附件OCR，单价0.33元/页、0.15元/页为小数单价，49×36000=1764000、0.33×1100000=363000、0.15×650000=97500，合计2224500元与中标金额一致。附件OCR有平台水印字符混入文字，数值本身可核对。需视觉核验：0.33与0.15两个小数单价及数量1100000/650000（OCR漏空格风险）。复核修正：疑点已在包内文本直接核实——附件报价明细表原文「0.33 | 1100000 (页)」「0.15 | 650000 (页)」，且0.33×1,100,000=363,000、0.15×650,000=97,500与总价列完全吻合，OCR无误；三条之和2,224,500元与中标金额一致；确认verified。",
+  "project": {
+    "buyer": "鹤山市人民法院",
+    "project_name": "鹤山市人民法院2026年电子卷宗随案生成及诉讼档案数字化服务项目",
+    "total_amount": 2224500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "鹤山市人民法院2026年电子卷宗随案生成及诉讼档案数字化服务项目",
+        "winner": "广州历康信息科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "档案管理服务",
+      "item_name": "电子卷宗随案生成与应用服务",
+      "brand": null,
+      "model": null,
+      "quantity": 36000,
+      "unit": "宗",
+      "unit_price": 49.0,
+      "total_price": 1764000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "档案管理服务",
+      "item_name": "历史诉讼档案数字化加工服务（2000年-2019年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1100000,
+      "unit": "页",
+      "unit_price": 0.33,
+      "total_price": 363000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "档案管理服务",
+      "item_name": "历史诉讼档案电子数据挂接服务",
+      "brand": null,
+      "model": null,
+      "quantity": 650000,
+      "unit": "页",
+      "unit_price": 0.15,
+      "total_price": 97500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州历康信息科技股份有限公司",
+      "role": "winner",
+      "total_score": 94.57,
+      "rank": 1,
+      "amount": 2224500.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东全数信息科技有限公司",
+      "role": "participant",
+      "total_score": 88.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东创业科技有限公司",
+      "role": "participant",
+      "total_score": 86.43,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州慧信档案技术有限公司",
+      "role": "participant",
+      "total_score": 64.5,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东慧图资环科技发展有限公司",
+      "role": "participant",
+      "total_score": 52.47,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

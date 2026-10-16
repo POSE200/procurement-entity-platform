@@ -1,0 +1,289 @@
+{
+  "announcement_id": "t20260508_26523656",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:服务明细表.pdf(A/B/C/D四包各一),公示数据.pdf(A/B/C/D四包各一)",
+  "note": "四包公告，包金额29万+75万+26.67万+5.98万=136.65万与总中标金额一致；HTML品目列为空，全部category填null。items取附件「服务明细表」原文，表中型号/品牌列均为空→brand/model为null，数量列无单位→unit为null。附件仅给单价与数量，total_price按单价×数量推算（数量均为1.00，推算值已在note说明）。公示数据只给5位专家的分项打分，未给综合得分与排名，故total_score/rank均置null（原文无排名列，中标人rank=1系推定，按G3口径不得填）。包名取自招标文件/声明函：A=网络安全服务、B=视频会议应急保障服务、C=机房基础设施保障服务、D=CA认证驻场保障服务；D包明细表条目名为『CA认证现场保障服务』（原文即『现场』，与包名『驻场』不一致，未改）。无待OCR附件。复核修正：按 G3 口径，4 个 winner 的 rank 由 1 改为 null（公示数据原文无排名列，原 rank=1 系「中标即第1」推定）。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "山东省国土空间数据和遥感技术研究院",
+    "project_name": "自然资源政务办公服务保障",
+    "total_amount": 1366500.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "网络安全服务",
+        "winner": "山东九州信泰信息科技股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "视频会议应急保障服务",
+        "winner": "中国移动通信集团山东有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "机房基础设施保障服务",
+        "winner": "山东盛高电子科技有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": "CA认证驻场保障服务",
+        "winner": "山东登锐信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "网络安全监测预警和策略优化服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2",
+      "category": null,
+      "item_name": "网络安全重保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "3",
+      "category": null,
+      "item_name": "网络安全检查服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "4",
+      "category": null,
+      "item_name": "网络安全攻防演练服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "5",
+      "category": null,
+      "item_name": "网络安全宣贯及培训服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "6",
+      "category": null,
+      "item_name": "网络安全应急演练及响应服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "7",
+      "category": null,
+      "item_name": "网络安全专项测试服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "8",
+      "category": null,
+      "item_name": "终端安全管控服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "视频会议应急保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 750000.0,
+      "total_price": 750000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": "1",
+      "category": null,
+      "item_name": "机房基础设施保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 266700.0,
+      "total_price": 266700.0
+    },
+    {
+      "package_no": "D",
+      "item_no": "1",
+      "category": null,
+      "item_name": "CA认证现场保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 59800.0,
+      "total_price": 59800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东九州信泰信息科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 290000.0
+    },
+    {
+      "package_no": "A",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东乾元长青信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东云天安全技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 750000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东新中天信息技术股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东耘申信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东泽元汇志信息科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东盛高电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 266700.0
+    },
+    {
+      "package_no": "C",
+      "name": "山东德载福信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东辰特商贸有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "山东登锐信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 59800.0
+    },
+    {
+      "package_no": "D",
+      "name": "青岛挚璞信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "山东信鉴易信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260806_27082322",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:货物明细表.pdf",
+  "note": "品目两处均空（概要品目列空、无标的信息表）故category=null；附件货物明细表仅有序号2.1一条：单价598000×数量1，总价按单价×数量互推为598000元，与成交金额468000元不一致（疑为二轮报价后下浮，明细表单价未同步更新），不改原文值，需视觉核验货物明细表与成交金额；公示数据附件仅有三位评审专家（闫丽、郑利德、赖大邃）分项打分（汉龙盛达94/97/95、美斯齐93.65/91.65/98.65、鸿图至诚91.77/92.77/93.77、武进南方检测87/86/92、霖昊81.48/82.48/87.48），无综合得分汇总，total_score=null、rank=null；package_no取自磋商文件明示的『项目包号：A』及结果表包号SDGP370000000202601007214-A；货物明细表无计量单位列，unit=null。",
+  "project": {
+    "buyer": "山东省图书馆",
+    "project_name": "山东省图书馆古籍专业扫描系统采购项目",
+    "total_amount": 468000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "北京汉龙盛达科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "2.1",
+      "category": null,
+      "item_name": "古籍专业扫描仪（附扫描图像大容量存储设备）",
+      "brand": "优动",
+      "model": "S100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 598000.0,
+      "total_price": 598000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京汉龙盛达科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 468000.0
+    },
+    {
+      "package_no": "A",
+      "name": "北京美斯齐文化科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "济南鸿图至诚信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "常州市武进南方检测仪器有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "霖昊信息技术（重庆）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

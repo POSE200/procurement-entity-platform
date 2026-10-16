@@ -1,0 +1,99 @@
+{
+  "announcement_id": "t20260601_26664458",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个分标，成交金额在HTML表格1中按两项明细列示：分标1南宁中航讯（无人机影像417000元+卫星遥感图斑77000元=494000元）、分标2广西精度测绘（411000元+79200元=490200元），分标归属经附件中小企业声明函确认。异常点：两分标合计494000+490200=984200元，与公告头部『总成交金额￥82.8万元』(828000元)不一致，差额156200元，原文如此未改动，待人工复核。品目列空且标的信息表无品目名称列，category=null；本项目按实际工作量（约600平方公里/约16个图斑）×综合单价结算，公告未给单价和数量，quantity/unit/unit_price均为null、仅填明细总价。分标1、2的序号取自表格1，与标项序号对应。除两家成交供应商外公告未列其他响应主体，无得分/排名信息。",
+  "project": {
+    "buyer": "广西壮族自治区自然资源厅",
+    "project_name": "2026年广西绩效管理天眼查访核验系统无人机航摄",
+    "total_amount": 828000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广西绩效管理天眼查访核验系统无人机航摄分标1",
+        "winner": "南宁中航讯科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年广西绩效管理天眼查访核验系统无人机航摄分标2",
+        "winner": "广西精度测绘科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "按要求采用无人机获取指定作业范围的影像数据",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 417000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星遥感编程（存档）影像图斑",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 77000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "按要求采用无人机获取指定作业范围的影像数据",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 411000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星遥感编程（存档）影像图斑",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 79200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "南宁中航讯科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 494000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广西精度测绘科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 490200.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

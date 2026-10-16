@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260709_26907343",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-烟台至公生物医药科技有限公司).pdf",
+  "note": "仅采购包1（磋商文件明示「采购包1」「本项目不分包」），package_no=1。6条明细取自中标供应商报价明细表：货物名称、品牌「莱阔」、型号LI-7810/8200-01S照抄原文，型号列为「——」的3条model=null；数量单位（1台/1台/1个/3块/1套/1套）与HTML标的信息表逐条一致。单价×数量之和=689800元=中标金额689,800.00元=总中标金额￥68.980000万元，数学一致。概要品目列空，category取标的信息表品目名称列「流量仪表」。HTML采购标的列只写了项目名，item_name以报价明细表为准；item_no沿用HTML品目号1-1-1至1-1-6。评分表「得分排名」「推荐排名」列空，rank=null。需视觉核验：报价明细表OCR中「⽓」为异体字已转写为「气体」；土壤温湿度传感器/锂电池/充电器/连接线缆的规格型号列原文为「——」。",
+  "project": {
+    "buyer": "山东省海洋资源与环境研究院(海洋环境监测中心水产品质量检验中心)",
+    "project_name": "山东省海洋资源与环境研究院气体通量自动监测系统采购项目",
+    "total_amount": 689800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "烟台至公生物医药科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "流量仪表",
+      "item_name": "CH4/CO2/H2O痕量气体分析仪",
+      "brand": "莱阔",
+      "model": "LI-7810",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 470600.0,
+      "total_price": 470600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "流量仪表",
+      "item_name": "智能测量室",
+      "brand": "莱阔",
+      "model": "8200-01S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "流量仪表",
+      "item_name": "土壤温湿度传感器",
+      "brand": "莱阔",
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 4800.0,
+      "total_price": 4800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "流量仪表",
+      "item_name": "锂电池",
+      "brand": "莱阔",
+      "model": null,
+      "quantity": 3,
+      "unit": "块",
+      "unit_price": 3000.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "流量仪表",
+      "item_name": "充电器",
+      "brand": "莱阔",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "流量仪表",
+      "item_name": "连接线缆",
+      "brand": "莱阔",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3600.0,
+      "total_price": 3600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "烟台至公生物医药科技有限公司",
+      "role": "winner",
+      "total_score": 88.34,
+      "rank": null,
+      "amount": 689800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东艾优生物科技有限公司",
+      "role": "participant",
+      "total_score": 80.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东瑞合盈生物科技有限公司",
+      "role": "participant",
+      "total_score": 76.71,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

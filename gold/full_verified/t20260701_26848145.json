@@ -1,0 +1,261 @@
+{
+  "announcement_id": "t20260701_26848145",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:省生态环境厅政务信息化运营（2026年）项目报价明细附件.zip内合同包1-4报价明细附件.pdf",
+  "note": "4个采购包（子包1-4，包号HTML代理服务费表及附件明细表明示）；品目概要列为空，category取HTML标的信息表品目名称列；报价明细附件.zip本身被跳过但其解包内容4个合同包报价明细PDF成功解析（单价×数量=总价一致）；中国电信股份有限公司广东分公司4个包均资审不通过（无得分无排名无报价）；各包得分排名列有值，rank照抄；4包金额之和1,286,000+1,388,000+2,100,000+3,108,888=7,882,888元与总中标金额788.2888万一致。",
+  "project": {
+    "buyer": "广东省生态环境厅",
+    "project_name": "省生态环境厅政务信息化运营（2026年）项目",
+    "total_amount": 7882888.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省生态环境厅政务信息化运营（2026年）项目（子包1）",
+        "winner": "工业和信息化部电子第五研究所"
+      },
+      {
+        "package_no": "2",
+        "package_name": "省生态环境厅政务信息化运营（2026年）项目（子包2）",
+        "winner": "广东省环境科学研究院"
+      },
+      {
+        "package_no": "3",
+        "package_name": "省生态环境厅政务信息化运营（2026年）项目（子包3）",
+        "winner": "广东省环境科学研究院"
+      },
+      {
+        "package_no": "4",
+        "package_name": "省生态环境厅政务信息化运营（2026年）项目（子包4）",
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "省生态环境厅政务信息化运营（2026年）项目（子包1）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1286000.0,
+      "total_price": 1286000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运营服务",
+      "item_name": "省生态环境厅政务信息化运营（2026年）项目（子包2）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1388000.0,
+      "total_price": 1388000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他运营服务",
+      "item_name": "省生态环境厅政务信息化运营（2026年）项目（子包3）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2100000.0,
+      "total_price": 2100000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他运营服务",
+      "item_name": "省生态环境厅政务信息化运营（2026年）项目（子包4）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3108888.0,
+      "total_price": 3108888.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "工业和信息化部电子第五研究所",
+      "role": "winner",
+      "total_score": 96.5,
+      "rank": 1,
+      "amount": 1286000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 85.03,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 75.85,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市网安计算机安全检测技术有限公司",
+      "role": "participant",
+      "total_score": 58.15,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省环境科学研究院",
+      "role": "winner",
+      "total_score": 94.96,
+      "rank": 1,
+      "amount": 1388000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 85.95,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东翼迅信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.09,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州兆飞信息科技有限公司",
+      "role": "participant",
+      "total_score": 39.1,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东省环境科学研究院",
+      "role": "winner",
+      "total_score": 95.11,
+      "rank": 1,
+      "amount": 2100000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 85.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "西安长天长软件股份有限公司",
+      "role": "participant",
+      "total_score": 60.14,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "深圳博沃未来科技有限公司",
+      "role": "participant",
+      "total_score": 47.95,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "佛山市德讯水务信息技术有限公司",
+      "role": "participant",
+      "total_score": 45.0,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 94.91,
+      "rank": 1,
+      "amount": 3108888.0
+    },
+    {
+      "package_no": "4",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 81.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州美盈智能科技有限公司",
+      "role": "participant",
+      "total_score": 47.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "深圳博沃未来科技有限公司",
+      "role": "participant",
+      "total_score": 44.4,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260806_27088809",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "主要标的信息为『名称：详见投标文件』，唯一附件附件.rar为压缩容器未解析（内含微信图片OCR仅为中小企业声明函、支付表无明细），标的明细完全不可得，items 仅写一条总称记录（值全 null），OCR待补：附件.rar（内容不可见）疑似含投标文件明细。buyer 取公告正文及劳务报酬支付表中的全称『菏泽鲁西新区教育体育服务中心』（表格0 简写为『教育体育服务中心』）；project_name 照抄表格0（无『(二次)』后缀，标题/正文含『(二次)』）。package_no=A 取自公告正文『标包：A』及标题。山东沐高信息技术有限公司、山东单州信息技术有限公司因投标IP一致被做无效标处理，作为参与主体收录。各供应商得分未公布，total_score/rank 全 null。复核：附件.rar 为跳过的压缩容器（非待OCR），内容本包内不可见，null 取值符合规范，无待视觉核验项。",
+  "project": {
+    "buyer": "菏泽鲁西新区教育体育服务中心",
+    "project_name": "2026年鲁西新区中小学智能化、功能室等设备设施采购项目",
+    "total_amount": 4881600.9,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "菏泽众安电子智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "菏泽众安电子智能科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 4881600.9
+    },
+    {
+      "package_no": "A",
+      "name": "山东交投众达信息工程（集团）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东宇硕智能教育产业有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "中国联合网络通信有限公司菏泽市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东沐高信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东单州信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

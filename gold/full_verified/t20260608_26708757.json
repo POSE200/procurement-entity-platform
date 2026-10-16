@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260608_26708757",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "三包三中标：包1（Web of Science数据库）中国科技资料进出口1,565,000元；包2（Sci-finder数据库）中国教育图书进出口259,400元；包3（EBSCO等三库）中国科技资料进出口293,640元；合计2,118,040元与总中标金额一致。HTML标的信息表的“响应报价”列被系统模板占位符污染（不可用），包内报价表均为空模板，故items的quantity/unit_price/total_price无出处填null。每包3家投标人，rank取自评审表“第N中标候选人”明示；participant的amount取评审表列明的投标报价。品目取自HTML品目名称列“C17020000 互联网信息服务”（原样照抄，含编号前缀）。",
+  "project": {
+    "buyer": "西南医科大学",
+    "project_name": "2026年外文电子资源项目",
+    "total_amount": 2118040.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "Web of Science数据库",
+        "winner": "中国科技资料进出口有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "Sci-finder数据库",
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "EBSCO(ASP+BSP)、OVID—EBMR外文循证医学数据库、CINAHL数据库",
+        "winner": "中国科技资料进出口有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "C17020000",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "Web of Science数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "C17020000",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "Sci-finder数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "C17020000",
+      "category": "C17020000 互联网信息服务",
+      "item_name": "EBSCO(ASP+BSP)、OVID—EBMR外文循证医学数据库、CINAHL数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "winner",
+      "total_score": 99.97,
+      "rank": 1,
+      "amount": 1565000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": 94.0,
+      "rank": 2,
+      "amount": 1563500.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国教育图书进出口有限公司",
+      "role": "participant",
+      "total_score": 89.97,
+      "rank": 3,
+      "amount": 1564990.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 259400.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "participant",
+      "total_score": 99.94,
+      "rank": 2,
+      "amount": 259950.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": 79.93,
+      "rank": 3,
+      "amount": 259980.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国科技资料进出口有限责任公司",
+      "role": "winner",
+      "total_score": 99.93,
+      "rank": 1,
+      "amount": 293640.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": 92.0,
+      "rank": 2,
+      "amount": 293000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国教育图书进出口有限公司",
+      "role": "participant",
+      "total_score": 87.93,
+      "rank": 3,
+      "amount": 293700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

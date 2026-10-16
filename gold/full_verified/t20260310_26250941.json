@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260310_26250941",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包；主要标的信息的品牌/规格型号/数量/单价均写'详见附件'但公告无附件，这些字段填null不推算；品目列空、标的信息表无品目列→category=null。标包A中标1441600元+标包B中标2840000元=4281600元与总中标金额￥428.16万一致。两标包各输出一条item（仅名称可见）。",
+  "project": {
+    "buyer": "昌邑市公安局交通管理大队",
+    "project_name": "全市红绿灯路口智能化升级和大数据智能交通综合管理平台改造项目",
+    "total_amount": 4281600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "潍坊市远程数控系统工程有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "全市红绿灯路口智能化升级",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "大数据智能交通综合管理平台改造",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "潍坊市远程数控系统工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1441600.0
+    },
+    {
+      "package_no": "B",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2840000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

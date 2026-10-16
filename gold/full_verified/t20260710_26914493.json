@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260710_26914493",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:南京通达海软件有限公司.pdf",
+  "note": "本项目分2个标段：附件中标供应商声明函明示『标段1：审判相关业务模块运维』，通达海中标金额598,360元与标的信息表审判行一致，故标段1=审判相关（winner通达海），标段2=执行、庭审及数据相关（winner北京华宇，1,195,000元）；HTML两张得分表未标明属于哪个标段，按『综合评分法得分最高者中標』判定：通达海居首的表（82.4/72.58/70.39）属标段1，北京华宇居首的表（87/74.76/72.57）属标段2——两表顺序与标段顺序相反，需视觉核验原文表格归属。概要品目列为分类代码『C16070100,C16070100』（每标段一个），category 照抄代码，标的信息表品目名称列为『基础环境运维服务』备查；数量列为1无计量单位列，unit=null；标的信息表序号列为空，item_no=null；两标段金额之和598,360+1,195,000=1,793,360=总中标金额￥179.336万，一致；评分表仅给得分无排名列，所有 rank=null；未中标供应商投标报价原文未给，amount=null。",
+  "project": {
+    "buyer": "宁夏回族自治区高级人民法院本级",
+    "project_name": "宁夏法院办案办公信息系统（一张网）运维服务项目",
+    "total_amount": 1793360.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "宁夏法院办案办公信息系统（一张网）审判相关业务模块运维服务",
+        "winner": "南京通达海软件有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "宁夏法院办案办公信息系统（一张网）执行、庭审及数据相关业务模块运维服务",
+        "winner": "北京华宇信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16070100",
+      "item_name": "宁夏法院办案办公信息系统（一张网）审判相关业务模块运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 598360.0,
+      "total_price": 598360.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C16070100",
+      "item_name": "宁夏法院办案办公信息系统（一张网）执行、庭审及数据相关业务模块运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1195000.0,
+      "total_price": 1195000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "南京通达海软件有限公司",
+      "role": "winner",
+      "total_score": 82.4,
+      "rank": null,
+      "amount": 598360.0
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏计算机软件与技术服务有限公司",
+      "role": "participant",
+      "total_score": 72.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京华宇信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京华宇信息技术有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": 1195000.0
+    },
+    {
+      "package_no": "2",
+      "name": "南京通达海软件有限公司",
+      "role": "participant",
+      "total_score": 74.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "宁夏计算机软件与技术服务有限公司",
+      "role": "participant",
+      "total_score": 72.57,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

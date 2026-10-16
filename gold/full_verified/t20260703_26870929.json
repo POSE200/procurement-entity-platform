@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260703_26870929",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "第1包中标；概要品目列为空且标的信息表无'品目名称'列（'类型'列的'货物类'为分节标题，不作品目），category=null；标的信息表只有数量和单价，total_price 按'单价×数量'唯一互推填出（4条明细之和 247.8 万元恰等于总中标金额，数学自洽）；数量列无计量单位故 unit=null；排序表明示排名 1/2/3。",
+  "project": {
+    "buyer": "天津体育学院",
+    "project_name": "天津体育学院天津市体卫融合与健康促进重点实验室主动健康与科学健身科普知识库教学科研重大平台设备更新项目",
+    "total_amount": 2478000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京普康科健医疗设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "腰背旋转测试训练单元",
+      "brand": "D&R. Ferstl",
+      "model": "IsoMed 2000 Back Rotation",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 695000.0,
+      "total_price": 695000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "腰背屈伸测试训练单元",
+      "brand": "D&R. Ferstl",
+      "model": "IsoMed 2000 Back Module",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 810000.0,
+      "total_price": 810000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "下肢蹬踏测试训练单元",
+      "brand": "D&R. Ferstl",
+      "model": "IsoMed 2000 Legpress",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 888000.0,
+      "total_price": 888000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "中文数据分析软件",
+      "brand": "D&R. Ferstl",
+      "model": "IsoMed",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京普康科健医疗设备有限公司",
+      "role": "winner",
+      "total_score": 96.12,
+      "rank": 1,
+      "amount": 2478000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京锐力合体育科技发展有限公司",
+      "role": "participant",
+      "total_score": 80.26,
+      "rank": 2,
+      "amount": 2483000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州赛霖健康科技有限公司",
+      "role": "participant",
+      "total_score": 75.2,
+      "rank": 3,
+      "amount": 2405500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

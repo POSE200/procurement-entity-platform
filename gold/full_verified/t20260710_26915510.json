@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260710_26915510",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "唯一附件为招标文件（requirements，含预算400万/最高限价371.5万及成品软硬件采购清单），不含中标人分项报价，故单价/数量/品牌/型号不可得。package_no=1 系依据HTML中标供应商表/标的信息表序号列『1』推断（原文无明示包号，附件招标文件未见分包）。标的整体为一条（HTML标的信息表仅1行：高新区智慧校园二期），将该包中标金额3,688,000元记为该标的total_price，单价/数量/单位原文未给均null（不许按1项反推单价）。品目：概要品目列空、标的信息表无品目名称列，category=null。bidders仅有中标人一家（HTML未列参与/未中标供应商，废标表为空），评审总得分原文未给，rank=null。需视觉核验：中标金额写法为『报价：3688000（元）』。",
+  "project": {
+    "buyer": "宁波高新区教育文体局",
+    "project_name": "高新区智慧校园二期项目",
+    "total_amount": 3688000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "高新区智慧校园二期",
+        "winner": "中国联合网络通信有限公司宁波市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "高新区智慧校园二期",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3688000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司宁波市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3688000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

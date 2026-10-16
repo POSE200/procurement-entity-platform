@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260803_27062965",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(最后报价-青岛新白科技有限公司).pdf",
+  "note": "复核修正：全字段复核无未决疑点，无需视觉核验。单包项目（公告标题明示'采购包1'）。HTML主要标的信息表2条明细无单价/总价列，items单价/总价取中标人最后报价明细表：AI跨领域实训效能评价系统69700元×1套 + 全沉浸式XR感知交互设备7000元×20套=140000元，合计209700元=中标金额=总中标金额20.97万元，单价×数量一致。item_no沿用HTML品目号1-1-1/1-1-2（与附件序号按规格型号一一对应）；item_name取附件货物名称（HTML采购标的列两条同名）；category取HTML标的表品目名称列'其他计算机软件'（概要品目列空）。评分表得分排名/推荐排名列原文为空、'综合评审得分低于第一名'为原因描述→rank=null。附件OCR'新⽩/⻘岛'等为异体字形，已按简体规范转写。",
+  "project": {
+    "buyer": "山东外贸职业学院",
+    "project_name": "山东外贸职业学院AI跨领域实训效能评价系统采购项目（11008）",
+    "total_amount": 209700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛新白科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他计算机软件",
+      "item_name": "AI跨领域实训效能评价系统",
+      "brand": "新白科技",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 69700.0,
+      "total_price": 69700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他计算机软件",
+      "item_name": "全沉浸式XR感知交互设备",
+      "brand": "pico",
+      "model": "PICO 4 Ultra Enterprise",
+      "quantity": 20,
+      "unit": "套",
+      "unit_price": 7000.0,
+      "total_price": 140000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛新白科技有限公司",
+      "role": "winner",
+      "total_score": 91.32,
+      "rank": null,
+      "amount": 209700.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛棱境数字科技有限公司",
+      "role": "participant",
+      "total_score": 83.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛瀚海机电科技有限公司",
+      "role": "participant",
+      "total_score": 76.97,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

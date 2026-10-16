@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260708_26893545",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目（采购包1，招标文件明示不接受联合体、不允许分包）。总中标金额￥271.84万元=中标金额2,718,400.00元，一致。标的信息表两条标的（1-1运维、1-2备品备件更换）金额列空，附件仅为招标文件（仅前30页，zip被跳过），无成交人分项报价明细，故两条item的quantity/unit/unit_price/total_price均null（总价2718400无法在两条标的间拆分，禁止推算）。category取HTML'品目名称'列（其他运行维护服务）。rank取评分表'得分排名'列明示值1-6。需视觉核验疑点：①被跳过的招标文件zip内是否含报价明细（若有可补单价）；②中标金额2,718,400与预算3,398,000的对应关系无需处理但建议复核。独立复核（0924）：疑点①由附件处理声明解决——本公告唯一附件即招标文件(2026061802).zip（docx/pdf均为招标文件正文），不含成交人报价明细，null口径成立；疑点②与gold字段无关。全部字段核对无误。",
+  "project": {
+    "buyer": "佛山市公安局顺德分局交通管理大队",
+    "project_name": "顺德交管大队道路交通信号智能化改造运维项目",
+    "total_amount": 2718400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "顺德交管大队道路交通信号智能化改造运维项目",
+        "winner": "联通（广东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "顺德交管大队道路交通信号智能化改造运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他运行维护服务",
+      "item_name": "备品备件更换",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 93.2,
+      "rank": 1,
+      "amount": 2718400.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司佛山分公司",
+      "role": "participant",
+      "total_score": 84.04,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深城交科技集团股份有限公司",
+      "role": "participant",
+      "total_score": 83.86,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 83.24,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市金光道交通技术有限公司",
+      "role": "participant",
+      "total_score": 67.88,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市和润科技发展有限公司",
+      "role": "participant",
+      "total_score": 58.63,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

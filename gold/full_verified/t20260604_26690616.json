@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260604_26690616",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "项目不分包（招标文件称采购包1，package_no=1）；概要品目列空，category取标的信息表『品目名称』列『教学仪器』；品牌/型号取HTML标的信息表，单价/总价取中标人山东牧也仪器设备有限公司的投标（响应）报价明细表.pdf（297000+448000+547500+797500=2,090,000元，与中标金额一致）；招标文件标的预算表为30/45/55/80万（合计210万预算），非成交价，勿混淆；评审表4家投标人有综合得分但『得分排名』列空，rank=null；未中标3家的报价原文未公布，amount=null；总中标金额￥209万与中标明细合计一致。复核：四条单价/总价在投标（响应）报价明细表逐条核实（99,000×3/448,000/547,500/797,500），合计2,090,000元与中标金额一致，最高限价300,000/450,000/550,000/800,000未混用；品牌型号与表格2一致；确认verified。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）微观观测与物理测试设备采购项目",
+    "total_amount": 2090000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "微观观测与物理测试设备采购",
+        "winner": "山东牧也仪器设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "光学显微镜",
+      "brand": "永新",
+      "model": "NM920-TR",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 99000.0,
+      "total_price": 297000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "方阻测试仪",
+      "brand": "丘山仪器",
+      "model": "RM300A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 448000.0,
+      "total_price": 448000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "应力测试仪",
+      "brand": "速普仪器",
+      "model": "FST5000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 547500.0,
+      "total_price": 547500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "圆片测厚仪",
+      "brand": "Effecttek",
+      "model": "ETM-1200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 797500.0,
+      "total_price": 797500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东牧也仪器设备有限公司",
+      "role": "winner",
+      "total_score": 92.69,
+      "rank": null,
+      "amount": 2090000.0
+    },
+    {
+      "package_no": "1",
+      "name": "琨辰生物科技（济南）有限公司",
+      "role": "participant",
+      "total_score": 86.75,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南正芯微仪器有限公司",
+      "role": "participant",
+      "total_score": 83.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛建洲宏美机电有限公司",
+      "role": "participant",
+      "total_score": 76.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

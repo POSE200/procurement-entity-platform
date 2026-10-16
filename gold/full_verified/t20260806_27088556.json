@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088556",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告信息表'分包名称：无分包 安全运维服务'，全文无采购包号，package_no=null、package_name取'安全运维服务'。概要品目列空、主要标的信息表无品目列，category=null。标的信息表仅有报价878,700元一个金额，按口径不填数量/单价，仅total_price填该报价。rank取评标表'排序'列（1-4，明示）；participant金额取'投标报价（元）'表（图安878,800/华峰878,000/中移动878,700/众智879,000）。采购人名称：公告信息采购单位为'鄄城县应急管理局本级'（附件劳务报酬表写'鄄城县应急管理局'），取公告信息值。复核确认：附件评审劳务报酬支付表确为OCR乱码（中标金额栏'0001818'错乱、评审时间截断），但本篇全部gold值均取自HTML（中标金额878,700元在公告信息表与中标情况表两处一致），乱码不承载任何字段值，无需视觉核验。",
+  "project": {
+    "buyer": "鄄城县应急管理局本级",
+    "project_name": "鄄城县安全生产AI视频汇聚监管平台项目",
+    "total_amount": 878700.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "安全运维服务",
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "鄄城县安全生产AI视频汇聚监管平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 878700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 91.82,
+      "rank": 1,
+      "amount": 878700.0
+    },
+    {
+      "package_no": null,
+      "name": "北京图安世纪科技股份有限公司",
+      "role": "participant",
+      "total_score": 70.16,
+      "rank": 2,
+      "amount": 878800.0
+    },
+    {
+      "package_no": null,
+      "name": "众智软件股份有限公司",
+      "role": "participant",
+      "total_score": 69.49,
+      "rank": 3,
+      "amount": 879000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东华峰通信工程有限公司",
+      "role": "participant",
+      "total_score": 57.67,
+      "rank": 4,
+      "amount": 878000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

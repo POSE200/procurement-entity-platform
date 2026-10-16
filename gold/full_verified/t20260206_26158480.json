@@ -1,0 +1,166 @@
+{
+  "announcement_id": "t20260206_26158480",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "已重新核算：包1明细2534808×0.9+9415040×0.51=7082997.60元，与包1中标价一致；原note所称105元原文差异实为标注乘法错误，已修复。包2明细合计9945829.68元。两包金额合计17028827.28元，公告概要1702.880000万元保留为原披露值，不据容差宣称相等。包3/4按下浮率10%报价，人民币单价未知；HTML单价列原始0另存。其余品牌、型号等本次未作全字段重核。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "莎车县教育局",
+    "project_name": "莎车县教育系统2026年学生营养膳食食材营养馕、鲜鸡蛋政府采购项目",
+    "total_amount": 17028800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "1标段营养馕",
+        "winner": "新疆尊凯食品发展有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2标段营养馕",
+        "winner": "莎车星卓供应链管理服务有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "3标段鲜鸡蛋",
+        "winner": "疏附县霖鑫家庭农场"
+      },
+      {
+        "package_no": "4",
+        "package_name": "4标段鲜鸡蛋",
+        "winner": "疏附县霖鑫家庭农场"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "营养馕",
+      "brand": "尊凯食品",
+      "model": "150g/个",
+      "quantity": 2534808,
+      "unit": null,
+      "unit_price": 0.9,
+      "total_price": 2281327.2
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "营养馕",
+      "brand": "尊凯食品",
+      "model": "70g/个",
+      "quantity": 9415040,
+      "unit": null,
+      "unit_price": 0.51,
+      "total_price": 4801670.4,
+      "total_price_basis": {
+        "type": "computed",
+        "formula": "9415040 * 0.51",
+        "decimal_result": "4801670.40"
+      }
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": null,
+      "item_name": "营养馕（155g/个）",
+      "brand": "月香妃",
+      "model": "155g/个",
+      "quantity": 2909352,
+      "unit": "个",
+      "unit_price": 1.19,
+      "total_price": 3462128.88
+    },
+    {
+      "package_no": "2",
+      "item_no": "4",
+      "category": null,
+      "item_name": "营养馕（75g/个）",
+      "brand": "月香妃",
+      "model": "75g/个",
+      "quantity": 10806168,
+      "unit": "个",
+      "unit_price": 0.6,
+      "total_price": 6483700.8
+    },
+    {
+      "package_no": "3",
+      "item_no": "5",
+      "category": null,
+      "item_name": "鲜鸡蛋",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "discount_rate",
+      "rate": 10,
+      "rate_unit": "%",
+      "rate_basis": "下浮率",
+      "raw_unit_price": 0,
+      "raw_rate": "投标下浮率（%）：10（%）"
+    },
+    {
+      "package_no": "4",
+      "item_no": "6",
+      "category": null,
+      "item_name": "鲜鸡蛋",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "批",
+      "unit_price": null,
+      "total_price": null,
+      "pricing_type": "discount_rate",
+      "rate": 10,
+      "rate_unit": "%",
+      "rate_basis": "下浮率",
+      "raw_unit_price": 0,
+      "raw_rate": "投标下浮率（%）：10（%）"
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "新疆尊凯食品发展有限公司",
+      "role": "winner",
+      "total_score": 93.5,
+      "rank": null,
+      "amount": 7082997.6
+    },
+    {
+      "package_no": "2",
+      "name": "莎车星卓供应链管理服务有限责任公司",
+      "role": "winner",
+      "total_score": 93.83,
+      "rank": null,
+      "amount": 9945829.68
+    },
+    {
+      "package_no": "3",
+      "name": "疏附县霖鑫家庭农场",
+      "role": "winner",
+      "total_score": 93.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "疏附县霖鑫家庭农场",
+      "role": "winner",
+      "total_score": 93.72,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

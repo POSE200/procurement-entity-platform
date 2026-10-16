@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260806_27084289",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1，包号见代理服务费表）。概要品目列空，category 取HTML标的表品目名称列。明细1-2在HTML与附件报价明细中各列均为'详见投标文件'（投标文件不在本包内，实际明细不可得）：item_name照抄原文'详见投标文件'，brand/model置null。两条明细合计67,848+3,230,152=3,298,000元=总中标金额￥329.800000万元。附件报价明细与HTML数值一致。得分排名列明示1-4，rank照抄（第4名推荐排名为'--'）。",
+  "project": {
+    "buyer": "清远市清新区滨江中学",
+    "project_name": "清远市清新区滨江中学网络广播监控等信息化设备建设采购项目",
+    "total_amount": 3298000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络广播监控等信息化设备建设",
+        "winner": "广东清新广播电视传媒集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "交换设备",
+      "item_name": "校园网核心交换机",
+      "brand": "华为",
+      "model": "S8700-4",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 67848.0,
+      "total_price": 67848.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "详见投标文件",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 3230152.0,
+      "total_price": 3230152.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东清新广播电视传媒集团有限公司",
+      "role": "winner",
+      "total_score": 88.9,
+      "rank": 1,
+      "amount": 3298000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东裕鉴科技有限公司",
+      "role": "participant",
+      "total_score": 63.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "清远凌镜办公设备有限公司",
+      "role": "participant",
+      "total_score": 50.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东犇驰智能科技有限公司",
+      "role": "participant",
+      "total_score": 42.29,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

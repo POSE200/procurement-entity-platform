@@ -1,0 +1,278 @@
+{
+  "announcement_id": "t20260804_27072094",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价清单.pdf,中小企业声明函.pdf,劳务报酬支付表2.jpg",
+  "note": "HTML 无中标人/得分/投标报价信息，中标人取中小企业声明函盖章主体'山东万图智能科技有限公司'（该供应商为本项目投标人，劳务报酬支付表载中标成交金额278650.00元互证）；items 取自附件'报价清单.pdf'（中标人报价清单，分项到1.1-1.9、2.1-2.9）。单包项目，原文未明示包号，package_no=null。OCR残缺：报价清单1.2、1.8、2.2三行仅剩序号，行内容丢失——1.2'巷道仓储单元'、2.2'智慧仓储作业平台'按中小企业声明函所列标的与序位对应补名（需视觉核验），1.8连声明函也无对应名称故 name=null；三行单价/数量/总价未知填null。金额核对：硬件小计172000（可见子项和135000，差37000属1.2/1.8）+软件小计106650（可见子项和83650，差23000属2.2）=278650 与中标金额一致；汇总行(1、2)原文未给单价/数量，填null未做推算。品牌/型号列来自'生产厂家/型号'列（山东万图智能科技有限公司/定制），品目列全空 category=null。视觉核验：报价清单.pdf共7页，fitz渲染250DPI逐页目核——原OCR丢失三行已读出并补齐：1.2巷道仓储单元/套1/18000.00/山东万图智能科技有限公司/定制（与原按声明函序位补名一致）；1.8显示大屏/套1/19000.00/广州视睿电子科技有限公司/FH86EC（原name=null已补，非万图定制）；2.2智慧仓储作业平台/套1/23000.00/山东万图智能科技有限公司/定制（与原补名一致）。数学自查：1.1-1.9九项合计172000.00=硬件小计172000.00；2.1-2.9九项合计106650.00=软件小计106650.00；172000+106650=278650.00=PDF末页\"合计：278650.00元\"=中标成交金额，完全闭合。",
+  "project": {
+    "buyer": "日照市海洋工程学校",
+    "project_name": "日照市海洋工程学校智慧物流实训中心实训系统采购项目",
+    "total_amount": 278650.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东万图智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "实训系统硬件设备",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 172000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.1",
+      "category": null,
+      "item_name": "总控系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 9000.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.2",
+      "category": null,
+      "item_name": "巷道仓储单元",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 18000.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.3",
+      "category": null,
+      "item_name": "传输系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.4",
+      "category": null,
+      "item_name": "智能装配系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 26000.0,
+      "total_price": 26000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.5",
+      "category": null,
+      "item_name": "智能运输系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 27000.0,
+      "total_price": 27000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.6",
+      "category": null,
+      "item_name": "收货系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 11000.0,
+      "total_price": 11000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.7",
+      "category": null,
+      "item_name": "发货系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 26000.0,
+      "total_price": 26000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.8",
+      "category": null,
+      "item_name": "显示大屏",
+      "brand": "广州视睿电子科技有限公司",
+      "model": "FH86EC",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 19000.0,
+      "total_price": 19000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1.9",
+      "category": null,
+      "item_name": "物料及托盘、工具",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 11000.0,
+      "total_price": 11000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "实训系统软件系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 106650.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.1",
+      "category": null,
+      "item_name": "仓库管理系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.2",
+      "category": null,
+      "item_name": "智慧仓储作业平台",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 23000.0,
+      "total_price": 23000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.3",
+      "category": null,
+      "item_name": "智慧配送作业平台",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 16000.0,
+      "total_price": 16000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.4",
+      "category": null,
+      "item_name": "数字孪生平台",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 23000.0,
+      "total_price": 23000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.5",
+      "category": null,
+      "item_name": "物流管理基础教学资源包",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5500.0,
+      "total_price": 5500.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.6",
+      "category": null,
+      "item_name": "资源管理平台",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.7",
+      "category": null,
+      "item_name": "智慧云平台系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.8",
+      "category": null,
+      "item_name": "立体仓库虚实一体化仿真实训平台",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4600.0,
+      "total_price": 4600.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2.9",
+      "category": null,
+      "item_name": "实训室管理系统",
+      "brand": "山东万图智能科技有限公司",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5550.0,
+      "total_price": 5550.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东万图智能科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 278650.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

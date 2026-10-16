@@ -1,0 +1,327 @@
+{
+  "announcement_id": "t20260609_26714659",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两分标项目（招标文件附件明示『分标1：联网中心存储改造及扩容、分标2：联网中心网络安全改造』，package_no 取分标序号1/2）。HTML 中标结果表未写明中标人对应的分标，映射依据：分标1中标金额3,473,000=明细表第1~8行单价×数量之和（且该分标含『集成实施服务』品牌犇牛）、分标2中标金额2,108,810=第9~23行之和，一一吻合。明细表无总价列，total_price 按『单价×数量唯一互推』填出；第1~8行数量无单位→unit=null，第9~23行单位取自『1块/1台/1套/80个』等写法。品目概要列与明细表均无品目名称列→category=null。两中标人得分/排名原文未给出→total_score、rank=null；未中标供应商名单未见→bidders 仅2条winner。复核修正：概要总中标金额￥558.180000万=5,581,800元，但两分标中标金额之和3473000+2108810=5,581,810元，二者相差10元（概要与明细矛盾，按规范total_amount取总中标金额原文值，未改任何原文数）。 复核修正：2026-09-23独立复核通过，total_amount按总中标金额原文改为5,581,800.0并记录10元差额。",
+  "project": {
+    "buyer": "广西壮族自治区收费公路联网收费清分结算中心",
+    "project_name": "广西壮族自治区收费公路联网收费清分结算中心联网中心存储改造及扩容、联网中心网络安全改造项目",
+    "total_amount": 5581800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "联网中心存储改造及扩容",
+        "winner": "广西犇牛信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "联网中心网络安全改造",
+        "winner": "广西湘景桂科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "生产业务数据库、大数据存储资源扩容",
+      "brand": "长虹",
+      "model": "3.8T SSD",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 675000.0,
+      "total_price": 1350000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "机械磁盘组扩容",
+      "brand": "长虹",
+      "model": "2.4T机械盘",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 128000.0,
+      "total_price": 256000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "存储主机",
+      "brand": "宏杉",
+      "model": "MS7040G2-HG",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1000000.0,
+      "total_price": 1000000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "存储主机",
+      "brand": "宏杉",
+      "model": "MS2500G2-24A",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 186000.0,
+      "total_price": 186000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "存储仲裁管理机",
+      "brand": "联想",
+      "model": "KR522h G3-s",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 88000.0,
+      "total_price": 88000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "国产备份系统",
+      "brand": "爱数",
+      "model": "AB9100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 163000.0,
+      "total_price": 163000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "容灾机房存储扩容",
+      "brand": "长虹",
+      "model": "2.4T机械盘",
+      "quantity": 20,
+      "unit": null,
+      "unit_price": 6600.0,
+      "total_price": 132000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "集成实施服务",
+      "brand": "犇牛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 298000.0,
+      "total_price": 298000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "9",
+      "category": null,
+      "item_name": "数据交换防火墙扩展卡",
+      "brand": "天融信",
+      "model": "TopSEC-CARD-8A-RGB",
+      "quantity": 1,
+      "unit": "块",
+      "unit_price": 13250.0,
+      "total_price": 13250.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "10",
+      "category": null,
+      "item_name": "防火墙",
+      "brand": "天融信",
+      "model": "NGFW4000-UF（FT-B10）（千兆）V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 108000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "11",
+      "category": null,
+      "item_name": "Web应用防火墙",
+      "brand": "天融信",
+      "model": "TopWAF（FT-B20）（千兆）V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 101500.0,
+      "total_price": 101500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "12",
+      "category": null,
+      "item_name": "终端监控与审计软件",
+      "brand": "天融信",
+      "model": "TSM 版本：V3",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 77500.0,
+      "total_price": 77500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "13",
+      "category": null,
+      "item_name": "漏洞扫描设备",
+      "brand": "天融信",
+      "model": "TopScanner 7000(FT-A)V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 141000.0,
+      "total_price": 141000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "14",
+      "category": null,
+      "item_name": "镜像分流器",
+      "brand": "华三",
+      "model": "S6520X-54XG-EI-G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 49000.0,
+      "total_price": 49000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "15",
+      "category": null,
+      "item_name": "API安全审计设备",
+      "brand": "天融信",
+      "model": "TopASA V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 129500.0,
+      "total_price": 129500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "16",
+      "category": null,
+      "item_name": "安全数据中台",
+      "brand": "天融信",
+      "model": "TopCIS 版本：V3",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 869500.0,
+      "total_price": 869500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "17",
+      "category": null,
+      "item_name": "运维安全管理密码机",
+      "brand": "网路智联",
+      "model": "CEOSM-1000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 331000.0,
+      "total_price": 331000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "18",
+      "category": null,
+      "item_name": "电子票据平台签名验签服务器",
+      "brand": "天融信",
+      "model": "TopSVS V6",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 96110.0,
+      "total_price": 96110.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "19",
+      "category": null,
+      "item_name": "电子票据平台国密VPN",
+      "brand": "天融信",
+      "model": "TopVPN6000 V6",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 68500.0,
+      "total_price": 137000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "20",
+      "category": null,
+      "item_name": "电子票据平台国密算法SSL服务器证书",
+      "brand": "安诺伟业",
+      "model": "SM2-OV",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 13850.0,
+      "total_price": 13850.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "21",
+      "category": null,
+      "item_name": "电子票据平台数字证书（个人）",
+      "brand": "广西CA",
+      "model": "个人证书",
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 350.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "22",
+      "category": null,
+      "item_name": "电子票据平台Usb-key",
+      "brand": "世纪龙脉",
+      "model": "mToken GM3000 版本：mToken/V2.0",
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 40.0,
+      "total_price": 3200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "23",
+      "category": null,
+      "item_name": "电子票据平台国密浏览器",
+      "brand": "三六零",
+      "model": "XC-11BR1303-C-SW-BS-XCGM-3Y",
+      "quantity": 80,
+      "unit": "个",
+      "unit_price": 130.0,
+      "total_price": 10400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广西犇牛信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3473000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广西湘景桂科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2108810.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

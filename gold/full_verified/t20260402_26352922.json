@@ -1,0 +1,247 @@
+{
+  "announcement_id": "t20260402_26352922",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（自然资源部南海预报减灾中心（自然资源部粤港澳大湾区海洋预警中心））.pdf,合同包2：报价明细附件（国家海洋信息中心）.pdf",
+  "note": "两包项目（包1=致灾调查与隐患评估，包2=海平面上升风险基础数据更新，包号与包名取自代理服务费表）。包1金额2,838,000=附件9条明细之和（逐条单价×数量自查通过）；包2金额247,000=附件4条明细之和；两包合计3,085,000=总中标金额308.5万元。品目取HTML标的信息表『品目名称』列=海洋服务。报价明细zip解包后两份PDF均已解析，无OCR待补。未中标供应商原文未给报价，amount为null；得分排名列有明示，rank照抄。",
+  "project": {
+    "buyer": "广东省海洋发展规划研究中心",
+    "project_name": "广东省海洋灾害致灾孕灾调查数据更新项目（2026年）",
+    "total_amount": 3085000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年广东省海洋灾害致灾调查（风暴潮、海浪、海啸）与隐患评估",
+        "winner": "自然资源部南海预报减灾中心（自然资源部粤港澳大湾区海洋预警中心）"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年广东省海平面上升风险基础数据更新",
+        "winner": "国家海洋信息中心"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "海啸致灾调查",
+      "brand": null,
+      "model": null,
+      "quantity": 45,
+      "unit": "个",
+      "unit_price": 5000.0,
+      "total_price": 225000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "致灾调查成果汇编",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "海水养殖区隐患评估",
+      "brand": null,
+      "model": null,
+      "quantity": 44,
+      "unit": "个",
+      "unit_price": 10000.0,
+      "total_price": 440000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "渔港隐患评估",
+      "brand": null,
+      "model": null,
+      "quantity": 44,
+      "unit": "个",
+      "unit_price": 10000.0,
+      "total_price": 440000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "滨海旅游区隐患评估",
+      "brand": null,
+      "model": null,
+      "quantity": 44,
+      "unit": "个",
+      "unit_price": 10000.0,
+      "total_price": 440000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "隐患评估成果汇编",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "系统填报及成果汇交",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 293000.0,
+      "total_price": 293000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "风暴潮致灾调查",
+      "brand": null,
+      "model": null,
+      "quantity": 45,
+      "unit": "个",
+      "unit_price": 10000.0,
+      "total_price": 450000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "海洋服务",
+      "item_name": "海浪致灾调查",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "海洋服务",
+      "item_name": "成果资料汇编",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 17000.0,
+      "total_price": 17000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "海洋服务",
+      "item_name": "开展2024年-2026年海平面上升致灾要素调查",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "海洋服务",
+      "item_name": "海平面上升危险性评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "海洋服务",
+      "item_name": "海平面上升风险与区划成果更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "自然资源部南海预报减灾中心（自然资源部粤港澳大湾区海洋预警中心）",
+      "role": "winner",
+      "total_score": 89.47,
+      "rank": 1,
+      "amount": 2838000.0
+    },
+    {
+      "package_no": "1",
+      "name": "自然资源部珠海海洋中心",
+      "role": "participant",
+      "total_score": 76.69,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "自然资源部汕头海洋中心",
+      "role": "participant",
+      "total_score": 69.66,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州欧科信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 59.2,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "国家海洋信息中心",
+      "role": "winner",
+      "total_score": 85.04,
+      "rank": 1,
+      "amount": 247000.0
+    },
+    {
+      "package_no": "2",
+      "name": "海南海东青勘测设计咨询有限公司",
+      "role": "participant",
+      "total_score": 69.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "雾实（福建）科技有限公司",
+      "role": "participant",
+      "total_score": 43.54,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

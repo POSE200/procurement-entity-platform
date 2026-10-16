@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260804_27071910",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空，标的信息表（表格2）亦无品目列→category=null；评审专家名单栏前缀'其他数据处理服务'疑为品目线索但概要品目列未给，按规范不采用。标的仅'服务内容：大数据服务'一条，无数量/单价线索，二者留null（总金额唯一时禁止quantity=1、unit_price=总价互推）；total_price取中标金额480000元（该包唯一标的，出处：HTML中标信息）。附件为劳务报酬支付表与中小企业声明函，无标的明细，不提供新增字段值。",
+  "project": {
+    "buyer": "菏泽鲁西新区财政金融局",
+    "project_name": "菏泽鲁西新区财政金融局大数据服务项目",
+    "total_amount": 480000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东亿道信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "大数据服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 480000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东亿道信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 480000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

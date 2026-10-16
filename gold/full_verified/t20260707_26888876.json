@@ -1,0 +1,241 @@
+{
+  "announcement_id": "t20260707_26888876",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三包结果公告：包1西安睿新数字科技有限公司785,690元、包2西安心屹科技有限责任公司260,309元、包3西安睿新数字科技有限公司2,196,810元，之和3,242,809=总中标金额324.2809万，核验一致；睿新中两个包，bidders 按包分列两条。HTML 标的信息表每包仅一条汇总行（数量1.00(项)、单价=总价），品牌/规格型号列为全部子项的拼接清单，按原文照抄；包2 两列原文为「详见格式文件：产品分项报价表」（指针非值），brand/model=null。分项明细散见于主要标的物PNG：1包/2包PNG已OCR但残缺错位（仅前数行可读、金额被换行打断），3包PNG因超长被丢弃，无法可靠展开到子件级，故 items 保留包级汇总条目；OCR待补：主要标的物3包.png（1页）疑似含三标段分项明细，字段暂空（包级汇总行除外）。评审总得分取自各包中标表；无未中标供应商名单，bidders 仅含中标人。",
+  "project": {
+    "buyer": "西安文理学院（本级）",
+    "project_name": "西安文理学院智慧康养产教融合实训中心设备采购项目",
+    "total_amount": 3242809.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "老年活动与礼仪实训室",
+        "winner": "西安睿新数字科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "养老服务社团活动中心",
+        "winner": "西安心屹科技有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "认知障碍照护中心",
+        "winner": "西安睿新数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "礼仪训练镜",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 2000,
+      "quantity": 1,
+      "unit": "面",
+      "total_price": 2000
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "礼仪训练桌椅",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 1200,
+      "quantity": 4,
+      "unit": "套",
+      "total_price": 4800
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "礼仪训练辅助工具",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 420,
+      "quantity": 10,
+      "unit": "套",
+      "total_price": 4200
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "教学会议触摸一体机",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "S3G110F1",
+      "unit_price": 50000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 50000
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "item_name": "便携式音响",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "A6-4",
+      "unit_price": 800,
+      "quantity": 1,
+      "unit": "套",
+      "total_price": 800
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "研讨会议桌",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 1300,
+      "quantity": 2,
+      "unit": "张",
+      "total_price": 2600
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "研讨座椅",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 280,
+      "quantity": 20,
+      "unit": "把",
+      "total_price": 5600
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "音响及麦克风设备",
+      "category": "教学仪器",
+      "brand": null,
+      "model": null,
+      "unit_price": 1500,
+      "quantity": 1,
+      "unit": "套",
+      "total_price": 1500
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "会议记录设备",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "小米5PRO+纽曼H8",
+      "unit_price": 2800,
+      "quantity": 1,
+      "unit": "套",
+      "total_price": 2800
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "融合款会议一体机",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "ST-WM20",
+      "unit_price": 3790,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 3790
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "item_name": "教学会议触摸一体机",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "S3G110F1",
+      "unit_price": 45000,
+      "quantity": 1,
+      "unit": "台",
+      "total_price": 45000
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "item_name": "注意力、记忆力、执行功能评估教具",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "定制",
+      "unit_price": 850,
+      "quantity": 5,
+      "unit": "套",
+      "total_price": 4250
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "item_name": "评估工作站（含工作站终端、桌椅）",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "DZ500SQ",
+      "unit_price": 7500,
+      "quantity": 4,
+      "unit": "套",
+      "total_price": 30000
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "item_name": "互动认知训练工作站（含评估档案、量表手册、数据管理）",
+      "category": "教学仪器",
+      "brand": null,
+      "model": "ICR101",
+      "unit_price": 73000,
+      "quantity": 1,
+      "unit": "套",
+      "total_price": 73000
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "西安睿新数字科技有限公司",
+      "role": "winner",
+      "total_score": 98.2,
+      "rank": null,
+      "amount": 785690.0
+    },
+    {
+      "package_no": "2",
+      "name": "西安心屹科技有限责任公司",
+      "role": "winner",
+      "total_score": 97.1,
+      "rank": null,
+      "amount": 260309.0
+    },
+    {
+      "package_no": "3",
+      "name": "西安睿新数字科技有限公司",
+      "role": "winner",
+      "total_score": 95.8,
+      "rank": null,
+      "amount": 2196810.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "obscured_cell": "第二包音响及麦克风设备型号被印章遮挡，待核；制造商列未作为品牌列填入。",
+    "source_audit_20261015": {
+      "reason": "依据三张主要标的物原图的5/6/3行补齐14条，单价50000按跨行完整数字核验",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260707_26888876\\004_主要标的物1包.png",
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260707_26888876\\005_主要标的物2包.png",
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260707_26888876\\006_主要标的物3包.png"
+      ]
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "announcement_id": "t20260805_27080715",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf,报价明细表(第2轮-山东壹橙色文旅体育产业有限公司).pdf",
+  "note": "表格0公告概要品目列为空，items品目取各自细目表「品目编号及品目名称」列的末级名「大型会议服务」。quantity=1与unit_price来自附件中标人填报的报价明细表（均为1.0000宗、单价=合计），HTML细目表仅给金额(元)未给数量单价。四包中标金额合计22363670.40元，与表格0总中标金额『￥2236.367000万元=22363670.00元』差0.40元（万元位舍入差异），原文值各自保留。评分表『得分排名/推荐排名』两列全部为空，rank一律null。包2济南东隽文化传媒有限公司符合性审查未通过，无综合得分，total_score=null。文件集中『N包投标报价明细表.pdf』为招标文件空白模板（无价量值），『包(N)_开标（报价）一览表.pdf』内容为空，均不作明细依据。复核修正：按 G1 口径，category 保留——品目取自 HTML 细目标的信息表「品目编号及品目名称」列的末级名，有出处即照抄，非附件分节标题。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "中共济南市委网络安全和信息化委员会办公室",
+    "project_name": "2026年国家网络安全宣传周活动",
+    "total_amount": 22363670.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年国家网络安全宣传周开幕式等重要活动会务服务",
+        "winner": "中青博联整合营销顾问股份有限公司(联合体成员：国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）、山东舜网传媒股份有限公司)"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年国家网络安全宣传周活动宣传推广服务",
+        "winner": "山东壹橙色文旅体育产业有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "2026年国家网络安全宣传周\"AI驱动数智网安体系建设\"分论坛服务",
+        "winner": "山东舜网传媒股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "2026年国家网络安全周数智济南·网络安全融合发展赋能城市高质量发展大会服务",
+        "winner": "山东省互联网传媒集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "大型会议服务",
+      "item_name": "2026年国家网络安全宣传周开幕式等重要活动会务服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 17207870.4,
+      "total_price": 17207870.4
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "大型会议服务",
+      "item_name": "2026年国家网络安全宣传周活动宣传推广服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 3663000.0,
+      "total_price": 3663000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "大型会议服务",
+      "item_name": "2026年国家网络安全宣传周\"AI驱动数智网安体系建设\"分论坛服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 596800.0,
+      "total_price": 596800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "大型会议服务",
+      "item_name": "2026年国家网络安全周数智济南·网络安全融合发展赋能城市高质量发展大会服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 896000.0,
+      "total_price": 896000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中青博联整合营销顾问股份有限公司(联合体成员：国家工业信息安全发展研究中心（工业和信息化部电子第一研究所）、山东舜网传媒股份有限公司)",
+      "role": "winner",
+      "total_score": 87.94,
+      "rank": null,
+      "amount": 17207870.4
+    },
+    {
+      "package_no": "1",
+      "name": "山东中瑞国际会展有限公司",
+      "role": "participant",
+      "total_score": 74.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南印象佳人文化传媒服务有限公司",
+      "role": "participant",
+      "total_score": 71.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京恒鑫时代文化有限公司",
+      "role": "participant",
+      "total_score": 71.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东壹橙色文旅体育产业有限公司",
+      "role": "winner",
+      "total_score": 90.14,
+      "rank": null,
+      "amount": 3663000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东艺点文化传播有限公司",
+      "role": "participant",
+      "total_score": 75.12,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东杰凡影视文化传媒有限公司",
+      "role": "participant",
+      "total_score": 73.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南东隽文化传媒有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东舜网传媒股份有限公司",
+      "role": "winner",
+      "total_score": 89.32,
+      "rank": null,
+      "amount": 596800.0
+    },
+    {
+      "package_no": "3",
+      "name": "京十（山东）会议服务有限公司",
+      "role": "participant",
+      "total_score": 75.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东容禾咨询服务有限责任公司",
+      "role": "participant",
+      "total_score": 74.29,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东迎新信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东省互联网传媒集团股份有限公司",
+      "role": "winner",
+      "total_score": 89.43,
+      "rank": null,
+      "amount": 896000.0
+    },
+    {
+      "package_no": "4",
+      "name": "杭州朝禾文化传媒有限公司",
+      "role": "participant",
+      "total_score": 79.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "济南仁泰文化传媒有限公司",
+      "role": "participant",
+      "total_score": 76.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东世纪蓝橙文化传媒有限公司",
+      "role": "participant",
+      "total_score": 73.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东二十一号广告传媒有限公司",
+      "role": "participant",
+      "total_score": 73.24,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

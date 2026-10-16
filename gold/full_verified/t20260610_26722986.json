@@ -1,0 +1,1891 @@
+{
+  "announcement_id": "t20260610_26722986",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州众企刻章有限公司）.pdf,合同包2：报价明细附件（粤企刻章（广州）有限公司）.pdf,合同包3：报价明细附件（广州国财广税工商登记代理有限公司）.pdf,合同包4：报价明细附件（广州优速刻章有限公司）.pdf,合同包5：报价明细附件（广州灏标刻章服务有限公司）.pdf,合同包6：报价明细附件（广州市信诺印章有限公司）.pdf,合同包7：报价明细附件（广州时刻印章有限公司）.pdf,合同包8：报价明细附件（广州精优刻章有限公司）.pdf,合同包9：报价明细附件（广州富鑫印章有限公司）.pdf,合同包10：报价明细附件（广州市聚印印章有限公司）.pdf",
+  "note": "10个合同包按刻章单价（元/套）成交：各包中标公告表仅给单价（21/18/19.5/24.8/20.3/20/23.5/28/22/20元/套，与附件报价明细附件单价一致），无包总价与数量（结算按实际刻制数量），item的quantity/total_price留null；总中标金额栏￥0.021700万元=217.0元，恰约等于10个包单价之和217.1元（差0.1元，疑似系统将单价当金额汇总的占位值），非合同总额，按原文换算填217.0并声明；bidders按表格22-31各包评审结果表逐包录入（共212条：中标1+未中标/未通过20-21每包），得分排名列明示照填，推荐排名前2明示；3家带★条款符合性不通过供应商（文强/志强/文辉）各包均无得分；包9/包10评审表各多一家广州广升印章有限公司；视觉核验：已直接核对原始HTML（tmp/orig_html/t20260610_26722986.html，本篇原文即网页非扫描件）公告概要表，'总中标金额'栏原文即'￥0.021700 万元（人民币）'，全页仅此一处金额类数值、无其他总额，按照抄原文口径维持217.0元（=0.021700万元）；该值≈10个包刻章单价之和217.1元，确系发布系统把单价当金额汇总的占位值，非实际合同总额。",
+  "project": {
+    "buyer": "广州市天河区政务服务和数据管理局",
+    "project_name": "广州市天河区政务服务和数据管理局一网通新开办企业免费印章刻制服务项目（2026-2027年）",
+    "total_amount": 217.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "一网通新开办企业免费印章刻制服务1",
+        "winner": "广州众企刻章有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "一网通新开办企业免费印章刻制服务2",
+        "winner": "粤企刻章（广州）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "一网通新开办企业免费印章刻制服务3",
+        "winner": "广州国财广税工商登记代理有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "一网通新开办企业免费印章刻制服务4",
+        "winner": "广州优速刻章有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "一网通新开办企业免费印章刻制服务5",
+        "winner": "广州灏标刻章服务有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "一网通新开办企业免费印章刻制服务6",
+        "winner": "广州市信诺印章有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "一网通新开办企业免费印章刻制服务7",
+        "winner": "广州时刻印章有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "一网通新开办企业免费印章刻制服务8",
+        "winner": "广州精优刻章有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": "一网通新开办企业免费印章刻制服务9",
+        "winner": "广州富鑫印章有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": "一网通新开办企业免费印章刻制服务10",
+        "winner": "广州市聚印印章有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 21.0,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 18.0,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务3",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 19.5,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务4",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 24.8,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务5",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 20.3,
+      "total_price": null
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务6",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 20.0,
+      "total_price": null
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务7",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 23.5,
+      "total_price": null
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务8",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 28.0,
+      "total_price": null
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务9",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 22.0,
+      "total_price": null
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1",
+      "category": "其他服务",
+      "item_name": "一网通新开办企业免费印章刻制服务10",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": 20.0,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州众企刻章有限公司",
+      "role": "winner",
+      "total_score": 93.08,
+      "rank": 1,
+      "amount": 21.0
+    },
+    {
+      "package_no": "1",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 90.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 85.46,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 84.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 80.69,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.45,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.43,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 79.25,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 78.91,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 78.09,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 77.94,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "winner",
+      "total_score": 90.17,
+      "rank": 2,
+      "amount": 18.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 86.75,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 91.92,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 84.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 80.69,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.45,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.43,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 79.25,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 78.46,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 78.09,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 77.94,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "winner",
+      "total_score": 87.44,
+      "rank": 3,
+      "amount": 19.5
+    },
+    {
+      "package_no": "3",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 93.08,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 90.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 84.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 80.69,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.45,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.43,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 78.09,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 78.03,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 77.94,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 77.02,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州优速刻章有限公司",
+      "role": "winner",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": 24.8
+    },
+    {
+      "package_no": "4",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 84.34,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 95.06,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 90.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 88.17,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 83.14,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.45,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.43,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 78.31,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 77.94,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 77.62,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 77.22,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "winner",
+      "total_score": 85.08,
+      "rank": 5,
+      "amount": 20.3
+    },
+    {
+      "package_no": "5",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 83.89,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 95.12,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 90.17,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 89.12,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 85.19,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 83.41,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 80.17,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.96,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.63,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.51,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 79.0,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 78.54,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 78.06,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 77.16,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.84,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.81,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.66,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州市信诺印章有限公司",
+      "role": "winner",
+      "total_score": 84.34,
+      "rank": 5,
+      "amount": 20.0
+    },
+    {
+      "package_no": "6",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 83.79,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 97.05,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 89.85,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 89.75,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 85.55,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 83.49,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 80.28,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.95,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.81,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.38,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 78.9,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 78.24,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 77.48,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 77.14,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 77.12,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 77.04,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 76.1,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州时刻印章有限公司",
+      "role": "winner",
+      "total_score": 83.53,
+      "rank": 6,
+      "amount": 23.5
+    },
+    {
+      "package_no": "7",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 80.07,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 96.74,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 89.75,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 88.79,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 85.31,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 84.04,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 83.22,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.74,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.61,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 79.14,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 78.9,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 78.66,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 77.27,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.94,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.91,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 76.46,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州精优刻章有限公司",
+      "role": "winner",
+      "total_score": 79.43,
+      "rank": 8,
+      "amount": 28.0
+    },
+    {
+      "package_no": "8",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 97.37,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 88.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 87.17,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 82.4,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 82.1,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 78.29,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 78.09,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 77.94,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 76.83,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.04,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州富鑫印章有限公司",
+      "role": "winner",
+      "total_score": 81.29,
+      "rank": 8,
+      "amount": 22.0
+    },
+    {
+      "package_no": "9",
+      "name": "广州市聚印印章有限公司",
+      "role": "participant",
+      "total_score": 81.19,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 97.05,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 89.75,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 86.95,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.95,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 83.88,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 83.15,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 82.53,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州广升印章有限公司",
+      "role": "participant",
+      "total_score": 80.48,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.75,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 79.68,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.42,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.31,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 79.09,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.95,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.9,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.64,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.61,
+      "rank": 19,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州市聚印印章有限公司",
+      "role": "winner",
+      "total_score": 80.74,
+      "rank": 9,
+      "amount": 20.0
+    },
+    {
+      "package_no": "10",
+      "name": "广州星程印章有限公司",
+      "role": "participant",
+      "total_score": 79.25,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州众企刻章有限公司",
+      "role": "participant",
+      "total_score": 97.37,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州国财广税工商登记代理有限公司",
+      "role": "participant",
+      "total_score": 89.75,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "粤企刻章（广州）有限公司",
+      "role": "participant",
+      "total_score": 85.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州优速刻章有限公司",
+      "role": "participant",
+      "total_score": 84.58,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州灏标刻章服务有限公司",
+      "role": "participant",
+      "total_score": 83.45,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州时刻印章有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州市信诺印章有限公司",
+      "role": "participant",
+      "total_score": 82.1,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州富鑫印章有限公司",
+      "role": "participant",
+      "total_score": 80.89,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州精优刻章有限公司",
+      "role": "participant",
+      "total_score": 79.43,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州世章刻章有限公司",
+      "role": "participant",
+      "total_score": 79.1,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州红印刻章有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州广升印章有限公司",
+      "role": "participant",
+      "total_score": 78.89,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州雄光网络科技有限公司",
+      "role": "participant",
+      "total_score": 77.02,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州博艺企业管理有限公司",
+      "role": "participant",
+      "total_score": 76.64,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州精雕刻章有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "富国印章（广州）有限公司",
+      "role": "participant",
+      "total_score": 76.34,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州世印刻章有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 19,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州市文强刻章服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州市志强印章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "广州文辉刻章有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

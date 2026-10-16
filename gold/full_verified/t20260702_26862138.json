@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260702_26862138",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "表格1明示'第1包'，package_no=1；概要品目列为空且标的信息表仅有'类型=服务类'列（分节性质，规范禁止当品目），故category=null；标的行无数量/单价/总价列，对应字段null，中标金额568.5万元作为包级金额填入bidders.amount；rank取自原文'排序'列（1-4，属得分排序列）；附件招标文件.docx因unknown类型被跳过未解析，明细以HTML为准。复核：4家评审报价/得分换算与'第1包'出处已独立核对，确认通过。",
+  "project": {
+    "buyer": "天津市公安局东丽分局机关",
+    "project_name": "天津市东丽区智慧平安社区维保项目",
+    "total_amount": 5685000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "联通数字科技有限公司天津市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧平安社区维保",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通数字科技有限公司天津市分公司",
+      "role": "winner",
+      "total_score": 93.7546,
+      "rank": 1,
+      "amount": 5685000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津市苍鹰智能科技有限公司",
+      "role": "participant",
+      "total_score": 54.4063,
+      "rank": 2,
+      "amount": 4568000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津辉吉科技发展有限公司",
+      "role": "participant",
+      "total_score": 51.4,
+      "rank": 3,
+      "amount": 3840000.0
+    },
+    {
+      "package_no": "1",
+      "name": "意是界（天津）智能科技有限公司",
+      "role": "participant",
+      "total_score": 50.0118,
+      "rank": 4,
+      "amount": 4080000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

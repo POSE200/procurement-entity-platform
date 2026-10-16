@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260210_26168659",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个标包：表格1 明示『第1包』，表格2 未标包号、按顺序推断为第2包（需视觉核验）；总中标金额 987.27 万元 = 第1包 792.1 万 + 第2包 195.17 万，一致。表格3/表格4 为分包评审排序表（表格3=第1包、表格4=第2包，按其报价与得分同中标表对应推断），排序列明示故填 rank。表格6 货物类标的信息『单价(万元)』列数值 1951700 实为元（=195.17 万元，与第2包中标金额一致）——原文核验：tmp/html原始HTML该表列表头明写『单价(万元)』、数值单元格明写『1951700』，列名与数值单位确系源公告自身错位（若按万元解读则为195.17亿元，明显不可能），草稿按元解读1951700元与第2包中标金额195.17万元（中标表单位为万元、明写792.1/195.17口径）完全吻合，维持按元解读；quantity=1 且单价已给，总价按单价×数量唯一互推为 1951700 元。『服务类』『货物类』为分节标题，未作品目；品目概要列为空，category=null。附件（中标明细表.pdf、招标文件.docx）均被跳过，内容不可见。",
+  "project": {
+    "buyer": "天津市住房公积金管理中心机关",
+    "project_name": "天津市住房公积金管理中心客服支持系统技术升级改造项目",
+    "total_amount": 9872700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "信华信（大连）数字技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "信华信（大连）数字技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "客服支持系统技术升级改造",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "语音数字中继网关等，具体内容详见附件",
+      "brand": "鼎信通达",
+      "model": "MTG2000等",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1951700.0,
+      "total_price": 1951700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "信华信（大连）数字技术有限公司",
+      "role": "winner",
+      "total_score": 97.9861,
+      "rank": 1,
+      "amount": 7921000.0
+    },
+    {
+      "package_no": "1",
+      "name": "大连海心信息工程有限公司",
+      "role": "participant",
+      "total_score": 79.3849,
+      "rank": 2,
+      "amount": 7922000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津银海环球信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.0,
+      "rank": 3,
+      "amount": 7910000.0
+    },
+    {
+      "package_no": "2",
+      "name": "信华信（大连）数字技术有限公司",
+      "role": "winner",
+      "total_score": 96.9728,
+      "rank": 1,
+      "amount": 1951700.0
+    },
+    {
+      "package_no": "2",
+      "name": "南京云问网络技术有限公司",
+      "role": "participant",
+      "total_score": 85.5606,
+      "rank": 2,
+      "amount": 1952495.0
+    },
+    {
+      "package_no": "2",
+      "name": "大连海心信息工程有限公司",
+      "role": "participant",
+      "total_score": 78.0,
+      "rank": 3,
+      "amount": 1949930.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

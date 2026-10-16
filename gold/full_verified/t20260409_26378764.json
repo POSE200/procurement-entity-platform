@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260409_26378764",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（东莞小豚智能技术有限公司）.pdf",
+  "note": "单包。9条明细的品目/品牌/规格型号/数量/单价/总价取自HTML标的信息表并与附件报价明细表交叉核对一致（附件OCR文字有水印污染，如'S57智55-H48购采4Y-A'，以HTML为准）。9条总价之和3,408,800.00元=总中标金额340.88万元，数学一致。'存储服务器'的brand与model原文均为'定制'，原样照抄。品目概要列为空，category取HTML品目名称列'教学仪器'。item_no取附件报价明细表序号1-9。包号1来自附件文件名'合同包1'及HTML代理费表合同包号。需视觉核验：附件中'虚拟化服务器'型号DGX Spark、'区块链应用工作站'品牌列OCR为'智 豚 小华硕'（应为华硕），均以HTML为准。复核：9条item与HTML表格2逐行核对一致，原'需视觉核验'两处（DGX Spark、华硕）已由HTML表格2直接确认，关闭；通过。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "区块链创新工坊设备采购",
+    "total_amount": 3408800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "区块链创新工坊设备采购",
+        "winner": "东莞小豚智能技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "48口万兆以太网交换机",
+      "brand": "华为",
+      "model": "S5755-H48N4Y-A",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 22500.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "虚拟化服务器",
+      "brand": "华硕",
+      "model": "DGX Spark",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 179300.0,
+      "total_price": 179300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "系统集成测试成套设备",
+      "brand": "智谷",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 755800.0,
+      "total_price": 755800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "教学仪器",
+      "item_name": "区块链应用工作站",
+      "brand": "华硕",
+      "model": "D700MF",
+      "quantity": 55,
+      "unit": "台",
+      "unit_price": 16980.0,
+      "total_price": 933900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "教学仪器",
+      "item_name": "多媒体教学设备",
+      "brand": "比丽普",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 126800.0,
+      "total_price": 126800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "教学仪器",
+      "item_name": "小型无人艇生产线",
+      "brand": "小豚智能",
+      "model": "XTUV-L",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 91000.0,
+      "total_price": 91000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "教学仪器",
+      "item_name": "△无人船仿真实验平台",
+      "brand": "小豚智能",
+      "model": "XTED-PPUV",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 180000.0,
+      "total_price": 1080000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "教学仪器",
+      "item_name": "组装系统生产成套设备",
+      "brand": "小豚智能",
+      "model": "江豚 XTUV-JT12C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 162000.0,
+      "total_price": 162000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "教学仪器",
+      "item_name": "存储服务器",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东莞小豚智能技术有限公司",
+      "role": "winner",
+      "total_score": 95.6,
+      "rank": 1,
+      "amount": 3408800.0
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市南岗区成拾商贸行（个体工商户）",
+      "role": "participant",
+      "total_score": 62.59,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州拓诚科技有限公司",
+      "role": "participant",
+      "total_score": 54.18,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中洛科技有限公司",
+      "role": "participant",
+      "total_score": 51.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

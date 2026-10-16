@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260508_26524308",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:智慧巡课系统及中医药“双师型”虚拟仿真培训平台(二次)报价明细附件.pdf",
+  "note": "单一合同包（合同包1）；品目category取标的信息表「品目名称」列「应用软件」，附件报价明细表品目名称一致；2条明细品牌/型号/单价/数量/总价齐备且498500+119500=618000=成交金额61.8万；bidders.amount取评审表「最终报价」（中标方与成交金额一致），开标记录表初始投标报价与之不同（河南仲承618000、超星618400、汉典617800）已在此说明；rank取评审表「得分排名/推荐排名」列明示值1/2/3；开标记录表.zip原为跳过的压缩容器但包内PDF已解出。",
+  "project": {
+    "buyer": "黑龙江中医药大学",
+    "project_name": "智慧巡课系统及中医药“双师型”虚拟仿真培训平台(二次)",
+    "total_amount": 618000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧巡课系统及中医药“双师型”虚拟仿真培训平台",
+        "winner": "北京世纪超星信息技术发展有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "智慧巡课系统",
+      "brand": "超星",
+      "model": "v3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 498500.0,
+      "total_price": 498500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "“双师型”虚拟仿真培训平台",
+      "brand": "河南鼎信",
+      "model": "DXR-01",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 119500.0,
+      "total_price": 119500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京世纪超星信息技术发展有限责任公司",
+      "role": "winner",
+      "total_score": 80.98,
+      "rank": 1,
+      "amount": 618000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南仲承文化科技有限公司",
+      "role": "participant",
+      "total_score": 47.99,
+      "rank": 2,
+      "amount": 617730.0
+    },
+    {
+      "package_no": "1",
+      "name": "山西汉典文化发展有限公司",
+      "role": "participant",
+      "total_score": 45.5,
+      "rank": 3,
+      "amount": 617500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

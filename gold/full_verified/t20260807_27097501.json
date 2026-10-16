@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27097501",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东科学技术出版社有限公司).pdf",
+  "note": "单包（标题「采购包1」、分包数量1个、业绩表「项目包号：包1」）。强制检查已完成：附件「报价明细表(第1轮-山东科学技术出版社有限公司).pdf」解析完整，1行明细：单价129700元×数量1.0000项=响应报价129700元，与成交金额129,700.00元一致（单价/数量为附件明示，非推算）。品目概要列空，category取HTML标的信息表品目名称列「出版服务」。得分排名列空，rank一律null。中国建设科技出版社有限责任公司因未在规定时间内提交最终报价视为无效响应，无得分，字段全null。需视觉核验：无重大疑点。复核：单价/数量/响应报价与附件逐字核对一致，bidder名单与得分核对无误。",
+  "project": {
+    "buyer": "山东省住房和城乡建设发展研究院",
+    "project_name": "《“十四五”时期山东省建设科技创新应用图谱》出版印刷服务项目",
+    "total_amount": 129700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东科学技术出版社有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "出版服务",
+      "item_name": "《“十四五”时期山东省建设科技创新应用图谱》出版印刷服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 129700.0,
+      "total_price": 129700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东科学技术出版社有限公司",
+      "role": "winner",
+      "total_score": 84.87,
+      "rank": null,
+      "amount": 129700.0
+    },
+    {
+      "package_no": "1",
+      "name": "研究出版社有限公司",
+      "role": "participant",
+      "total_score": 78.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东齐鲁书社出版有限公司",
+      "role": "participant",
+      "total_score": 65.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国建设科技出版社有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

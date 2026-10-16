@@ -1,0 +1,134 @@
+{
+  "announcement_id": "t20260609_26717481",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司湛江分公司）.pdf",
+  "note": "概要品目列空，category 取标的信息表品目名称列；goods 条目 HTML 未给总价列，总价由单价×数量唯一互推（1-1 为 2 台×131800）；1-2 服务条目 HTML 金额栏为空、附件仅给单价 278000 且无数quantity，quantity/total_price 留 null；数学自查不符：货物 5 条合计 1,237,600 元 + 服务条目后与总中标金额 1,383,800 元差 146,200 元（若服务按附件单价 278000 计则超出 131,800 元），对不上不改原文。需视觉核验：①附件 1-2 服务单价 278000 与总额差额 146200 矛盾，疑 OCR 错读或存在折扣；②附件品牌列被水印污染（深信服/网御星云等列混入乱码），品牌取自 HTML 表格2。 复核修正：2026-09-23独立复核——附件为文本层PDF（非OCR），1-2服务单价278,000清晰可靠，金额差额146,200系原文固有矛盾（可能存在折扣），按规范保留原文值并记录；品牌列取HTML表格2（与附件制造商列一致），原“需视觉核验”疑点消除。",
+  "project": {
+    "buyer": "湛江中心人民医院",
+    "project_name": "湛江中心人民医院网络信息安全整改加固项目",
+    "total_amount": 1383800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "网络信息安全整改加固",
+        "winner": "中国移动通信集团广东有限公司湛江分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "防火墙",
+      "item_name": "DMZ边界防火墙",
+      "brand": "深信服科技股份有限公司",
+      "model": "AF-1000-FH2300B",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 131800.0,
+      "total_price": 263600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "安全运维服务",
+      "item_name": "智能安全实时托管服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": 278000.0,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "安全审计设备",
+      "item_name": "准入控制系统",
+      "brand": "杭州盈高科技有限公司",
+      "model": "盈高入网规范管理系统",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 325000.0,
+      "total_price": 325000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "基础软件",
+      "item_name": "终端与服务器安全软件",
+      "brand": "深信服科技股份有限公司",
+      "model": "深信服统一端点安全管理系统V6.0（aES）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 225000.0,
+      "total_price": 225000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "基础软件",
+      "item_name": "安全堡垒机软件",
+      "brand": "北京网御星云信息技术有限公司",
+      "model": "LA-OS-4600-LIC-500",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 64000.0,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "容灾备份设备",
+      "item_name": "备份一体机",
+      "brand": "广州中电一线科技有限公司",
+      "model": "云枢智备",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 360000.0,
+      "total_price": 360000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司湛江分公司",
+      "role": "winner",
+      "total_score": 88.35,
+      "rank": 1,
+      "amount": 1383800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市天齐科技实业有限公司",
+      "role": "participant",
+      "total_score": 66.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州研森互联科技有限公司",
+      "role": "participant",
+      "total_score": 55.34,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东齐天科技有限公司",
+      "role": "participant",
+      "total_score": 50.03,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

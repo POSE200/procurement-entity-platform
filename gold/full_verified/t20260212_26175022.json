@@ -1,0 +1,63 @@
+{
+  "announcement_id": "t20260212_26175022",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件，纯HTML。品目列与主要标的信息表均无品目名称（'服务类'为分节标题不算品目），category=null；主要标的信息仅一条汇总服务描述且未按包拆分、无数量单价，items 仅列一条汇总（可标注字段为null，不虚构quantity=1）；包A成交19.65万+包B成交13.00万=32.65万与总中标金额一致。",
+  "project": {
+    "buyer": "寿光市粮食发展中心",
+    "project_name": "山东省潍坊市寿光市粮食发展中心寿光市级应急成品粮存储储备项目",
+    "total_amount": 326500.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东碧龙面业股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东华麟面业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省潍坊市寿光市粮食发展中心寿光市级应急成品粮存储储备项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东碧龙面业股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 196500.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东华麟面业有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 130000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

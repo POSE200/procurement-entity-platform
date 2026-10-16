@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260807_27097751",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-安徽格诚软件科技有限公司).pdf",
+  "note": "包号取公告标题'采购包1'及附件明示（包1(其他终端设备)/包(1)_开标一览表）。概要品目列空，category取HTML标的信息表'品目名称'列=其他终端设备。已核验强制检查项'报价明细表(第1轮-安徽格诚软件科技有限公司).pdf'：1条明细，其他终端设备/WXGKW-15.6/U客触控/广州市王迅信息科技有限公司，单价24975元×4台=响应报价99900元=总中标金额￥9.9900万，数学一致。制造商机（广州市王迅信息科技有限公司）按口径不填入brand（brand取品牌列U客触控）。附件'包(1)_开标（报价）一览表''包(1)_投标（响应）报价明细表'OCR仅表头无数据；未中标供应商报价不可见，participant.amount=null。得分表'得分排名'列空，rank=null（含中标人）。复核：单价×数量、成交金额、bidder得分逐项核对无误。",
+  "project": {
+    "buyer": "山东中医药大学附属医院(省中医院)",
+    "project_name": "山东中医药大学附属医院(省中医院)终端自助机采购项目",
+    "total_amount": 99900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "其他终端设备",
+        "winner": "安徽格诚软件科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他终端设备",
+      "item_name": "其他终端设备",
+      "brand": "U客触控",
+      "model": "WXGKW-15.6",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 24975.0,
+      "total_price": 99900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "安徽格诚软件科技有限公司",
+      "role": "winner",
+      "total_score": 80.47,
+      "rank": null,
+      "amount": 99900.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南浩阳商贸有限公司",
+      "role": "participant",
+      "total_score": 72.48,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东国健医疗科技有限公司",
+      "role": "participant",
+      "total_score": 66.67,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

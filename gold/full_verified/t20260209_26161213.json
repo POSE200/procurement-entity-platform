@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260209_26161213",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "复核修正：item_name照抄原文服务名称列（公告未分包命名标的，包1/包2信息出自服务范围列）。成交公告仅公布各包成交供应商与服务范围（包1/包2），未给出分包金额与明细报价，故各包 amount 与 items 价格字段为 null；总成交金额￥143.976万元为两包合计，无法拆分。附件招标文件为压缩容器被跳过，无附件文本。品目取公告概要品目列完整路径。无OCR问题，HTML信息完整，未做视觉核验。",
+  "project": {
+    "buyer": "中国人民银行辽宁省分行",
+    "project_name": "辽宁省分行2026至2028年网络通信线路租赁项目",
+    "total_amount": 1439760.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "辽宁省分行2026至2028年网络通信线路租赁项目包1",
+        "winner": "中国电信集团有限公司辽宁分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "辽宁省分行2026至2028年网络通信线路租赁项目包2",
+        "winner": "中国联合网络通信有限公司辽宁省分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "工程/安装工程/智能化安装工程/通信系统工程",
+      "item_name": "辽宁省分行2026至2028年网络通信线路租赁项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "工程/安装工程/智能化安装工程/通信系统工程",
+      "item_name": "辽宁省分行2026至2028年网络通信线路租赁项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信集团有限公司辽宁分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司辽宁省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

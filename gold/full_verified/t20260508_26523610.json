@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260508_26523610",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "入围（框架）结果公告，总中标金额0万元照抄为0.0；两张入围表原文未标A/B包，按表1共5家对应标的信息A包5个品牌（浙江睿士、黑马、闰凯、麦科田、普门）、表2共4家对应B包4个品牌（浙江睿士、科曼、普门、麦科田）推断表1=A包、表2=B包（推断已声明）；入围单价为单价非包金额，bidders.amount 填 null；rank 取原文「排序」列；brand/model 为包级多品牌列表无法对应到单品，填 null；数量列为「/」。",
+  "project": {
+    "buyer": "烟台市卫生健康委员会",
+    "project_name": "烟台市清廉医采综合服务平台医疗馆（空气波压力治疗仪）采购",
+    "total_amount": 0.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": null
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "空气波压力治疗仪（基础款）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "空气波压力治疗仪（中端款）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "武汉柯尼兹医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "威海君和医疗器械有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "烟台先声医疗设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "青岛居里医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "烟台伟铭达医疗设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "武汉柯尼兹医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "济南帛锐商贸有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "烟台伟铭达医疗设备有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "青岛居里医疗科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

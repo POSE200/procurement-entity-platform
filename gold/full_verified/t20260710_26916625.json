@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260710_26916625",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目（附件专家支付费用表载明分包数量1个），package_no=\"1\"依HTML中标情况表序号及'分包数量1个'推断；3条服务明细（HTML中标明细表）报价之和826000+797710+6175700=7799410元=总中标金额，核对一致；评分表'排序'列明示排名1/2/3，rank按原文填写；明细表仅给明细报价总额，无数量/单价线索，quantity/unit_price/unit一律null（未做任何推算）；品目列空（概要与明细表均无品目），category=null；bidders的amount：中标人取中标金额，未中标人取开标记录表投标报价。",
+  "project": {
+    "buyer": "青岛市应急管理局",
+    "project_name": "城市安全风险综合监测预警平台试点建设项目综合运维服务",
+    "total_amount": 7799410.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "城市安全风险综合监测预警平台试点建设项目综合运维服务",
+        "winner": "青岛海纳云智能系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市安全风险综合监测预警中心运行服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 826000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市安全风险综合监测预警中心网络保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 797710.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市安全风险综合监测预警平台软硬件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6175700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛海纳云智能系统有限公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": 1,
+      "amount": 7799410.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛博宁福田智能交通科技发展有限公司",
+      "role": "participant",
+      "total_score": 65.6,
+      "rank": 2,
+      "amount": 7802000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东博海智能科技工程有限公司",
+      "role": "participant",
+      "total_score": 59.19,
+      "rank": 3,
+      "amount": 7810000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

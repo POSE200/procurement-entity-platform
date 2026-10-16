@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260810_27102844",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东英通信息技术有限公司）.pdf",
+  "note": "概要品目列空，category取自HTML标的信息表品目名称列（其他信息化设备）；品牌列为多品牌合并（海康威视 英通，原样保留），规格型号为11项设备型号合并串（原样照抄，其中DS-K1T670XYZ-ABCD、DH-SD-6CABCDE-XY等含XYZ/ABCD占位字样）；报价明细附件明示单价2,695,000元、数量1(项)、总价2,695,000.00元；未中标4家投标报价原文未给→amount=null。复核修正：规格型号串以HTML标的表为准逐字照抄（HTML非OCR，与附件文本相互印证），占位字样系公告原文，无需视觉核验。",
+  "project": {
+    "buyer": "江门市中心医院",
+    "project_name": "江门市中心医院全院智慧门禁系统、智能安防系统项目",
+    "total_amount": 2695000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "全院智慧门禁系统、智能安防系统",
+        "winner": "广东英通信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "全院智慧门禁系统、智能安防系统",
+      "brand": "海康威视 英通",
+      "model": "人脸门禁一体机（DS-K1T670XYZ-ABCD）; 单门磁力锁（含配件）（DS-K4H250BSC）; 双门磁力锁（含配件）（DS-K4H250BDC）; 门禁管理（Infovision iPark Platform-ACS）; 其它配件、辅材及安装调试（配件、辅材一批，安装调试服务）; 网络存储CVR（内含文搜应用大模型）（iDS-AK71136R-X）; 智能安防主机（内含文搜应用大模型）（DS-IX2512-U/S-K8/PLUS）; 统一安防平台（Infovision iPark Platform）; 巡更点（DS-K7M200）; 边缘脸谱（DS-IP1080-U/FA）; 全院一脸通管理系统（Infovision iCampus FaceLib）",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2695000.0,
+      "total_price": 2695000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东英通信息技术有限公司",
+      "role": "winner",
+      "total_score": 95.15,
+      "rank": 1,
+      "amount": 2695000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州盛勤信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州昊康电子科技有限公司",
+      "role": "participant",
+      "total_score": 74.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州鼎诚科技有限公司",
+      "role": "participant",
+      "total_score": 57.78,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司江门分公司",
+      "role": "participant",
+      "total_score": 29.69,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

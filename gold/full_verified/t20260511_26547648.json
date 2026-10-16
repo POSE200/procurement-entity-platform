@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260511_26547648",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.rar,关于符合本国产品标准的声明函.zip",
+  "note": "包号-中标人映射依据附件中小企业声明函及本国产品声明函的署名分包（第六包=国药（上海）医疗器械实业有限公司、第九包=北京双旗欣业科技有限公司、第十一包=烟台新天地试验技术有限公司），HTML表格1未明示对应关系；公告概要品目为空且HTML无品目列，category=null；数量列原文未给单位，unit=null；各包明细合计与中标金额相符，三包合计650.43万元=总中标金额。",
+  "project": {
+    "buyer": "北京建筑大学",
+    "project_name": "2512-110115-04-03-617537韧性城市建设创新平台集群设备更新项目",
+    "total_amount": 6504300.0,
+    "packages": [
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "国药（上海）医疗器械实业有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": null,
+        "winner": "北京双旗欣业科技有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": null,
+        "winner": "烟台新天地试验技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "超高效液相色谱-三重四级杆串联质谱仪",
+      "brand": null,
+      "model": "LCMS-8060RX",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2457300.0,
+      "total_price": 2457300.0
+    },
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "在线液质前端预分离富集装置",
+      "brand": null,
+      "model": "LC-16",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 775600.0,
+      "total_price": 775600.0
+    },
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "电感耦合等离子体发射光谱仪",
+      "brand": null,
+      "model": "5800ICP-OES",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 576200.0,
+      "total_price": 576200.0
+    },
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能离子色谱仪",
+      "brand": null,
+      "model": "925 CN",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 419500.0,
+      "total_price": 419500.0
+    },
+    {
+      "package_no": "9",
+      "item_no": null,
+      "category": null,
+      "item_name": "具身智能灵巧操作系统",
+      "brand": null,
+      "model": "GQJQR-1",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 952900.0,
+      "total_price": 952900.0
+    },
+    {
+      "package_no": "9",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市空间AR场景地图编辑发布套件",
+      "brand": null,
+      "model": "RK-CityARC-EP",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 846000.0,
+      "total_price": 846000.0
+    },
+    {
+      "package_no": "11",
+      "item_no": null,
+      "category": null,
+      "item_name": "单向地震激励模拟系统",
+      "brand": null,
+      "model": "YJ-HJ-IV",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 476800.0,
+      "total_price": 476800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "6",
+      "name": "国药（上海）医疗器械实业有限公司",
+      "role": "winner",
+      "total_score": 89.71,
+      "rank": null,
+      "amount": 4228600.0
+    },
+    {
+      "package_no": "9",
+      "name": "北京双旗欣业科技有限公司",
+      "role": "winner",
+      "total_score": 97.43,
+      "rank": null,
+      "amount": 1798900.0
+    },
+    {
+      "package_no": "11",
+      "name": "烟台新天地试验技术有限公司",
+      "role": "winner",
+      "total_score": 96.14,
+      "rank": null,
+      "amount": 476800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

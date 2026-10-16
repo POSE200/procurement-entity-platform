@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27094497",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东新锐建筑环境工程有限公司）.pdf",
+  "note": "单包单条明细。品目概要列为空，category 取HTML标的信息表品目名称列「空调维修和保养服务」；附件报价明细给出单价1,235,160×1(项)=总价1,235,160.00，与中标金额1,235,160.00元及总中标金额￥123.516万一致（quantity/unit_price 系附件明示，非推算）。中小企业声明函附件为OCR双页叠加乱码（字符成对重复），无有效字段可取。bidders 4家排名取自评分表「得分排名」列；广东宇晟建设工程有限公司推荐排名列为「--」（未入围推荐），得分排名4明示照填。复核：逐字段核对无误。",
+  "project": {
+    "buyer": "广州医科大学附属清远医院（清远市人民医院）",
+    "project_name": "广州医科大学附属清远医院（清远市人民医院）重点科室净化层流系统维修保养采购项目",
+    "total_amount": 1235160.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "重点科室净化层流系统维修保养服务",
+        "winner": "广东新锐建筑环境工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "空调维修和保养服务",
+      "item_name": "重点科室净化层流系统维修保养服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1235160.0,
+      "total_price": 1235160.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东新锐建筑环境工程有限公司",
+      "role": "winner",
+      "total_score": 87.79,
+      "rank": 1,
+      "amount": 1235160.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏航宇环境科技有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市南峰水处理工程有限公司",
+      "role": "participant",
+      "total_score": 65.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东宇晟建设工程有限公司",
+      "role": "participant",
+      "total_score": 63.27,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

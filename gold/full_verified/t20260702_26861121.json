@@ -1,0 +1,442 @@
+{
+  "announcement_id": "t20260702_26861121",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本项目全文无明示包号（单包），package_no按规范填null；概要品目列为31个逗号分隔的品目代码，与标的信息表31行一一对应（第21个代码C16099900对应第21行'评级指导服务'，其HTML品目名称列恰为'其他信息技术咨询服务'，佐证对位），category照抄概要代码C16010302/C16099900，HTML品目名称列对应为'行业应用软件开发服务'×30+'其他信息技术咨询服务'×1；31行单价×数量=总价且合计20,783,600元恰等于总中标金额；序号列为空，item_no=null；表格2首行'服务类'为分节标题，未当品目；评分表备注列'第一名/第二名/第三名'为明示排名，中移建设、陕西亚创无排名故rank=null；未中标供应商投标报价未公布，amount=null。复核：31条明细逐条核对、合计与品目代码对位、评分表排名已独立验证，全文确认无包号，通过。",
+  "project": {
+    "buyer": "石嘴山市第一人民医院",
+    "project_name": "石嘴山市第一人民医院智慧医院建设二期项目",
+    "total_amount": 20783600.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "东软集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "护理病历系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 430000.0,
+      "total_price": 430000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "移动护理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 345000.0,
+      "total_price": 345000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "短信消息平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 159800.0,
+      "total_price": 159800.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "门诊预约系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "AI智能内涵质控",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "全院分诊系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 270000.0,
+      "total_price": 270000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "医院信息管理系统（HIS）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2320000.0,
+      "total_price": 2320000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "三级医院等级评审系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 535000.0,
+      "total_price": 535000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "无纸化患者端",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 680000.0,
+      "total_price": 680000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "危急值管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "系统集成和系统改造服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3200000.0,
+      "total_price": 3200000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "以电子病历为核心的临床一体化服务（EMR）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2100000.0,
+      "total_price": 2100000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "医保控费管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 298800.0,
+      "total_price": 298800.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "血液透析系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 375000.0,
+      "total_price": 375000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "病案首页质控",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "临床路径管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 215000.0,
+      "total_price": 215000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "不良事件上报管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "重症监护管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 800000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "病理管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 650000.0,
+      "total_price": 650000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "微信公众号",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16099900",
+      "item_name": "评级指导服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "护理管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 415000.0,
+      "total_price": 415000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "前置审方系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "处方点评系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 160000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "手麻移动客户端",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 660000.0,
+      "total_price": 660000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "合理用药系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "院内DRG/DIP系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 450000.0,
+      "total_price": 450000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "医院集成平台及数据中心",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2430000.0,
+      "total_price": 2430000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "手术麻醉系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 460000.0,
+      "total_price": 460000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "护理计划系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 345000.0,
+      "total_price": 345000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "C16010302",
+      "item_name": "门诊应急系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 415000.0,
+      "total_price": 415000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "东软集团股份有限公司",
+      "role": "winner",
+      "total_score": 95.38,
+      "rank": 1,
+      "amount": 20783600.0
+    },
+    {
+      "package_no": null,
+      "name": "新能康技术有限公司",
+      "role": "participant",
+      "total_score": 71.93,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京医信数智科技有限公司",
+      "role": "participant",
+      "total_score": 65.28,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "陕西亚创科技有限公司",
+      "role": "participant",
+      "total_score": 50.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "中移建设有限公司",
+      "role": "participant",
+      "total_score": 55.07,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

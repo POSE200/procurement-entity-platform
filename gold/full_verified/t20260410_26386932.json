@@ -1,0 +1,318 @@
+{
+  "announcement_id": "t20260410_26386932",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市乾润信息技术有限公司）.pdf",
+  "note": "单包（合同包1），22条明细（品目号1-1一条、1-2二十一条）以HTML主要标的信息表为准：附件报价明细21条数值与HTML一致但OCR水印污染严重（如1-1规格被切成'03 H18001 4'、实训工作站型号'D70慧0MF'），HTML值干净，故以HTML照抄（品牌dahua小写照抄）。品目=教学仪器取自HTML品目名称列。各item单价×数量=总价校验通过；22条合计3,397,000元=总中标金额339.7万元，一致。需视觉核验疑点：①1-1的规格型号'03H18001'（附件水印干扰）；②8TB硬盘品牌/型号均为'定制'（原文如此）；③附件声明函中实训工作站制造商为仁宝信息技术（昆山）有限公司（仅作参考，不改变HTML品牌=华硕）。复核：22条item与HTML表格2核对一致，求和=3,397,000=中标金额；疑点①③由HTML与附件两处一致文本关闭，疑点②为原文照抄；通过。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "人工智能协同创新工作坊设备采购",
+    "total_amount": 3397000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "人工智能协同创新工作坊设备采购",
+        "winner": "广州市乾润信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "△AI人机协同智能应用平台",
+      "brand": "优必选、PICO、英特尔",
+      "model": "Walker S2 EDU、UNOVA手动充电柜、PICO 4 Ultra Enterprise定制版、RealSense D405C、03H18001",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1743680.0,
+      "total_price": 1743680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "教师椅",
+      "brand": "毅轩",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "张",
+      "unit_price": 780.0,
+      "total_price": 780.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "多色3D打印机",
+      "brand": "拓竹",
+      "model": "H2C",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 22000.0,
+      "total_price": 22000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "展台",
+      "brand": "毅轩",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "张",
+      "unit_price": 1800.0,
+      "total_price": 3600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "多功能讲台",
+      "brand": "元源",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3800.0,
+      "total_price": 3800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "实训工作站",
+      "brand": "华硕",
+      "model": "D700MF",
+      "quantity": 75,
+      "unit": "套",
+      "unit_price": 16228.0,
+      "total_price": 1217100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "人工智能前端设备应用实训平台",
+      "brand": "深枫",
+      "model": "定制",
+      "quantity": 30,
+      "unit": "套",
+      "unit_price": 6800.0,
+      "total_price": 204000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "千兆网络交换机（48口）",
+      "brand": "华为",
+      "model": "S5735S-L48T4S-A1",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 4800.0,
+      "total_price": 14400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "存储服务器",
+      "brand": "宝承",
+      "model": "OTT-C268",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 34800.0,
+      "total_price": 69600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "光模块",
+      "brand": "华为",
+      "model": "OMXD30000",
+      "quantity": 14,
+      "unit": "个",
+      "unit_price": 550.0,
+      "total_price": 7700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "录像机",
+      "brand": "dahua",
+      "model": "DH-PN4832-S",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "8TB硬盘",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "个",
+      "unit_price": 3000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "无线话筒套装",
+      "brand": "比丽普",
+      "model": "BLP920",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 1150.0,
+      "total_price": 2300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "监控摄像头",
+      "brand": "dahua",
+      "model": "H-PT249-L",
+      "quantity": 10,
+      "unit": "个",
+      "unit_price": 400.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "7寸人脸门禁一体机",
+      "brand": "海康威视",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "有线话筒（含支架）",
+      "brand": "比丽普",
+      "model": "BH-06",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1200.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "音箱系统（含功放）",
+      "brand": "比丽普",
+      "model": "K-218A、BK-2300",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 3500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "HDMI分配器",
+      "brand": "绿联",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 500.0,
+      "total_price": 500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "HDMI线",
+      "brand": "山泽",
+      "model": "定制",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 60.0,
+      "total_price": 300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "教学实训桌",
+      "brand": "毅轩",
+      "model": "定制",
+      "quantity": 54,
+      "unit": "张",
+      "unit_price": 650.0,
+      "total_price": 35100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "椅子",
+      "brand": "毅轩",
+      "model": "定制",
+      "quantity": 54,
+      "unit": "张",
+      "unit_price": 260.0,
+      "total_price": 14040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "折叠桌椅",
+      "brand": "毅轩",
+      "model": "定制",
+      "quantity": 20,
+      "unit": "套",
+      "unit_price": 720.0,
+      "total_price": 14400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市乾润信息技术有限公司",
+      "role": "winner",
+      "total_score": 81.82,
+      "rank": 1,
+      "amount": 3397000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏皓博数字科技发展有限公司",
+      "role": "participant",
+      "total_score": 60.96,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数安网络科技有限公司",
+      "role": "participant",
+      "total_score": 58.6,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

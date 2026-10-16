@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260810_27107290",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东崇文文物保护工程有限公司).pdf",
+  "note": "单包服务项目。package_no=1依公告标题'（采购包1）'及附件'包(1)_*'文件名推断。强制核查项已确认：报价明细表(第1轮-山东崇文文物保护工程有限公司).pdf已解析——单价1347000元、数量1.0000、单位项、最高限价1350000元，与中标金额一致。中标人报价以整项目1条报出，故items仅1条；磋商文件附件'报价明细表.docx'为采购工作量清单（一至五节32项，仅数量m2/项、单价合价全空），不能提供价格真值，未据此拆分items，需视觉核验时可复核该清单。文件集中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有水印叠字表头、无数据行。HTML评分表'得分排名/推荐排名'列空白，rank全null。品目取标的信息表品目名称列（概要品目列为空）。",
+  "project": {
+    "buyer": "山东文化艺术职业学院",
+    "project_name": "山东文化艺术职业学院光岳楼、聊城山陕会馆(山门、戏楼)、临清舍利宝塔数字化保护与展示工程(一期）项目",
+    "total_amount": 1347000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东崇文文物保护工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "光岳楼、聊城山陕会馆(山门、戏楼)、临清舍利宝塔数字化保护与展示工程(一期）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1347000.0,
+      "total_price": 1347000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东崇文文物保护工程有限公司",
+      "role": "winner",
+      "total_score": 92.67,
+      "rank": null,
+      "amount": 1347000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南齐鲁园林古建筑工程公司",
+      "role": "participant",
+      "total_score": 78.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东筑葏文物保护工程设计有限公司",
+      "role": "participant",
+      "total_score": 76.99,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

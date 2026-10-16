@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115509",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,评审报告.pdf",
+  "note": "成交单价4880000/数量1项/总价4880000取自附件「投标（响应）报价明细表.pdf」（已核对，未留空）。rank取自附件「评审报告.pdf」明示：排序列1/第二中标候选人/第三中标候选人，对应rank=1/2/3；未中标人投标报价（中科数素4921000元、湖北依韵4508500元）亦取自评审报告。品目取HTML标的信息表\"其他信息技术服务\"（概要品目列为空）；包号\"1\"来自公告标题\"（采购包1）\"。",
+  "project": {
+    "buyer": "枣庄市薛城区人民政府办公室",
+    "project_name": "薛城区无人机智能巡检服务项目",
+    "total_amount": 4880000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东云图智航航空科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "薛城区无人机智能巡检项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4880000.0,
+      "total_price": 4880000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东云图智航航空科技有限公司",
+      "role": "winner",
+      "total_score": 92.84,
+      "rank": 1,
+      "amount": 4880000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中科数素（石家庄）科技有限公司",
+      "role": "participant",
+      "total_score": 81.76,
+      "rank": 2,
+      "amount": 4921000.0
+    },
+    {
+      "package_no": "1",
+      "name": "湖北依韵科技有限公司",
+      "role": "participant",
+      "total_score": 73.2,
+      "rank": 3,
+      "amount": 4508500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

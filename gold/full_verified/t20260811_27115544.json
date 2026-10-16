@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260811_27115544",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "HTML标的信息表2条明细与附件「投标（响应）报价明细表.pdf」一致（96000+6000=102000，与总中标金额一致）。附件明细制造商分别为安徽格诚软件科技有限公司、宝基恒泰（北京）科技有限公司（brand列按品牌名填格诚/点易拍，制造商名仅备查）；最高限价133500元/16500元。中国广电山东网络有限公司日照市分公司资格性审查未通过、无评审得分，按未中标主体收录为participant。HTML评分表得分排名列空白，所有rank=null；包号\"1\"来自公告标题\"（采购包1）\"。",
+  "project": {
+    "buyer": "山东省日照市人民医院",
+    "project_name": "山东省日照市人民医院腹膜透析管理系统等采购项目",
+    "total_amount": 102000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东国健医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他计算机软件",
+      "item_name": "腹膜透析管理系统",
+      "brand": "格诚",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 96000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "桌面式药品追溯扫码设备",
+      "brand": "点易拍",
+      "model": "H825",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 2000.0,
+      "total_price": 6000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东国健医疗科技有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": null,
+      "amount": 102000.0
+    },
+    {
+      "package_no": "1",
+      "name": "苏州华墨信息科技有限公司",
+      "role": "participant",
+      "total_score": 89.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东顿识顿诺医疗器械有限公司",
+      "role": "participant",
+      "total_score": 84.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东玥安生物科技有限公司",
+      "role": "participant",
+      "total_score": 83.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国广电山东网络有限公司日照市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

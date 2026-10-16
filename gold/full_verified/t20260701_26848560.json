@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260701_26848560",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-郑州兰盾电子有限公司).pdf,报价明细表(第1轮-德州市数智信息科技有限公司).pdf",
+  "note": "2个采购包；包1=硬件运维服务、包2=软件运维服务由磋商文件文本直接确认（3.1采购内容：采购包1预算/最高限价1,665,600元且报价明细要求为硬件运维服务，采购包2预算/最高限价200,000元且报价明细要求为软件运维服务），与两家供应商报价明细表及劳务报酬表（预算A:166.56万/B:20.00万、成交A:162.8496万/B:19.65万）互证；品目概要列与标的信息表品目编号及品目名称列均空，category=null；标的信息表品目号列为空，item_no=null；得分排名列空，rank=null（不推定中标即第1）；未中标供应商投标报价不可见（包(1)/包(2)开标一览表均为空表），amount=null；包金额之和1,628,496+196,500=1,824,996与总中标金额182.4996万一致。已核冲突：成交公告附件.pdf(OCR)中郑州兰盾明细表OCR作1,639,104元，与HTML中标金额1,628,496元、第1轮报价明细表、劳务报酬表三个可见来源不一致，判定为扫描件OCR误读，采信1,628,496元，该项未用于gold取值。复核修正：包1/包2与硬件/软件运维对应原标注'需视觉核验'，复核确认磋商文件docx文本已明示该对应关系，消除该疑点并改status=verified。",
+  "project": {
+    "buyer": "齐河县公安局本级",
+    "project_name": "2026年齐河县公安局视频监控系统运维服务采购项目",
+    "total_amount": 1824996.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "硬件运维服务",
+        "winner": "郑州兰盾电子有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "软件运维服务",
+        "winner": "德州市数智信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "硬件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1628496.0,
+      "total_price": 1628496.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 196500.0,
+      "total_price": 196500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "郑州兰盾电子有限公司",
+      "role": "winner",
+      "total_score": 89.13,
+      "rank": null,
+      "amount": 1628496.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南川聚信息工程有限公司",
+      "role": "participant",
+      "total_score": 73.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "德州云冠信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "德州市数智信息科技有限公司",
+      "role": "winner",
+      "total_score": 85.01,
+      "rank": null,
+      "amount": 196500.0
+    },
+    {
+      "package_no": "2",
+      "name": "德州普雷电子有限公司",
+      "role": "participant",
+      "total_score": 77.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东鲁与杭商贸有限公司",
+      "role": "participant",
+      "total_score": 74.87,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

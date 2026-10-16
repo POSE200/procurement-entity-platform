@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27072044",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东方庆信息技术有限公司).pdf",
+  "note": "包号1为附件明示（附件文件名'包(1)_开标（报价）一览表'）。中标人山东方庆的报价明细表(第1轮)已核对：单价92000×1宗=92000元与HTML中标金额一致，最高限价99500元。品目取HTML主要标的信息表品目名称列'其他存储设备'。规格型号为长串多产品拼接文本，照抄原值（需视觉核验该长串及引号位置）。专家报酬支付表同时含另一项目'聊城大学教学科研自筹-融媒体平台服务（ID2576）采购项目'（预算14.939万元/中标14.00万元），属另一公告，本篇仅ID2579（预算9.95万/中标9.20万）。'包(1)'两个PDF为空白模板；资格审查及业绩得分.pdf仅资格审查与业绩得分内容，无新增字段值。得分排名/推荐排名列空，rank=null。",
+  "project": {
+    "buyer": "聊城大学",
+    "project_name": "聊城大学教学科研自筹-融媒体平台设备（ID2579）采购项目",
+    "total_amount": 92000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东方庆信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他存储设备",
+      "item_name": "融媒体设备",
+      "brand": "星耀天梯，威联通，希捷银河，锐捷网络，Firefly萤火虫，慕腾，奥盛",
+      "model": "XYTT-BX400 4K 融媒体全能一体机\"2.1 QNAPTS-832PXU 8盘位机架式企业级 NAS\"2.2 Exos X1010TB 720转256M企业级CMR 硬盘，RG-WALL 1600-Z5100 云管防火墙，AIBOX-8550 高性能 AI 边缘计算盒\"5.1 TD6042 标准 19 英寸 42U 服务器机柜（600宽 ×1000深×2055高，网门）\"5.2 APN 系列 三相 380V 32A 智能 PDU（带 SNMP / 网口远程监测、液晶显示、全电路保护、Ⅱ 级防雷",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 92000.0,
+      "total_price": 92000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东方庆信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.5,
+      "rank": null,
+      "amount": 92000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南卓业信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东珂恒商贸有限公司",
+      "role": "participant",
+      "total_score": 84.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

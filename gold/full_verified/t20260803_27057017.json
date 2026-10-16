@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27057017",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包单条服务明细：附件报价明细表 单价1090000×1宗=1090000与合计/HTML总中标金额一致（HTML标的信息表无数量与单价列，数量/单价取自附件）。品目取HTML标的信息表'品目编号及品目名称'列（其他商务服务），概要品目列为空。评分表得分排名/推荐排名列为空，各供应商rank一律null；表格4明示两家未中标供应商及未中标原因，均按participant收录。需视觉核验：无（本篇各值均有清晰出处）。",
+  "project": {
+    "buyer": "威海职业学院（威海市技术学院）",
+    "project_name": "教管一体化平台项目",
+    "total_amount": 1090000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他商务服务",
+      "item_name": "教管一体化平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1090000.0,
+      "total_price": 1090000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 97.06,
+      "rank": null,
+      "amount": 1090000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南雨课堂教育科技有限公司",
+      "role": "participant",
+      "total_score": 80.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛灵越动漫传媒科技有限公司",
+      "role": "participant",
+      "total_score": 71.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

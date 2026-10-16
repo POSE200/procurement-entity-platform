@@ -1,0 +1,198 @@
+{
+  "announcement_id": "t20260603_26676353",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东钇芯微半导体技术有限公司）.pdf",
+  "note": "12条标的：1-1至1-11货物来自HTML标的信息表，1-12硬件集成实施服务在HTML表中金额列为空、单价33700取自附件报价明细服务分表；逐条单价×数量=总价，12条合计1999700=总中标金额；品目取标的信息表品目名称列（概要品目列为空）；广州弱水科技有限公司得分排名列原文未给，rank=null。复核修正：表格5得分排名列对广州弱水科技有限公司明示为3（原草稿误判为空），rank已改为3；1-12单价33700/数量1项经附件报价明细表核实；12条合计1999700元与总中标金额一致，其余字段核对无误。",
+  "project": {
+    "buyer": "广州工程技术职业学院",
+    "project_name": "广州工程技术职业学院数字媒体技术省级高水平专业群全域感知空间与数字创新工坊实训室建设",
+    "total_amount": 1999700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州工程技术职业学院数字媒体技术省级高水平专业群全域感知空间与数字创新工坊实训室建设",
+        "winner": "广东钇芯微半导体技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他终端设备",
+      "item_name": "红色历史沉浸式大空间计算平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 274400.0,
+      "total_price": 274400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他终端设备",
+      "item_name": "党建建设沉浸式大空间计算平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 264300.0,
+      "total_price": 264300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他终端设备",
+      "item_name": "人文景观沉浸式大空间计算平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 254300.0,
+      "total_price": 254300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他终端设备",
+      "item_name": "乡村振兴沉浸式大空间计算平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 254300.0,
+      "total_price": 254300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他终端设备",
+      "item_name": "混合现实空间计算平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 89300.0,
+      "total_price": 357200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他信息化设备",
+      "item_name": "空间计算和分布式任务管理平台",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 98300.0,
+      "total_price": 196600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "无人机",
+      "item_name": "空间计算数据无人机采集平台系统",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 59300.0,
+      "total_price": 59300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "投影仪",
+      "item_name": "投影仪",
+      "brand": "APPOTRONICS",
+      "model": "AL-U360",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2850.0,
+      "total_price": 2850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他终端设备",
+      "item_name": "裸眼3D/XR智能创作终端",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 144300.0,
+      "total_price": 288600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学、实验用桌",
+      "item_name": "定制桌子",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 10,
+      "unit": "张",
+      "unit_price": 675.0,
+      "total_price": 6750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学、实验椅凳",
+      "item_name": "定制椅子",
+      "brand": "钇芯微",
+      "model": "定制",
+      "quantity": 40,
+      "unit": "张",
+      "unit_price": 185.0,
+      "total_price": 7400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "硬件集成实施服务",
+      "item_name": "硬件集成实施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 33700.0,
+      "total_price": 33700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东钇芯微半导体技术有限公司",
+      "role": "winner",
+      "total_score": 98.65,
+      "rank": 1,
+      "amount": 1999700.0
+    },
+    {
+      "package_no": "1",
+      "name": "凯跃智能装备（广州）有限公司",
+      "role": "participant",
+      "total_score": 78.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州弱水科技有限公司",
+      "role": "participant",
+      "total_score": 63.02,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

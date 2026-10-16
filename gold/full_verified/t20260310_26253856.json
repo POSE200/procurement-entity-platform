@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260310_26253856",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "ERR_PAGE: 合同包1：报价明细附件（数字广东网络建设有限公司）.pdf 为'系统正在维护中'错误页，附件明细不可得；items以HTML主要标的信息表为准。数学自查：4236×383=1622388、5275×82=432550，合计2054938元与总中标金额￥205.4938万及中标金额2,054,938.00元一致。品目取标的信息表品目名称列（概要品目列空）。报价明细附件缺失但HTML已给出全部数量/单价/总价，无需OCR补。",
+  "project": {
+    "buyer": "汕尾市城区政务服务和数据管理局",
+    "project_name": "汕尾市城区“数字城市”信息化建设项目（一期）-公共服务信息化配套终端采购项目",
+    "total_amount": 2054938.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "汕尾市城区“数字城市”信息化建设项目（一期）-公共服务信息化配套终端采购项目",
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "台式计算机",
+      "item_name": "台式终端",
+      "brand": "联想",
+      "model": "E50z G1T -D283",
+      "quantity": 383,
+      "unit": "台",
+      "unit_price": 4236.0,
+      "total_price": 1622388.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "便携式计算机",
+      "item_name": "便携式终端",
+      "brand": "华为",
+      "model": "擎云L540x",
+      "quantity": 82,
+      "unit": "台",
+      "unit_price": 5275.0,
+      "total_price": 432550.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": 1,
+      "amount": 2054938.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东中大信通科技有限公司",
+      "role": "participant",
+      "total_score": 64.61,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "汕尾安信电子科技有限公司",
+      "role": "participant",
+      "total_score": 58.4,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "announcement_id": "t20260709_26903529",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "竞价成交公告，2个包。包1成交：中国联合网络通信有限公司广东省分公司（报价84000.00元），包2成交：中国移动通信集团广东有限公司（报价63000.00元），之和=总成交金额￥14.700000万元=147000.0元。两张“推荐排名”表与包的对应关系为推断（已写note声明）：表格2排名第一为联通=表格1所列采购包1成交人、表格3排名第一为移动=采购包2成交人，故表格2归包1、表格3归包2；推荐排名列原文明示，rank照抄。原文无评审得分，total_score=null；amount取各响应人报价（表内&yen;即¥）。品目取概要列完整路径“服务/电信和其他信息传输服务/电信服务/网络接入服务”。quantity/unit/unit_price无线索不填（包2采购需求含互联网专线1条+政务外网专线1条+酒店宽带210户共3类，但无分项报价可拆分，item按标的信息表每包1条）。需视觉核验疑点：HTML“采购单位”行为“中国人民警察大学”，附件竞价文件“采购人”写作“中国人民警察大学（广州）”，公告标题亦含（广州）。复核修正：按规范第1条「有附件以附件为准」，buyer修正为“中国人民警察大学（广州）”（出处：竞价文件docx「采购人：中国人民警察大学（广州）」及「采购人信息 名称」行）。",
+  "project": {
+    "buyer": "中国人民警察大学（广州）",
+    "project_name": "中国人民警察大学（广州）2027年网络接入服务采购项目",
+    "total_amount": 147000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司广东省分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/电信和其他信息传输服务/电信服务/网络接入服务",
+      "item_name": "中国人民警察大学（广州）2027年网络接入服务采购项目-采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 84000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/电信和其他信息传输服务/电信服务/网络接入服务",
+      "item_name": "中国人民警察大学（广州）2027年网络接入服务采购项目-采购包2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 63000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 84000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 100000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 108000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇云电子商务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 4,
+      "amount": 110000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州凌洛信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 5,
+      "amount": 120000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东承源颢菲科技发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 6,
+      "amount": 142000.0
+    },
+    {
+      "package_no": "1",
+      "name": "未来信通科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 7,
+      "amount": 158000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 63000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州凌洛信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 66000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东汇云电子商务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 68000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 4,
+      "amount": 85200.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 5,
+      "amount": 105768.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东承源颢菲科技发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 6,
+      "amount": 140000.0
+    },
+    {
+      "package_no": "2",
+      "name": "未来信通科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 7,
+      "amount": 166000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

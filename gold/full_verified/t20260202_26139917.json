@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260202_26139917",
+  "annotated_at": "2026-09-22",
+  "gold_source": "attachment:报价明细附件.pdf + 开标记录表",
+  "note": "HTML 的服务类表把「服务范围」写成投保人数；附件报价明细才有正确的 数量=1项、单价、总价。投标报价来自开标记录表；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "绥化市公安局",
+    "project_name": "为市局民辅警及职工采购人身意外险及重大疾病等保险服务项目",
+    "total_amount": 1222263.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国太平洋人寿保险股份有限公司绥化中心支公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他商业保险服务",
+      "item_name": "团体重大疾病保险",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 194679.0,
+      "total_price": 194679.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他商业保险服务",
+      "item_name": "团体意外伤害保险",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1027584.0,
+      "total_price": 1027584.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国太平洋人寿保险股份有限公司绥化中心支公司",
+      "role": "winner",
+      "total_score": 99.92,
+      "rank": 1,
+      "amount": 1222263.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国人民人寿保险股份有限公司绥化市中心支公司",
+      "role": "participant",
+      "total_score": 98.0,
+      "rank": 2,
+      "amount": 1212228.0
+    },
+    {
+      "package_no": "1",
+      "name": "阳光财产保险股份有限公司绥化中心支公司",
+      "role": "participant",
+      "total_score": 75.74,
+      "rank": 3,
+      "amount": 1244340.0
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市松北区权景商贸行(个体工商户)",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 1265500.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国平安财产保险股份有限公司绥化中心支公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 1271100.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

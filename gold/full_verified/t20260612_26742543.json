@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260612_26742543",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf,合同包2：报价明细附件（中国联合网络通信有限公司广东省分公司）.pdf,合同包3：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "单一来源采购，每包仅一名成交供应商（得分排名/推荐排名列均明示为1，无得分值）；概要品目列为空，category取HTML品目名称列'其他信息技术服务'；包2标的名称原文即为'其他信息技术服务'（与品目同名，照抄非笔误）；HTML标的表金额列为空，单价/数量/总价取自各包报价明细附件；三包金额之和=2,214,000元=总成交金额，相符。需视觉核验：无（报价明细附件仅有水印字穿插，数值清晰）。",
+  "project": {
+    "buyer": "广东省统计局",
+    "project_name": "广东省统计局手机信令大数据服务采购",
+    "total_amount": 2214000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省统计局手机信令大数据服务采购包1",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广东省统计局手机信令大数据服务采购包2",
+        "winner": "中国联合网络通信有限公司广东省分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "广东省统计局手机信令大数据服务采购包3",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "广东省统计局手机信令大数据服务采购包1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 790000.0,
+      "total_price": 790000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他信息技术服务",
+      "item_name": "其他信息技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 710000.0,
+      "total_price": 710000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他信息技术服务",
+      "item_name": "广东省统计局手机信令大数据服务采购包3",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 714000.0,
+      "total_price": 714000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 790000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 710000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 714000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

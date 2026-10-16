@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260710_26916656",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-集图数字科技（山东）有限公司).pdf",
+  "note": "单包（公告标题'采购包1'，附件'包(1)_*'），package_no=\"1\"；2条标的：单价/数量/单位来自报价明细表附件，20280元×25套=507000元、371000元×1套=371000元，之和878000元=总中标金额87.8万元，核对一致；品目取自HTML标的信息表品目名称列（其他电工仪器仪表），公告概要品目列为空；文件集内'包(1)_开标（报价）一览表.pdf''包(1)_投标（响应）报价明细表.pdf'仅解析出表头（文字层重影），实际报价明细来自独立附件'报价明细表(第1轮-集图数字科技（山东）有限公司).pdf'；第2条标的规格型号原文即'定制'，照抄。",
+  "project": {
+    "buyer": "山东商业职业技术学院",
+    "project_name": "山东商业职业技术学院冷链物流与供应链系智能化测控与电工电子创新实验平台",
+    "total_amount": 878000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "集图数字科技（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电工仪器仪表",
+      "item_name": "智能化测控与电工电子创新实验平台及配套设施",
+      "brand": "茂育",
+      "model": "MY-304、MYKZT-01H",
+      "quantity": 25,
+      "unit": "套",
+      "unit_price": 20280.0,
+      "total_price": 507000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他电工仪器仪表",
+      "item_name": "定制化电工电子智能实训过程管理与教学软件平台",
+      "brand": "集图",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 371000.0,
+      "total_price": 371000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "集图数字科技（山东）有限公司",
+      "role": "winner",
+      "total_score": 86.85,
+      "rank": null,
+      "amount": 878000.0
+    },
+    {
+      "package_no": "1",
+      "name": "浙江天煌科技实业有限公司",
+      "role": "participant",
+      "total_score": 85.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东星科数字科技有限公司",
+      "role": "participant",
+      "total_score": 79.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南新潢埔商贸有限公司",
+      "role": "participant",
+      "total_score": 68.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南渤峻电子科技有限公司",
+      "role": "participant",
+      "total_score": 54.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东雅拓集团有限公司",
+      "role": "participant",
+      "total_score": 52.2,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

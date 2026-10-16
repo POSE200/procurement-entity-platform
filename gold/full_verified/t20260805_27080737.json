@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080737",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价分析表.pdf,节能产品明细表.pdf,环境标志产品明细表.pdf",
+  "note": "本项目分A01/A02两包（预算30万/10万），本结果公告仅涉及A01包（附件均为A01包材料），package_no取招标文件/附件明示的『包号：A01』，HTML表格1包号列写全称BZGP-2026-0141A01。item来自附件报价分析表：高性能GPU训练模型服务器，浪潮/CS5280K2，1台，单价=总价=296000元。**金额不一致**：成交金额295600元（表格1、评审劳务报酬表）与报价分析表磋商报价296000元相差400元，按口径不改原文，需视觉核验。品目：概要品目列空、HTML无品目名称列，货物类为分节标题不算品目，category=null。bidders得分：表格3仅有『得分1/得分2/得分3』三列（疑为竞争性磋商多轮得分），无综合得分列、无排名列，total_score与rank均留null（得分值：江苏安航78.73/74.73/77.23；山东海事通82.64/80.64/83.14；山东弘尚95.36/95.36/95.86；山东海纳108.84/109.34/108.84），需视觉核验列含义。未中标供应商报价原文未给。",
+  "project": {
+    "buyer": "滨州职业技术大学",
+    "project_name": "山东省滨州市滨州职业技术大学海洋服务业算力和海图设备采购",
+    "total_amount": 295600.0,
+    "packages": [
+      {
+        "package_no": "A01",
+        "package_name": "山东省滨州市滨州职业技术大学海洋服务业算力和海图设备采购",
+        "winner": "山东海纳教育发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A01",
+      "item_no": "1",
+      "category": null,
+      "item_name": "高性能GPU训练模型服务器",
+      "brand": "浪潮",
+      "model": "CS5280K2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 296000.0,
+      "total_price": 296000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A01",
+      "name": "山东海纳教育发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 295600.0
+    },
+    {
+      "package_no": "A01",
+      "name": "江苏安航船舶设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A01",
+      "name": "山东海事通智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A01",
+      "name": "山东弘尚电子科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

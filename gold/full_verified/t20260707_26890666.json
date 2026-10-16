@@ -1,0 +1,225 @@
+{
+  "announcement_id": "t20260707_26890666",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南易考软件技术有限公司).pdf,报价明细表(第1轮-上海万方数据有限公司).pdf,报价明细表(第1轮-北京布局未来科技发展有限公司).pdf,报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf,报价明细表(第1轮-济南泉方科技有限公司).pdf,报价明细表(第1轮-重庆聚合科技有限公司).pdf,报价明细表(第1轮-中国教育图书进出口有限公司).pdf,报价明细表(第1轮-北京北大英华科技有限公司).pdf",
+  "note": "8个采购包的单一来源结果公告，每包仅1家供应商（既是winner也无可列participant）；包号1~8由公告标题'（采购包1、2、3、4、5、6、7、8）'明示，供应商与包的对应按HTML各包标的信息表品目号N-1（表格9~16）及各包中标表顺序确定；品目category取各包标的信息表'品目名称'列（均为互联网信息服务）；单价/数量/总价取自各家报价明细表附件（单价=总价、数量=1为原文明示值而非推算）；8包金额合计51900+39900+39900+242000+399900+139950+156000+40800=1110350元与总中标金额111.035万元一致；评审表列名为'评审价格'而非综合得分，无评分排名列，total_score与rank=null。复核修正：note 原引'附件包(N)_开标一览表文件名'为包号依据，该文件在包内不存在，改为公告标题+HTML品目号依据。",
+  "project": {
+    "buyer": "山东第二医科大学",
+    "project_name": "山东第二医科大学2026年电子资源购置项目",
+    "total_amount": 1110350.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中华医学期刊全文数据库（云端版）",
+        "winner": "济南易考软件技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "万方数据库",
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "新东方多媒体学习库",
+        "winner": "北京布局未来科技发展有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "超星系列数据库",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "济南泉方外文文献服务系统",
+        "winner": "济南泉方科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "重庆聚合资源库",
+        "winner": "重庆聚合科技有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "EMbase数据库",
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "北大法宝法律数据库",
+        "winner": "北京北大英华科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "互联网信息服务",
+      "item_name": "中华医学期刊全文数据库（云端版）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 51900.0,
+      "total_price": 51900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "互联网信息服务",
+      "item_name": "万方数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 39900.0,
+      "total_price": 39900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "互联网信息服务",
+      "item_name": "新东方多媒体学习库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 39900.0,
+      "total_price": 39900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "互联网信息服务",
+      "item_name": "超星系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 242000.0,
+      "total_price": 242000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "互联网信息服务",
+      "item_name": "济南泉方外文文献服务系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 399900.0,
+      "total_price": 399900.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "互联网信息服务",
+      "item_name": "重庆聚合资源库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 139950.0,
+      "total_price": 139950.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "互联网信息服务",
+      "item_name": "EMbase数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 156000.0,
+      "total_price": 156000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "互联网信息服务",
+      "item_name": "北大法宝法律数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 40800.0,
+      "total_price": 40800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南易考软件技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 51900.0
+    },
+    {
+      "package_no": "2",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 39900.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京布局未来科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 39900.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 242000.0
+    },
+    {
+      "package_no": "5",
+      "name": "济南泉方科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 399900.0
+    },
+    {
+      "package_no": "6",
+      "name": "重庆聚合科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 139950.0
+    },
+    {
+      "package_no": "7",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 156000.0
+    },
+    {
+      "package_no": "8",
+      "name": "北京北大英华科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

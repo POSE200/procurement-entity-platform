@@ -1,0 +1,43 @@
+{
+  "announcement_id": "t20260805_27080428",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告且全文无包号/标包序号→package_no=null；主要标的信息各栏均为『详见磋商文件』且磋商文件不在附件中（附件仅业绩表/中小企业声明函/评审劳务报酬支付表），标的明细不可得→items仅写一条全null总称记录；成交金额173000.00元取自成交信息（与总中标金额17.3万一致）；评审专家名单为『无』，无评分表→total_score/rank=null，公告亦未列其他参与供应商→bidders仅1条winner。",
+  "project": {
+    "buyer": "德州市大数据局",
+    "project_name": "德州市大数据局2026年度德州市政府网站群技术平台云服务项目",
+    "total_amount": 173000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 173000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "source_audit_20261015": {
+      "reason": "移除七字段全空的占位行，来源缺失由公告记录保留",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260805_27080428\\公告.html"
+      ]
+    }
+  }
+}

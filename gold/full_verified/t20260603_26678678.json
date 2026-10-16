@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260603_26678678",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南电智控系统有限公司）.pdf",
+  "note": "两条标的的品目号均为1-1，附件报价明细按序号1/2分行，item_no取品目号-序号；单价×数量=总价逐条相符（467000+175000=642000=总中标金额）；品目取HTML标的信息表品目名称列（概要品目列为空）；广东华风畅扬科技有限公司综合得分73.07排名列原文未给（得分排名空），rank=null。复核修正：表格4得分排名列对广东华风畅扬科技有限公司明示为3（原草稿误判为空），rank已改为3；两条标的与附件报价明细（品目号1-1下序号1/2）逐项相符，467000+175000=642000元与总中标金额一致，其余字段核对无误。",
+  "project": {
+    "buyer": "广州市数字政府运营中心（广州市政务大数据管理中心、广州市政府门户网站编辑部、广州市智慧城市运行中心）",
+    "project_name": "广州市数字政府运营中心2026-2027年信息化运维项目市党政机关电子邮箱系统及市政务外网域名解析系统运维项目",
+    "total_amount": 642000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市数字政府运营中心2026-2027年信息化运维项目市党政机关电子邮箱系统及市政务外网域名解析系统运维项目",
+        "winner": "广东南电智控系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "广州市党政机关电子邮箱系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 467000.0,
+      "total_price": 467000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运维服务",
+      "item_name": "广州市电子政务外网域名解析服务管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 175000.0,
+      "total_price": 175000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南电智控系统有限公司",
+      "role": "winner",
+      "total_score": 93.0,
+      "rank": 1,
+      "amount": 642000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州腾方科技有限公司",
+      "role": "participant",
+      "total_score": 73.98,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东华风畅扬科技有限公司",
+      "role": "participant",
+      "total_score": 73.07,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

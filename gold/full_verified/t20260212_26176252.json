@@ -1,0 +1,326 @@
+{
+  "announcement_id": "t20260212_26176252",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件'报价明细附件.pdf'被跳过（未知类型html）不可见，但HTML主要标的信息表完整提供22条明细，总价合计9,505,030元与中标金额9,505,030.00元一致。品目取自标的信息表品目名称列。中标人为联合体（原样保留写法）。评分表给出4家供应商得分与排名。需视觉核验：无（数据均出自HTML表格）。",
+  "project": {
+    "buyer": "信宜市公安局",
+    "project_name": "“平安信宜”全域智能一体化治理项目（信宜市公安局装备采购项目）",
+    "total_amount": 9505030.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "“平安信宜”全域智能一体化治理项目（信宜市公安局装备采购项目）",
+        "winner": "广州欣特锐盾安防科技有限公司(联合体成员：广州华凯车辆装备有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "警械设备",
+      "item_name": "警用反恐防暴装甲车",
+      "brand": "盾甲牌",
+      "model": "规格：外形尺寸（mm） 长5645、宽2220、高2990 型号：GDJ5063XFB",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 1200000.0,
+      "total_price": 1200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "警械设备",
+      "item_name": "警用运兵车",
+      "brand": "盾甲牌",
+      "model": "规格：长×宽×高（mm） （6820×2164×2485） 型号：GDJ5050XYB",
+      "quantity": 2,
+      "unit": "辆",
+      "unit_price": 420000.0,
+      "total_price": 840000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "警械设备",
+      "item_name": "警用勘察车",
+      "brand": "盾甲牌",
+      "model": "规格：底盘长×宽×高（mm） （5685×1935×1872） 型号：GDJ5030XKC",
+      "quantity": 5,
+      "unit": "辆",
+      "unit_price": 194000.0,
+      "total_price": 970000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "警械设备",
+      "item_name": "警棍（伸缩警棍）",
+      "brand": "吉安",
+      "model": "规格：质量310.8g 型号：G2-JE",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 210.0,
+      "total_price": 131250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "警械设备",
+      "item_name": "多功能防暴头盔",
+      "brand": "威盾",
+      "model": "规格：防暴头盔质量1.21kg 型号：FBK-BL-WD02",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 1160.0,
+      "total_price": 725000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "警械设备",
+      "item_name": "多功能防刺服",
+      "brand": "国度",
+      "model": "规格：防护面积0.252㎡ 型号：FCF-JA-GD24",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 710.0,
+      "total_price": 443750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "警械设备",
+      "item_name": "防刺穿防割手套",
+      "brand": "久安警用装备",
+      "model": "规格：耐切割系数2.6 型号：FGST-JA01",
+      "quantity": 625,
+      "unit": "双",
+      "unit_price": 100.0,
+      "total_price": 62500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "警械设备",
+      "item_name": "多功能盾牌组合",
+      "brand": "联安",
+      "model": "规格：1200×550×3.0mm和1600×550×3.0mm 型号：FBP-T-L-2H",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 880.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "警械设备",
+      "item_name": "催泪喷射器",
+      "brand": "吉安",
+      "model": "规格：质量为190.6g 型号：C2-JE",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 100.0,
+      "total_price": 62500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "警械设备",
+      "item_name": "约束叉（便携式套装）",
+      "brand": "威盾",
+      "model": "规格：棍体质量0.5kg 型号：ZBQ-WD-3",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 1000.0,
+      "total_price": 625000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "警械设备",
+      "item_name": "防弹衣",
+      "brand": "普凡",
+      "model": "规格：防护面积为0.279㎡ 型号：FDY3RC5F-PF57",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 1800.0,
+      "total_price": 1125000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "警械设备",
+      "item_name": "防弹头盔",
+      "brand": "卫都",
+      "model": "规格：不含附件1402g 型号：FDK2F-WD01-L",
+      "quantity": 625,
+      "unit": "顶",
+      "unit_price": 1060.0,
+      "total_price": 662500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "警械设备",
+      "item_name": "多功能警用肩灯",
+      "brand": "戈泰",
+      "model": "规格：质量55g 型号：雷电五号/JD-GT-05",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 74.0,
+      "total_price": 46250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "警械设备",
+      "item_name": "多功能警用强光手电",
+      "brand": "吉安",
+      "model": "规格：手电质量197.1g 型号：S2-JE",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 200.0,
+      "total_price": 125000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "警械设备",
+      "item_name": "警用手铐",
+      "brand": "吉安",
+      "model": "规格：金属手铐的质量（不含钥匙和包装）226g 型号：K1 JE",
+      "quantity": 625,
+      "unit": "副",
+      "unit_price": 100.0,
+      "total_price": 62500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "警械设备",
+      "item_name": "脚镣（连体式防脱）",
+      "brand": "吉安",
+      "model": "规格：连体手铐脚镣的质量为2.67kg 型号：LTK-SJ-JA",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 240.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "警械设备",
+      "item_name": "急救包",
+      "brand": "戈泰",
+      "model": "规格：执行标准：GA 891-2010 公安单警装备 急救包 型号：J GT",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 120.0,
+      "total_price": 75000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "警械设备",
+      "item_name": "多功能腰带",
+      "brand": "久安警用装备",
+      "model": "规格：全套标配质量(不含选配件)1.0kg 型号：Y H JD",
+      "quantity": 625,
+      "unit": "套",
+      "unit_price": 200.0,
+      "total_price": 125000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "警械设备",
+      "item_name": "多功能反光背心",
+      "brand": "欣特锐盾",
+      "model": "规格：面料克重：260克 型号：XT-FGY06",
+      "quantity": 625,
+      "unit": "件",
+      "unit_price": 150.0,
+      "total_price": 93750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "无人机",
+      "item_name": "多旋翼无人机",
+      "brand": "慧明捷",
+      "model": "规格：展开尺寸1410*1400*600mm（长*宽*高） 型号：HMJ-00D4000P",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 297000.0,
+      "total_price": 594000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "无线电反制设备",
+      "item_name": "无人机反制设备",
+      "brand": "欣特锐盾",
+      "model": "规格：设备重量5.8kg（含电池） 型号：XT-FPV",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 268015.0,
+      "total_price": 536030.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-22",
+      "category": "安全、检查、监视、报警设备",
+      "item_name": "警用远景系统",
+      "brand": "欣特锐盾",
+      "model": "规格：122mm*55mm*49mm 型号：XT-XYDB",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 300000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州欣特锐盾安防科技有限公司(联合体成员：广州华凯车辆装备有限公司)",
+      "role": "winner",
+      "total_score": 83.95,
+      "rank": 1,
+      "amount": 9505030.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州昱隽华科技有限公司",
+      "role": "participant",
+      "total_score": 78.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州银盾警用装备有限公司",
+      "role": "participant",
+      "total_score": 68.53,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "靖江市仁翔警用装备制造有限公司",
+      "role": "participant",
+      "total_score": 63.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

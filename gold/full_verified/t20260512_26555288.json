@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260512_26555288",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件（中小企业声明函.rar、采购文件.docx）均被跳过未解析，字段值全部来自HTML。三个包：HTML明示第1包；第2、3包包号为推断（HTML表头残缺，按各包中标供应商金额与对应评审排序表第1名完全一致对应：兴先道5.96万=包2、恒御4万=包3），已在bidders逐包标注。品目列空且主要标的信息表无品目名称列，category=null；明细表无单价/数量/总价，未推算。包1、2、3金额403980+59600+40000=503580元与总中标金额￥50.358万元一致。",
+  "project": {
+    "buyer": "天津市数据发展中心机关",
+    "project_name": "天津市东西部协作和支援合作信息系统改造上云项目",
+    "total_amount": 503580.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津市东润系统工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "天津市兴先道科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "天津恒御科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "应用软件适配和基础软件服务等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "天津市东西部协作和支援合作信息系统改造上云项目等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "项目商用密码应用安全性评估服务等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津市东润系统工程有限公司",
+      "role": "winner",
+      "total_score": 98.7999,
+      "rank": 1,
+      "amount": 403980.0
+    },
+    {
+      "package_no": "1",
+      "name": "易霖科技（天津）有限公司",
+      "role": "participant",
+      "total_score": 84.0,
+      "rank": 2,
+      "amount": 355500.0
+    },
+    {
+      "package_no": "1",
+      "name": "中保网盾（天津）科技有限公司",
+      "role": "participant",
+      "total_score": 83.1475,
+      "rank": 3,
+      "amount": 406400.0
+    },
+    {
+      "package_no": "1",
+      "name": "分识（天津）科技有限公司",
+      "role": "participant",
+      "total_score": 80.447,
+      "rank": 4,
+      "amount": 406426.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津市兴先道科技有限公司",
+      "role": "winner",
+      "total_score": 96.6993,
+      "rank": 1,
+      "amount": 59600.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津恒御科技有限公司",
+      "role": "participant",
+      "total_score": 96.6662,
+      "rank": 2,
+      "amount": 59800.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津顺时信息技术有限公司",
+      "role": "participant",
+      "total_score": 96.4,
+      "rank": 3,
+      "amount": 59000.0
+    },
+    {
+      "package_no": "2",
+      "name": "宏信旺（天津）科技发展有限公司",
+      "role": "participant",
+      "total_score": 85.916,
+      "rank": 4,
+      "amount": 59500.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津恒御科技有限公司",
+      "role": "winner",
+      "total_score": 99.4,
+      "rank": 1,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津云安科技发展有限公司",
+      "role": "participant",
+      "total_score": 93.6966,
+      "rank": 2,
+      "amount": 58000.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科星云科技有限公司",
+      "role": "participant",
+      "total_score": 92.2,
+      "rank": 3,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津鲲奥世达科技有限公司",
+      "role": "participant",
+      "total_score": 90.4074,
+      "rank": 4,
+      "amount": 54000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

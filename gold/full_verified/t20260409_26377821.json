@@ -1,0 +1,254 @@
+{
+  "announcement_id": "t20260409_26377821",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（卫宁健康科技集团股份有限公司）.pdf",
+  "note": "合同包1；14条明细取自附件报价明细（HTML主要标的信息表金额列为空，仅提供品目名称'行业应用软件开发服务'与标的名称）；附件中14条品目号均为1-1，item_no 取附件序号1-14；14条总价之和=4,799,577元，与总中标金额4,799,577.00元一致；数量原文'1 (元)'，unit 照抄为'元'。",
+  "project": {
+    "buyer": "佛山市卫生健康局",
+    "project_name": "佛山市卫生健康局政务信息系统国产化改造项目（一期）-软件开发",
+    "total_amount": 4799577.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市卫生健康局政务信息系统国产化改造项目（一期）-软件开发",
+        "winner": "卫宁健康科技集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "行业应用软件开发服务",
+      "item_name": "一体化管理配置系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "行业应用软件开发服务",
+      "item_name": "社区医院管理信息系统（社区HIS）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 1650000.0,
+      "total_price": 1650000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "行业应用软件开发服务",
+      "item_name": "社区医院公共卫生信息系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 680000.0,
+      "total_price": 680000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "行业应用软件开发服务",
+      "item_name": "档案质控管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "行业应用软件开发服务",
+      "item_name": "家庭医生系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 420000.0,
+      "total_price": 420000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "行业应用软件开发服务",
+      "item_name": "家庭病床系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "行业应用软件开发服务",
+      "item_name": "医防融合管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "行业应用软件开发服务",
+      "item_name": "人工智能辅助系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 355000.0,
+      "total_price": 355000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "行业应用软件开发服务",
+      "item_name": "领导驾驶舱系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "行业应用软件开发服务",
+      "item_name": "接口",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 600000.0,
+      "total_price": 600000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "行业应用软件开发服务",
+      "item_name": "历史数据迁移",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 89000.0,
+      "total_price": 89000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "行业应用软件开发服务",
+      "item_name": "应急系统与部署方案",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "行业应用软件开发服务",
+      "item_name": "其他支撑以上系统及工具的系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "行业应用软件开发服务",
+      "item_name": "配合完成第三方评估评价",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "元",
+      "unit_price": 105577.0,
+      "total_price": 105577.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "卫宁健康科技集团股份有限公司",
+      "role": "winner",
+      "total_score": 87.08,
+      "rank": 1,
+      "amount": 4799577.0
+    },
+    {
+      "package_no": "1",
+      "name": "创业慧康科技股份有限公司",
+      "role": "participant",
+      "total_score": 85.97,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通数字科技有限公司广东省分公司",
+      "role": "participant",
+      "total_score": 76.43,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 64.6,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司佛山分公司",
+      "role": "participant",
+      "total_score": 56.3,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州德航信息科技有限公司",
+      "role": "participant",
+      "total_score": 29.63,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市睿朗信息科技有限公司",
+      "role": "participant",
+      "total_score": 29.29,
+      "rank": 7,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

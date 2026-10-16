@@ -1,0 +1,314 @@
+{
+  "announcement_id": "t20260310_26251409",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "ERR_PAGE 类缺失：唯一附件「合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf」被标记『跳过未知类型(html)』解析失败，分项报价金额不可得，19 条明细的金额/数量/单价全部 null。公告概要「品目」列为空，category 按口径填 null；明细表（表格2）各行「品目名称」列给的是『软件运营服务』，因概要列为空未采用，仅备查。表格2 共 19 行明细、品目号均为 1-1，按最细粒度逐行输出，item_name 取「服务范围」列原文（「采购标的」列仅 3 个粗分类：网络安全运营服务/数据处理运营服务/业务管理运营服务，未单独成字段）。金额自查：中标金额 11,030,000 元 = 总中标金额 ￥1103.000000 万元，一致；表格3 代理服务费 6.54 万元非采购金额，未填入。bidders 7 家来自表格4 综合评分表，total_score 取综合得分、rank 取「得分排名」，中国移动为中标人。。复核修正：按新口径G1，概要品目列为空，category 逐行取标的明细表（表格2）「品目名称」列原值「软件运营服务」（19行逐行核对，写法一致）。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "广东省应急管理厅",
+    "project_name": "省应急管理厅政务信息系统运营（2026年）项目",
+    "total_amount": 11030000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省应急管理厅政务信息系统运营（2026年）项目",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据安全运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "安全应急演练",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "网络安全监控",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "网络安全规划",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "省应急管理厅智慧森林火灾防治监测预警系统数据运营",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "普查数据共享运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据标签体系运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "知识图谱运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据血缘视图运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据空间关联运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据质量管控服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "数据接入更新服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "省应急管理厅智慧森林火灾防治监测预警系统处理运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "广东省应急预案和应急资源管理系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "省数字政府省域治理“一网统管”-风险防控与应急指挥专题系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "广东省自然灾害应急指挥系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "广东省智慧大应急综合应用平台运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "电子政务外网信息技术应用创新OA系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运营服务",
+      "item_name": "广东省应急管理干部网络培训平台运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 85.56,
+      "rank": 1,
+      "amount": 11030000.0
+    },
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "participant",
+      "total_score": 78.01,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 70.7,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州阳光耐特电子有限公司",
+      "role": "participant",
+      "total_score": 44.59,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州腾方科技有限公司",
+      "role": "participant",
+      "total_score": 40.19,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "华鑫技术有限公司",
+      "role": "participant",
+      "total_score": 30.87,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京南方高科科技有限公司",
+      "role": "participant",
+      "total_score": 25.22,
+      "rank": 7,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

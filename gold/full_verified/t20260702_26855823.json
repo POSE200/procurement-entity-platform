@@ -1,0 +1,141 @@
+{
+  "announcement_id": "t20260702_26855823",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "4个采购包各1名中标人：包1中电信数智科技（数字底座）20800000元、包2联通数字科技（数字工程）9114081.40元、包3厦门海迈科技（数字住房）5669237.42元、包4北京数字政通科技(联合体成员：东华软件股份公司、建设综合勘察研究设计院有限公司)（数字城乡）11850100元。4包金额之和=47433418.82元，与总中标金额47433419.00元（4743.3419万）差0.18元，疑公告万元换算舍入，按口径不改原文并在此声明。品目取标的信息表“品目编号及品目名称”列（行业应用软件开发服务），概要品目空。每包1条标的，金额取该表金额(元)列，单位列原文明示“项”，quantity原文未给为null。表格10/11列示中电云计算技术有限公司、陕西省大数据集团有限公司均“不通过符合性审查”，原文（含附件全文）均未标明所属采购包，package_no=null系口径终点值（复核确认无更多出处可查）。得分排名列原文为空，rank一律null；total_score取评审总得分。",
+  "project": {
+    "buyer": "海南省住房和城乡建设厅",
+    "project_name": "海南省城市运行管理服务平台（二期）",
+    "total_amount": 47433419.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "海南省城市运行管理服务平台（二期）项目建设-数字底座",
+        "winner": "中电信数智科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "海南省城市运行管理服务平台（二期）项目建设-数字工程",
+        "winner": "联通数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "海南省城市运行管理服务平台（二期）项目建设-数字住房",
+        "winner": "厦门海迈科技股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "海南省城市运行管理服务平台（二期）项目建设-数字城乡",
+        "winner": "北京数字政通科技股份有限公司(联合体成员：东华软件股份公司、建设综合勘察研究设计院有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "海南省城市运行管理服务平台（二期）项目建设-数字底座",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 20800000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "海南省城市运行管理服务平台（二期）项目建设-数字工程",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 9114081.4
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "海南省城市运行管理服务平台（二期）项目建设-数字住房",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 5669237.42
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "海南省城市运行管理服务平台（二期）项目建设-数字城乡",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 11850100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司",
+      "role": "winner",
+      "total_score": 92.74,
+      "rank": null,
+      "amount": 20800000.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通数字科技有限公司",
+      "role": "winner",
+      "total_score": 93.19,
+      "rank": null,
+      "amount": 9114081.4
+    },
+    {
+      "package_no": "3",
+      "name": "厦门海迈科技股份有限公司",
+      "role": "winner",
+      "total_score": 90.71,
+      "rank": null,
+      "amount": 5669237.42
+    },
+    {
+      "package_no": "4",
+      "name": "北京数字政通科技股份有限公司(联合体成员：东华软件股份公司、建设综合勘察研究设计院有限公司)",
+      "role": "winner",
+      "total_score": 95.68,
+      "rank": null,
+      "amount": 11850100.0
+    },
+    {
+      "package_no": null,
+      "name": "中电云计算技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "陕西省大数据集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "announcement_id": "t20260403_26359364",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（数字广东网络建设有限公司）.pdf",
+  "note": "单合同包（采购包1）。品目概要列为空，category 取 HTML 标的信息表品目名称列「其他专业技术服务」。6条明细来自报价明细附件，单价×数量=总价均成立，6条合计6,986,000元=总中标金额￥698.6万，数学一致。中标人有分包意向（广州城市信息研究所、广州市阿尔法软件为分包意向供应商，非投标主体，不计入bidders）。附件序与HTML标的信息表顺序略有差异，items 按附件顺序。声明函/分包意向书为已OCR扫描件但仅含资质佐证信息，无标的物明细，无需OCR待补。品牌/规格型号原文未给，null。",
+  "project": {
+    "buyer": "广东省国土资源技术中心（广东省基础地理信息中心）",
+    "project_name": "广东省自然资源和不动产登记业务数据技术检查与整理服务（2026年度）",
+    "total_amount": 6986000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省自然资源和不动产登记业务数据技术检查与整理服务（2026年度）",
+        "winner": "数字广东网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他专业技术服务",
+      "item_name": "业务数据技术检查/数据质量监测监管",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 455000.0,
+      "total_price": 455000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他专业技术服务",
+      "item_name": "业务数据技术检查/数据检查及服务支撑",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 840000.0,
+      "total_price": 840000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他专业技术服务",
+      "item_name": "业务数据技术检查/数据协同共享及治理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1384000.0,
+      "total_price": 1384000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他专业技术服务",
+      "item_name": "业务数据整理服务/专项数据检查入库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 525000.0,
+      "total_price": 525000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他专业技术服务",
+      "item_name": "业务数据整理服务/数据整理分析服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2882000.0,
+      "total_price": 2882000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他专业技术服务",
+      "item_name": "省级地籍数据建库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 94.39,
+      "rank": 1,
+      "amount": 6986000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东普蓝地理信息服务有限公司",
+      "role": "participant",
+      "total_score": 89.07,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东绘宇智能科技有限公司",
+      "role": "participant",
+      "total_score": 81.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市中地软件工程有限公司",
+      "role": "participant",
+      "total_score": 77.53,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 63.71,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

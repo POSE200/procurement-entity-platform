@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260610_26721304",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单一来源采购：公告标题写'（1包）'但公告正文及采购文件均分3个包别（移动包/电信包/联通包），每包仅一家受邀供应商，无参与者、无评分排名（rank/score均null）；三包报价1,399,800+399,900+199,500=1,999,200与总中标金额￥199.92万一致；服务类标的仅有各包报价总额，按规范不填quantity=1/unit_price=总价（quantity、unit_price留null）；品目无出处（概要品目列空、标的信息表无品目列），category全null。复核：全部字段与原文一致；采购文件包表虽列各包'数量1/单位项/最高限价'，仍按规范保守处理留null。",
+  "project": {
+    "buyer": "安徽省灾害预警和农业气象信息中心",
+    "project_name": "安徽省突发事件预警短信发布信息传输服务项目（1包）",
+    "total_amount": 1999200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "移动包",
+        "winner": "中国移动通信集团安徽有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "电信包",
+        "winner": "中国电信股份有限公司安徽分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "联通包",
+        "winner": "中国联合网络通信有限公司安徽省分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "移动包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1399800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "电信包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 399900.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "联通包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 199500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团安徽有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1399800.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司安徽分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 399900.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司安徽省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 199500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

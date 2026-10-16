@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260407_26369321",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（京信科技股份有限公司）.pdf,合同包2：报价明细附件（中数海量（中山）科技投资有限公司）.pdf,合同包3：报价明细附件（奇安信网神信息技术（北京）股份有限公司）.pdf",
+  "note": "三包项目（合同包1/2/3，表格7合同包号明示），各包分别中标。概要品目列空，category取HTML标的信息表品目名称列（软件运维服务/其他系统集成实施服务/安全运维服务）。各包报价明细附件明确给出单价、数量1(项)、总价，故unit_price非推算；总价之和5,180,000+970,000+3,290,000=9,440,000与总中标金额944万元一致。注意：招标文件预算为9,567,900.00元（采购包1预算5,186,000元），为预算非中标金额。招标文件PDF被'因超长丢弃低密度文件'剔除，仅有docx正文，未见遗漏关键成交信息。rank取自各包评分表得分排名列（原文明示）。",
+  "project": {
+    "buyer": "中山市政务服务和数据管理局",
+    "project_name": "中山市政务大数据中心平台运维服务项目（2026年-2028年）",
+    "total_amount": 9440000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市政务大数据中心运维及数据服务",
+        "winner": "京信科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "市政务大数据中心数据监管服务",
+        "winner": "中数海量（中山）科技投资有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "市政务大数据中心数据安全服务",
+        "winner": "奇安信网神信息技术（北京）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "市政务大数据中心运维及数据服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5180000.0,
+      "total_price": 5180000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "市政务大数据中心数据监管服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 970000.0,
+      "total_price": 970000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "安全运维服务",
+      "item_name": "市政务大数据中心数据安全服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3290000.0,
+      "total_price": 3290000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "京信科技股份有限公司",
+      "role": "winner",
+      "total_score": 94.7,
+      "rank": 1,
+      "amount": 5180000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东铭太信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.41,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "开普数智科技（广东）有限公司",
+      "role": "participant",
+      "total_score": 73.29,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "仪电双杨智能科技（上海）有限公司",
+      "role": "participant",
+      "total_score": 59.75,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中数海量（中山）科技投资有限公司",
+      "role": "winner",
+      "total_score": 85.99,
+      "rank": 1,
+      "amount": 970000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东布恩网络有限公司",
+      "role": "participant",
+      "total_score": 43.71,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东宽广科技有限公司",
+      "role": "participant",
+      "total_score": 38.77,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "奇安信网神信息技术（北京）股份有限公司",
+      "role": "winner",
+      "total_score": 90.74,
+      "rank": 1,
+      "amount": 3290000.0
+    },
+    {
+      "package_no": "3",
+      "name": "合肥霍因科技有限公司",
+      "role": "participant",
+      "total_score": 67.71,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 57.64,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

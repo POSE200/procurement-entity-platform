@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260710_26912384",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:发售稿 招标文件-武汉大学基础学科拔尖学生培养平台设备更新项目(2025)-便携式无线脑电图系统、光学运动捕捉系统等设备.pdf,本国产品.pdf",
+  "note": "公告中标信息表只给'货物单价'（第一包4,828,000元/1套，第三包447,500元/2套），未明示包中标金额；第三包包金额按单价×数量推算为895,000元（唯一互推，note声明），4,828,000+895,000=5,723,000元=总中标金额572.3万元，勾稽一致。招标文件显示项目共3包，本公告仅第一包、第三包有中标信息，第二包（便携式无线脑电图系统，预算280万/最高限价263.2万）无中标信息，packages只列包1、包3。品目取概要品目列完整路径'货物/设备/仪器仪表/教学仪器'。brand/model带'等'字（'聆动通用等'/'LDT01等'/'X5便携式彩色多普勒超声诊断系统等'），照抄原文。本国产品.pdf为OCR件：'湖出全维'按'湖北全维'、'LDTO1'按'LDT01'修正。需视觉核验：第三包金额推算（若该包中标金额另有明示值则以原页为准）；招标文件附件仅前30页，第二包未中标原因不可见。",
+  "project": {
+    "buyer": "武汉大学",
+    "project_name": "武汉大学基础学科拔尖学生培养平台设备更新项目(2025)-便携式无线脑电图系统、光学运动捕捉系统等设备",
+    "total_amount": 5723000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "多臂协作医疗机器人集成系统",
+        "winner": "湖北全维数字技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "无线超声",
+        "winner": "湖北延为信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "多臂协作医疗机器人集成系统",
+      "brand": "聆动通用等",
+      "model": "LDT01等",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4828000.0,
+      "total_price": 4828000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "无线超声",
+      "brand": "开立",
+      "model": "X5便携式彩色多普勒超声诊断系统等",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 447500.0,
+      "total_price": 895000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖北全维数字技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 4828000.0
+    },
+    {
+      "package_no": "3",
+      "name": "湖北延为信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 895000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

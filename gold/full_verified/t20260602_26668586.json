@@ -1,0 +1,346 @@
+{
+  "announcement_id": "t20260602_26668586",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "HTML主要标的信息表的品目号与『品目编号及品目名称』列均为空，公告概要品目列也空→category=null，item_no=null；15条明细之和9,200,000元=中标金额=总中标金额920万元自洽；得分排名/推荐排名列全空→rank=null；表格5标包名称及部分供应商名含乱码占位（如『?东海明威智能科技有限公司』首字残缺、『聊城市第四??医院』），原样保留首字段中的『?』，未按常识补全；未成交原因列（综合评审得分较低/符合性审查未通过）仅为文字，不计分。附件中参数说明docx因超长被丢弃，标的信息以HTML表为准。；视觉核验：得分统计表/资格审查表.pdf渲染确认均为中标人卫宁健康单家响应文件，HTML源文件中『?东』『?东海明威』两处乱码为数据源固有、无扫描件可对照，维持原样保留",
+  "project": {
+    "buyer": "聊城市第四人民医院",
+    "project_name": "聊城市第四人民医院信息化提升项目",
+    "total_amount": 9200000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "卫宁健康科技集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "HIS 系统",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 720000.0,
+      "total_price": 720000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "门急诊业务",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 560000.0,
+      "total_price": 560000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "业务应用系统",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 2160000.0,
+      "total_price": 2160000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "知识库",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 350000.0,
+      "total_price": 350000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "AI智能体",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "患者服务",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "病案管理",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "医疗管理",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 350000.0,
+      "total_price": 350000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "药事管理",
+      "brand": "四川美康",
+      "model": "美康智慧药学服务平台V2.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 600000.0,
+      "total_price": 600000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "综合管理",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 660000.0,
+      "total_price": 660000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "HRP管理系统",
+      "brand": "今杏林",
+      "model": "今杏林医院经营管理平台（HRP）软件V5.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 780000.0,
+      "total_price": 780000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "集成平台",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 650000.0,
+      "total_price": 650000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据中心及数据应用",
+      "brand": "卫宁健康",
+      "model": "卫宁健康医院管理系统V6.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1300000.0,
+      "total_price": 1300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "各类设备及业务接口",
+      "brand": "卫宁健康",
+      "model": "卫宁健康定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "评级指导",
+      "brand": "卫宁健康",
+      "model": "卫宁健康定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "卫宁健康科技集团股份有限公司",
+      "role": "winner",
+      "total_score": 76.94,
+      "rank": null,
+      "amount": 9200000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东新征程信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.23,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山西智杰软件工程有限公司",
+      "role": "participant",
+      "total_score": 74.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": 73.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海泽信软件有限公司",
+      "role": "participant",
+      "total_score": 73.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东华医为科技有限公司",
+      "role": "participant",
+      "total_score": 72.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都信通网易医疗科技发展有限公司",
+      "role": "participant",
+      "total_score": 69.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 68.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城盈辉信息技术有限公司",
+      "role": "participant",
+      "total_score": 65.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城市佳奥网络技术有限公司",
+      "role": "participant",
+      "total_score": 59.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南浙联信息技术有限公司",
+      "role": "participant",
+      "total_score": 59.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "智联信通科技股份有限公司",
+      "role": "participant",
+      "total_score": 58.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京嘉和美康信息技术有限公司",
+      "role": "participant",
+      "total_score": 57.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东德润佰达信息科技有限公司",
+      "role": "participant",
+      "total_score": 56.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "沈阳云数软件有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团?东有限公司聊城分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "?东海明威智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

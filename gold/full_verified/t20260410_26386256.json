@@ -1,0 +1,225 @@
+{
+  "announcement_id": "t20260410_26386256",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "8个标包（B/E/H/K/L/M/N/P）全部中标公告，HTML标的信息表品牌/规格型号/数量/单价均写'详见附件'但该公告无附件包，故这些字段一律null；品目列空且无标的信息表品目名称列，category=null。各item只有名称与包金额，无单价×数量线索，不填quantity/unit_price。8包金额之和119.44万元=总中标金额，一致。无投标（未中标）供应商名单，bidders仅中标方8条，rank/total_score原文未给均为null。无采购包名称表，package_name取各包'名称'（数据库续订项目名）。复核：8包中标人/金额与表格1逐项核对一致，之和=总中标金额，通过。",
+  "project": {
+    "buyer": "鲁东大学",
+    "project_name": "2026年数字资源保障体系建设项目",
+    "total_amount": 1194400.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": "2026年续订“CNKI系列数据库”项目",
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "E",
+        "package_name": "2026年续订“INFOBANK高校财经数据库”项目",
+        "winner": "北京精讯云顿数据软件有限公司"
+      },
+      {
+        "package_no": "H",
+        "package_name": "2026年续订“VIP Exam网络考试学习资源库”项目",
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "K",
+        "package_name": "2026年续订“读秀/百链”平台（含移动图书馆）项目",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "L",
+        "package_name": "2026年续订“国道外文特色专题数据库”项目",
+        "winner": "北京中加国道科技有限责任公司"
+      },
+      {
+        "package_no": "M",
+        "package_name": "2026年续订“人大复印报刊资料数据库”项目",
+        "winner": "中国人民大学书报资料中心"
+      },
+      {
+        "package_no": "N",
+        "package_name": "2026年移动数字阅读系统+AI数据更新项目",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "P",
+        "package_name": "2026年续订“中文科技期刊全文数据库”项目",
+        "winner": "重庆维普智图数据科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“CNKI系列数据库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 704900.0
+    },
+    {
+      "package_no": "E",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“INFOBANK高校财经数据库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 13600.0
+    },
+    {
+      "package_no": "H",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“VIP Exam网络考试学习资源库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "K",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“读秀/百链”平台（含移动图书馆）项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 349900.0
+    },
+    {
+      "package_no": "L",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“国道外文特色专题数据库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "M",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“人大复印报刊资料数据库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "N",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年移动数字阅读系统+AI数据更新项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "P",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年续订“中文科技期刊全文数据库”项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 26000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 704900.0
+    },
+    {
+      "package_no": "E",
+      "name": "北京精讯云顿数据软件有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 13600.0
+    },
+    {
+      "package_no": "H",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 20000.0
+    },
+    {
+      "package_no": "K",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 349900.0
+    },
+    {
+      "package_no": "L",
+      "name": "北京中加国道科技有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 10000.0
+    },
+    {
+      "package_no": "M",
+      "name": "中国人民大学书报资料中心",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "N",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 30000.0
+    },
+    {
+      "package_no": "P",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 26000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

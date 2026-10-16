@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27071783",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-上海泰宇信息技术股份有限公司).pdf",
+  "note": "package_no=1：公告标题'采购包1'及附件'包(1)_开标（报价）一览表.pdf'。单价399000元/数量1项/总价399000元取自成交供应商报价明细表，与中标金额一致。疑点：公示附件'投标（响应）报价明细表.pdf'（OCR）显示单价/响应报价399987元、最高限价400000元，与第1轮报价明细表399000元不一致（疑为多轮报价之差），需视觉核验；本gold按与中标金额一致的399000元。复核修正：两处价格在原文中均清晰可辨（投标文件2026-08-03报价399987元，磋商第1轮报价399000元），差异系多轮报价所致，非OCR疑义；中标金额399,000.00元与第1轮一致，gold取值无误，无需视觉核验。品目取自HTML标的信息表'品目编号及品目名称'列。得分排名列空，rank=null。附件'技术要求详细参数'含建设内容概述但未给品牌/型号/分项价格，无更细分项。",
+  "project": {
+    "buyer": "济南市槐荫区档案馆",
+    "project_name": "济南市槐荫区档案馆数字档案馆建设（一期）-档案管理提升项目",
+    "total_amount": 399000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "上海泰宇信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "档案管理服务",
+      "item_name": "济南市槐荫区档案馆数字档案馆建设（一期）-档案管理提升项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 399000.0,
+      "total_price": 399000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海泰宇信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 92.62,
+      "rank": null,
+      "amount": 399000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东政通科技发展有限公司",
+      "role": "participant",
+      "total_score": 77.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南联盟信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.01,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

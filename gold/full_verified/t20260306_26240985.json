@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260306_26240985",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（合同包1）；概要品目列空，品目取HTML标的信息表『品目名称』列（电表类计量标准器具）；2条分项单价×数量=总价自洽，合计1,491,480元=总中标金额；报价明细附件为跳过未知类型不可见，但HTML标的表已给出完整分项明细，无OCR待补（中小企业声明函为OCR图片，仅含制造商信息，与标的表品牌一致：深圳耘联）。",
+  "project": {
+    "buyer": "广州市公用事业技师学院",
+    "project_name": "市公用事业技师学院宿舍区智能电表建设项目",
+    "total_amount": 1491480.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市公用事业技师学院宿舍区智能电表建设项目",
+        "winner": "广州米阿信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "电表类计量标准器具",
+      "item_name": "智能电表",
+      "brand": "深圳耘联",
+      "model": "DDZY1558",
+      "quantity": 3532,
+      "unit": "个",
+      "unit_price": 390.0,
+      "total_price": 1377480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "电表类计量标准器具",
+      "item_name": "电表数据采集器",
+      "brand": "深圳耘联",
+      "model": "YLDC-E02W01",
+      "quantity": 60,
+      "unit": "个",
+      "unit_price": 1900.0,
+      "total_price": 114000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州米阿信息科技有限公司",
+      "role": "winner",
+      "total_score": 85.63,
+      "rank": 1,
+      "amount": 1491480.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏森维电子有限公司",
+      "role": "participant",
+      "total_score": 85.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市霖梵电子科技有限公司",
+      "role": "participant",
+      "total_score": 54.14,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇韬信息科技有限公司",
+      "role": "participant",
+      "total_score": 39.62,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

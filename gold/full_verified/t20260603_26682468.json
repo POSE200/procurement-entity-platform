@@ -1,0 +1,246 @@
+{
+  "announcement_id": "t20260603_26682468",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "五个采购包（公告标题明示「采购包1、2、3、4、5」，标的信息表品目号1-1/2-1/3-1/4-1/5-1印证）。五张中标信息表（表格1-5）与五张评分表（表格11-15）均未标注包号，按表序与各包中标人评审总得分=评分表综合得分一一对应关系归属包1-5（如江苏每教90.64分对应包1），属推断需视觉核验。各包中标金额797,737.00+553,266.00+555,800.00+350,100.00+118,800.00=2,375,703.00元，与总中标金额￥237.570300万元完全一致。概要品目列为空，category取标的信息表品目名称列「高等教育服务」。标的信息表无金额/数量列，各包只有包级总金额、无分项金额，故全部条目quantity/unit/unit_price/total_price=null（禁止填quantity=1/单价=总价）。评分表得分排名、推荐排名列全空，rank一律null。附件磋商文件被信息密度筛选截断（保留68335/222297字符）且跳过15个docx，均无分项报价明细。复核：五包中标表评审总得分与五张评分表第一名综合得分一一对应（90.64/88.10/88.52/87.95/88.50），包序归属成立；五包金额之和2,375,703元与总额完全一致；items与表格6-10逐字段一致；确认verified。",
+  "project": {
+    "buyer": "泰山学院",
+    "project_name": "泰山学院2026年智慧课程建设服务采购项目",
+    "total_amount": 2375703.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1",
+        "winner": "江苏每教科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购包2",
+        "winner": "北京慕华信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "采购包3",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "采购包4",
+        "winner": "上海智慧知到网络科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "采购包5",
+        "winner": "北京龙远鼎晟科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "高等教育服务",
+      "item_name": "在线课程资源库建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "高等教育服务",
+      "item_name": "智慧课程及专业图谱",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "高等教育服务",
+      "item_name": "智慧课程及专业图谱",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "高等教育服务",
+      "item_name": "智慧课程及专业图谱",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "高等教育服务",
+      "item_name": "智慧课程",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏每教科技有限公司",
+      "role": "winner",
+      "total_score": 90.64,
+      "rank": null,
+      "amount": 797737.0
+    },
+    {
+      "package_no": "1",
+      "name": "高教创研（山东）教育产业发展有限公司",
+      "role": "participant",
+      "total_score": 78.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京智教云联信息科技有限公司",
+      "role": "participant",
+      "total_score": 78.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京慕华信息科技有限公司",
+      "role": "winner",
+      "total_score": 88.1,
+      "rank": null,
+      "amount": 553266.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 84.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛糖果时光影音科技有限公司",
+      "role": "participant",
+      "total_score": 79.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东漫星律动文化传媒有限公司",
+      "role": "participant",
+      "total_score": 77.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 88.52,
+      "rank": null,
+      "amount": 555800.0
+    },
+    {
+      "package_no": "3",
+      "name": "上海广航教育科技有限公司",
+      "role": "participant",
+      "total_score": 81.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南荷鲤文化传媒有限公司",
+      "role": "participant",
+      "total_score": 79.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "上海智慧知到网络科技有限公司",
+      "role": "winner",
+      "total_score": 87.95,
+      "rank": null,
+      "amount": 350100.0
+    },
+    {
+      "package_no": "4",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 84.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东讯博信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东道圣信息技术有限责任公司",
+      "role": "participant",
+      "total_score": 76.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "北京龙远鼎晟科技有限公司",
+      "role": "winner",
+      "total_score": 88.5,
+      "rank": null,
+      "amount": 118800.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京知龙教育顾问有限公司",
+      "role": "participant",
+      "total_score": 80.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "武汉门三教育科技有限公司",
+      "role": "participant",
+      "total_score": 78.61,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

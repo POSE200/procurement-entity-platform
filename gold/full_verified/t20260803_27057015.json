@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260803_27057015",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf,山东省政府采购评审劳务报酬支付表.pdf",
+  "note": "本篇可见材料极薄：HTML无供应商表、无标的信息表，公告附件中的'附件'压缩容器被跳过（中标公告主体/报价明细不可见）。winner=苏州阅微基因技术有限公司系由中小企业声明函盖章主体推定（该函制造商亦为苏州阅微基因技术有限公司），需视觉核验；中标成交金额57.60万元来自HTML总中标金额与评审劳务报酬支付表（两处一致）。items仅一条可确认的标的名称'Y染色体建库试剂盒'（声明函所列标的），数量/单价/总价均不可见置null——OCR待补：附件（压缩容器，页数未知）疑似含报价明细。品目两处均为空，category=null。package_no='1'由劳务支付表'分包数量1个'推断，原文未明示包号。视觉核验：①中小企业声明函（投标文件第208页扫描件，250DPI渲染看图）确认——函内采购单位'菏泽市公安局'、项目名称、标的'Y染色体建库试剂盒'与本公告一致，制造商为苏州阅微基因技术有限公司，落款'企业名称（盖章）：苏州阅微基因技术有限公司'处盖有该公司红色圆形公章（中央五角星、下沿编码913205…），日期2026年7月29日，winner 实证成立；②被跳过的压缩容器'附件'经检查实为标准ZIP（deflate，7-Zip本机未装，改用 Python zipfile 成功解出），内容仅'山东省政府采购评审劳务报酬支付表.pdf'与'中小企业声明函.pdf'两个文件（与 _unpacked_附件 解压结果一致），不含中标公告或报价明细，故 items 维持声明函所列'Y染色体建库试剂盒'一条，数量/单价/总价保持 null；③劳务报酬支付表250DPI看图核对：项目名称、采购人菏泽市公安局、代理机构汇合项目管理集团有限公司、中标成交金额57.60万元、分包数量1个均与草稿一致（该表未载明中标供应商名称，winner 仅以声明函盖章主体实证）。",
+  "project": {
+    "buyer": "菏泽市公安局",
+    "project_name": "2026年菏泽市公安局Y数据库建库用耗材采购",
+    "total_amount": 576000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "苏州阅微基因技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "Y染色体建库试剂盒",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "苏州阅微基因技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 576000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

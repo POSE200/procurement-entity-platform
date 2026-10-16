@@ -1,0 +1,182 @@
+{
+  "announcement_id": "t20260807_27097472",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf,中小企业声明函.pdf",
+  "note": "单包（附件名「包(1)_」及专家报酬支付表「分包数量1个」明示包号1）。强制检查已完成：包(1)_开标（报价）一览表.pdf与包(1)_投标（响应）报价明细表.pdf均解析成功但OCR仅剩双写表头、无数值行，明细不可得；实际明细取自附件「分项报价表.pdf」10行。分项报价表合计列空，各行total_price=单价×数量唯一互推（note声明）；十项合计606680元与中标金额604999元相差1681元（0.28%），疑似磋商最后报价低于分项报价合计（开标一览表OCR无数值无法确认原因），未改原文。品目概要列空，category取HTML标的信息表品目名称列「其他信息化设备」，适用于全部10条细分项。分项报价表品牌列空，brand取中小企业声明函明示的制造商「北京新大陆时代科技有限公司」（该函逐项列出10种产品均为其制造）；unit原文未给（仅「设备数」），填null。得分排名列空，rank一律null（禁止中标即第1）。复核：10行明细的规格型号/设备数/单价已逐项与分项报价表文本核对；LingY-600单价「16300 0」OCR断行经十项求和验证读作163000成立（若读16300则总额差14.7万，不可能）；座椅数量17文本清晰。无未决视觉核验疑点。",
+  "project": {
+    "buyer": "聊城幼儿师范学校",
+    "project_name": "聊城幼儿师范学校物联网实训室采购项目",
+    "total_amount": 604999.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东诚远致信智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他信息化设备",
+      "item_name": "物联网实验平台套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWLab-PRO",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 3800.0,
+      "total_price": 57000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他信息化设备",
+      "item_name": "执行器件系列套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWlab-peripheral",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 700.0,
+      "total_price": 10500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他信息化设备",
+      "item_name": "传感器系列套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWlab-sensor",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 5000.0,
+      "total_price": 75000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他信息化设备",
+      "item_name": "通讯系列套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWlab-telecomm",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 3700.0,
+      "total_price": 55500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他信息化设备",
+      "item_name": "单片机系列套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWlab-mcs",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 3100.0,
+      "total_price": 46500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他信息化设备",
+      "item_name": "嵌入式开发套件",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NEWLab-embedded",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 3550.0,
+      "total_price": 53250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他信息化设备",
+      "item_name": "物联网安装调试员实训平台",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "NLE-ISA 850",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 60000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他信息化设备",
+      "item_name": "智联网综合实践平台",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "LingY-600",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 163000.0,
+      "total_price": 163000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他信息化设备",
+      "item_name": "岗位供需对接平台",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "LingGX-810",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 10630.0,
+      "total_price": 10630.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他信息化设备",
+      "item_name": "座椅",
+      "brand": "北京新大陆时代科技有限公司",
+      "model": "定制",
+      "quantity": 17,
+      "unit": null,
+      "unit_price": 900.0,
+      "total_price": 15300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东诚远致信智能科技有限公司",
+      "role": "winner",
+      "total_score": 93.9,
+      "rank": null,
+      "amount": 604999.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东盛为实验设备有限公司",
+      "role": "participant",
+      "total_score": 91.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东玖润智能科技有限公司",
+      "role": "participant",
+      "total_score": 90.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东高致信息技术有限公司",
+      "role": "participant",
+      "total_score": 88.87,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

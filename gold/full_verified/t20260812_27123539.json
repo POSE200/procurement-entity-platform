@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260812_27123539",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:评审报告.pdf",
+  "note": "品目取 HTML 主要标的信息表品目名称列『急救和生命支持设备』（概要品目列为空）。采购包号取标题『采购包1』及评审报告『采购包号：1』。bidders 5 家：3 家过符合性审查（含中标人），2 家（惠爱山东健康管理有限公司、河北增仁医疗科技有限公司）资格性审查未通过，得分/金额均 null。rank：辉悦=2、瑞启=3 来自评审报告『第二/第三成交候选人』明示；中标人原文仅写『成交人』未写『第一』，按 G3 禁止推定，rank=null（复核已确认：评审报告'六、评审结果'表完整可见，无'第一成交候选人'表述）。辉悦/瑞启 amount 取评审报告最终报价 280000/336000（原文含全角逗号『280，000.00』）。数学自查：477000×1=477000=总中标金额￥47.700000万元，一致。评审报告 OCR 个别字残（陈秀/韩永运）不影响数值字段。",
+  "project": {
+    "buyer": "北京中医药大学东方医院枣庄医院(枣庄市中医医院)",
+    "project_name": "北京中医药大学东方医院枣庄医院（枣庄市中医医院）西院区闭合负压引流系统采购项目",
+    "total_amount": 477000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东京威天下贸易有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "急救和生命支持设备",
+      "item_name": "北京中医药大学东方医院枣庄医院（枣庄市中医医院）西院区闭合负压引流系统采购项目",
+      "brand": "北京常欣",
+      "model": "CXICO01Npro",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 477000.0,
+      "total_price": 477000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东京威天下贸易有限公司",
+      "role": "winner",
+      "total_score": 78.61,
+      "rank": null,
+      "amount": 477000.0
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄市辉悦医疗信息咨询有限公司",
+      "role": "participant",
+      "total_score": 75.0,
+      "rank": 2,
+      "amount": 280000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南瑞启康复医疗有限公司",
+      "role": "participant",
+      "total_score": 74.67,
+      "rank": 3,
+      "amount": 336000.0
+    },
+    {
+      "package_no": "1",
+      "name": "惠爱山东健康管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河北增仁医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27071703",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-南京超星数图信息技术有限公司).pdf",
+  "note": "无明示包号，package_no=1为推断（公告标题'采购包1'）。品目取自标的信息表'品目编号及品目名称'列（概要品目列空）。rank：得分排名/推荐排名列均空，置null。复核修正：原草稿称'附件无分项报价'有误——附件'报价明细表(第1轮-南京超星数图信息技术有限公司).pdf'明示单价498000元/数量1.0000项/响应报价498000元（最高限价500000元），quantity/unit_price据附件补填；原草稿将服务范围描述文本误填入model字段（原文无规格型号列），model改为null。",
+  "project": {
+    "buyer": "济南工程职业技术学院",
+    "project_name": "智慧课程建设服务项目",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "南京超星数图信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "智慧课程建设服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 498000.0,
+      "total_price": 498000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "南京超星数图信息技术有限公司",
+      "role": "winner",
+      "total_score": 94.67,
+      "rank": null,
+      "amount": 498000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东汇思电子科技有限公司",
+      "role": "participant",
+      "total_score": 82.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东小水电子有限公司",
+      "role": "participant",
+      "total_score": 82.31,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

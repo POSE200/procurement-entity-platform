@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260710_26911588",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "仅1个采购包（附件分项报价表水印含'第1包'字样，包号取1）。标的信息表（表格2/表格3）无品目名称列，品目取公告概要品目列完整路径'货物/设备/电气设备/其他电气设备'，1-5为服务条目套用该路径系层级取值口径所致（需视觉核验原页品目归属）。5条明细HTML与附件分项报价表一致，之和2,080,780元=中标金额208.078万元，单价×数量=总价，数学一致。1-5服务条目数量/单价取附件（1项×260,400）。bidders排名取'得分排名'列（第3、4名'推荐排名'列为'-'，不影响rank）。附件水印噪声较多（如'Vert H iv0 0'按Vertiv读）。",
+  "project": {
+    "buyer": "国家税务总局广东省税务局",
+    "project_name": "广东税务2025年南海数据中心UPS系统扩容项目",
+    "total_amount": 2080780.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国交通信息科技集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "货物/设备/电气设备/其他电气设备",
+      "item_name": "模块化UPS",
+      "brand": "Vertiv",
+      "model": "APM2600(400KVA)",
+      "quantity": 3,
+      "unit": "组",
+      "unit_price": 290000.0,
+      "total_price": 870000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "货物/设备/电气设备/其他电气设备",
+      "item_name": "铅酸蓄电池",
+      "brand": "Vertiv",
+      "model": "UL12V100A",
+      "quantity": 256,
+      "unit": "节",
+      "unit_price": 845.0,
+      "total_price": 216320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "货物/设备/电气设备/其他电气设备",
+      "item_name": "配电柜",
+      "brand": "Vertiv",
+      "model": "EPK",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 130000.0,
+      "total_price": 260000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "货物/设备/电气设备/其他电气设备",
+      "item_name": "线材、辅件",
+      "brand": "国产优质",
+      "model": "ZR-YJVR等",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 474060.0,
+      "total_price": 474060.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "货物/设备/电气设备/其他电气设备",
+      "item_name": "安装、升级调整服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 260400.0,
+      "total_price": 260400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国交通信息科技集团有限公司",
+      "role": "winner",
+      "total_score": 88.25,
+      "rank": 1,
+      "amount": 2080780.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳沣润讯达科技有限公司",
+      "role": "participant",
+      "total_score": 59.73,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市颖锐电子技术有限公司",
+      "role": "participant",
+      "total_score": 56.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东高德智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 49.3,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

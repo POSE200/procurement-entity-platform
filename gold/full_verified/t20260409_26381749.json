@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260409_26381749",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:01包中小企业声明函.png,02包中小企业声明函.png,04包中小企业声明函.png,招标文件发售稿第一包.pdf",
+  "note": "4个采购包（01-04）。包号与中标供应商配对来自声明函附件：01包视频会议运维服务→北京中天瑞合科技有限公司、02包核心机房设备维护服务→中天瑞合、04包校园网设备维护技术服务→北京天川科技发展有限公司；03包网络安全运维服务→北京昆仑联通科技发展股份有限公司（无03包声明函，由排除法及80.16万元≈03包预算80.932万元推定，需视觉核验）。中天瑞合两笔中标金额46.9万/18.7514万对应02包/01包系按采购包预算（47.46万/19.14万）就近配对推断（声明函不含金额），需视觉核验。评审总得分按HTML表格1行内配对：02包87.41分、01包87.8分、03包93.56分、04包92.61分。四包金额之和102+80.16+46.9+18.7514=247.8114万元=总中标金额。HTML标的明细表商品名称列为空，item_name取招标文件采购需求表该包标的名称；数量列明示1（unit原文未给，填null），单价/总价为原文列值非互推。品目概要列与标的信息表均无品目列，category=null。无未中标供应商名单，bidders仅4条winner；原文无排名，rank=null。复核：两处推定实为约束唯一解——03包中标人由排除法强制（4包4行，其余3包均有声明函明示）；金额-包配对由「报价不得超包预算」强制唯一（46.9<47.46仅02包可容、18.7514<19.14仅01包可容），疑点关闭；通过。",
+  "project": {
+    "buyer": "北京市门头沟区教育研修学院",
+    "project_name": "北京市门头沟区教育系统信息化日常运维服务",
+    "total_amount": 2478114.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "视频会议运维服务",
+        "winner": "北京中天瑞合科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "核心机房设备维护服务",
+        "winner": "北京中天瑞合科技有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "网络安全运维服务",
+        "winner": "北京昆仑联通科技发展股份有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "校园网设备维护技术服务",
+        "winner": "北京天川科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "视频会议运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 187514.0,
+      "total_price": 187514.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "核心机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 469000.0,
+      "total_price": 469000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络安全运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 801600.0,
+      "total_price": 801600.0
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "校园网设备维护技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1020000.0,
+      "total_price": 1020000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京中天瑞合科技有限公司",
+      "role": "winner",
+      "total_score": 87.8,
+      "rank": null,
+      "amount": 187514.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京中天瑞合科技有限公司",
+      "role": "winner",
+      "total_score": 87.41,
+      "rank": null,
+      "amount": 469000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京昆仑联通科技发展股份有限公司",
+      "role": "winner",
+      "total_score": 93.56,
+      "rank": null,
+      "amount": 801600.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京天川科技发展有限公司",
+      "role": "winner",
+      "total_score": 92.61,
+      "rank": null,
+      "amount": 1020000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

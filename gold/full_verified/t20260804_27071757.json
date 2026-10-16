@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260804_27071757",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东安克诺斯信息技术有限公司).pdf",
+  "note": "无明示包号，package_no=1为推断（公告标题'采购包1'）。HTML标的信息表只有品牌/规格型号/数量（单位），无单价与金额列，故两条item的unit_price/total_price=null（中标金额75000元为整包总价，无法在两条标的间拆分）。附件无分项报价表。rank列空置null。品目取自标的信息表'品目名称'列（概要品目列空）。复核修正：原草稿称'附件无分项报价表'有误——附件'报价明细表(第1轮-山东安克诺斯信息技术有限公司).pdf'分两节明示：日志审计系统服务器单价44000元×1.0000台（限价45000元）、灾备及数据迁移系统单价31000元×1.0000套（限价35000元），两条合计75000元=中标金额，unit_price/total_price据附件补填。",
+  "project": {
+    "buyer": "山东省慢性病医院（山东省康复中心）",
+    "project_name": "数据安全防护升级项目",
+    "total_amount": 75000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东安克诺斯信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "安全审计设备",
+      "item_name": "日志审计系统服务器",
+      "brand": "奇安信网神",
+      "model": "LAS-DS20",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 44000.0,
+      "total_price": 44000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他计算机软件",
+      "item_name": "灾备及数据迁移系统",
+      "brand": "安克诺斯",
+      "model": "高级虚拟平台",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 31000.0,
+      "total_price": 31000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东安克诺斯信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 75000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东永联智能科技有限公司",
+      "role": "participant",
+      "total_score": 87.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛合众聚力信息技术有限公司",
+      "role": "participant",
+      "total_score": 83.85,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

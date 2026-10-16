@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260508_26523442",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包；品目列空且标的信息表无品目名称列（「服务类」为分节标题不作品目），category=null；服务类标的仅有包级中标金额，故 total_price 取各包中标金额，数量/单价无出处填 null；C包131800+E包219800=351600与中标合计金额一致。",
+  "project": {
+    "buyer": "烟台市公安局",
+    "project_name": "数据中心和图像中心运行维护及网络安全技术服务项目",
+    "total_amount": 351600.0,
+    "packages": [
+      {
+        "package_no": "C",
+        "package_name": "PGIS系统维护及四维图新PPMAP平台维保服务",
+        "winner": "山东兰图地理信息科技有限公司"
+      },
+      {
+        "package_no": "E",
+        "package_name": "网络安全技术服务",
+        "winner": "山东盛安网络技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "PGIS系统维护及四维图新PPMAP平台维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 131800.0
+    },
+    {
+      "package_no": "E",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络安全技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 219800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "C",
+      "name": "山东兰图地理信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 131800.0
+    },
+    {
+      "package_no": "E",
+      "name": "山东盛安网络技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 219800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

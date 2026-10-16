@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260803_27063001",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "复核修正：原'需视觉核验'各点已复核消解——①附件单价OCR碎片'45,0 00.0 000元''464, 500. 000 0元'拼合无歧义，45000×4+464500×1=644500元与中标金额及HTML总中标金额64.45万三方互证；②劳务报酬支付表OCR'中标成交金64.95'为错字（与附件合计644500矛盾），以HTML及附件为准，不影响gold取值；③招标文件PDF仅前30页，但报价明细在可解析附件中，无字段依赖缺失。单包项目（采购包1）。附件《投标（响应）报价明细表》给出中标人两条明细的单价与数量：AI超算集群 45000元×4套=180000元、人工智能通识课程软件系统 464500元×1套=464500元，合计644500元与中标金额644,500.00元一致。概要品目列空，category取HTML标的信息表品目名称列'教学仪器'，item_no取品目号1-1-1/1-1-2。评审表'得分排名'列原文为空，所有rank=null。",
+  "project": {
+    "buyer": "山东工艺美术学院",
+    "project_name": "山东工艺美术学院数字创意产教融合实验实训设备更新项目（五）",
+    "total_amount": 644500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "郑州云海科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "AI超算集群（核心产品）",
+      "brand": "英伟达",
+      "model": "NVIDIA DGX Spark",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 45000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "人工智能通识课程软件系统",
+      "brand": "希冀",
+      "model": "希冀V7.2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 464500.0,
+      "total_price": 464500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "郑州云海科技有限公司",
+      "role": "winner",
+      "total_score": 95.2,
+      "rank": null,
+      "amount": 644500.0
+    },
+    {
+      "package_no": "1",
+      "name": "郑州市昭月智能科技有限公司",
+      "role": "participant",
+      "total_score": 85.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "南京揽胜熠熠网络科技有限公司",
+      "role": "participant",
+      "total_score": 83.76,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

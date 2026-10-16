@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260408_26371938",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:7K01_包1_内容分发网络（CDN）服务（视音频直播类业务）_招标文件_发售版0303V2.0.docx,7K01_包2_内容分发网络（CDN）服务（视音频点播类业务）_招标文件_发售版0303V2.0.docx",
+  "note": "4个包（包1-包4），HTML表格1仅给出各包中标供应商（包1腾讯云、包2阿里云、包3腾讯云、包4网宿），未给各包中标金额、得分、排名，故bidders的amount/total_score/rank均为null；总中标金额￥10737.6620万元=107,376,620元，无法按包拆分核对。附件均为招标文件（非结果文件）：包1预算5500万、包2预算4000万（预算不等于中标金额，不得替填），包3/包4招标文件因超长被丢弃。品目取概要品目列完整路径「服务/电信和其他信息传输服务/其他电信和信息传输服务」。招标文件数量/服务期限为「一批/一年」，数量非数字，按口径quantity/unit留null。各包item_name/包名出处：包1、包2由招标文件正文明示（如'包号/名称：包1/视音频直播类业务'）；包3/包4取自公告附件清单中的附件文件名（包3图文类业务/包4超高清投屏类业务），系包内可见文本出处，非OCR疑点。复核：已逐字段对照原文核验通过。",
+  "project": {
+    "buyer": "中央广播电视总台",
+    "project_name": "内容分发网络（CDN）服务",
+    "total_amount": 107376620.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "视音频直播类业务",
+        "winner": "腾讯云计算（北京）有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "视音频点播类业务",
+        "winner": "阿里云计算有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "图文类业务",
+        "winner": "腾讯云计算（北京）有限责任公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "超高清投屏类业务",
+        "winner": "网宿科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/其他电信和信息传输服务",
+      "item_name": "视音频直播类业务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/其他电信和信息传输服务",
+      "item_name": "视音频点播类业务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/其他电信和信息传输服务",
+      "item_name": "图文类业务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": "服务/电信和其他信息传输服务/其他电信和信息传输服务",
+      "item_name": "超高清投屏类业务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "腾讯云计算（北京）有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "阿里云计算有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "腾讯云计算（北京）有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "网宿科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260309_26247299",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（合同包1）；概要品目列空，品目取HTML标的信息表『品目名称』列（电池生产设备）；5条分项单价×数量=总价自洽，合计9,965,000元=总中标金额；报价明细附件为跳过未知类型不可见，但HTML标的表已给出完整分项明细，无OCR待补；1-5规格型号原文写作『KC32010』（疑似多打一个0）——原文核验：已查tmp/html原始HTML，标的表1-5行型号单元格即为『KC32010』，草稿系照抄无误；视觉核验未果：该型号无扫描附件可核（报价明细附件.pdf为557字节空占位页，仅[image]无内容；中小企业声明函.pdf 3页均无型号字段），无法判断是否为公告方录入错误，按原文照抄口径维持KC32010；1-4标的表名称『密封钉焊接全自动生产线站』与声明函『密封钉焊接全自动生产线』略有出入，以标的表为准。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "智能装备训创工坊设备采购项目(二次)",
+    "total_amount": 9965000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智能装备训创工坊设备采购项目",
+        "winner": "深圳市金凯博自动化测试有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "电池生产设备",
+      "item_name": "锂电池激光切割工作站",
+      "brand": "金凯博",
+      "model": "KC3206",
+      "quantity": 4,
+      "unit": "项",
+      "unit_price": 446250.0,
+      "total_price": 1785000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "电池生产设备",
+      "item_name": "锂电池智能视觉检测工作站",
+      "brand": "金凯博",
+      "model": "KC3207",
+      "quantity": 4,
+      "unit": "项",
+      "unit_price": 400000.0,
+      "total_price": 1600000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "电池生产设备",
+      "item_name": "锂电池顶盖焊接工作站",
+      "brand": "金凯博",
+      "model": "KC3208",
+      "quantity": 2,
+      "unit": "项",
+      "unit_price": 800000.0,
+      "total_price": 1600000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "电池生产设备",
+      "item_name": "密封钉焊接全自动生产线站",
+      "brand": "金凯博",
+      "model": "KC3209",
+      "quantity": 2,
+      "unit": "项",
+      "unit_price": 1410000.0,
+      "total_price": 2820000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "电池生产设备",
+      "item_name": "锂电一体化训练台",
+      "brand": "金凯博",
+      "model": "KC32010",
+      "quantity": 4,
+      "unit": "项",
+      "unit_price": 540000.0,
+      "total_price": 2160000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市金凯博自动化测试有限公司",
+      "role": "winner",
+      "total_score": 95.28,
+      "rank": 1,
+      "amount": 9965000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东东博智能装备股份有限公司",
+      "role": "participant",
+      "total_score": 88.32,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大族激光科技产业集团股份有限公司",
+      "role": "participant",
+      "total_score": 79.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "浙江天煌科技实业有限公司",
+      "role": "participant",
+      "total_score": 58.94,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 58.47,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市南岗区成拾商贸行（个体工商户）",
+      "role": "participant",
+      "total_score": 50.49,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

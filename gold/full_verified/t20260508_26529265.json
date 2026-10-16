@@ -1,0 +1,139 @@
+{
+  "announcement_id": "t20260508_26529265",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州竞远安全技术股份有限公司）.pdf,合同包2：报价明细附件（广州驭网信息技术有限公司）.pdf",
+  "note": "公告概要品目列为空，category 取HTML标的信息表「品目名称」列=测试评估认证服务；两包中标金额400,000+1,136,000=1,536,000元恰等于总中标金额153.6万元，数学自洽；包2中广州竞远安全技术股份有限公司因已是包1第一中标候选人未通过包2符合性审查，无得分/排名/报价，total_score/rank/amount=null；未中标供应商无投标报价列，amount=null。",
+  "project": {
+    "buyer": "广州市白云区政务服务和数据管理局",
+    "project_name": "广州市白云区政务服务和数据管理局2026年基础设施建设第三方测评服务采购项目",
+    "total_amount": 1536000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市白云区政务服务和数据管理局2026年基础设施建设网络安全等级保护测评及商用密码应用安全性评估服务采购项目",
+        "winner": "广州竞远安全技术股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广州市白云区政务服务和数据管理局2026年基础设施建设验收测评及安全测评服务采购项目",
+        "winner": "广州驭网信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "广州市白云区政务服务和数据管理局2026年基础设施建设网络安全等级保护测评及商用密码应用安全性评估服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "广州市白云区政务服务和数据管理局2026年基础设施建设验收测评及安全测评服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1136000.0,
+      "total_price": 1136000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "winner",
+      "total_score": 92.43,
+      "rank": 1,
+      "amount": 400000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州华南检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 89.05,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市网安计算机安全检测技术有限公司",
+      "role": "participant",
+      "total_score": 69.09,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市博通智能技术有限公司",
+      "role": "participant",
+      "total_score": 46.35,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州驭网信息技术有限公司",
+      "role": "winner",
+      "total_score": 95.75,
+      "rank": 1,
+      "amount": 1136000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东赛辰检测服务股份有限公司",
+      "role": "participant",
+      "total_score": 73.61,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东拓思软件科学园有限公司",
+      "role": "participant",
+      "total_score": 68.55,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东赛评信息技术有限公司",
+      "role": "participant",
+      "total_score": 58.81,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京时代新威信息技术有限公司",
+      "role": "participant",
+      "total_score": 57.52,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

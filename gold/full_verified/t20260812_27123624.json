@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123624",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:二次报价.png,中小企业声明函.pdf",
+  "note": "成交供应商由附件推定为山东基库信息科技有限公司，证据链完整：①磋商文件明文'中标、成交供应商……随中标、成交结果公开中标、成交供应商的《中小企业声明函》'，随本成交公告发布的中小企业声明函承接企业为基库；②二次报价.png中基库最终报价980000元与公告总成交金额98万元一致。二次报价.png为OCR图片，四家最终报价（华御735000/采旋984500/基库980000/融谷987900）为第2次（最终）报价口径；未中标供应商无综合得分；专家报酬表分包数量1个但全篇无包号明示，package_no=null；品目列空、标的信息无品目列，category=null。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "济宁市大数据局",
+    "project_name": "2026年度济宁市大数据局市数字经济试验区监测平台采购项目",
+    "total_amount": 980000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东基库信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度济宁市大数据局市数字经济试验区监测平台采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 980000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东基库信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 980000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东华御信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 735000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东采旋信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 984500.0
+    },
+    {
+      "package_no": null,
+      "name": "济宁融谷赋能大数据有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 987900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

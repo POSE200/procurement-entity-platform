@@ -1,0 +1,118 @@
+{
+  "announcement_id": "t20260311_26256358",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "attachment:分项报价一览表.png,报价一览表.pdf,专家评分汇总表.png",
+  "note": "视觉核验：查阅 报价一览表.pdf（200DPI渲染）确认5家投标人名称与投标报价，OCR包中'山东公用江程管理有限公司'实为'山东公用工程管理有限公司'，予以校正；查阅 专家评分汇总表.png 确认排名列1-5及最后得分（91.32/72.7/65.86/61.55/57.02）；查阅 分项报价一览表.png 确认4条分项明细（单位/数量/单价/合计）。数学自查：管理人员工资 12×6300=75600≠合计453600、辅助人员工资 38×5300=201400≠合计1208400，两差额恰为单价×数量×6（服务期6个月），单价×数量与总价不一致系原文如此，不改原文值；四项合计453600+1208400+9000+24000=1695000元与中标金额169.50万元及中标人投标报价一致。原文无明示包号，按单包推断package_no='1'（分包数量1个，专家评分汇总表标段(包)仅SZBM2026000011一个）。品目列缺失→category=null。",
+  "project": {
+    "buyer": "济宁市城乡水务局（济宁市南水北调工程建设管理局）",
+    "project_name": "济宁市城乡水务局南水北调东线一期工程济宁市截污导流工程运行维护服务项目",
+    "total_amount": 1695000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "济宁市城乡水务局南水北调东线一期工程济宁市截污导流工程运行维护服务项目",
+        "winner": "山东公用工程管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "管理人员工资",
+      "brand": null,
+      "model": null,
+      "quantity": 12,
+      "unit": "人/月",
+      "unit_price": 6300.0,
+      "total_price": 453600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "辅助人员工资",
+      "brand": null,
+      "model": null,
+      "quantity": 38,
+      "unit": "人/月",
+      "unit_price": 5300.0,
+      "total_price": 1208400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "办公费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 9000.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "车辆使用费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东公用工程管理有限公司",
+      "role": "winner",
+      "total_score": 91.32,
+      "rank": 1,
+      "amount": 1695000.0
+    },
+    {
+      "package_no": "1",
+      "name": "水发规划设计有限公司",
+      "role": "participant",
+      "total_score": 72.7,
+      "rank": 2,
+      "amount": 1682000.0
+    },
+    {
+      "package_no": "1",
+      "name": "嘉祥县惠农建设有限公司",
+      "role": "participant",
+      "total_score": 65.86,
+      "rank": 3,
+      "amount": 1689000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济宁市水利工程建设监理中心有限公司",
+      "role": "participant",
+      "total_score": 61.55,
+      "rank": 4,
+      "amount": 1691000.0
+    },
+    {
+      "package_no": "1",
+      "name": "微山县水利施工公司",
+      "role": "participant",
+      "total_score": 57.02,
+      "rank": 5,
+      "amount": 1695500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

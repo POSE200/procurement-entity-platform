@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260501_26507379",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个标包A/B/C（包号由'标包：A/B/C'明示），中标金额20/20/10万元之和=总中标金额50万元，数学一致。概要品目列空，标的信息表（表格2）只有'名称：新闻服务'无品目名称列，故category=null。各包仅有中标总金额，无单价/数量线索，按口径不填quantity=1与unit_price。复核：三包中标人/金额与表格1核对一致，之和=总中标金额；通过。",
+  "project": {
+    "buyer": "山东省海洋局机关",
+    "project_name": "全省公众海洋意识网络媒体宣传项目",
+    "total_amount": 500000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "新闻服务",
+        "winner": "新华网股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "新闻服务",
+        "winner": "人民网股份有限公司山东分公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "新闻服务",
+        "winner": "央广网文化传媒有限公司山东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "新闻服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "新闻服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "新闻服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "新华网股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 200000.0
+    },
+    {
+      "package_no": "B",
+      "name": "人民网股份有限公司山东分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 200000.0
+    },
+    {
+      "package_no": "C",
+      "name": "央广网文化传媒有限公司山东分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 100000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

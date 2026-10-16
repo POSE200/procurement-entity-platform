@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260309_26249764",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category 取标的信息表（表格3-4）「品目名称」列末级名『其他专业技术服务』；标的表金额(元)列全空，各 item 数量/单价/总价为 null。报价明细附件.zip 跳过未知类型未解析，分项数量/单价/总价不可得。待OCR附件为合同包2中小企业声明函扫描件，不含标的明细。两包中标金额 908000+5158500=6066500 元，与总中标金额 ￥606.65 万元一致。包2中标人为联合体『广东省国土资源测绘院(联合体成员：广东普蓝地理信息服务有限公司)』，名称原样保留；评分表（表格7）推荐排名列第3行为空，rank 取得分排名列。评分表未列报价，participant 的 amount 为 null。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "广东省土地调查规划院",
+    "project_name": "2026年日常变更调查省级核查及院数据治理入库、重点区域动态监测与分析评价技术服务",
+    "total_amount": 6066500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省日常变更调查省级检查技术服务（2026年）",
+        "winner": "广东省地图院"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年院数据治理入库、重点区域动态监测与分析评价",
+        "winner": "广东省国土资源测绘院(联合体成员：广东普蓝地理信息服务有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "广东省日常变更调查省级检查技术服务（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专业技术服务",
+      "item_name": "2026年院数据治理入库、重点区域动态监测与分析评价",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东省地图院",
+      "role": "winner",
+      "total_score": 95.79,
+      "rank": 1,
+      "amount": 908000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省测绘工程有限公司",
+      "role": "participant",
+      "total_score": 91.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省地质测绘院",
+      "role": "participant",
+      "total_score": 88.48,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省国土资源测绘院(联合体成员：广东普蓝地理信息服务有限公司)",
+      "role": "winner",
+      "total_score": 95.4,
+      "rank": 1,
+      "amount": 5158500.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东省城乡规划设计研究院科技集团股份有限公司(联合体成员：广东中地土地房地产评估与规划设计有限公司)",
+      "role": "participant",
+      "total_score": 82.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省科学院广州地理研究所(联合体成员：广州市阿尔法软件信息技术有限公司)",
+      "role": "participant",
+      "total_score": 72.09,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260806_27081043",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目。品目列（概要）为空，category 取 HTML 标的信息表『品目名称』列（其他资料/其他电气机械设备/气动、电动单元组合仪表/其他气体压缩机），品牌/规格/数量/单价/总价均来自该表，与附件报价明细附件及声明函交叉一致。10条item单价×数量=总价，包内合计1,446,500元=总中标金额。供应商广东盛哲科技有限公司综合得分70.22、得分排名3但推荐排名列原文为空，rank=3取自得分排名列。bidders中仅中标人金额原文有给（1,446,500元），未中标两家投标报价原文未列，amount=null。",
+  "project": {
+    "buyer": "广州市轻工技师学院",
+    "project_name": "广州市轻工技师学院2026年人工智能专业工作学习空间及气动实训设备采购项目",
+    "total_amount": 1446500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市轻工技师学院2026年人工智能专业工作学习空间及气动实训设备采购项目",
+        "winner": "广州众承机电科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他资料",
+      "item_name": "《数据采集》数字化工作学习空间---课程化企业工作资源",
+      "brand": "智信华育",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 235000.0,
+      "total_price": 235000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他资料",
+      "item_name": "《数据采集》数字化工作学习空间---课程化工作学习资源舱",
+      "brand": "智信华育",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 165125.0,
+      "total_price": 165125.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他资料",
+      "item_name": "《智能系统部署交付》数字化工作学习空间---课程化企业工作资源",
+      "brand": "智信华育",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 258000.0,
+      "total_price": 258000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他资料",
+      "item_name": "《智能系统部署交付》数字化工作学习空间---课程化工作学习资源舱",
+      "brand": "智信华育",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 138375.0,
+      "total_price": 138375.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他电气机械设备",
+      "item_name": "气动实验台组合装置",
+      "brand": "科穹",
+      "model": "KQQYA-1型",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "气动技术基础组件实训包",
+      "brand": "科穹",
+      "model": "KQQYA-11型",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 34500.0,
+      "total_price": 207000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "气动技术提高组件实训包",
+      "brand": "科穹",
+      "model": "KQQYA-12型",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 28000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "电气气动技术基础组件实训包",
+      "brand": "科穹/众承",
+      "model": "KQQYA-13型/V2014",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 36500.0,
+      "total_price": 219000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "气动、电动单元组合仪表",
+      "item_name": "电气气动技术提高组件实训包",
+      "brand": "科穹",
+      "model": "KQQYA-14型",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 28000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他气体压缩机",
+      "item_name": "全无油静音空压机",
+      "brand": "奥突斯",
+      "model": "OTS-1500-40L",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 11000.0,
+      "total_price": 22000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州众承机电科技有限公司",
+      "role": "winner",
+      "total_score": 96.72,
+      "rank": 1,
+      "amount": 1446500.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州沃图自动化科技有限公司",
+      "role": "participant",
+      "total_score": 71.26,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东盛哲科技有限公司",
+      "role": "participant",
+      "total_score": 70.22,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

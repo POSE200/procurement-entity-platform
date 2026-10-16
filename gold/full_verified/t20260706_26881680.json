@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260706_26881680",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东隆通泰基建筑工程有限公司).pdf",
+  "note": "单包项目，package_no 取附件明示'包(1)'。品目取 HTML 标的信息表品目名称列'其他信息化设备'（概要品目列空）。中标人两明细单价/总价来自附件报价明细表，56043+42857=98900 与成交金额一致。评分表'得分排名'列空白，所有 bidders 的 rank 均为 null；未中标 8 家的报价在可见内容中无出处，amount=null。13 个 docx/zip 附件因格式跳过（多为声明函/响应表模板），其中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅解析出表头，无数据行，未中标人明细不可得。附件.docx 仅列'附件一：近年类似业绩/附件二：专家费信息'名称。",
+  "project": {
+    "buyer": "山东省农业科学院",
+    "project_name": "山东省农业科学院经作所办公楼监控系统采购项目",
+    "total_amount": 98900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东隆通泰基建筑工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "大楼监控",
+      "brand": "大华",
+      "model": "DH-IPC-HFW1XYZM-ABD、DH-IPC-HDW1XYZV-ABD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 56043.0,
+      "total_price": 56043.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "中控人脸机",
+      "brand": "海康威视",
+      "model": "DS-K1T3XYWZ-ABCD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 42857.0,
+      "total_price": 42857.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东隆通泰基建筑工程有限公司",
+      "role": "winner",
+      "total_score": 90.82,
+      "rank": null,
+      "amount": 98900.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东通帆建筑工程有限公司",
+      "role": "participant",
+      "total_score": 82.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东祥地建筑工程有限公司",
+      "role": "participant",
+      "total_score": 79.91,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东传普信息系统有限公司",
+      "role": "participant",
+      "total_score": 90.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东嘉格信息科技有限公司",
+      "role": "participant",
+      "total_score": 90.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东赫喧信息技术有限公司",
+      "role": "participant",
+      "total_score": 87.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东达融信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.43,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东海讯信息工程有限公司",
+      "role": "participant",
+      "total_score": 84.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东宝盛鑫信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.08,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

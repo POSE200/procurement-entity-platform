@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123559",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "品目两处皆空（概要品目列空、HTML 标的信息仅写『货物类』分节标题且无品目名称列），category 填 null。全文（含附件）未出现任何标包号/分包号，package_no 按 G4 取 null。items 3 条来自附件分项报价表，数学自查：15650×78=1220700、650×78=50700、2200×78=171600，合计 1443000 与总中标金额￥144.300000万元一致。附件 OCR 有断字（如『希 沃』『蓝 贝 思 特』已合并、劳务报酬支付表『60D』『600机以壳』等），金额无矛盾，无需视觉核验价格字段；评审时间『4时26分』疑为 OCR 误（应为更晚时刻），与抽取字段无关。",
+  "project": {
+    "buyer": "武城县第二中学",
+    "project_name": "山东省德州市武城县第二中学教室用智能黑板采购项目",
+    "total_amount": 1443000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东扬天信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "触控一体机",
+      "brand": "希沃",
+      "model": "FH86EA",
+      "quantity": 78,
+      "unit": "台",
+      "unit_price": 15650.0,
+      "total_price": 1220700.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "视频展台",
+      "brand": "希沃",
+      "model": "SC06",
+      "quantity": 78,
+      "unit": "台",
+      "unit_price": 650.0,
+      "total_price": 50700.0
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": null,
+      "item_name": "变轨黑板",
+      "brand": "蓝贝思特",
+      "model": "LB20",
+      "quantity": 78,
+      "unit": "套",
+      "unit_price": 2200.0,
+      "total_price": 171600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东扬天信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1443000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

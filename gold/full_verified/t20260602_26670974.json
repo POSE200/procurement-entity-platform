@@ -1,0 +1,207 @@
+{
+  "announcement_id": "t20260602_26670974",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:国家电子政务外网运行维护项目广域网线路租用采购项目中标结果公告.pdf",
+  "note": "附件中标结果公告给出两张分项表：第一张总计6363960为包1（联通，其行数量合计41与招标文件01包『数量(条)41』一致），第二张总计5893530为包2（电信），两包之和=总中标金额12257490自洽；单价为『元/月』，第一张表总价=单价×数量×月数（备注列3/9/12个月），第二张表无月数列且总价不等于单价×数量×整数月（如22000×18×10.5=4158000），照抄不改；品目取公告概要品目列完整路径；item名称用类别列，带宽列数值填入model；行级计量单位原文未明示→unit=null；原文无未中标供应商名单、无得分排名→bidders仅两位winner，total_score/rank=null。；视觉核验：单价为元/月、总价含服务期月数系附件原表口径，数学不整除属原文固有，非抽取错误",
+  "project": {
+    "buyer": "国家信息中心",
+    "project_name": "国家电子政务外网运行维护项目广域网线路租用采购项目",
+    "total_amount": 12257490.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "国家电子政务外网中央级传输骨干网大区及主备线路（一）",
+        "winner": "中国联合网络通信有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "国家电子政务外网中央级传输骨干网大区及主备线路（二）",
+        "winner": "中国电信股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "SDH(长途)",
+      "brand": null,
+      "model": "155Mbps",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 22000.0,
+      "total_price": 66000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "2",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 8,
+      "unit": null,
+      "unit_price": 7125.0,
+      "total_price": 171000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "3",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(本地)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1430.0,
+      "total_price": 4290.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "4",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "100Mbps",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 15590.0,
+      "total_price": 701550.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "5",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "SDH(长途)",
+      "brand": null,
+      "model": "155Mbps",
+      "quantity": 16,
+      "unit": null,
+      "unit_price": 22000.0,
+      "total_price": 4224000.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "6",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "400Mbps",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 42760.0,
+      "total_price": 513120.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "7",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 7125.0,
+      "total_price": 427500.0
+    },
+    {
+      "package_no": "01",
+      "item_no": "8",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 7125.0,
+      "total_price": 256500.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "1",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "SDH(长途)",
+      "brand": null,
+      "model": "155Mbps",
+      "quantity": 18,
+      "unit": null,
+      "unit_price": 22000.0,
+      "total_price": 4158000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "2",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 23,
+      "unit": null,
+      "unit_price": 7110.0,
+      "total_price": 1023840.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "3",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(本地)",
+      "brand": null,
+      "model": "30Mbps",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 1440.0,
+      "total_price": 8640.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "4",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(长途)",
+      "brand": null,
+      "model": "100Mbps",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 15570.0,
+      "total_price": 700650.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "5",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "MSTP/OTN(本地)",
+      "brand": null,
+      "model": "2Mbps",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 200.0,
+      "total_price": 2400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "中国联合网络通信有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 6363960.0
+    },
+    {
+      "package_no": "02",
+      "name": "中国电信股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 5893530.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

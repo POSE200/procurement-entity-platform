@@ -1,0 +1,158 @@
+{
+  "announcement_id": "t20260701_26849591",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包且全文无采购包号，package_no=null；附件（中小企业声明函/本国产品声明函）为声明函无标的明细，items取HTML表格1（6条逐项照抄）；表格1无逐条序号，item_no=null；品目取公告概要品目列完整路径（全项目单一路径）；品牌列均为\"致盛\"、型号列均为\"定制\"，照抄；6条单价之和887000+676000+984000+676000+670000+695000=4,588,000元与总中标金额458.8万一致；得分排名取表格2明示（排名1/7/2/3/6/5/4）；附件OCR质量差（企业名有错字如\"致盛技书\"\"广深致盛\"）但不影响gold字段值。",
+  "project": {
+    "buyer": "暨南大学",
+    "project_name": "暨南大学网络空间安全科研中心网络安全攻防演练平台采购项目",
+    "total_amount": 4588000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "广东致盛技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "科研资源一体机",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 887000.0,
+      "total_price": 887000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "科研训练实操一体机",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 676000.0,
+      "total_price": 676000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "靶场服务器",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 984000.0,
+      "total_price": 984000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "科研教学一体机",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 676000.0,
+      "total_price": 676000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "理论竞赛支撑一体机",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 670000.0,
+      "total_price": 670000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": "货物/设备/信息化设备/网络设备/其他网络设备",
+      "item_name": "管理控制一体机",
+      "brand": "致盛",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 695000.0,
+      "total_price": 695000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "广东致盛技术有限公司",
+      "role": "winner",
+      "total_score": 90.71,
+      "rank": 1,
+      "amount": 4588000.0
+    },
+    {
+      "package_no": null,
+      "name": "广州市青稞信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.76,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "杭州安恒信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 87.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京珞安科技有限责任公司",
+      "role": "participant",
+      "total_score": 86.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "工单科技（深圳）有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "北京神州绿盟科技有限公司",
+      "role": "participant",
+      "total_score": 81.28,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 83.99,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

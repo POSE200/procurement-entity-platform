@@ -1,0 +1,206 @@
+{
+  "announcement_id": "t20260612_26737936",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司揭阳分公司）.pdf",
+  "note": "单包（合同包1）。11条货物明细（1-1~1-11）取自HTML标的信息表；第12条服务明细（1-12信息化升级建设）HTML金额列空，其单价1,353,300元×数量1项=总价1,353,300元取自附件报价明细表。12条之和=1,909,395元，与中标金额一致。品目取HTML品目名称列（应用软件/终端机/扩音设备/信息化设备零部件/行业应用软件开发服务）。得分排名列明示，rank按原文填1-4。附件OCR有水印串扰与错字（如『分诊签到广终端』），数值与文字均以HTML为准。需视觉核验：无。复核修正：1-12金额1353300元已由交叉验证确认（HTML总中标金额1909395元−11条货物明细之和556095元=1353300元，与附件单价/总价一致），移除原需视觉核验标记。",
+  "project": {
+    "buyer": "普宁市妇幼保健院",
+    "project_name": "普宁市妇幼保健院医院信息系统升级建设项目",
+    "total_amount": 1909395.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "普宁市妇幼保健院医院信息系统升级建设",
+        "winner": "中国移动通信集团广东有限公司揭阳分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "护士导诊台客户端软件",
+      "brand": "优胜",
+      "model": "优胜US-HQCLIENT",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 15685.0,
+      "total_price": 31370.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "终端机",
+      "item_name": "分诊排队信息发布终端",
+      "brand": "优胜",
+      "model": "优胜US-DMBB650B",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 4450.0,
+      "total_price": 35600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "应用软件",
+      "item_name": "分诊排队信息发布终端显示端授权软件",
+      "brand": "优胜",
+      "model": "优胜US-MDTTS",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 1450.0,
+      "total_price": 11600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "终端机",
+      "item_name": "分诊签到终端",
+      "brand": "优胜",
+      "model": "优胜US-SIGNB",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 6550.0,
+      "total_price": 13100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "应用软件",
+      "item_name": "诊室信息发布终端显示端授权软件",
+      "brand": "优胜",
+      "model": "优胜US-DTTS",
+      "quantity": 17,
+      "unit": "台",
+      "unit_price": 1480.0,
+      "total_price": 25160.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "终端机",
+      "item_name": "诊室信息发布终端",
+      "brand": "优胜",
+      "model": "优胜US-DMBB215B",
+      "quantity": 17,
+      "unit": "台",
+      "unit_price": 2755.0,
+      "total_price": 46835.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "扩音设备",
+      "item_name": "软件叫号器",
+      "brand": "优胜",
+      "model": "优胜US-23",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 1180.0,
+      "total_price": 2360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "终端机",
+      "item_name": "多功能自助机",
+      "brand": "优胜",
+      "model": "优胜定制",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 41950.0,
+      "total_price": 125850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "扩音设备",
+      "item_name": "收费语音报价器",
+      "brand": "通导科技",
+      "model": "通导科技定制",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 2250.0,
+      "total_price": 4500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "信息化设备零部件",
+      "item_name": "网络点",
+      "brand": "国产",
+      "model": "国产",
+      "quantity": 24,
+      "unit": "批",
+      "unit_price": 380.0,
+      "total_price": 9120.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "应用软件",
+      "item_name": "LIS检验信息管理系统软件（含接口）",
+      "brand": "即达健康",
+      "model": "即达健康V2.01",
+      "quantity": 14,
+      "unit": "套",
+      "unit_price": 17900.0,
+      "total_price": 250600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "行业应用软件开发服务",
+      "item_name": "信息化升级建设（包含危急值管理系统、治疗闭环管理系统、病历质量控制系统、院感管理系统）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1353300.0,
+      "total_price": 1353300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司揭阳分公司",
+      "role": "winner",
+      "total_score": 88.83,
+      "rank": 1,
+      "amount": 1909395.0
+    },
+    {
+      "package_no": "1",
+      "name": "揭阳市晓晖信息科技咨询服务有限公司",
+      "role": "participant",
+      "total_score": 79.87,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "普宁市迅奇信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "揭阳市新纪元电脑有限公司",
+      "role": "participant",
+      "total_score": 76.78,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

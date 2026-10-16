@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260508_26523565",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包；品目列空且标的信息表无品目名称列（「服务类」为分节标题不作品目），category=null；主要标的信息为「服务类（A/B包）」合并描述，按包拆为两条 item，各包 total_price 取该包成交金额（出处：成交信息）；A包248800+B包248000=496800与成交总金额一致。",
+  "project": {
+    "buyer": "烟台市自然资源和规划局",
+    "project_name": "2026年采矿权公示信息实地核查",
+    "total_amount": 496800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "核工业（烟台）建设工程有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "烟台鸿建地矿工程咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年采矿权公示信息实地核查",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 248800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年采矿权公示信息实地核查",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 248000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "核工业（烟台）建设工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 248800.0
+    },
+    {
+      "package_no": "B",
+      "name": "烟台鸿建地矿工程咨询有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 248000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

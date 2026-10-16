@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080511",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目概要列空，category 取 HTML 主要标的信息表'品目名称'列（软件运维服务）；包(1)_投标（响应）报价明细表.pdf 原件实为1个数据行：服务名称=医保精细化控费系统维保、数量=1.0000、计量单位=项（据此填 quantity=1、unit=项），但单价列为公式占位符'{=响应报价/数量}元'、响应报价列为'{供应商响应}元'（开标一览表同：响应报价='「汇总引用」元'、最高限价36000元为上限而非成交价），即两 PDF 均为未填写报价的模板件、无真实金额，故 unit_price/total_price 留 null 终值；分项报价表.docx 为空模板；28000元为中标（成交）金额（项目级），不拆入 item；package_no='1'（公告标题'采购包1'、附件名'包(1)'）；评分表'得分排名/推荐排名'列空白，rank 全 null。视觉核验：fitz 250DPI 渲染两 PDF 全部页面（各1页）看图，确认明细表有且仅有1数据行、数量1.0000/单位'项'可读出并已填入，单价与响应报价均为模板占位符无真实金额、null 为终值，与 HTML 中标金额28000元不冲突，证据闭合，status=verified。",
+  "project": {
+    "buyer": "山东第一医科大学附属眼科研究所",
+    "project_name": "山东第一医科大学附属眼科研究所2026年信息化项目（三）",
+    "total_amount": 28000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛万斯迈技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "医保精细化控费系统维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛万斯迈技术有限公司",
+      "role": "winner",
+      "total_score": 89.67,
+      "rank": null,
+      "amount": 28000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛必应信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛天乐康医疗科技有限公司",
+      "role": "participant",
+      "total_score": 70.61,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

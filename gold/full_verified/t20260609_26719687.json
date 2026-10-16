@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260609_26719687",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中安广源检测评价技术服务股份有限公司).pdf,报价明细表(第1轮-国投检测科技（山东）有限公司).pdf,报价明细表(第1轮-石油和化学工业规划院).pdf",
+  "note": "公告标题明示仅含采购包2、3、4（包1 不在本公告，项目为多包项目）。包号推断依据：标的信息表品目号 2-1/3-1/4-1 的前缀 + 三家报价明细附件的服务地域与品目号内容一一对应（国投检测=青岛烟台威海日照4市→包2；中安广源=淄博德州聊城3市→包3；石油和化学工业规划院=东营滨州2市→包4），与表格1/2/3 中标表顺序一致。表格7/8/9 分别为包2/3/4 的评审表（各表综合得分与该包中标公告得分匹配），得分排名/推荐排名列存在但值为空 → 所有 rank=null。三家报价明细均明示 单价=响应报价、数量 1.0000 宗 → items 单价×数量=总价。总中标金额 58,379 元 vs 三包合计 58,378.60 元差 0.40 元（公告万元位四舍五入所致，未改原文）。需视觉核验：①包3 评审表中国投检测 87.67 分高于该包中标人中安广源 83.53 分（疑『同一供应商限中一个包』等候选规则，原文未说明）；②各包未中标供应商的分包报价原文不可见 → participant amount=null。 复核修正：2026-09-23独立复核——三家报价明细单价/数量(1.0000宗)/总价与草稿一致；包3/包4高分未中标现象系原文固有（评审表与中标表并存），按原文照录不推断原因；0.40元差额系概要万元四舍五入，原“需视觉核验”疑点不构成取值修正。",
+  "project": {
+    "buyer": "山东省工业和信息化厅机关",
+    "project_name": "山东省工业和信息化厅全省化工园区封闭化管理评估服务",
+    "total_amount": 58379.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "国投检测科技（山东）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中安广源检测评价技术服务股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "石油和化学工业规划院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专业技术服务",
+      "item_name": "青岛、烟台、威海、日照4个市，14个园区封闭化管理评估服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 19750.0,
+      "total_price": 19750.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他专业技术服务",
+      "item_name": "淄博、德州、聊城3个市，14个园区封闭化管理评估服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 19700.0,
+      "total_price": 19700.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他专业技术服务",
+      "item_name": "东营、滨州2个市，14个园区封闭化管理评估服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 18928.6,
+      "total_price": 18928.6
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "国投检测科技（山东）有限公司",
+      "role": "winner",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": 19750.0
+    },
+    {
+      "package_no": "2",
+      "name": "中安广源检测评价技术服务股份有限公司",
+      "role": "participant",
+      "total_score": 84.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "石油和化学工业规划院",
+      "role": "participant",
+      "total_score": 81.1,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中安广源检测评价技术服务股份有限公司",
+      "role": "winner",
+      "total_score": 83.53,
+      "rank": null,
+      "amount": 19700.0
+    },
+    {
+      "package_no": "3",
+      "name": "石油和化学工业规划院",
+      "role": "participant",
+      "total_score": 80.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "国投检测科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "石油和化学工业规划院",
+      "role": "winner",
+      "total_score": 80.76,
+      "rank": null,
+      "amount": 18928.6
+    },
+    {
+      "package_no": "4",
+      "name": "国投检测科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 88.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中安广源检测评价技术服务股份有限公司",
+      "role": "participant",
+      "total_score": 84.26,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

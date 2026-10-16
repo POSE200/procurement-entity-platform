@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115319",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中电信数智科技有限公司).pdf",
+  "note": "已强制核对报价明细表(第1轮-中电信数智科技有限公司).pdf：1条服务明细单价928000元/数量1项/总价928000元（最高限价950000元），合计928000元=总中标金额928000.00元，数学成立；品目取自HTML标的信息表'品目编号及品目名称'列（概要品目列空）→其他信息技术服务；服务类标的brand/model无线索为null；中标人得分排名列空白故rank=null（不推定第1），未中标人无排名明示",
+  "project": {
+    "buyer": "惠民县人民检察院",
+    "project_name": "惠民县人民检察院移动检务办公系统项目",
+    "total_amount": 928000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中电信数智科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "惠民县人民检察院移动检务办公系统项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 928000.0,
+      "total_price": 928000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司",
+      "role": "winner",
+      "total_score": 96.33,
+      "rank": null,
+      "amount": 928000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司滨州市分公司",
+      "role": "participant",
+      "total_score": 90.45,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东蔚蓝信息技术有限公司",
+      "role": "participant",
+      "total_score": 87.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东大达信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.11,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

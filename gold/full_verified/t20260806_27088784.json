@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27088784",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-上海仟巢科技有限公司).pdf,附件.pdf",
+  "note": "概要品目列空，category 取标的信息表'品目编号及品目名称'列'其他运营服务'；单价/数量/单位取自附件报价明细表(第1轮-上海仟巢)（单价297800元×数量1项=响应报价297800元，最高限价310000元）；附件.pdf 含排序/得分表：仟巢297800（成交人）、晟世厚德300000（第二成交候选人）、迈拓307000（第三成交候选人），据此填 rank 与各家投标金额；附件.pdf 内另一份投标（响应）报价明细表合计写298000元（2026-07-28初轮报价）；复核确认：第1轮报价明细表明示单价297800×1项=响应报价297800元，附件.pdf排序表明示最终报价297,800.00元，与HTML中标金额297,800.00元三处一致，297800为最终值、298000系初轮旧报价，取值无歧义，无需视觉核验；package_no=1 取自公告标题'（采购包1）'及附件'采购包号：1'。",
+  "project": {
+    "buyer": "枣庄市公安局",
+    "project_name": "枣庄市公安局购买专用业务系统服务项目",
+    "total_amount": 297800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "上海仟巢科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "枣庄市公安局购买专用业务系统服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 297800.0,
+      "total_price": 297800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海仟巢科技有限公司",
+      "role": "winner",
+      "total_score": 88.33,
+      "rank": 1,
+      "amount": 297800.0
+    },
+    {
+      "package_no": "1",
+      "name": "上海晟世厚德企业管理有限公司",
+      "role": "participant",
+      "total_score": 72.93,
+      "rank": 2,
+      "amount": 300000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南迈拓信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.03,
+      "rank": 3,
+      "amount": 307000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

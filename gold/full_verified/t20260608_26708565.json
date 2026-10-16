@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260608_26708565",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf,合同包2：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "两包均由中国移动通信集团广东有限公司中标；品目取自HTML标的信息表（其他运行维护服务）；附件明细单价=总价（数量1项），包1金额1,150,000+包2金额720,000=1,870,000与总中标金额一致；代理费表中包2名称原文多一个前括号，已按语义取“2026-2027年信息化运维项目（信息安全）”；bidders按两个评分表逐包收录，得分排名列明示，rank照抄。",
+  "project": {
+    "buyer": "广州市第十二人民医院",
+    "project_name": "广州市第十二人民医院2026-2027年信息化运维项目",
+    "total_amount": 1870000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2027年信息化运维项目（基础运维、系统运维）",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026-2027年信息化运维项目（信息安全）",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "2026-2027年信息化运维项目（基础运维、系统运维）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1150000.0,
+      "total_price": 1150000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运行维护服务",
+      "item_name": "2026-2027年信息化运维项目（信息安全）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 720000.0,
+      "total_price": 720000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 99.38,
+      "rank": 1,
+      "amount": 1150000.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 95.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 92.25,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海华讯网络系统有限公司",
+      "role": "participant",
+      "total_score": 86.93,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": 1,
+      "amount": 720000.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 94.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 87.79,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州领慧信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.57,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

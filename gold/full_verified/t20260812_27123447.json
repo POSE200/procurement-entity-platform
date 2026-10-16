@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260812_27123447",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:二次报价.png,分项报价表.png",
+  "note": "HTML未明示中标供应商名称，winner=山东昱诺贸易有限公司由二次报价最终报价497000元与总中标金额49.7万唯一匹配推断（5家报价497000/390000/459000/500000/230000互不相同，推断可靠）；quantity=1台为采购文件明示'采购分娩监测系统1台'，unit_price=总价/数量唯一互推497000；品牌'理邦'与型号'Acclarix GX9F'取自HTML标的信息表；品目列空且标的信息表无品目名称列，category=null（'货物类'为分节标题不采）。复核修正：原两处'需视觉核验'（winner推断、分项报价表OCR投标人名'山东里语'疑为'山东昱诺'误识）已解决——winner推断由金额唯一匹配支撑，分项报价表投标人名不进入任何gold字段，均不影响取值，无需视觉核验。",
+  "project": {
+    "buyer": "济宁市第一人民医院",
+    "project_name": "济宁市第一人民医院分娩监测系统采购项目",
+    "total_amount": 497000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东昱诺贸易有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "分娩监测系统",
+      "brand": "理邦",
+      "model": "Acclarix GX9F",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 497000.0,
+      "total_price": 497000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东昱诺贸易有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 497000.0
+    },
+    {
+      "package_no": null,
+      "name": "济宁康卓医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 390000.0
+    },
+    {
+      "package_no": null,
+      "name": "济南乾惕医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 459000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东鑫昕医用器材有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 500000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东康佰医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 230000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

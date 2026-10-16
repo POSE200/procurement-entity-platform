@@ -1,0 +1,148 @@
+{
+  "announcement_id": "t20260402_26352556",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:综合信息平台运维项目报价明细附件.pdf",
+  "note": "复核修正：包3在报价明细附件中有完整数据行（210,000.00 | 1.0000项），初稿note误判为仅剩表头，已补unit_price=210000。3个采购包（包名取自代理服务费表：硬件运维服务/软件运维服务/安全运维服务）。三包成交金额890,000+423,856+210,000=1,523,856元=总成交金额152.3856万元。报价明细附件给出包1、包2、包3的单价/数量（1.0000项）/总价，逐条自查通过。开标记录表（初始投标报价）与评分表最终报价不一致（如包1凯纳开标891,125→最终890,000），participants的amount取评分表『最终报价』，winner取成交金额。得分排名列均有明示（1-3），rank照抄。",
+  "project": {
+    "buyer": "黑龙江省生态环境信息与公共关系协调中心",
+    "project_name": "综合信息平台运维项目",
+    "total_amount": 1523856.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "硬件运维服务",
+        "winner": "哈尔滨凯纳科技股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "软件运维服务",
+        "winner": "黑龙江中政数朵软件开发有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "安全运维服务",
+        "winner": "哈尔滨百奥科技开发有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "硬件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 890000.0,
+      "total_price": 890000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "软件运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 423856.0,
+      "total_price": 423856.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "安全运维服务",
+      "item_name": "安全运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 210000.0,
+      "total_price": 210000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "哈尔滨凯纳科技股份有限公司",
+      "role": "winner",
+      "total_score": 96.9,
+      "rank": 1,
+      "amount": 890000.0
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江安信与诚科技开发有限公司",
+      "role": "participant",
+      "total_score": 86.9,
+      "rank": 2,
+      "amount": 889125.0
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江郡辰科技有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": 3,
+      "amount": 880000.0
+    },
+    {
+      "package_no": "2",
+      "name": "黑龙江中政数朵软件开发有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 423856.0
+    },
+    {
+      "package_no": "2",
+      "name": "哈尔滨思和信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 93.99,
+      "rank": 2,
+      "amount": 424253.0
+    },
+    {
+      "package_no": "2",
+      "name": "黑龙江省先锋环保工程有限公司",
+      "role": "participant",
+      "total_score": 86.99,
+      "rank": 3,
+      "amount": 424312.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨百奥科技开发有限公司",
+      "role": "winner",
+      "total_score": 96.0,
+      "rank": 1,
+      "amount": 210000.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨旭兴网络科技开发有限公司",
+      "role": "participant",
+      "total_score": 87.85,
+      "rank": 2,
+      "amount": 213500.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨捷贝科技有限公司",
+      "role": "participant",
+      "total_score": 84.86,
+      "rank": 3,
+      "amount": 213000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260401_26350530",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:4包中标清单.pdf",
+  "note": "本篇为多包项目（5个实训室包）中的第4包：PCB设计与制作实训中心项目，包号取附件招标文件明示「第4包」。公告概要品目为空且主要标的信息表无品目列，category=null。主要标的信息表无总价列，total_price按单价×数量推算（规范允许的唯一互推）；11条推算之和=1,185,000元=中标金额，数学一致，附件4包中标清单与HTML标的表11条一致。深圳市金凯博自动化测试有限公司投标但符合性审查不合格废标，无报价与得分，bidders中role=participant、得分/排名/金额为null。rank取HTML评审排序列（明示1-3）。附件4包招标文件.pdf仅解析前30页，但标的明细已在HTML与中标清单中获得，无OCR待补。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "青岛工程职业学院智能装备与控制技术工程训练中心项目",
+    "total_amount": 1185000.0,
+    "packages": [
+      {
+        "package_no": "4",
+        "package_name": "PCB设计与制作实训中心项目",
+        "winner": "斐科腾智能科技（青岛）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "精密裁板机",
+      "brand": "科瑞特",
+      "model": "MCM1200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 5800.0,
+      "total_price": 5800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "数控钻铣雕一体机（含数控钻铣雕一体机上位机控制软件）",
+      "brand": "科瑞特",
+      "model": "DCD3700B",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 95000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "印制电路激光成型机（含印制电路激光成型机上位机控制软件）",
+      "brand": "科瑞特",
+      "model": "DCM6200B",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 280000.0,
+      "total_price": 560000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动线路板抛光机（含全自动线路板抛光控制软件）",
+      "brand": "科瑞特",
+      "model": "BFM1200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 39800.0,
+      "total_price": 39800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "智能金属过孔机（含金属过孔机控制软件）",
+      "brand": "科瑞特",
+      "model": "MHM3600",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 25800.0,
+      "total_price": 25800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动PCB油墨印制机（含PCB油墨印制机控制软件）",
+      "brand": "科瑞特",
+      "model": "AOP6200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 144500.0,
+      "total_price": 144500.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动字符喷印机（含全自动字符喷印机上位机控制软件）",
+      "brand": "科瑞特",
+      "model": "WPM5200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 158000.0,
+      "total_price": 158000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "油墨固化机",
+      "brand": "科瑞特",
+      "model": "PSB2200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 9800.0,
+      "total_price": 9800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "焊机视频检测仪",
+      "brand": "科瑞特",
+      "model": "PDM2200",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 22800.0,
+      "total_price": 22800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "耗材及配套",
+      "brand": "斐科腾",
+      "model": "/",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训室职业氛围营造",
+      "brand": "斐科腾",
+      "model": "/",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 18500.0,
+      "total_price": 18500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "4",
+      "name": "斐科腾智能科技（青岛）有限公司",
+      "role": "winner",
+      "total_score": 90.0,
+      "rank": 1,
+      "amount": 1185000.0
+    },
+    {
+      "package_no": "4",
+      "name": "济南长廊自动化设备有限公司",
+      "role": "participant",
+      "total_score": 66.7,
+      "rank": 2,
+      "amount": 1189000.0
+    },
+    {
+      "package_no": "4",
+      "name": "青岛星科瑞升信息科技有限公司",
+      "role": "participant",
+      "total_score": 50.47,
+      "rank": 3,
+      "amount": 1198000.0
+    },
+    {
+      "package_no": "4",
+      "name": "深圳市金凯博自动化测试有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

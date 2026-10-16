@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260810_27107369",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目；附件仅为信用承诺函OCR残文，无报价明细，投标报价取自HTML开标记录表。单条服务标的仅有总金额，quantity/unit_price按口径留空。package_no=1系依HTML中标情况表序号推断。品目概要列为空且无标的信息品目列，category=null。综合评分表含排序列（1-4），rank按原文照抄。公告信息表项目名称为'政务网络安全运维项目'，正文表格1项目名称为'政务网络安全运维项目三次招标'，取公告信息表。",
+  "project": {
+    "buyer": "青岛市黄岛区工业和信息化局",
+    "project_name": "政务网络安全运维项目",
+    "total_amount": 826000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "软件运维服务",
+        "winner": "北京启明星辰信息安全技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "政务网络安全运维项目三次招标",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 826000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京启明星辰信息安全技术有限公司",
+      "role": "winner",
+      "total_score": 84.23,
+      "rank": 1,
+      "amount": 826000.0
+    },
+    {
+      "package_no": "1",
+      "name": "安诺信息科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 74.4,
+      "rank": 2,
+      "amount": 736900.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛鑫雷音电子有限公司",
+      "role": "participant",
+      "total_score": 61.43,
+      "rank": 3,
+      "amount": 835000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛正讯电子有限公司",
+      "role": "participant",
+      "total_score": 49.11,
+      "rank": 4,
+      "amount": 838000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

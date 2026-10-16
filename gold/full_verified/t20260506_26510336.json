@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260506_26510336",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州谦益科技有限公司）.pdf,合同包2：报价明细附件（广州都拓信息技术有限公司）.pdf",
+  "note": "两个合同包，包金额460000+1620000=2080000元与总中标金额￥208万一致。品目取HTML标的信息表『品目名称』列（概要品目列为空）。数量/单价/总价来自解包后的报价明细附件（zip容器本身被跳过，但其内PDF已解包解析成功）；230000×2=460000、1620000×1=1620000均一致。附件列名被水印字符污染（服务范围列混入『ZC台平云』等水印字），已按语义认列。需视觉核验：包1单价230,000与数量2(套)的水印夹行、包2单价1,620,000的OCR行。评审得分表给出各包得分排名（得分排名列明示1/2/3），照抄。未中标供应商投标报价原文未给，amount=null。",
+  "project": {
+    "buyer": "广东省中医院",
+    "project_name": "广东省中医院API风险监测系统、网络维修人员驻场服务项目",
+    "total_amount": 2080000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "API风险监测系统",
+        "winner": "广州谦益科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "网络维修人员驻场服务",
+        "winner": "广州都拓信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "API风险监测系统",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 230000.0,
+      "total_price": 460000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "计算机设备维修和保养服务",
+      "item_name": "网络维修人员驻场服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1620000.0,
+      "total_price": 1620000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州谦益科技有限公司",
+      "role": "winner",
+      "total_score": 95.58,
+      "rank": 1,
+      "amount": 460000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州智臣信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.1,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳君同云科技有限公司",
+      "role": "participant",
+      "total_score": 65.52,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州都拓信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.2,
+      "rank": 1,
+      "amount": 1620000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州明志信息技术有限公司",
+      "role": "participant",
+      "total_score": 36.54,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州盛乐信息科技有限公司",
+      "role": "participant",
+      "total_score": 22.66,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

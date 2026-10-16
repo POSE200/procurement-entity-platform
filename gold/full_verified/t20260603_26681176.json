@@ -1,0 +1,188 @@
+{
+  "announcement_id": "t20260603_26681176",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个标段：表格1供应商行内明示「一标段：北京得网时代信息技术有限公司(352,000元)/二标段：北方实验室（沈阳）股份有限公司(90,000元)/三标段：山东新潮信息技术有限公司(72,000元)」，之和514,000元与总中标金额￥51.400000万元一致。概要品目列只给编码「C16050000,C16060000,C16060000」，category退用HTML标的信息表品目名称列（信息化工程监理服务/测试评估认证服务×2）。三张评分表（表格3/4/5）未标注属于哪个标段，按各表备注列为1的供应商恰为对应标段中标人归属：表格5→一标段（北京得网备注1）、表格4→二标段（北方实验室备注1）、表格3→三标段（山东新潮备注1），属推断需视觉核验。本项目为综合评分法（招标文件前附表第16条），评分表「备注」列填的是1/2/3数字而非价格扣除后评审报价，按得分降序核对一致（81.4>76.8>76.71；80.44>79.6>63.55；68.07>65.8>64.68），故按排名解读填入rank；备注列为空的供应商（含得分较高者如北方实验室在三标段73.9分）视为未获排名，rank=null，此解读需视觉核验原表。附件「中小企业声明函（一至三标段）.pdf」解析出的正文仅有「一标段：二标段：三标段：」空标题，无实质内容。数量均为1、unit原文未给=null；「服务类」为分节标题未当品目。；终审：评分表\"备注\"列数字（9处）列名明文为最低价法说明、语义未经证实，按G3严格口径rank置null（备注观察值保留在本note）；verified",
+  "project": {
+    "buyer": "银川市数据局",
+    "project_name": "银川市数据局银川市城市智能感知数字底座新型基础设施项目的配套服务",
+    "total_amount": 514000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "一标段：工程监理服务",
+        "winner": "北京得网时代信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "二标段：第三方测评服务（软件测评）",
+        "winner": "北方实验室（沈阳）股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "三标段：第三方测评服务（等保测评）",
+        "winner": "山东新潮信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "信息化工程监理服务",
+      "item_name": "工程监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 352000.0,
+      "total_price": 352000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "二标段：第三方测评服务（软件测评）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "三标段：第三方测评服务（等保测评）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 72000.0,
+      "total_price": 72000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京得网时代信息技术有限公司",
+      "role": "winner",
+      "total_score": 68.07,
+      "rank": null,
+      "amount": 352000.0
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏信友监理咨询管理股份有限公司",
+      "role": "participant",
+      "total_score": 65.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都久信信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 64.68,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 55.48,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏科选智慧工程咨询有限公司",
+      "role": "participant",
+      "total_score": 63.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "陕西中基项目管理有限公司",
+      "role": "participant",
+      "total_score": 59.91,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "winner",
+      "total_score": 80.44,
+      "rank": null,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东赛辰检测服务股份有限公司",
+      "role": "participant",
+      "total_score": 79.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "participant",
+      "total_score": 63.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 56.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东新潮信息技术有限公司",
+      "role": "winner",
+      "total_score": 81.4,
+      "rank": null,
+      "amount": 72000.0
+    },
+    {
+      "package_no": "3",
+      "name": "宁夏凯信特信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "陕西思安信息网络安全有限公司",
+      "role": "participant",
+      "total_score": 76.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": 73.9,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

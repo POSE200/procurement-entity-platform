@@ -1,0 +1,268 @@
+{
+  "announcement_id": "t20260812_27123395",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf",
+  "note": "三个采购包：HTML无明示包号，package_no=1/2/3由品目号前缀(1-1/2-x/3-x)推断并与各包中标金额吻合（包2七项之和4130000=佰泰丰中标金额，包3三项之和1725000=中国移动中标金额）；品牌/规格型号来自各包中标供应商投标报价明细表（HTML中为'见附件'）；评分表'得分排名'列为空，rank一律null；山东维平、金盾检测分别因符合性/资格性审查未通过，无得分无报价；包2报价明细表[2]中'医保智能审核系统/临床辅助决策/等级评审/护理管理/护理培训'等节OCR表格列有错位重复，已按完整版行核对；数量均为1套（OCR'1.00 00'拆分）。复核修正：原疑'需视觉核验各报价明细表品牌列'一节已解决——9条品牌（医信签/佰泰丰/地纬智能/创联网捷/远卓/宜云/今杏林/君峰/飞图影像）与型号均由报价明细表[2][3]完整行直接读出且错位重复行相互印证，无需视觉核验。",
+  "project": {
+    "buyer": "德州市第六人民医院（德州市传染病防治中心）",
+    "project_name": "德州市第六人民医院（德州市传染病医院）信息化建设集成服务及等保测评采购项目",
+    "total_amount": 6015000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "等保测评",
+        "winner": "济南时代确信信息安全测评有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东佰泰丰信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "等保测评",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 160000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "支撑软件",
+      "item_name": "CA电子签名系统",
+      "brand": "医信签",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 540000.0,
+      "total_price": 540000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "支撑软件",
+      "item_name": "无纸化归档系统",
+      "brand": "佰泰丰",
+      "model": "V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1180000.0,
+      "total_price": 1180000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "支撑软件",
+      "item_name": "医保智能审核系统",
+      "brand": "地纬智能",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 587000.0,
+      "total_price": 587000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "支撑软件",
+      "item_name": "临床辅助决策支持系统(CDSS）",
+      "brand": "创联网捷",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 985000.0,
+      "total_price": 985000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "支撑软件",
+      "item_name": "等级评审系统",
+      "brand": "佰泰丰",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 298000.0,
+      "total_price": 298000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-6",
+      "category": "支撑软件",
+      "item_name": "护理管理系统",
+      "brand": "远卓",
+      "model": "V6.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 470000.0,
+      "total_price": 470000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-7",
+      "category": "支撑软件",
+      "item_name": "护理培训系统",
+      "brand": "宜云",
+      "model": "V6.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "支撑软件",
+      "item_name": "HRP系统 （全成本管理、预算管理、绩效管理）",
+      "brand": "今杏林",
+      "model": "v5.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1190000.0,
+      "total_price": 1190000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "支撑软件",
+      "item_name": "电休克信息化管理系统",
+      "brand": "君峰",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 245000.0,
+      "total_price": 245000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "支撑软件",
+      "item_name": "云影像平台",
+      "brand": "飞图影像",
+      "model": "FT1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南时代确信信息安全测评有限公司",
+      "role": "winner",
+      "total_score": 93.6,
+      "rank": null,
+      "amount": 160000.0
+    },
+    {
+      "package_no": "1",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 83.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东佰泰丰信息科技有限公司",
+      "role": "winner",
+      "total_score": 96.8,
+      "rank": null,
+      "amount": 4130000.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南东启信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东贝森医疗信息咨询有限公司",
+      "role": "participant",
+      "total_score": 82.22,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东运达信息技术有限公司",
+      "role": "participant",
+      "total_score": 82.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 95.3,
+      "rank": null,
+      "amount": 1725000.0
+    },
+    {
+      "package_no": "3",
+      "name": "石家庄吉晟科技有限公司",
+      "role": "participant",
+      "total_score": 69.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东恒源泉泰网络信息科技有限公司",
+      "role": "participant",
+      "total_score": 65.48,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

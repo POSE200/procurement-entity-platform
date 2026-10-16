@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260811_27115680",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（招标文件为包(1)，SDGP370000000202602003441-1）。中标292600元=总中标金额29.26万；报价明细表（中标人）：最高限价350,000元、单价292,600.0000元、数量1.0000(项)，据此填单价/数量（附件明示）。表格4中三家资格性审查未通过供应商（淄博美丽新海岸、青岛君汇、淄博景悦）也作为participant收录，无得分。评分表得分排名/推荐排名列空→rank全null。OCR疑点（需视觉核验）：报价明细表数字分栏错位（292,6/00.00/00元与1.000/项/0需拼接为292,600.0000元、1.0000项）；标的名称列OCR字符残缺（?东理??学），以HTML表格2为准。评审支付表预算金额35万元（非成交价）。",
+  "project": {
+    "buyer": "山东理工大学",
+    "project_name": "山东理工大学CCJJCA公寓管理服务",
+    "total_amount": 292600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东宜居物业管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "物业管理服务",
+      "item_name": "山东理工大学CCJJCA公寓管理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 292600.0,
+      "total_price": 292600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东宜居物业管理有限公司",
+      "role": "winner",
+      "total_score": 85.8,
+      "rank": null,
+      "amount": 292600.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南三友志和物业管理有限公司",
+      "role": "participant",
+      "total_score": 85.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东润泰城市服务有限公司",
+      "role": "participant",
+      "total_score": 82.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博美丽新海岸酒店管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛君汇商务管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博景悦物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

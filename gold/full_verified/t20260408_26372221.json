@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260408_26372221",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目取公告概要品目列=A02102100（仅分类代码，无路径，原样照抄；HTML明细表品目名称列为'教学仪器'）；明细表仅1条：单价4096×数量825=3,379,200元，与总中标金额4,201,020元不符（差821,820元，原文无解释，未改原文值）；数量列无计量单位故 unit=null；全文及附件均无明示采购包号，package_no=null；表格3仅有得分列无排名列，rank 一律 null。；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "吴忠市红寺堡区教育局",
+    "project_name": "吴忠市红寺堡区教育局2025年义务教育薄弱环节改善与能力提升学生机房设备采购项目",
+    "total_amount": 4201020.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "宁夏攀星网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02102100",
+      "item_name": "吴忠市红寺堡区教育局2025年义务教育薄弱环节改善与能力提升学生机房设备采购项目",
+      "brand": "主机：联想开天；液晶显示器：开天",
+      "model": "主机：E50zG1t-D085；液晶显示器：ET524 G1e",
+      "quantity": 825,
+      "unit": null,
+      "unit_price": 4096.0,
+      "total_price": 3379200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁夏攀星网络科技有限公司",
+      "role": "winner",
+      "total_score": 94.7,
+      "rank": null,
+      "amount": 4201020.0
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏华诺诚信息工程有限公司",
+      "role": "participant",
+      "total_score": 80.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏铭博科技有限公司",
+      "role": "participant",
+      "total_score": 74.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏首创电子商务有限公司",
+      "role": "participant",
+      "total_score": 89.88,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260812_27117283",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "B包/C包各一条中标（9.85万+12.00万=21.85万，与总中标金额一致）；B包为监理服务、C包为测评服务，来自标的信息「名称」栏拆分；概要品目列与标的信息表均无品目列，category=null；标的信息仅有名称一栏，无数量/单价/总价出处，均null（未做quantity=1、unit_price=总价推定）；无评分表，除两中标人外其他投标主体不可见，total_score/rank=null。复核修正：表格0项目名『濰』为异体字，但表格1明示项目名称为简体『潍坊市检察机关数据分中心平台项目』，gold照抄表格1，无未决视觉核验项。",
+  "project": {
+    "buyer": "山东省潍坊市人民检察院",
+    "project_name": "潍坊市检察机关数据分中心平台项目",
+    "total_amount": 218500.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东卓朗检测股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "金盾检测技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 98500.0
+    },
+    {
+      "package_no": "C",
+      "name": "金盾检测技术股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 120000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

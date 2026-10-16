@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27071677",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东克莱默电子科技有限公司).pdf",
+  "note": "无明示包号，package_no=1为推断（公告标题'采购包1'）。附件无分项报价（仅磋商文件、声明函、业绩/劳务报酬表OCR件），明细取自HTML标的信息表：品目1-1'软件运维服务'，表格无数量/单位/金额列，故quantity/unit/unit_price=null，item.total_price=中标金额218800元（唯一标的对应整包金额）。得分排名/推荐排名列空，rank=null。品目取自标的信息表'品目名称'列（概要品目列空）。复核修正：原草稿称'附件无分项报价'有误——附件'报价明细表(第1轮-山东克莱默电子科技有限公司).pdf'明示单价218800元/数量1.0000项/响应报价218800元（最高限价220000元），quantity/unit/unit_price据附件补填；公告标题明示'（采购包1）'，package_no=1非推断。",
+  "project": {
+    "buyer": "中共山东省委党史研究院（山东省地方史志研究院）机关",
+    "project_name": "技术运维服务项目",
+    "total_amount": 218800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东克莱默电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "技术运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 218800.0,
+      "total_price": 218800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东克莱默电子科技有限公司",
+      "role": "winner",
+      "total_score": 91.47,
+      "rank": null,
+      "amount": 218800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东江信智能技术有限公司",
+      "role": "participant",
+      "total_score": 77.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东汇正信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.53,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南子睿信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

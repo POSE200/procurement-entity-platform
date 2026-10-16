@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260803_27061177",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京吾仝科技有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（其他展览服务）。HTML表格2金额列为空，单价2,927,000元/数量1项/总价2,927,000元明示于报价明细附件。包号1来自合同包号列。rank取表格4得分排名列（原文明示1-5）。未中标供应商投标报价原文未列，amount=null。；终审：各字段均有出处（附件报价明细/得分排名列明示），无未决疑点，状态遗漏翻转",
+  "project": {
+    "buyer": "广州国家版本馆",
+    "project_name": "长征主题沉浸式数字展览项目",
+    "total_amount": 2927000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "长征主题沉浸式数字展览项目",
+        "winner": "北京吾仝科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他展览服务",
+      "item_name": "长征主题沉浸式数字展览项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2927000.0,
+      "total_price": 2927000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京吾仝科技有限公司",
+      "role": "winner",
+      "total_score": 85.41,
+      "rank": 1,
+      "amount": 2927000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京蜂鸟互动科技有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "苏州金螳螂文化发展股份有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市美术有限公司",
+      "role": "participant",
+      "total_score": 73.42,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海飞来飞去展览设计工程有限公司",
+      "role": "participant",
+      "total_score": 73.39,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

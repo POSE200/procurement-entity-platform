@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080449",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司).pdf",
+  "note": "单包（采购包1）。中标人报价明细来自附件'报价明细表(第1轮-中国移动通信集团山东有限公司).pdf'：单价599500元×1.0000宗=响应报价599500元，单价与数量均为原文明示（非由总额反推）。品目概要列空，category取HTML标的信息表'品目编号及品目名称'列=软件运维服务。附件'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅解析出表头、无数据行，故三家未成交供应商投标报价不可得，amount=null。未中标原因仅写'综合得分不是最高'，未明示名次；得分排名列为空，所有供应商rank=null。劳务报酬表：预算60万元、成交59.95万元，与中标金额一致（复核确认附件文本清晰、无未决疑点）。",
+  "project": {
+    "buyer": "博兴县退役军人事务局",
+    "project_name": "山东省滨州市博兴县退役军人事务局综合服务平台优化升级项目",
+    "total_amount": 599500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "软件运维服务",
+      "item_name": "山东省滨州市博兴县退役军人事务局综合服务平台优化升级项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "宗",
+      "unit_price": 599500.0,
+      "total_price": 599500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 88.4,
+      "rank": null,
+      "amount": 599500.0
+    },
+    {
+      "package_no": "1",
+      "name": "滨州市龙拓智能工程有限公司",
+      "role": "participant",
+      "total_score": 77.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "滨州美腾信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.72,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南端维联构信息技术有限责任公司",
+      "role": "participant",
+      "total_score": 74.66,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260706_26881826",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包服务项目，package_no 取中标情况表序号1（推断）。概要品目列与标的信息表均无品目名称，category=null。单条服务标的仅有明细报价 847000.00 元总额，按口径不填 quantity=1/unit_price=总价，quantity/unit/unit_price 均 null。本篇无评分表（仅资格评审'通过'名单与报价表），所有 bidders 的 total_score/rank 均 null；amount 取投标报价表。唯一附件为信用承诺函，不提供标注字段。",
+  "project": {
+    "buyer": "青岛西海岸新区机关事务服务中心",
+    "project_name": "新区电视电话会议系统服务维修项目",
+    "total_amount": 847000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "其他服务",
+        "winner": "中国移动通信集团山东有限公司青岛分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "新区电视电话会议系统服务维修项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 847000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司青岛分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 847000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司青岛市分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 777600.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东德易通科技发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 430600.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛九和实业有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 847560.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

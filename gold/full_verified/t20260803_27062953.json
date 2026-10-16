@@ -1,0 +1,246 @@
+{
+  "announcement_id": "t20260803_27062953",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(最后报价-一修（杭州）科技有限公司).pdf",
+  "note": "复核修正：HTML与附件的行对应关系已复核确认——两侧16行顺序一致，1-1-9~1-1-12四条'定制开发'与附件课程资源包×4（虚拟现实开发平台/数字博物馆引擎/交互式媒体开发平台/AR智能导览开发平台）按序唯一匹配，1-1-13/14对应航海博物馆、威海红色文化虚拟展馆，无需视觉核验。单包项目（公告标题明示'采购包1'）。HTML主要标的信息表16条明细无单价/总价列，items单价/总价取中标人最后报价明细表，16条合计恰为439700元=中标金额=总中标金额43.97万元，单价×数量逐条一致（教师版2套/学生版50套，学生版单价均为50元）。item_no沿用HTML品目号1-1-1~1-1-16；item_name取附件货物名称；category取HTML标的表品目名称列'应用软件'（概要品目列空）。附件计量单位OCR作'⻔'，按'门'转写。评分表得分排名/推荐排名列原文为空、'综合评审得分低于第一名'为原因描述→rank=null。",
+  "project": {
+    "buyer": "山东外贸职业学院",
+    "project_name": "山东外贸职业学院VR专业平台建设采购项目（11009）",
+    "total_amount": 439700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "一修（杭州）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "应用软件",
+      "item_name": "虚拟现实开发平台教师版",
+      "brand": "万维镜像",
+      "model": "虚拟仿真开发平台V1.0",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 38000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "应用软件",
+      "item_name": "虚拟现实开发平台学生版",
+      "brand": "万维镜像",
+      "model": "虚拟仿真开发平台V1.0",
+      "quantity": 50,
+      "unit": "个",
+      "unit_price": 50.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "应用软件",
+      "item_name": "数字博物馆引擎教师版",
+      "brand": "万维镜像",
+      "model": "数字展览引擎平台V1.0",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 25800.0,
+      "total_price": 51600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "应用软件",
+      "item_name": "数字博物馆引擎学生版",
+      "brand": "万维镜像",
+      "model": "数字展览引擎平台V1.0",
+      "quantity": 50,
+      "unit": "个",
+      "unit_price": 50.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "应用软件",
+      "item_name": "交互式媒体开发平台教师版",
+      "brand": "万维镜像",
+      "model": "交互式媒体创作平台V1.0",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 19800.0,
+      "total_price": 39600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "应用软件",
+      "item_name": "交互式媒体开发平台学生版",
+      "brand": "万维镜像",
+      "model": "交互式媒体创作平台V1.0",
+      "quantity": 50,
+      "unit": "个",
+      "unit_price": 50.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "应用软件",
+      "item_name": "AR智能导览开发平台教师版",
+      "brand": "万维镜像",
+      "model": "AR智能导览创作平台V1.0",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 13400.0,
+      "total_price": 26800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "应用软件",
+      "item_name": "AR智能导览开发平台学生版",
+      "brand": "万维镜像",
+      "model": "AR智能导览创作平台V1.0",
+      "quantity": 50,
+      "unit": "个",
+      "unit_price": 50.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "应用软件",
+      "item_name": "虚拟现实开发平台课程资源包",
+      "brand": "万维镜像",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "门",
+      "unit_price": 31600.0,
+      "total_price": 31600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "应用软件",
+      "item_name": "数字博物馆引擎课程资源包",
+      "brand": "万维镜像",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "门",
+      "unit_price": 25600.0,
+      "total_price": 25600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "应用软件",
+      "item_name": "交互式媒体开发平台课程资源包",
+      "brand": "万维镜像",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "门",
+      "unit_price": 21700.0,
+      "total_price": 21700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "应用软件",
+      "item_name": "AR智能导览开发平台课程资源包",
+      "brand": "万维镜像",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "门",
+      "unit_price": 19200.0,
+      "total_price": 19200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "应用软件",
+      "item_name": "航海博物馆",
+      "brand": "万维镜像",
+      "model": "数字博物馆虚拟仿真软件V1.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 33500.0,
+      "total_price": 33500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "应用软件",
+      "item_name": "威海红色文化虚拟展馆",
+      "brand": "万维镜像",
+      "model": "数字博物馆虚拟仿真软件V1.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 32800.0,
+      "total_price": 32800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "应用软件",
+      "item_name": "海洋工程加工车间机电安全",
+      "brand": "万维镜像",
+      "model": "机电一体化虚拟仿真综合实训软件V1.0",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 44500.0,
+      "total_price": 44500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "应用软件",
+      "item_name": "服务器运维与培训服务",
+      "brand": "万维镜像",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 26800.0,
+      "total_price": 26800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "一修（杭州）科技有限公司",
+      "role": "winner",
+      "total_score": 97.34,
+      "rank": null,
+      "amount": 439700.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州一高科技开发有限公司",
+      "role": "participant",
+      "total_score": 71.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "杭州学呗科技有限公司",
+      "role": "participant",
+      "total_score": 64.72,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

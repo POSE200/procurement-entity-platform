@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260706_26881510",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，package_no 取中标情况表序号1（推断）。品目列与标的信息表均无品目名称，category=null。两附件（专家支付费用表、中小企业声明函）不提供标注字段。明细合计 1990000+195000=2185000 与总中标金额一致。",
+  "project": {
+    "buyer": "青岛市中医医院",
+    "project_name": "脊柱定位周期减压牵引系统及医用脊柱平衡测试仪采购项目",
+    "total_amount": 2185000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "物理治疗、康复及体育治疗仪器设备",
+        "winner": "青岛祥林医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "脊柱定位周期减压牵引系统",
+      "brand": "飞龙",
+      "model": "FYZ-9820",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1990000.0,
+      "total_price": 1990000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "医用脊柱平衡测试仪",
+      "brand": "外星舱",
+      "model": "WJC9000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 195000.0,
+      "total_price": 195000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛祥林医疗科技有限公司",
+      "role": "winner",
+      "total_score": 71.19,
+      "rank": 1,
+      "amount": 2185000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛九子医疗科技有限公司",
+      "role": "participant",
+      "total_score": 62.8,
+      "rank": 2,
+      "amount": 1350000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛海泰康达商贸有限公司",
+      "role": "participant",
+      "total_score": 52.03,
+      "rank": 3,
+      "amount": 2198000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

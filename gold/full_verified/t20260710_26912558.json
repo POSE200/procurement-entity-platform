@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260710_26912558",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（宁波金唐软件有限公司）.pdf",
+  "note": "仅合同包1。10条明细取自附件报价明细表（附件序号1~10，行序与HTML标的信息表不同，金额列HTML为空）；10条总价之和1,359,600元=中标金额135.96万元，单价×数量=总价，数学一致。品目取HTML品目名称列'行业应用软件开发服务'。附件有水印噪字（'波宁金唐软件有限公司'拆散混入序号4行等），已按语义剔除。需视觉核验：附件序号6'房颤管理功能新增'行的服务要求在原PDF中跨页断行。",
+  "project": {
+    "buyer": "广州市越秀区卫生健康局",
+    "project_name": "越秀区全民健康信息平台及基层医卫云平台升级改造项目",
+    "total_amount": 1359600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "越秀区全民健康信息平台及基层医卫云平台升级改造项目",
+        "winner": "宁波金唐软件有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "行业应用软件开发服务",
+      "item_name": "居民健康档案首页改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 73200.0,
+      "total_price": 73200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "行业应用软件开发服务",
+      "item_name": "电子健康档案开放改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 139200.0,
+      "total_price": 139200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "行业应用软件开发服务",
+      "item_name": "多病共管功能改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 172800.0,
+      "total_price": 172800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "行业应用软件开发服务",
+      "item_name": "老年人分级分类功能新增",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 162000.0,
+      "total_price": 162000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "行业应用软件开发服务",
+      "item_name": "健康档案事中质控功能新增",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "行业应用软件开发服务",
+      "item_name": "房颤管理功能新增",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 146400.0,
+      "total_price": 146400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "行业应用软件开发服务",
+      "item_name": "越秀区社区通家庭医生签约服务对接改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 96000.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "行业应用软件开发服务",
+      "item_name": "与广州市卫生健康大数据中台对接改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 160800.0,
+      "total_price": 160800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "行业应用软件开发服务",
+      "item_name": "居民健康档案数据协同功能新增",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "行业应用软件开发服务",
+      "item_name": "刷脸设备广州医保个账支付对接改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 49200.0,
+      "total_price": 49200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁波金唐软件有限公司",
+      "role": "winner",
+      "total_score": 97.16,
+      "rank": 1,
+      "amount": 1359600.0
+    },
+    {
+      "package_no": "1",
+      "name": "杭州惟勤科技有限公司",
+      "role": "participant",
+      "total_score": 79.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州光睿信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.64,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

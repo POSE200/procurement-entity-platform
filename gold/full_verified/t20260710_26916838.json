@@ -1,0 +1,294 @@
+{
+  "announcement_id": "t20260710_26916838",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "18条明细单价取自附件投标（响应）报价明细表.pdf，之和507900元与HTML总中标金额/附件合计一致；单价×数量与总价逐条相符（互推关系，单价为原文值）。评分表得分排名/推荐排名两列为空，故各供应商rank一律null（不按中标即第1推定）。附件《符合本国产品标准的声明函》OCR质量差（大量错字），但未用于取值。需视觉核验：声明函中型号WYA-2WAJ与'WYA-20AJ/-2AT'并存、SW-CJ-2FD-II与'SV-CJ-2FD-TT'并存等OCR疑点（以HTML表格为准）。",
+  "project": {
+    "buyer": "山东药品食品职业学院",
+    "project_name": "山东药品食品职业学院化妆品质量评价平台项目",
+    "total_amount": 507900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "化妆品质量评价平台",
+        "winner": "山东长川科学仪器有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "紫外可见分光光度计",
+      "brand": "普析",
+      "model": "T500F",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 23800.0,
+      "total_price": 142800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "阿贝折射仪",
+      "brand": "力辰",
+      "model": "WYA-2WAJ",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 4200.0,
+      "total_price": 42000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "教学仪器",
+      "item_name": "旋转蒸发仪",
+      "brand": "力辰",
+      "model": "LC-RE-201D",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 3950.0,
+      "total_price": 7900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "教学仪器",
+      "item_name": "电热恒温鼓风干燥箱",
+      "brand": "恒字",
+      "model": "HGZF-II",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4100.0,
+      "total_price": 4100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "教学仪器",
+      "item_name": "恒温水浴锅",
+      "brand": "恒字",
+      "model": "HSY-12",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 800.0,
+      "total_price": 3200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "教学仪器",
+      "item_name": "高速台式离心机",
+      "brand": "英泰",
+      "model": "TG16",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 8500.0,
+      "total_price": 8500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "教学仪器",
+      "item_name": "电子分析天平万分之一",
+      "brand": "伯尼塔",
+      "model": "MTL224S",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2250.0,
+      "total_price": 4500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "教学仪器",
+      "item_name": "电子分析天平千分之一",
+      "brand": "伯尼塔",
+      "model": "MTL503S",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2200.0,
+      "total_price": 4400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "教学仪器",
+      "item_name": "电子分析天平十万分之一",
+      "brand": "德安特",
+      "model": "EX1055A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "教学仪器",
+      "item_name": "自动旋光仪",
+      "brand": "仪电物光",
+      "model": "WZZ-2S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 11500.0,
+      "total_price": 11500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "教学仪器",
+      "item_name": "肌肤影像分析仪",
+      "brand": "摩玑",
+      "model": "K33",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "教学仪器",
+      "item_name": "多功能美容仪",
+      "brand": "唯丝普",
+      "model": "L6A",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 6900.0,
+      "total_price": 55200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "教学仪器",
+      "item_name": "超净工作台",
+      "brand": "安泰",
+      "model": "SW-CJ-2FD-II",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 12700.0,
+      "total_price": 12700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "教学仪器",
+      "item_name": "隔水培养箱",
+      "brand": "恒字",
+      "model": "HGPN-50",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "教学仪器",
+      "item_name": "生化霉菌培养箱",
+      "brand": "恒字",
+      "model": "HPX-II-200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7200.0,
+      "total_price": 7200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "教学仪器",
+      "item_name": "乳化锅",
+      "brand": "医卡",
+      "model": "YL-10LD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 146500.0,
+      "total_price": 146500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "教学仪器",
+      "item_name": "冰箱",
+      "brand": "美的",
+      "model": "MR-191A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1400.0,
+      "total_price": 1400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "教学仪器",
+      "item_name": "pH检测仪",
+      "brand": "雷磁",
+      "model": "PHS-3E",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 2500.0,
+      "total_price": 5000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东长川科学仪器有限公司",
+      "role": "winner",
+      "total_score": 93.31,
+      "rank": null,
+      "amount": 507900.0
+    },
+    {
+      "package_no": "1",
+      "name": "上海名迈生命科学发展有限公司",
+      "role": "participant",
+      "total_score": 89.24,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南强胜光电仪器有限公司",
+      "role": "participant",
+      "total_score": 88.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东同为实验设备有限公司",
+      "role": "participant",
+      "total_score": 66.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东三月科学仪器有限公司",
+      "role": "participant",
+      "total_score": 65.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "拓是教育科技（上海）有限公司",
+      "role": "participant",
+      "total_score": 60.84,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

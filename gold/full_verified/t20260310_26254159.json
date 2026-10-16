@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260310_26254159",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "ERR_PAGE: 合同包1：报价明细附件（北京爱特拉斯信息科技有限公司）.pdf 为'系统正在维护中'错误页（已用fitz读取确认），附件分项明细不可得。HTML标的信息表仅1条服务标的且金额(元)列为空→单价/数量/总价均null不推算；中标金额796600.00元记入bidders.amount与total_amount。品目取标的信息表品目名称列'测绘服务'（概要品目列空）。",
+  "project": {
+    "buyer": "广东省国土资源技术中心（广东省基础地理信息中心）",
+    "project_name": "广东省测绘地理信息管理数据整理与服务能力提升（2026年）",
+    "total_amount": 796600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省测绘地理信息管理数据整理与服务能力提升（2026年）",
+        "winner": "北京爱特拉斯信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测绘服务",
+      "item_name": "广东省测绘地理信息管理数据整理与服务能力提升（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京爱特拉斯信息科技有限公司",
+      "role": "winner",
+      "total_score": 91.03,
+      "rank": 1,
+      "amount": 796600.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市中科科地勘测地理信息有限公司",
+      "role": "participant",
+      "total_score": 89.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州城市信息研究所有限公司",
+      "role": "participant",
+      "total_score": 81.61,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "浙江臻善科技股份有限公司",
+      "role": "participant",
+      "total_score": 77.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

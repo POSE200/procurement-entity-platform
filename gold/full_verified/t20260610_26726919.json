@@ -1,0 +1,147 @@
+{
+  "announcement_id": "t20260610_26726919",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "项目分两个包：第1包成交供应商天津市兴先道科技有限公司（54.2万），第2包成交供应商金盾检测技术股份有限公司（24万），两包之和 782000.0 与总成交金额 ￥78.200000万 一致。品目概要列空；主要标的信息表（服务类）只有'类型/名称'列、无品目名称列，故 category=null，'服务类'系类型分节标题不作品目。两条服务标的（等级保护测评等/密码测评等）原文未明示所属包，items 的 package_no 置 null（按表格先后顺序疑似分别对应第1、第2包，未采信）。附件 招标文件（TGPC-2026-D-0523）.docx 与 中小企业声明函.zip 均被跳过解析，无标的明细可补。需视觉核验：两个成交结果表与两个排序表和第1/第2包的对应关系。复核修正：对应关系已交叉验证解除——表格3排序1兴先道（95.5351）与第1包成交行得分一致，表格4排序1金盾（99.8292）与第2包成交行得分一致，无需视觉核验。",
+  "project": {
+    "buyer": "天津市人民政府办公厅机关",
+    "project_name": "天津市人民政府办公厅天津市人民政府办公厅信息系统安全测评项目",
+    "total_amount": 782000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津市兴先道科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "金盾检测技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "等级保护测评等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "密码测评等",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津市兴先道科技有限公司",
+      "role": "winner",
+      "total_score": 95.5351,
+      "rank": 1,
+      "amount": 542000.0
+    },
+    {
+      "package_no": "1",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": 89.7576,
+      "rank": 2,
+      "amount": 330000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河北国信安诚信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.3333,
+      "rank": 3,
+      "amount": 300000.0
+    },
+    {
+      "package_no": "1",
+      "name": "润成安全技术有限公司",
+      "role": "participant",
+      "total_score": 77.3097,
+      "rank": 4,
+      "amount": 565000.0
+    },
+    {
+      "package_no": "1",
+      "name": "佰运俐（天津）科技发展有限公司",
+      "role": "participant",
+      "total_score": 73.0238,
+      "rank": 5,
+      "amount": 560000.0
+    },
+    {
+      "package_no": "2",
+      "name": "金盾检测技术股份有限公司",
+      "role": "winner",
+      "total_score": 99.8292,
+      "rank": 1,
+      "amount": 240000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中百信信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 93.2656,
+      "rank": 2,
+      "amount": 448000.0
+    },
+    {
+      "package_no": "2",
+      "name": "苏州市软件评测中心有限公司",
+      "role": "participant",
+      "total_score": 93.0406,
+      "rank": 3,
+      "amount": 468000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科卓信软件测评技术中心",
+      "role": "participant",
+      "total_score": 80.5179,
+      "rank": 4,
+      "amount": 455000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京时代新威信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.4616,
+      "rank": 5,
+      "amount": 460000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科星云科技有限公司",
+      "role": "participant",
+      "total_score": 73.0,
+      "rank": 6,
+      "amount": 235900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

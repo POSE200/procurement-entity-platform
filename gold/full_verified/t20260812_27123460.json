@@ -1,0 +1,194 @@
+{
+  "announcement_id": "t20260812_27123460",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "公告标题未提包号，但招标文件附件通篇明示'采购包1'，package_no=1；品目取自标的信息表'品目编号及品目名称'列'物业管理服务'；quantity/unit_price取自中标人'投标（响应）报价明细表.pdf'（单价225,450.0000元×数量1.0000项）；审查表无综合得分/得分排名列，total_score与rank均null；表格4中保丽金康、亨运、千牛、政采城市服务、天津明德、韬略、斯迈尔、新润8家供应商审查结果与最终报价栏为空，按投标主体收录为participant（amount=null）。复核修正：原note误称'附件无可解析的中标人报价明细表'，实际'投标（响应）报价明细表.pdf'已解析且含单价/数量，已按附件补填quantity=1、unit_price=225450并更新gold_source。",
+  "project": {
+    "buyer": "泰安市岱岳区机关事务服务中心本级",
+    "project_name": "岱岳区政务服务中心综合办公楼物业管理服务采购项目",
+    "total_amount": 225450.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "振邦城市服务（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "物业管理服务",
+      "item_name": "岱岳区政务服务中心综合办公楼物业管理服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 225450.0,
+      "total_price": 225450.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "振邦城市服务（山东）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 225450.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东荣达物业管理集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 242000.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安市蓝天物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 276000.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安恒汇物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 289800.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安明德物业服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 315000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东远方环境科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 371616.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东众泰物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 385992.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东兴烨物业发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 467600.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安市德坤物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 477025.8
+    },
+    {
+      "package_no": "1",
+      "name": "泰安市绿源物业管理服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 478000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东众和物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 485000.0
+    },
+    {
+      "package_no": "1",
+      "name": "保丽金康物业管理集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "泰安市亨运物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "鄂尔多斯市千牛物业管理服务有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛政采城市服务集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天津明德物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东韬略物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东斯迈尔物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "新泰市新润物业管理有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

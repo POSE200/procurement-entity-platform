@@ -1,0 +1,292 @@
+{
+  "announcement_id": "t20260804_27071944",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,专家费.png",
+  "note": "双包公告：包1（小鼠等）中标山东朋悦380000元、包2（杀孢子剂等）中标山东泰克103350元，合计483350元=总中标金额48.335万元，数学一致。专家费.png显示分包数量3个：A包38万/朋悦、B包10.335万/泰克、C包废包——附件文件名'包(1)/包(2)'即A/B包，package_no取附件明示的1、2；C包（=包3）废包无中标人，packages保留第3条占位。包1的5条、包2的12条明细取自朋悦/泰克的投标（响应）报价明细表附件，单价×数量=响应报价逐条核验通过（如19395只×11.8587元=230000元）；品目category取HTML主要标的信息表品目名称列（包1'实验用动物'、包2'生物试剂盒'，附件中托盘/喷雾机等亦沿用HTML逐行品目）。HTML标的信息表无单价/金额列，价格全部来自附件。济南鑫百诺两包均参与（每包一条）。评审表得分排名/推荐排名列空，rank=null。需视觉核验疑点：①包2第4条名称OCR'PCAR卡氏肺孢子虫抗体ELISA检测试剂盒'，疑为PCR/PCP等缩写误读②包1第1条响应报价OCR'230,000'与单价×数量229999.96一致（四舍五入）③包2附件首次渲染缺第6、12条，以完整渲染为准。",
+  "project": {
+    "buyer": "山东省医学科学院",
+    "project_name": "山东省医学科学院教学用实验动物及动物实验平台耗材采购",
+    "total_amount": 483350.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "小鼠等",
+        "winner": "山东朋悦实验动物科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "杀孢子剂等",
+        "winner": "山东泰克生物科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "实验用动物",
+      "item_name": "小鼠",
+      "brand": "山东朋悦",
+      "model": "18-22g",
+      "quantity": 19395,
+      "unit": "只",
+      "unit_price": 11.8587,
+      "total_price": 230000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "实验用动物",
+      "item_name": "大鼠",
+      "brand": "山东朋悦",
+      "model": "150-200g",
+      "quantity": 357,
+      "unit": "只",
+      "unit_price": 112.0448,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "实验用动物",
+      "item_name": "鼠饲料",
+      "brand": "山东朋悦",
+      "model": "25kg/箱",
+      "quantity": 3851,
+      "unit": "kg",
+      "unit_price": 10.3869,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "实验用动物",
+      "item_name": "垫料",
+      "brand": "临朐贝乐",
+      "model": "8kg/袋",
+      "quantity": 2579,
+      "unit": "kg",
+      "unit_price": 11.6324,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "实验用动物",
+      "item_name": "实验动物专用运输箱",
+      "brand": "雄县雄欢",
+      "model": "555mm*355mm*190mm",
+      "quantity": 1190,
+      "unit": "个",
+      "unit_price": 33.6134,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "生物试剂盒",
+      "item_name": "PVM小鼠肺炎病毒抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "生物试剂盒",
+      "item_name": "MVM小鼠细小病毒抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "生物试剂盒",
+      "item_name": "MHV小鼠肝炎病毒抗体检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 13950.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "生物试剂盒",
+      "item_name": "PCAR卡氏肺孢子虫抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-5",
+      "category": "生物试剂盒",
+      "item_name": "GPCMV豚鼠巨细胞病毒抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-6",
+      "category": "生物试剂盒",
+      "item_name": "MNV小鼠诺如病毒抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-7",
+      "category": "生物试剂盒",
+      "item_name": "SDAV大鼠冠状病毒抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-8",
+      "category": "生物试剂盒",
+      "item_name": "H-1大鼠细小病毒H-1株抗体ELISA检测试剂盒",
+      "brand": "维通利华",
+      "model": "96Test/盒",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 4650.0,
+      "total_price": 9300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-9",
+      "category": "生物试剂盒",
+      "item_name": "饲料托盘",
+      "brand": "金利塑业",
+      "model": "120*100*14cm",
+      "quantity": 10,
+      "unit": "个",
+      "unit_price": 150.0,
+      "total_price": 1500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-10",
+      "category": "生物试剂盒",
+      "item_name": "杀孢子剂",
+      "brand": "济南辰宇",
+      "model": "1kg/瓶",
+      "quantity": 42,
+      "unit": "瓶",
+      "unit_price": 300.0,
+      "total_price": 12600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-11",
+      "category": "生物试剂盒",
+      "item_name": "超低微量喷雾机",
+      "brand": "隆瑞",
+      "model": "8-15μm",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 600.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-12",
+      "category": "生物试剂盒",
+      "item_name": "芽孢条（灭菌生物指示剂）",
+      "brand": "拓普",
+      "model": "100条/包",
+      "quantity": 3,
+      "unit": "盒",
+      "unit_price": 2400.0,
+      "total_price": 7200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东朋悦实验动物科技有限公司",
+      "role": "winner",
+      "total_score": 94.4,
+      "rank": null,
+      "amount": 380000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南斯克贝斯生物科技股份有限公司",
+      "role": "participant",
+      "total_score": 85.57,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南鑫百诺生物科技有限公司",
+      "role": "participant",
+      "total_score": 82.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东泰克生物科技有限公司",
+      "role": "winner",
+      "total_score": 89.6,
+      "rank": null,
+      "amount": 103350.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南鸿蒙生物科技有限公司",
+      "role": "participant",
+      "total_score": 85.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南鑫百诺生物科技有限公司",
+      "role": "participant",
+      "total_score": 84.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "announcement_id": "t20260409_26381826",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市蜂巢环境艺术设计工程有限公司）.pdf",
+  "note": "单包21条明细。HTML标的信息表21行无金额，单价/数量/总价取自附件报价明细表（21条之和1,915,096.30元=总中标金额191.5096万元，单价×数量逐条吻合）。HTML标的信息表行序与附件序号1-21不同，items按附件报价明细表序号排列，item_no取附件序号。category取HTML品目名称列'广告宣传服务'（概要品目列空）。HTML品目号列全为1-1，故item_no用附件序号。需视觉核验：'二级方向指示标识牌'HTML服务范围'其他区域1个、渔人码头1个'与附件数量20(个)明显不符（其余各条服务范围个数之和均与附件数量一致），且总量之和经数学验证为20正确，疑HTML该行范围描述有误；附件单价'122726.3'对应总价122,726.30元已核。复核：21条item与附件逐行核对一致，求和=1,915,096.30=中标金额，单价×数量全吻合；9条bidder与评分表一致；通过。",
+  "project": {
+    "buyer": "广州市番禺区石楼镇人民政府",
+    "project_name": "石楼镇海鸥岛标识系统及导览设施采购项目",
+    "total_amount": 1915096.3,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "石楼镇海鸥岛标识系统及导览设施采购项目",
+        "winner": "深圳市蜂巢环境艺术设计工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "广告宣传服务",
+      "item_name": "一级方向指示标识牌",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 16000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "广告宣传服务",
+      "item_name": "一级标识牌（字体）",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 36000.0,
+      "total_price": 72000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "广告宣传服务",
+      "item_name": "二级方向指示标识牌",
+      "brand": null,
+      "model": null,
+      "quantity": 20,
+      "unit": "个",
+      "unit_price": 9800.0,
+      "total_price": 196000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "广告宣传服务",
+      "item_name": "二级导览总图和节点介绍",
+      "brand": null,
+      "model": null,
+      "quantity": 9,
+      "unit": "个",
+      "unit_price": 28500.0,
+      "total_price": 256500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "广告宣传服务",
+      "item_name": "三级景点介绍牌",
+      "brand": null,
+      "model": null,
+      "quantity": 31,
+      "unit": "个",
+      "unit_price": 2620.0,
+      "total_price": 81220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "广告宣传服务",
+      "item_name": "渔人码头公园入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 43500.0,
+      "total_price": 130500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "广告宣传服务",
+      "item_name": "游客中心+渔人码头海鸥公仔小鸥",
+      "brand": null,
+      "model": null,
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 28000.0,
+      "total_price": 140000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "广告宣传服务",
+      "item_name": "合兴村露营公园小欧几何座椅",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 46000.0,
+      "total_price": 46000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "广告宣传服务",
+      "item_name": "城市家具（英文座椅）",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 25000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "广告宣传服务",
+      "item_name": "合兴村海钓小鸥景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "广告宣传服务",
+      "item_name": "合兴驿站营地入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "广告宣传服务",
+      "item_name": "江兴村露营公园入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "广告宣传服务",
+      "item_name": "红树林湿地公园入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 38000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "广告宣传服务",
+      "item_name": "南沙大桥露营公园入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 38000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": "广告宣传服务",
+      "item_name": "相框小欧",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 28000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": "广告宣传服务",
+      "item_name": "反走私公园入口景观小品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 32000.0,
+      "total_price": 32000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": "广告宣传服务",
+      "item_name": "方向指示牌",
+      "brand": null,
+      "model": null,
+      "quantity": 25,
+      "unit": "个",
+      "unit_price": 7200.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": "广告宣传服务",
+      "item_name": "环岛骑行指示牌",
+      "brand": null,
+      "model": null,
+      "quantity": 20,
+      "unit": "个",
+      "unit_price": 7150.0,
+      "total_price": 143000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "19",
+      "category": "广告宣传服务",
+      "item_name": "卫生间指示标识",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 900.0,
+      "total_price": 5400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "20",
+      "category": "广告宣传服务",
+      "item_name": "停车场标识",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 12250.0,
+      "total_price": 36750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "21",
+      "category": "广告宣传服务",
+      "item_name": "IP方案艺术咨询服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 122726.3,
+      "total_price": 122726.3
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市蜂巢环境艺术设计工程有限公司",
+      "role": "winner",
+      "total_score": 87.98,
+      "rank": 1,
+      "amount": 1915096.3
+    },
+    {
+      "package_no": "1",
+      "name": "广州市火石公共导向标识系统设计有限公司",
+      "role": "participant",
+      "total_score": 83.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州博纵广告有限公司",
+      "role": "participant",
+      "total_score": 83.64,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市伟圣实业有限公司",
+      "role": "participant",
+      "total_score": 83.14,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "尊创科技集团有限公司",
+      "role": "participant",
+      "total_score": 82.41,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "安徽中谋环境设计有限公司",
+      "role": "participant",
+      "total_score": 81.57,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "苏州鑫远标识有限公司",
+      "role": "participant",
+      "total_score": 80.19,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市泊野设计有限公司",
+      "role": "participant",
+      "total_score": 65.79,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东永升园林雕塑有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

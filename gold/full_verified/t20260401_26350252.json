@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260401_26350252",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表([1]).pdf,分项报价表([2]).pdf",
+  "note": "两个采购包（包1、包3）均由中国移动通信集团广东有限公司中标。品目取公告概要完整分类路径「服务/电信和其他信息传输服务/电信服务/基础电信服务」，两包item共用。包号来源：HTML表格1服务名称列明示「采购包1/采购包3」，附件分项报价品目号1-1/3-1佐证。附件原zip容器被跳过，但解包后两份分项报价表已解析，单价/数量为原文明示（数量1项、单价=总价）。包1明细532,012元+包3明细161,460元=693,472元=总中标金额69.3472万元，数学一致。评分表分属两包：表格2为包1（中国移动报价532,012对应包1金额）、表格3为包3（中国移动报价161,460对应包3金额）；rank取评分排名列（名次列广电为「-」）。中国广电在包1为评分排名3、包3为评分排名2，联通反之，均按各包原文填写。",
+  "project": {
+    "buyer": "中国人民银行广东省分行",
+    "project_name": "中国人民银行广东省分行省内网络专线租赁服务项目（二次）",
+    "total_amount": 693472.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1：广州-地市长途16M OTN、省分行机关互联网和省政务外网主线路",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "采购包3：广州-地市长途（含本地）8M OTN主线路",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "广州-地市长途16M OTN、省分行机关互联网和省政务外网主线路",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 532012.0,
+      "total_price": 532012.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "服务/电信和其他信息传输服务/电信服务/基础电信服务",
+      "item_name": "广州-地市长途（含本地）8M OTN主线路",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 161460.0,
+      "total_price": 161460.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 83.5,
+      "rank": 1,
+      "amount": 532012.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "participant",
+      "total_score": 82.86,
+      "rank": 2,
+      "amount": 816000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国广电网络股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 64.96,
+      "rank": 3,
+      "amount": 820180.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 98.5,
+      "rank": 1,
+      "amount": 161460.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国广电网络股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 81.08,
+      "rank": 2,
+      "amount": 344000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司广东省分公司",
+      "role": "participant",
+      "total_score": 59.79,
+      "rank": 3,
+      "amount": 351272.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

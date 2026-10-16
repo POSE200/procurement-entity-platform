@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260811_27115675",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（公告标题注明采购包1；附件『包1(教学仪器)』）。HTML标的信息表只有品目/品牌/规格型号/数量，无单价总价，价格取自中标人投标（响应）报价明细表.pdf：1,637,961.00+545,022.00=2,182,983=中标金额2,182,983.00元，数量1.00(套)×单价=总价吻合。制造商信息：激光调制及热物性测试系统由昊远精测光电科技（上海）有限公司制造，低碳能源与人工环境监测实验系统由山东高狮智能科技有限公司制造（本国产品声明函）。评分表得分排名/推荐排名列空→rank=null。招标文件预算/最高限价2,200,000（分项1,650,000/550,000）为限价非成交价，未填入gold。OCR疑点（需视觉核验）：报价明细表数字分栏错位（1,63/7,96/1.00/00拼接为1,637,961.00元）；包(1)_开标（报价）一览表与包(1)_投标（响应）报价明细表为空白模板（仅表头无数据），有效数据以『投标（响应）报价明细表.pdf』为准。",
+  "project": {
+    "buyer": "山东建筑大学",
+    "project_name": "山东建筑大学人工环境与低碳能源山东省工程研究中心子平台",
+    "total_amount": 2182983.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "教学仪器",
+        "winner": "山东高狮智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "自动化仪表",
+      "item_name": "激光调制及热物性测试系统",
+      "brand": "昊远精测",
+      "model": "New-Horizons ONE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1637961.0,
+      "total_price": 1637961.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "自动化仪表",
+      "item_name": "低碳能源与人工环境监测实验系统",
+      "brand": "高狮",
+      "model": "GSRN-2000G",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 545022.0,
+      "total_price": 545022.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东高狮智能科技有限公司",
+      "role": "winner",
+      "total_score": 90.57,
+      "rank": null,
+      "amount": 2182983.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南鑫诚信息技术有限公司",
+      "role": "participant",
+      "total_score": 88.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东德元网络科技有限公司",
+      "role": "participant",
+      "total_score": 88.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东邦辉科技开发有限公司",
+      "role": "participant",
+      "total_score": 83.81,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

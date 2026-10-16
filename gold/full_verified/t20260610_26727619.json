@@ -1,0 +1,294 @@
+{
+  "announcement_id": "t20260610_26727619",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "总中标金额栏为'￥0.000000万'占位值，total_amount=null；实际中标金额 285000.0 元见结果表及附件劳务报酬支付表（中标成交金额285000）。单包项目但全文未明示包号（劳务报酬支付表仅写'分包数量：1个'），package_no=null。分项报价取 HTML 分项报价表（18条，合计恰为285000）；附件投标明细表的'报价/优惠率'列数值与之不符（18条合计292000，疑为优惠前报价），故该列数值未采用、仅采用其序号1-18作item_no并交叉核对名称。服务类无数量/单价线索，quantity/unit_price=null，total_price=分项报价。品目概要空、无品目名称列，category=null。评分表总得分为三评委之和（如262.01），照抄；原文无排名列，rank=null。需视觉核验：附件投标明细表第8/9条名称截断（'…独生子女父'与'母奖励扶助'）与HTML分项表对应关系；附件报价列为何与公告分项报价不一致。复核修正：第8/9条截断系原文两表一致的行拆分（HTML表格4与附件同文），照抄无误；附件'报价/优惠率'列之和292000与中标金额285000不符属原文矛盾（分项表之和恰为285000），保留note说明不改值，无需视觉核验。",
+  "project": {
+    "buyer": "济南高新技术产业开发区管理委员会社会事务部",
+    "project_name": "济南高新区卫生健康系统审计服务项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东国曜会计师事务所（普通合伙）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "老年乡医生活补助项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 22000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "国家基本公共卫生服务补助资金项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 62500.0
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": null,
+      "item_name": "2025年基本药物制度补助资金使用情况",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 23400.0
+    },
+    {
+      "package_no": null,
+      "item_no": "4",
+      "category": null,
+      "item_name": "老年健康与医养结合服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "5",
+      "category": null,
+      "item_name": "2025年严重精神障碍患者救治救助费用",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 11800.0
+    },
+    {
+      "package_no": null,
+      "item_no": "6",
+      "category": null,
+      "item_name": "2025年妇女“两癌”筛查",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6500.0
+    },
+    {
+      "package_no": null,
+      "item_no": "7",
+      "category": null,
+      "item_name": "济南市托育综合服务中心项目社会资本投入部分",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 30800.0
+    },
+    {
+      "package_no": null,
+      "item_no": "8",
+      "category": null,
+      "item_name": "2024年度企业等单位退休独生子女父",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 9800.0
+    },
+    {
+      "package_no": null,
+      "item_no": "9",
+      "category": null,
+      "item_name": "母奖励扶助",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "10",
+      "category": null,
+      "item_name": "济南高新区数字化预防接种门诊管理系统采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "11",
+      "category": null,
+      "item_name": "济南高新区卫生监督制服采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 53000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "12",
+      "category": null,
+      "item_name": "从业人员预防性健康查体项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "13",
+      "category": null,
+      "item_name": "济南高新技术产业开发区管理委员会社会事务部职业健康培训与宣教服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "14",
+      "category": null,
+      "item_name": "关于购买第三方服务充实非营利性医疗机构安全生产项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "15",
+      "category": null,
+      "item_name": "2024年适龄女孩HPV疫苗免费接种项目资金",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "16",
+      "category": null,
+      "item_name": "扩大免疫规划项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": null,
+      "item_no": "17",
+      "category": null,
+      "item_name": "冷链项目维护经费",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "18",
+      "category": null,
+      "item_name": "监督整改服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 39000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东国曜会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": 262.01,
+      "rank": null,
+      "amount": 285000.0
+    },
+    {
+      "package_no": null,
+      "name": "北京中永昭阳会计师事务所（特殊普通合伙）",
+      "role": "participant",
+      "total_score": 254.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东准则会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 243.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东中慧会计师事务所有限公司",
+      "role": "participant",
+      "total_score": 228.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东星诚会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 226.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "济南睿优铭会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 214.85,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

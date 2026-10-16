@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260210_26168218",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "两家中标供应商分属两个标包，但原文未明示标包号，按表格顺序记为 1/2；两包金额合计 3,927,929 元与总中标金额 ￥392.7929 万一致。品目列原文仅给末级名「其他服务」照抄。附件采购文件.doc 未解析（容器拆解后各 XML 均被跳过，唯一图片 image1.jpg 待OCR），分项明细不可得，服务标的不填数量/单价。复核修正：按新口径8，package_no 1/2 系HTML表格顺序推断（原文未明示标包号）属允许层级，保留并于此声明；按新口径9，rank 保持 null（原文无得分排名列，「中标即第1」的推定一律禁止）。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "扬州市蜀冈-瘦西湖风景名胜区管理委员会（机关）",
+    "project_name": "景区“雪亮工程”一期及市公安局2017年技防城建设（景区部分）设备维护项目",
+    "total_amount": 3927929.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "江苏有线数据网络有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "江苏移动信息系统集成有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他服务",
+      "item_name": "景区“雪亮工程”一期及市公安局2017年技防城建设（景区部分）设备维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2164941.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "其他服务",
+      "item_name": "景区“雪亮工程”一期及市公安局2017年技防城建设（景区部分）设备维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1762988.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏有线数据网络有限责任公司",
+      "role": "winner",
+      "total_score": 84.16,
+      "rank": null,
+      "amount": 2164941.0
+    },
+    {
+      "package_no": "2",
+      "name": "江苏移动信息系统集成有限公司",
+      "role": "winner",
+      "total_score": 86.54,
+      "rank": null,
+      "amount": 1762988.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

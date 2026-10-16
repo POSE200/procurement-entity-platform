@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260506_26514795",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "两个合同包：包1中标北京森馥科技股份有限公司696,000元（评审总得分90.99），包2中标浙江国辐环保科技有限公司1,445,000元（98.76），合计2,141,000元与总中标金额￥214.1万一致。包号原文写作『01包/02包』（HTML标的信息表采购标的列与中小企业声明函），package_no取01/02。品目取HTML标的信息表『品目名称』列，原样照抄『C99000000 其他服务』（含编号前缀，未自行删改）；采购标的列原文即写『01包/02包』，item_name照抄。响应报价列被页面模板代码污染（『0}\" class=alignright…』），金额不可读，item的total_price取各包中标金额。附件包(1)/(2)_报价表.pdf只有表头（且表头字被重复水印污染）无数据行，分项明细不可得。中标候选人报价金额（成都西核697,600、杭州湘亭695,000、广东核力1,448,800、北京清环宜境1,446,700）来自评审情况表评审结果栏，填入对应participant的amount；北京瑞森新谱、成都新核泰科、广东龙晟报价未给，amount=null。排名：评审结果栏明示『第一/第二/第三中标候选人』，森馥/国辐=1、西核/核力=2、湘亭/清环宜境=3；瑞森、新核泰科、龙晟未提及，rank=null。需视觉核验：包1评审情况表分数列（40/6/30/5/9.99→90.99）、包2分数列较长易错位。",
+  "project": {
+    "buyer": "四川省辐射环境管理监测中心站",
+    "project_name": "四川省辐射环境自动监测站运行维护服务项目",
+    "total_amount": 2141000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "01包",
+        "winner": "北京森馥科技股份有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "02包",
+        "winner": "浙江国辐环保科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": "C99000000 其他服务",
+      "item_name": "01包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 696000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": "C99000000 其他服务",
+      "item_name": "02包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1445000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京森馥科技股份有限公司",
+      "role": "winner",
+      "total_score": 90.99,
+      "rank": 1,
+      "amount": 696000.0
+    },
+    {
+      "package_no": "01",
+      "name": "杭州湘亭科技有限公司",
+      "role": "participant",
+      "total_score": 62.6,
+      "rank": 3,
+      "amount": 695000.0
+    },
+    {
+      "package_no": "01",
+      "name": "北京瑞森新谱科技股份有限公司",
+      "role": "participant",
+      "total_score": 54.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "01",
+      "name": "成都西核仪器有限公司",
+      "role": "participant",
+      "total_score": 65.56,
+      "rank": 2,
+      "amount": 697600.0
+    },
+    {
+      "package_no": "02",
+      "name": "浙江国辐环保科技有限公司",
+      "role": "winner",
+      "total_score": 98.76,
+      "rank": 1,
+      "amount": 1445000.0
+    },
+    {
+      "package_no": "02",
+      "name": "成都新核泰科科技有限公司",
+      "role": "participant",
+      "total_score": 47.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "02",
+      "name": "北京清环宜境技术有限公司",
+      "role": "participant",
+      "total_score": 55.74,
+      "rank": 3,
+      "amount": 1446700.0
+    },
+    {
+      "package_no": "02",
+      "name": "广东龙晟环保科技有限公司",
+      "role": "participant",
+      "total_score": 49.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "02",
+      "name": "广东核力工程勘察院",
+      "role": "participant",
+      "total_score": 74.73,
+      "rank": 2,
+      "amount": 1448800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

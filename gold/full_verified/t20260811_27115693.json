@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115693",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:监理服务.pdf",
+  "note": "单包（采购包1，公告标题与投标文件『项目包号：采购包1』明示）。中标77000元=总中标金额7.7万。附件监理服务.pdf（OCR扫描）为中标人投标报价明细表：单价77,000.000、数量1.000、最高限价96,400.00、合计77000.00元，据此填单价/数量（unit=项取自招标文件标的表『1.00（项）』）。HTML评分表『得分排名/推荐排名』列为空，所有bidders rank=null（禁止按综合得分排序推定）；未中标三家报价未公布→amount=null。OCR疑点（需视觉核验）：①投标人名称OCR为『山东中信息技术股份有限公司』疑漏『正』字（与HTML山东正中信息技术股份有限公司一致）；②报价明细表数字分栏错位（77,00/0.000/96,40/0.00/1.000需拼接），已按最高限价96400、数量1.000、单价77000解读。",
+  "project": {
+    "buyer": "山东省人民检察院机关",
+    "project_name": "山东省检察机关刑事执行检察标准化与智能化融合建设项目（二）监理与测评",
+    "total_amount": 77000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东正中信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 77000.0,
+      "total_price": 77000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 87.73,
+      "rank": null,
+      "amount": 77000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛赛迪国软信息系统治理有限公司",
+      "role": "participant",
+      "total_score": 78.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东赛宝电子信息工程有限责任公司",
+      "role": "participant",
+      "total_score": 78.54,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊衡星信息工程监理有限公司",
+      "role": "participant",
+      "total_score": 76.22,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

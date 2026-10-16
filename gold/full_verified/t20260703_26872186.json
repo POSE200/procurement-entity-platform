@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260703_26872186",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包项目（采购包1，包号由公告标题、附件『包(1)_』前缀及案例一览表『项目包号：包1』明示）；items明细取自中标人附件投标（响应）报价明细表：86000+130000+86000+180000+92000=574000，合计与HTML中标金额574,000.00元及总中标金额57.4万元一致；概要品目列为空，category取HTML标的信息表品目名称列（评审咨询服务），item_no沿用HTML品目号1-1-1至1-1-5（与附件报价明细行1-5一一对应）；HTML标的信息表无价格列；评分表『得分排名』列值为空，rank一律null；招标文件内嵌的空白报价明细模板（含{供应商响应}占位符）不作为取值来源。",
+  "project": {
+    "buyer": "山东省大数据局",
+    "project_name": "山东省省级政务信息系统项目第三方评估服务（数据部分）",
+    "total_amount": 574000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东正云信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "评审咨询服务",
+      "item_name": "数据资源立项评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 86000.0,
+      "total_price": 86000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "评审咨询服务",
+      "item_name": "数据资源申报评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 130000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "评审咨询服务",
+      "item_name": "数据资源调研与咨询",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 86000.0,
+      "total_price": 86000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "评审咨询服务",
+      "item_name": "数据资源验收评审服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "评审咨询服务",
+      "item_name": "数据资源绩效追踪评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 92000.0,
+      "total_price": 92000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东正云信息科技有限公司",
+      "role": "winner",
+      "total_score": 83.9,
+      "rank": null,
+      "amount": 574000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东云力信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.57,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东巧思智能科技有限公司",
+      "role": "participant",
+      "total_score": 70.68,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "announcement_id": "t20260603_26682633",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:报价明细表(第1轮-13家中标供应商各1份).pdf",
+  "note": "单一来源采购，13个采购包各1家成交（邀请制，无其他投标主体）。概要「品目」列为空，品目取值自各包结果表「品目名称」列=数据加工处理服务。各包附件报价明细表仅1条明细，单价=响应报价、数量1项（系附件明示，非推算）。HTML「评审价格」与「中标（成交）金额」不一致（如包3评审价54000元、成交60000元，包4评审价72000、成交80000，疑为小微企业价格扣除），bidders.amount取中标（成交）金额；得分排名/推荐排名列为空。各包报价之和2944324元与总中标金额294.4324万元一致。评审劳务报酬支付表.png为待OCR扫描件，但与标的明细无关。复核修正：按 G1 口径，category 保留——品目取自各包标的信息表「品目名称」列，有出处即照抄，非附件分节标题，符合新规范。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "枣庄学院",
+    "project_name": "枣庄学院图书馆2026年数字资源采购项目",
+    "total_amount": 2944324.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "移动图书馆、超星电子图书云平台、名师讲坛、发现",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "新东方多媒体学习库",
+        "winner": "北京布局未来科技发展有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "高校图书馆考研阅览室学习资源平台",
+        "winner": "北京晨星创投科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "鼎秀古籍全文检索平台V2.0",
+        "winner": "北京翰海博雅科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "新学术外文高影响力期刊整合服务平台",
+        "winner": "北京盈科千信科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "Springer电子期刊数据库及EBSCO ASP+BSP数据库",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "国道外文数据库",
+        "winner": "北京中加国道科技有限责任公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "书香中国数据库",
+        "winner": "湖北中文在线数字出版有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": "worldlib excel国外优秀学术论文平台",
+        "winner": "济南昂融信息技术有限公司"
+      },
+      {
+        "package_no": "10",
+        "package_name": "中国知网系列数据库",
+        "winner": "山西同方知网数字出版技术有限公司"
+      },
+      {
+        "package_no": "11",
+        "package_name": "万方数据知识服务平台",
+        "winner": "上海万方数据有限公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": "SCIE数据库、InCites+ESI数据库和IEEE ASPP数据库",
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "13",
+        "package_name": "中科多媒体教育资源数据库",
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数据加工处理服务",
+      "item_name": "移动图书馆、超星电子图书云平台、名师讲坛、发现",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "数据加工处理服务",
+      "item_name": "新东方多媒体学习库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "数据加工处理服务",
+      "item_name": "高校图书馆考研阅览室学习资源平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "数据加工处理服务",
+      "item_name": "鼎秀古籍全文检索平台V2.0",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "数据加工处理服务",
+      "item_name": "新学术外文高影响力期刊整合服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 49800.0,
+      "total_price": 49800.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "数据加工处理服务",
+      "item_name": "Springer电子期刊数据库及EBSCO ASP+BSP数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 260500.0,
+      "total_price": 260500.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "7-1",
+      "category": "数据加工处理服务",
+      "item_name": "国道外文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "8-1",
+      "category": "数据加工处理服务",
+      "item_name": "书香中国数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "9-1",
+      "category": "数据加工处理服务",
+      "item_name": "worldlib excel国外优秀学术论文平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "10",
+      "item_no": "10-1",
+      "category": "数据加工处理服务",
+      "item_name": "中国知网系列数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 700000.0,
+      "total_price": 700000.0
+    },
+    {
+      "package_no": "11",
+      "item_no": "11-1",
+      "category": "数据加工处理服务",
+      "item_name": "万方数据知识服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "12",
+      "item_no": "12-1",
+      "category": "数据加工处理服务",
+      "item_name": "SCIE数据库、InCites+ESI数据库和IEEE ASPP数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1054024.0,
+      "total_price": 1054024.0
+    },
+    {
+      "package_no": "13",
+      "item_no": "13-1",
+      "category": "数据加工处理服务",
+      "item_name": "中科多媒体教育资源数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 300000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京布局未来科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京晨星创投科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "4",
+      "name": "北京翰海博雅科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 80000.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京盈科千信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 49800.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 260500.0
+    },
+    {
+      "package_no": "7",
+      "name": "北京中加国道科技有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "8",
+      "name": "湖北中文在线数字出版有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "9",
+      "name": "济南昂融信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 50000.0
+    },
+    {
+      "package_no": "10",
+      "name": "山西同方知网数字出版技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 700000.0
+    },
+    {
+      "package_no": "11",
+      "name": "上海万方数据有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 120000.0
+    },
+    {
+      "package_no": "12",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1054024.0
+    },
+    {
+      "package_no": "13",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 90000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

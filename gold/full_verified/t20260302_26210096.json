@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260302_26210096",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "附件为中小企业声明函（牵头单位大型企业不适用、成员武汉智图小型企业）及联合体协议，不提供字段值；'报价明细附件.pdf'被跳过（未知类型html）不可见。主要标的信息表2条标的共用品目号1-1、金额(元)列为空→各item金额/数量/单价=null；品目取自品目名称列（概要品目列空）。评分表给出3家供应商得分与排名。中标人为联合体（原样保留写法）。",
+  "project": {
+    "buyer": "广州市自然资源利用发展中心(广州市房地产估价管理所)",
+    "project_name": "智慧地价数据治理建库及技术支撑采购项目",
+    "total_amount": 2040000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧地价数据治理建库及技术支撑采购项目",
+        "winner": "广州市城市规划勘测设计研究院有限公司(联合体成员：武汉智图科技有限责任公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数据加工处理服务",
+      "item_name": "技术支撑",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数据加工处理服务",
+      "item_name": "数据治理建库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市城市规划勘测设计研究院有限公司(联合体成员：武汉智图科技有限责任公司)",
+      "role": "winner",
+      "total_score": 93.66,
+      "rank": 1,
+      "amount": 2040000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东慧图资环科技发展有限公司",
+      "role": "participant",
+      "total_score": 73.54,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州仓实信息科技有限公司",
+      "role": "participant",
+      "total_score": 67.99,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

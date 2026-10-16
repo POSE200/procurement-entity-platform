@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27121227",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广科通立（广东）数据服务有限公司）.pdf",
+  "note": "概要品目列空，品目取自HTML标的信息表品目名称列；HTML标的表金额列为空，单价/数量/总价取自附件报价明细附件（单价1,045,000元×数量1项=总价1,045,000元，与总成交金额一致）；rank取自HTML评分表'得分排名'列（1-4名）。",
+  "project": {
+    "buyer": "广东省公路事务中心",
+    "project_name": "全省公路网相关信息化系统业务运营及机房等基础设施服务（2026年）",
+    "total_amount": 1045000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "全省公路网相关信息化系统业务运营及机房等基础设施服务（2026年）",
+        "winner": "广科通立（广东）数据服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "全省公路网相关信息化系统业务运营及机房等基础设施服务（2026年）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1045000.0,
+      "total_price": 1045000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广科通立（广东）数据服务有限公司",
+      "role": "winner",
+      "total_score": 87.67,
+      "rank": 1,
+      "amount": 1045000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市图之灵计算机技术有限公司",
+      "role": "participant",
+      "total_score": 40.29,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "赛讯数科（广东）技术有限公司",
+      "role": "participant",
+      "total_score": 34.43,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东鼎尧科技有限公司",
+      "role": "participant",
+      "total_score": 32.69,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

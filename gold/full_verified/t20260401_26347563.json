@@ -1,0 +1,87 @@
+{
+  "announcement_id": "t20260401_26347563",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:G26041中标人投标分项报价表（第2包）.pdf,G26041中标人投标分项报价表（第3包）.pdf",
+  "note": "复核修正：包3两条分项的 unit 原稿填「项」无原文出处，改为null（分项报价表数量列仅给1，无计量单位列）。第2包（配套设备）由北京太极信息系统技术有限公司中标、第3包（政务云服务）由中国联合网络通信有限公司北京市分公司中标，包归属依据附件分项报价表：第2包表内投标人名称为太极（工作站418台×5,080元=2,123,440元）、第3包表内为政务云服务（总价4,311,313.14元=联通431.131314万元）。注意：HTML主要标的信息表将第2包工作站写为数量1、单价=总价212.344万元，与附件分项报价表（单价5080×数量418）冲突，按「附件为准」采用附件值。包3分项报价表明细为2条（政务云基础服务4,055,113.14元、政务云相关服务256,200元，各自单价×数量=合价），附件下页另有按CPU/GB/账号等计量单位的服务规格明细18条，其合计经验算分别等于两条分项金额（4,055,113.14与256,200），gold按分项报价表2条输出以避免与汇总重复计价。公告概要品目为空且HTML标的表无品目列，category=null。包1未在本公告范围。两包金额之和4,311,313.14+2,123,440=6,434,753.14元=总中标金额643.475314万元，数学一致。原文未给排名，rank=null；未中标供应商名单不可见，bidders仅两名中标人。",
+  "project": {
+    "buyer": "北京市高级人民法院(本级)",
+    "project_name": "北京市高级人民法院新审判业务楼配套信息化工程项目（集采）",
+    "total_amount": 6434753.14,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "新审判业务楼配套信息化工程项目-配套设备（集采部分）",
+        "winner": "北京太极信息系统技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "新审判业务楼配套信息化工程项目-政务云基础服务（资源）及云上其他相关服务",
+        "winner": "中国联合网络通信有限公司北京市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "工作站",
+      "brand": "长城",
+      "model": "世恒D80F3",
+      "quantity": 418,
+      "unit": "台",
+      "unit_price": 5080.0,
+      "total_price": 2123440.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "政务云基础服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 4055113.14,
+      "total_price": 4055113.14
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "政务云相关服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 256200.0,
+      "total_price": 256200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "北京太极信息系统技术有限公司",
+      "role": "winner",
+      "total_score": 93.6,
+      "rank": null,
+      "amount": 2123440.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司北京市分公司",
+      "role": "winner",
+      "total_score": 94.61,
+      "rank": null,
+      "amount": 4311313.14
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

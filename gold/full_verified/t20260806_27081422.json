@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27081422",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（佛山市南海区金盾电子工程有限公司）.pdf",
+  "note": "品目取自标的信息表品目名称列（概要品目列为空）；报价明细附件单价2,487,000×1项与中标金额2,487,000元一致。",
+  "project": {
+    "buyer": "佛山市南海区看守所",
+    "project_name": "南海区公安监管场所监控与管理信息系统维护项目",
+    "total_amount": 2487000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "南海区公安监管场所监控与管理信息系统维护项目",
+        "winner": "佛山市南海区金盾电子工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "南海区公安监管场所监控与管理信息系统维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2487000.0,
+      "total_price": 2487000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "佛山市南海区金盾电子工程有限公司",
+      "role": "winner",
+      "total_score": 97.58,
+      "rank": 1,
+      "amount": 2487000.0
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市新东方电子技术工程有限公司",
+      "role": "participant",
+      "total_score": 77.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广宇科技发展有限公司",
+      "role": "participant",
+      "total_score": 76.31,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

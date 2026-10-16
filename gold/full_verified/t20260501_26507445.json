@@ -1,0 +1,482 @@
+{
+  "announcement_id": "t20260501_26507445",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:投标（响应）报价明细表(1).pdf,投标（响应）报价明细表(2).pdf,投标（响应）报价明细表(3).pdf,投标（响应）报价明细表(4).pdf,投标（响应）报价明细表(5).pdf,投标（响应）报价明细表(6).pdf,投标（响应）报价明细表(7).pdf,投标（响应）报价明细表(8).pdf,投标（响应）报价明细表(9).pdf",
+  "note": "本项目为 9 个采购包分拆成交（每包 1 家中标人），package_no 取自附件开标记录表.pdf 逐节明示的「采购包号：1~9」（各节报价汇总的标的名称与中标表表格1-9 按序一一对应），package_name 取明细表（表格10-18）「采购标的」列，与各报价明细附件标注的「采购包」名称一致。每包 1 条 item，单价/数量/单位取自对应供应商的投标（响应）报价明细表附件：单价=包中标金额、数量=1.0000、计量单位=项（单价×数量=总价，逐一核对一致，属原文可互推的两个字段故照填）；item_no 取附件报价明细表内序号 1（每包仅 1 条）。品目：公告概要「品目」列与明细表「品目编号及品目名称」列均为空，category 全 null。金额自查：9 包 145450+142877+145600+92151+88900+72075+347185+95900+80500=1210638 元，与「总中标金额 ￥121.063800 万元」一致。bidders 按评分表（表格20-28）逐包逐主体收录共 38 条：9 张评分表与 9 个包按顺序对应，同一供应商在多个包出现即多条（得分随包不同，如德州惠德物业管理有限公司 4 条）；「得分排名」「推荐排名」两列全部为空，rank 全 null；评分表只给综合得分，participant 的投标报价不可见——开标记录表.pdf 已通过OCR补齐：各家投标报价已填入 bidders.amount（包1：盛宏145450/惠德145400/一明142588/宇成143000；包2：盛宏142800/惠德145700/一明142877/宇成144300；包3：御景146720/如成148520/银罡145600/海昌148500/春景147056；包4：御景92750/如成92151/银罡93100/海昌94000/春景93800；包5：御景88900/如成90718/银罡89250/海昌90700/春景90300；包6：鸿衢72750/兆烁73000/衡奕通72075；包7：嘉汇347185/广晟德348185/聚阳348685/润朵350000；包8：惠德97600/佳德97800/宏瑞95900/九久花木97000；包9：惠德80500/佳德81450/宏瑞80900/九久花木81000）。OCR个别字可疑但均可用上下文校正：包1 一明被识作「一朝」、报价142588.00与同包他家差距合理予以采信；包3 海昌被识作「海晶」；包6 衡奕通被识作「东街通建设项国管理」；包8/9 九久花木行换行错位，均按供应商全称归位。业绩.pdf、中小微企业声明函.pdf、劳务报酬支付表.pdf 已OCR，与标的明细无关；报价明细附件.zip 为压缩容器但其中解包出的 9 份报价明细 PDF 均解析成功。附件报价明细表(1).pdf 抽取文本缺表头「采购包/投标人名称」行，其投标人依落款公章「德州惠德物业管理有限公司」及标的名称（西岸大学路桥北管理范围界至新河桥南管理范围界秩序管理，对应表格9）认定。评分表存在个别包内最高分者非中标人的情形（如包2 表格21 中德州盛宏 93.80 高于中标人一明物业 91.19，包9 表格28 中德州宏瑞 94.15 高于中标人惠德 93.40），按原文照录不作修改。复核修正：按 G4 口径，9 个 package 及对应 items 的 package_no 由 null 改为 1-9，出处为附件开标记录表.pdf 各节明示的「采购包号：N」。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "德州市数字化城市服务中心",
+    "project_name": "2026年德州市数字化城市服务中心锦绣川景区绿化养护保洁管理项目",
+    "total_amount": 1210638.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "西岸东风桥桥南（不含桥下）—于官屯大桥绿地养护保洁",
+        "winner": "德州盛宏市政工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "西岸东方红桥（不含桥下）—大学路桥北管理范围界绿地养护保洁",
+        "winner": "德州市德城区一明物业管理有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "东岸新河桥南管理范围界—三八桥（含桥下）绿地养护保洁",
+        "winner": "山东银罡建设项目管理有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "东岸三八桥（不含桥下）—大学路桥北管理范围界绿地养护保洁",
+        "winner": "山东如成建设集团有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "东岸新河桥南—于官屯大桥绿地养护保洁",
+        "winner": "德州御景园林有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "景区内公厕保洁",
+        "winner": "山东衡奕通建设项目管理有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "西岸东风桥（含桥下）—东方红桥（含桥下）管理范围界绿地养护保洁",
+        "winner": "德州嘉汇物业服务有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "东岸大学路桥北管理范围界至新河桥南管理范围界秩序管理",
+        "winner": "德州宏瑞物业管理有限公司"
+      },
+      {
+        "package_no": "9",
+        "package_name": "西岸大学路桥北管理范围界至新河桥南管理范围界秩序管理",
+        "winner": "德州惠德物业管理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "西岸东风桥桥南（不含桥下）—于官屯大桥绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 145450.0,
+      "total_price": 145450.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "西岸东方红桥（不含桥下）—大学路桥北管理范围界绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 142877.0,
+      "total_price": 142877.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "东岸新河桥南管理范围界—三八桥（含桥下）绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 145600.0,
+      "total_price": 145600.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "1",
+      "category": null,
+      "item_name": "东岸三八桥（不含桥下）—大学路桥北管理范围界绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 92151.0,
+      "total_price": 92151.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "1",
+      "category": null,
+      "item_name": "东岸新河桥南—于官屯大桥绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 88900.0,
+      "total_price": 88900.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "1",
+      "category": null,
+      "item_name": "景区内公厕保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 72075.0,
+      "total_price": 72075.0
+    },
+    {
+      "package_no": "7",
+      "item_no": "1",
+      "category": null,
+      "item_name": "西岸东风桥（含桥下）—东方红桥（含桥下）管理范围界绿地养护保洁",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 347185.0,
+      "total_price": 347185.0
+    },
+    {
+      "package_no": "8",
+      "item_no": "1",
+      "category": null,
+      "item_name": "东岸大学路桥北管理范围界至新河桥南管理范围界秩序管理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 95900.0,
+      "total_price": 95900.0
+    },
+    {
+      "package_no": "9",
+      "item_no": "1",
+      "category": null,
+      "item_name": "西岸大学路桥北管理范围界至新河桥南管理范围界秩序管理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 80500.0,
+      "total_price": 80500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "德州盛宏市政工程有限公司",
+      "role": "winner",
+      "total_score": 93.6,
+      "rank": null,
+      "amount": 145450.0
+    },
+    {
+      "package_no": "1",
+      "name": "德州宇成物业管理有限公司",
+      "role": "participant",
+      "total_score": 91.57,
+      "rank": null,
+      "amount": 143000.0
+    },
+    {
+      "package_no": "1",
+      "name": "德州市德城区一明物业管理有限公司",
+      "role": "participant",
+      "total_score": 90.8,
+      "rank": null,
+      "amount": 142588.0
+    },
+    {
+      "package_no": "1",
+      "name": "德州惠德物业管理有限公司",
+      "role": "participant",
+      "total_score": 79.21,
+      "rank": null,
+      "amount": 145400.0
+    },
+    {
+      "package_no": "2",
+      "name": "德州市德城区一明物业管理有限公司",
+      "role": "winner",
+      "total_score": 91.19,
+      "rank": null,
+      "amount": 142877.0
+    },
+    {
+      "package_no": "2",
+      "name": "德州宇成物业管理有限公司",
+      "role": "participant",
+      "total_score": 90.9,
+      "rank": null,
+      "amount": 144300.0
+    },
+    {
+      "package_no": "2",
+      "name": "德州惠德物业管理有限公司",
+      "role": "participant",
+      "total_score": 79.4,
+      "rank": null,
+      "amount": 145700.0
+    },
+    {
+      "package_no": "2",
+      "name": "德州盛宏市政工程有限公司",
+      "role": "participant",
+      "total_score": 93.8,
+      "rank": null,
+      "amount": 142800.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东银罡建设项目管理有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": null,
+      "amount": 145600.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东如成建设集团有限公司",
+      "role": "participant",
+      "total_score": 92.4,
+      "rank": null,
+      "amount": 148520.0
+    },
+    {
+      "package_no": "3",
+      "name": "德州御景园林有限公司",
+      "role": "participant",
+      "total_score": 91.92,
+      "rank": null,
+      "amount": 146720.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东海昌建设工程股份有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": null,
+      "amount": 148500.0
+    },
+    {
+      "package_no": "3",
+      "name": "德州春景园林建设有限公司",
+      "role": "participant",
+      "total_score": 88.9,
+      "rank": null,
+      "amount": 147056.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东如成建设集团有限公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": null,
+      "amount": 92151.0
+    },
+    {
+      "package_no": "4",
+      "name": "德州御景园林有限公司",
+      "role": "participant",
+      "total_score": 91.94,
+      "rank": null,
+      "amount": 92750.0
+    },
+    {
+      "package_no": "4",
+      "name": "德州春景园林建设有限公司",
+      "role": "participant",
+      "total_score": 88.82,
+      "rank": null,
+      "amount": 93800.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东海昌建设工程股份有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": null,
+      "amount": 94000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东银罡建设项目管理有限公司",
+      "role": "participant",
+      "total_score": 94.1,
+      "rank": null,
+      "amount": 93100.0
+    },
+    {
+      "package_no": "5",
+      "name": "德州御景园林有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 88900.0
+    },
+    {
+      "package_no": "5",
+      "name": "德州春景园林建设有限公司",
+      "role": "participant",
+      "total_score": 88.84,
+      "rank": null,
+      "amount": 90300.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东海昌建设工程股份有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": null,
+      "amount": 90700.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东如成建设集团有限公司",
+      "role": "participant",
+      "total_score": 92.4,
+      "rank": null,
+      "amount": 90718.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东银罡建设项目管理有限公司",
+      "role": "participant",
+      "total_score": 94.16,
+      "rank": null,
+      "amount": 89250.0
+    },
+    {
+      "package_no": "6",
+      "name": "山东衡奕通建设项目管理有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": null,
+      "amount": 72075.0
+    },
+    {
+      "package_no": "6",
+      "name": "山东鸿衢市政工程有限公司",
+      "role": "participant",
+      "total_score": 84.71,
+      "rank": null,
+      "amount": 72750.0
+    },
+    {
+      "package_no": "6",
+      "name": "德州兆烁园林绿化工程有限公司",
+      "role": "participant",
+      "total_score": 82.27,
+      "rank": null,
+      "amount": 73000.0
+    },
+    {
+      "package_no": "7",
+      "name": "德州嘉汇物业服务有限公司",
+      "role": "winner",
+      "total_score": 92.2,
+      "rank": null,
+      "amount": 347185.0
+    },
+    {
+      "package_no": "7",
+      "name": "德州润朵市政园林有限公司",
+      "role": "participant",
+      "total_score": 82.52,
+      "rank": null,
+      "amount": 350000.0
+    },
+    {
+      "package_no": "7",
+      "name": "山东广晟德生态环境工程有限公司",
+      "role": "participant",
+      "total_score": 81.37,
+      "rank": null,
+      "amount": 348185.0
+    },
+    {
+      "package_no": "7",
+      "name": "山东聚阳园林绿化工程有限公司",
+      "role": "participant",
+      "total_score": 80.76,
+      "rank": null,
+      "amount": 348685.0
+    },
+    {
+      "package_no": "8",
+      "name": "德州宏瑞物业管理有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": null,
+      "amount": 95900.0
+    },
+    {
+      "package_no": "8",
+      "name": "德州惠德物业管理有限公司",
+      "role": "participant",
+      "total_score": 93.23,
+      "rank": null,
+      "amount": 97600.0
+    },
+    {
+      "package_no": "8",
+      "name": "德州佳德物业管理有限公司",
+      "role": "participant",
+      "total_score": 81.81,
+      "rank": null,
+      "amount": 97800.0
+    },
+    {
+      "package_no": "8",
+      "name": "德州九久花木有限公司",
+      "role": "participant",
+      "total_score": 80.89,
+      "rank": null,
+      "amount": 97000.0
+    },
+    {
+      "package_no": "9",
+      "name": "德州惠德物业管理有限公司",
+      "role": "winner",
+      "total_score": 93.4,
+      "rank": null,
+      "amount": 80500.0
+    },
+    {
+      "package_no": "9",
+      "name": "德州佳德物业管理有限公司",
+      "role": "participant",
+      "total_score": 81.88,
+      "rank": null,
+      "amount": 81450.0
+    },
+    {
+      "package_no": "9",
+      "name": "德州九久花木有限公司",
+      "role": "participant",
+      "total_score": 80.94,
+      "rank": null,
+      "amount": 81000.0
+    },
+    {
+      "package_no": "9",
+      "name": "德州宏瑞物业管理有限公司",
+      "role": "participant",
+      "total_score": 94.15,
+      "rank": null,
+      "amount": 80900.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "announcement_id": "t20260511_26547896",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "表格1未明示中标人对应标段，按中标金额与各标段金额一一对应匹配（一标段=自然资源部第一航测遥感院、二标段=武汉天际航信息科技股份有限公司、三标段=重庆市测绘科学技术研究院）；三张得分表与标段的对应亦为推断（各表最高分者恰为该标段中标人，无明示标注），rank原文未明示一律null；公告概要品目列为代码C19040000（三个相同代码，无逐项对应），品目按规范退用HTML品目名称列\"测绘服务\"；数量列仅有数字1无单位，unit=null；各包金额之和3380300元=总中标金额；附件招标文件仅前30页且两份因超长丢弃，但中标信息以HTML为准不受影响。",
+  "project": {
+    "buyer": "宁夏回族自治区测绘地理信息院",
+    "project_name": "宁夏回族自治区测绘地理信息院2026年宁夏城市实景三维更新项目",
+    "total_amount": 3380300.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": null,
+        "winner": "自然资源部第一航测遥感院"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": null,
+        "winner": "武汉天际航信息科技股份有限公司"
+      },
+      {
+        "package_no": "三标段",
+        "package_name": null,
+        "winner": "重庆市测绘科学技术研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "2026年宁夏城市实景三维更新项目（一标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1035000.0,
+      "total_price": 1035000.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "2026年宁夏城市实景三维更新项目（二标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1698000.0,
+      "total_price": 1698000.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "2026年宁夏城市实景三维更新项目（三标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 647300.0,
+      "total_price": 647300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "自然资源部第一航测遥感院",
+      "role": "winner",
+      "total_score": 81.76,
+      "rank": null,
+      "amount": 1035000.0
+    },
+    {
+      "package_no": "一标段",
+      "name": "武汉天际航信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 79.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "银川市勘察测绘院",
+      "role": "participant",
+      "total_score": 76.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "辽宁宏图创展测绘勘察有限公司",
+      "role": "participant",
+      "total_score": 78.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "广东南方数码科技股份有限公司",
+      "role": "participant",
+      "total_score": 72.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "自然资源部重庆测绘院",
+      "role": "participant",
+      "total_score": 76.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "一标段",
+      "name": "陕西鑫雅图空间信息技术有限公司",
+      "role": "participant",
+      "total_score": 67.41,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "武汉天际航信息科技股份有限公司",
+      "role": "winner",
+      "total_score": 81.6,
+      "rank": null,
+      "amount": 1698000.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "兰州天瑞测绘工程有限公司",
+      "role": "participant",
+      "total_score": 75.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "二标段",
+      "name": "内蒙古精功测绘科技发展有限责任公司",
+      "role": "participant",
+      "total_score": 77.91,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "重庆市测绘科学技术研究院",
+      "role": "winner",
+      "total_score": 76.98,
+      "rank": null,
+      "amount": 647300.0
+    },
+    {
+      "package_no": "三标段",
+      "name": "自然资源部第一地理信息制图院（陕西省第六测绘地理信息工程院）",
+      "role": "participant",
+      "total_score": 75.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "自然资源部重庆测绘院",
+      "role": "participant",
+      "total_score": 75.56,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

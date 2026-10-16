@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260709_26904316",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件正文.pdf",
+  "note": "竞争性磋商成交公告，2个包。HTML成交情况表仅捕获到A包（包号豫政采(2)20260916-1）一行：东孚（西安）教育科技有限公司，成交金额686000.00元，评审总得分93.29分；B包（包号豫政采(2)20260916-2，B包-专业群课程思政示范课与工程素养课建设及推广项目）的成交供应商与成交金额在包内不可见（疑HTML表格截断），故B包winner=null、对应item的total_price=null——按总成交金额￥108.100000万元-686000=395000元可推算B包成交额，但该推算非“单价×数量唯一互推”，仅记录于本note不填入字段，需视觉核验原网页确认B包成交人。品目列空、标的信息表（名称/服务范围/服务要求/服务时间/服务标准）无品目名称列，category=null。数量/单价无线索不填。评审总得分93.29原文明示；原文无排名列或“第N成交候选人”，rank=null。附件招标文件正文.pdf仅前30页（截断于评审方法），提供包号/包名称/预算（A包80万、B包40万）。终审核验：查原始HTML（tmp/html/t20260709_26904316.html）成交情况表完整，B包行在原文明示——豫政采(2)20260916-2 成交供应商为新华网股份有限公司（地址：北京市西城区德胜门外大街83号9层909-A01房间），中标金额395,000.00元，评审总得分86.96分；686000+395000=1081000 与总成交金额￥108.100000万元一致，数学自查通过。已补填B包 winner/amount/score，证据闭合，status=verified。",
+  "project": {
+    "buyer": "黄河水利职业技术大学",
+    "project_name": "黄河水利职业技术大学测绘地理信息技术专业群数智课程与新形态教材建设项目",
+    "total_amount": 1081000.0,
+    "packages": [
+      {
+        "package_no": "豫政采(2)20260916-1",
+        "package_name": "A包-专业群数智课程与新形态教材建设项目",
+        "winner": "东孚（西安）教育科技有限公司"
+      },
+      {
+        "package_no": "豫政采(2)20260916-2",
+        "package_name": "B包-专业群课程思政示范课与工程素养课建设及推广项目",
+        "winner": "新华网股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "豫政采(2)20260916-1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "A包-专业群数智课程与新形态教材建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 686000.0
+    },
+    {
+      "package_no": "豫政采(2)20260916-2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "B包-专业群课程思政示范课与工程素养课建设及推广项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 395000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "豫政采(2)20260916-1",
+      "name": "东孚（西安）教育科技有限公司",
+      "role": "winner",
+      "total_score": 93.29,
+      "rank": null,
+      "amount": 686000.0
+    },
+    {
+      "package_no": "豫政采(2)20260916-2",
+      "name": "新华网股份有限公司",
+      "role": "winner",
+      "total_score": 86.96,
+      "rank": null,
+      "amount": 395000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

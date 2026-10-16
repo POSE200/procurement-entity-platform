@@ -1,0 +1,230 @@
+{
+  "announcement_id": "t20260508_26528246",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf,包4供应商评审情况表.pdf,包5供应商评审情况表.pdf",
+  "note": "5包各1个标的：HTML中标表（表格1-5）与标的信息表（表格6-10）均未标包号，按公告排列顺序一一对应（包1=文化与旅游行业相关信息服务平台…包5=专利检索及分析系统），该对应与3份中小企业声明函的包号归属（包2中宏智库/包4嗖嗖课/包5志图）及招标文件各包最高限价（90,000/110,000/80,000/95,000/100,000元，各中标金额均低于对应限价）互相印证；5包中标金额之和89600+109800+79000+94500+99800=472,700元恰等于总中标金额47.27万元，数学自洽；未中标参与者取自包N供应商评审情况表，其amount=评审结果栏明示的报价金额，rank=评审结果栏明示的第二/第三中标候选人；公告概要品目为空，category取标的信息表「品目名称」列原样（含品目编号前缀）；标的表「响应报价」列为页面模板乱码（不可用），item的total_price按该包中标金额填，quantity/unit/unit_price原文无出处为null。",
+  "project": {
+    "buyer": "四川省图书馆（四川省古籍保护中心）",
+    "project_name": "2026年度决策类数据库采购项目",
+    "total_amount": 472700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京国研网信息股份有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中宏智库（北京）经济咨询中心"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "社会科学文献出版社"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "南京嗖嗖课网络信息技术有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "成都志图科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "文化与旅游行业相关信息服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 89600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "宏观经济分析与领导决策信息数据库",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 109800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "权威研究信息编辑加工及运营发布平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 79000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "新闻搜索研究数据库平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 94500.0
+    },
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": "C17020000 互联网信息服务",
+      "item_name": "专利检索及分析系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 99800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京国研网信息股份有限公司",
+      "role": "winner",
+      "total_score": 97.08,
+      "rank": 1,
+      "amount": 89600.0
+    },
+    {
+      "package_no": "1",
+      "name": "中宏智库（北京）经济咨询中心",
+      "role": "participant",
+      "total_score": 95.45,
+      "rank": 2,
+      "amount": 90000.0
+    },
+    {
+      "package_no": "1",
+      "name": "重庆博斯高信息科技有限公司",
+      "role": "participant",
+      "total_score": 95.0,
+      "rank": 3,
+      "amount": 89850.0
+    },
+    {
+      "package_no": "2",
+      "name": "中宏智库（北京）经济咨询中心",
+      "role": "winner",
+      "total_score": 99.0,
+      "rank": 1,
+      "amount": 109800.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都遂云科技有限公司",
+      "role": "participant",
+      "total_score": 93.97,
+      "rank": 2,
+      "amount": 109900.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京国研网信息股份有限公司",
+      "role": "participant",
+      "total_score": 92.45,
+      "rank": 3,
+      "amount": 110000.0
+    },
+    {
+      "package_no": "3",
+      "name": "社会科学文献出版社",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": 1,
+      "amount": 79000.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川省学东科技有限公司",
+      "role": "participant",
+      "total_score": 85.72,
+      "rank": 2,
+      "amount": 79750.0
+    },
+    {
+      "package_no": "3",
+      "name": "四川文畅联合文化传播有限公司",
+      "role": "participant",
+      "total_score": 74.7,
+      "rank": 3,
+      "amount": 79800.0
+    },
+    {
+      "package_no": "4",
+      "name": "南京嗖嗖课网络信息技术有限公司",
+      "role": "winner",
+      "total_score": 95.0,
+      "rank": 1,
+      "amount": 94500.0
+    },
+    {
+      "package_no": "4",
+      "name": "四川墨卷文化传播有限公司",
+      "role": "participant",
+      "total_score": 94.91,
+      "rank": 2,
+      "amount": 94800.0
+    },
+    {
+      "package_no": "4",
+      "name": "四川国勤中欣文化传播有限公司",
+      "role": "participant",
+      "total_score": 94.84,
+      "rank": 3,
+      "amount": 95000.0
+    },
+    {
+      "package_no": "5",
+      "name": "成都志图科技有限公司",
+      "role": "winner",
+      "total_score": 95.5,
+      "rank": 1,
+      "amount": 99800.0
+    },
+    {
+      "package_no": "5",
+      "name": "西安志朗网络科技有限公司",
+      "role": "participant",
+      "total_score": 93.45,
+      "rank": 2,
+      "amount": 99950.0
+    },
+    {
+      "package_no": "5",
+      "name": "成都云普森信息技术有限公司",
+      "role": "participant",
+      "total_score": 90.97,
+      "rank": 3,
+      "amount": 99910.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

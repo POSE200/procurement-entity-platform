@@ -1,0 +1,213 @@
+{
+  "announcement_id": "t20260408_26370560",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:_unpacked_SDGP370000000202602000640-A_山东金诚土地房地产资产评估测绘有限公司\\服务明细表.pdf, _unpacked_...-B_山东鲁邦地理信息工程有限公司\\服务明细表.pdf, _unpacked_...-C_山东省地矿测绘有限公司\\服务明细表.pdf, _unpacked_...-D_青岛国测海遥信息技术有限公司\\服务明细表.pdf, 各包《海域空间管控…公示数据.pdf》（评审打分情况）",
+  "note": "品目列为空，4 条 item 的 category 全 null；对标物无品牌/型号线索，brand/model 全 null；服务明细表（附件）本身列明「单价/数量」两列，故 quantity=1、unit_price 取该表单价，total_price=单价×数量；数量列未带计量单位，unit 为 null；各包《公示数据》只给 5 位专家的逐项打分（无综合得分），故 total_score 全 null（未中标者亦无排名与报价，rank/amount null）；OCR已补齐确认：_unpacked_SDGP370000000202602000640-D_青岛国测海遥信息技术有限公司\\关于符合本国产品标准的声明函.pdf（原无文本层，现已OCR）内容为“此项目我公司不涉及招标文件中规定的产品，无需出具符合本国产品标准的声明”的资格承诺，不含标的物明细，无字段因此空缺；4 个中标人 zip 被「跳过压缩/复合容器」，但其内部文件均已解包可见；金额自查：4 包中标金额 2560000+1219000+804000+502600=5085600 元，与「总中标金额 ￥508.560000 万元」一致。。复核修正：按新口径G3，原文无排名列，4 个 winner 的 rank 由 1 改 null；package_no 保留短式 A/B/C/D（原文全式为 SDGP370000000202602000640-A/B/C/D，见表格1/表格2 包号列）。复核修正：bidders 补 package_no 字段。汇德/金田/深科/国建 4 条 participant 的 package_no 置 null：4 家同时出现在 A、B 两包公示数据评分表，未按包展开，单条无法归属唯一包；其余条目按各包公示数据评分表归属。",
+  "project": {
+    "buyer": "山东省国土空间数据和遥感技术研究院",
+    "project_name": "海域空间管控",
+    "total_amount": 5085600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东金诚土地房地产资产评估测绘有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东鲁邦地理信息工程有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "山东省地矿测绘有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": null,
+        "winner": "青岛国测海遥信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2026年海域空间资源监管",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2560000.0,
+      "total_price": 2560000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2026年海岛空间资源监管",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1219000.0,
+      "total_price": 1219000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": "1",
+      "category": null,
+      "item_name": "海域使用图斑外业核查",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 804000.0,
+      "total_price": 804000.0
+    },
+    {
+      "package_no": "D",
+      "item_no": "1",
+      "category": null,
+      "item_name": "围填海历史遗留问题项目监管",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 502600.0,
+      "total_price": 502600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东金诚土地房地产资产评估测绘有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2560000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东鲁邦地理信息工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1219000.0
+    },
+    {
+      "package_no": "C",
+      "name": "山东省地矿测绘有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 804000.0
+    },
+    {
+      "package_no": "D",
+      "name": "青岛国测海遥信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 502600.0
+    },
+    {
+      "package_no": null,
+      "name": "山东汇德地理信息工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "金田产业发展（山东）集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东深科空间规划勘查设计有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东国建土地房地产评估测绘有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东鲁迪测绘有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东扬华地理信息有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东乾图地理信息有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东省圣达地理信息测绘工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "山东德通地理信息有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "青岛阅海信息服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "济南智航时空地理信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

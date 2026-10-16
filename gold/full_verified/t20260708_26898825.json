@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260708_26898825",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东数健科技发展有限公司).pdf",
+  "note": "单包（采购包1）。标的信息表「品目编号及品目名称」列为空、公告概要品目也为空，category=null。单条服务标的：标的信息表给「单位=项」「金额(元)=952,300.00」，total_price照抄该金额（=中标金额=总中标金额￥95.23万元），但数量列缺失，quantity=null（不做数量=1推定），unit_price=null（附件报价明细表为空模板，需视觉核验）。评审结果表「得分排名」列为空，所有rank=null。participant投标报价原文未披露，amount=null。复核修正（0924）：草稿误认为报价明细表为空模板；标注包内另有「报价明细表(第1轮-山东数健科技发展有限公司).pdf」非空，明示单价952300元/数量1.0000/计量单位项/响应报价952300元/合计952300元，据此补齐quantity=1、unit_price=952300（unit=项与HTML单位列一致），gold_source改为html+attachment:报价明细表(第1轮-山东数健科技发展有限公司).pdf；rank=null维持（得分排名列确为空）。",
+  "project": {
+    "buyer": "济南市体育局",
+    "project_name": "济南市体育局智慧体育平台升级项目(二次)",
+    "total_amount": 952300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东数健科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧体育平台升级",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 952300.0,
+      "total_price": 952300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东数健科技发展有限公司",
+      "role": "winner",
+      "total_score": 88.01,
+      "rank": null,
+      "amount": 952300.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东三易智能技术有限公司",
+      "role": "participant",
+      "total_score": 80.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东德载福信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南网奇科技有限公司",
+      "role": "participant",
+      "total_score": 78.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南易健绅信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260205_26152098",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目取自公告概要品目列'其他计算机软件'（末级名原样保留）；两个采购包各1条明细：数量1套、单价为原文值，total_price=单价×数量且与该包中标金额（表格1/表格2：559000元、349000元）一致；两包之和908000元=总中标金额￥90.80万；附件JSZC采购文件.doc为压缩容器解析被跳过，但其为招标过程文件，结果字段均可由HTML得出。原文品牌/规格型号均为'定制化'，照抄。复核修正：中标信息表（表格1/表格2）仅有'序号'列、无得分排名列，原rank=1系取表格序号，按新口径9（rank仅原文明示才填）改null。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "紫金山实验室",
+    "project_name": "紫金山实验室数据中心主机安全项目",
+    "total_amount": 908000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "江苏云摩克信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "亚信科技（成都）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他计算机软件",
+      "item_name": "数据中心内网服务器主机防护系统（有代理CWPP/HIDS）",
+      "brand": "定制化",
+      "model": "定制化",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 559000.0,
+      "total_price": 559000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "其他计算机软件",
+      "item_name": "数据中心内网桌面云主机防护系统（无代理CWPP/HIDS）",
+      "brand": "定制化",
+      "model": "定制化",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 349000.0,
+      "total_price": 349000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏云摩克信息科技有限公司",
+      "role": "winner",
+      "total_score": 93.76,
+      "rank": null,
+      "amount": 559000.0
+    },
+    {
+      "package_no": "2",
+      "name": "亚信科技（成都）有限公司",
+      "role": "winner",
+      "total_score": 96.3,
+      "rank": null,
+      "amount": 349000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

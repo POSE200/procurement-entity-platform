@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260511_26542538",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "双包项目：A包济南茂林信息科技有限公司44.576万元、B包山东佳和电子信息有限公司38.896万元，合计834720元与总中标金额83.472万元一致；公告无附件且HTML未提供标的信息表，品目/标的名称/数量/单价均不可得，items按规范写每包一条总称记录（值全null）；公告标题项目名为『电脑及一宗采购项目』，表格1正文项目名为『电脑及打印机公开招标采购项目（A包、B包）』，两处表述不一致，照原文分别保留；无评分表，total_score/rank=null。",
+  "project": {
+    "buyer": "临沂市人民医院",
+    "project_name": "临沂市人民医院电脑及一宗采购项目",
+    "total_amount": 834720.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "济南茂林信息科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东佳和电子信息有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "济南茂林信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 445760.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东佳和电子信息有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 388960.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

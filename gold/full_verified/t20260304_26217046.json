@@ -1,0 +1,132 @@
+{
+  "announcement_id": "t20260304_26217046",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_中标通知书/03145f5fcc0837eb1f1fad35525e2c60.pdf,_unpacked_中标通知书/42383c0f3f14789c32d5ed58b0c0aa84.pdf,_unpacked_中标通知书/54c6418704b9fc94f02b9da6246d43c5.pdf",
+  "note": "三包项目：包1/包2/包3中标人及中标金额（1008400元/858996元/889900元）均出自中标通知书附件（明示第1包/第2包/第3包）；HTML总中标金额￥100.840000万元=1008400元，与三包中标金额之和2757296元对不上，疑HTML只列了第1包金额，按口径照抄并在此说明；主要投标标的表（表格2、表格3）未标注所属包号，package_no留null；表格4标的（BGP、光纤链路接入租用-1、光纤链路接入租用-2）与招标文件第3包内容一致，归入包3；被拒投标人北京五州行通信技术有限公司未标注所拒包号，package_no留null；投标人得分排序表.doc被跳过，无得分/排名；品目列全空，category=null；各标的无数量/单价/金额线索。",
+  "project": {
+    "buyer": "中国科协信息中心",
+    "project_name": "中国科协信息中心网络专线租用服务采购项目",
+    "total_amount": 1008400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "静态互联网接入-800M-1,BGP",
+        "winner": "中国电信股份有限公司北京分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "BGP-10M,静态互联网接入-800M",
+        "winner": "中国联合网络通信有限公司北京市分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "BGP,光纤链路接入租用-1,光纤链路接入租用-2",
+        "winner": "中国移动通信集团北京有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "中国科协信息中心网络专线租用服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "中国科协信息中心网络专线租用服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "BGP",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "2",
+      "category": null,
+      "item_name": "光纤链路接入租用-1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "光纤链路接入租用-2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司北京分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1008400.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司北京市分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 858996.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团北京有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 889900.0
+    },
+    {
+      "package_no": null,
+      "name": "北京五州行通信技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

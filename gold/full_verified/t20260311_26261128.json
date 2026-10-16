@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260311_26261128",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "成交信息在HTML公告正文中（标注包表格还原时未收录，已从原始HTML核对）：1标段彩虹4无人机系统保险成交金额72.046万元、得分95.83；2标段其他轻小型无人机系统保险成交金额17万元、得分94.83，两标段成交供应商均为中国人民财产保险股份有限公司云南省分公司；72.046+17=89.046万元与总成交金额一致。得分有明示但无排名列，rank=null；未成交供应商名单原文未公布，bidders仅含成交供应商。附件招标文件.zip被剔除，报价明细不可见。",
+  "project": {
+    "buyer": "云南省基础测绘技术中心",
+    "project_name": "彩虹4无人机系统保险及其他轻小型无人机系统保险",
+    "total_amount": 890460.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "彩虹4无人机系统保险",
+        "winner": "中国人民财产保险股份有限公司云南省分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "其他轻小型无人机系统保险",
+        "winner": "中国人民财产保险股份有限公司云南省分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "彩虹4无人机系统保险",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 720460.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他轻小型无人机系统保险",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 170000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国人民财产保险股份有限公司云南省分公司",
+      "role": "winner",
+      "total_score": 95.83,
+      "rank": null,
+      "amount": 720460.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国人民财产保险股份有限公司云南省分公司",
+      "role": "winner",
+      "total_score": 94.83,
+      "rank": null,
+      "amount": 170000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

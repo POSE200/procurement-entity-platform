@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260710_26914124",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市中京政通科技有限公司）.pdf",
+  "note": "单价、数量、总价取自附件报价明细附件（5条明细），品目名称取自HTML主要标的信息表品目名称列（其他运营服务）；5条总价之和2,098,400元=总中标金额￥209.84万元，单价×数量均与总价一致；bidders得分排名取自HTML评分表（明示得分排名列）；中标金额2,098,400.00元见表格1及中标供应商确定书附件。",
+  "project": {
+    "buyer": "惠州市政务服务和数据管理局",
+    "project_name": "市政务和数据局数字政府集约运营（2026年度）服务项目－市政务服务数字化运营服务",
+    "total_amount": 2098400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "市政务和数据局数字政府集约运营（2026年度）服务项目-市政务服务数字化运营服务",
+        "winner": "深圳市中京政通科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "电子证照运营推广服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 77900.0,
+      "total_price": 77900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他运营服务",
+      "item_name": "市“一网通办”基础数据运营和大厅运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 634250.0,
+      "total_price": 634250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他运营服务",
+      "item_name": "AI赋能工程建设一件事服务场景运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 263630.0,
+      "total_price": 263630.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他运营服务",
+      "item_name": "诉求事项清单基础数据运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 149330.0,
+      "total_price": 149330.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他运营服务",
+      "item_name": "系统运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 973290.0,
+      "total_price": 973290.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市中京政通科技有限公司",
+      "role": "winner",
+      "total_score": 93.38,
+      "rank": 1,
+      "amount": 2098400.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州信安数据有限公司",
+      "role": "participant",
+      "total_score": 85.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东企禾科技有限公司",
+      "role": "participant",
+      "total_score": 65.16,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州百宝箱信息科技有限公司",
+      "role": "participant",
+      "total_score": 62.4,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

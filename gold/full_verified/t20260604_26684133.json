@@ -1,0 +1,195 @@
+{
+  "announcement_id": "t20260604_26684133",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:（采购文件）莎车县某单位DNA实验室设备及智能物证装备采购项目(1).docx",
+  "note": "两个标项（可兼投不可兼中）。成交结果表按序号1-2列出中标人与报价，序号与标项一（DNA实验室设备）/标项二（智能物证装备）一一对应，且两笔金额之和2185000+2093000=4278000元恰等于总中标金额427.8万，对应关系据此确认（推断声明）。HTML主要标的信息表只有单价无总价列，total_price=单价×数量按唯一互推规则填出；标项一四条明细合计2,185,000、标项二十八条明细合计2,093,000，分别与两包中标金额一致。item 5-12（智能物证装备）的规格型号列实为技术参数长文本而非型号，model=null；其计量单位（套/盒/包）取自规格型号单元格内『单位：4张/套』『48人份/盒』『100反应/盒』『1000个/包』及附件需求一览表单位列。品目列空且无品目名称列，category=null。原文无排名列，rank=null。需视觉核验：item5『设备 1』（深晓NGS分析仪）真实型号；样本制备套件数量19的计量单位。复核修正：两点疑点均已在包内文本核实——①附件采购需求表『设备1』的规格型号单元格为技术参数长文本、全篇无任何型号字符串，model=null为严格口径正确值；②采购文件需求一览表单位列明示「4张/套」「48人份/盒」「100反应/盒」「1000个/包」，unit取包装单位（套/盒/包）成立；标项一四条合计2,185,000、标项二十八条合计2,093,000经独立加总与两包中标金额一致；确认verified。",
+  "project": {
+    "buyer": "莎车县公安局",
+    "project_name": "莎车县某单位DNA实验室设备及智能物证装备采购项目",
+    "total_amount": 4278000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "DNA实验室设备",
+        "winner": "新疆光恒纪信息技术有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智能物证装备",
+        "winner": "阿克苏世邦生物科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "自动化微量物证工作站",
+      "brand": "海洋海泰",
+      "model": "AI-15",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1944500.0,
+      "total_price": 1944500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "PCR扩增仪",
+      "brand": "佑宁",
+      "model": "PC-96P",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 55000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "高温杀毒清洗机",
+      "brand": "博西华",
+      "model": "SN25ZB24MC",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "三槽PCR仪",
+      "brand": "佑宁",
+      "model": "TruCycler-Flex32",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 95500.0,
+      "total_price": 95500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "5",
+      "category": null,
+      "item_name": "设备 1",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 950000.0,
+      "total_price": 950000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "6",
+      "category": null,
+      "item_name": "设备 2",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 400000.0,
+      "total_price": 800000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "7",
+      "category": null,
+      "item_name": "定量荧光计",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 56000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "8",
+      "category": null,
+      "item_name": "样本制备套件",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 19,
+      "unit": "套",
+      "unit_price": 4000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "9",
+      "category": null,
+      "item_name": "检测试剂盒",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 5,
+      "unit": "盒",
+      "unit_price": 9000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "10",
+      "category": null,
+      "item_name": "高通量测序试剂套装",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 22,
+      "unit": "套",
+      "unit_price": 7500.0,
+      "total_price": 165000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "11",
+      "category": null,
+      "item_name": "定量试剂",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 1,
+      "unit": "盒",
+      "unit_price": 500.0,
+      "total_price": 500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "12",
+      "category": null,
+      "item_name": "荧光定量PCR管",
+      "brand": "深晓基因",
+      "model": null,
+      "quantity": 1,
+      "unit": "包",
+      "unit_price": 500.0,
+      "total_price": 500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "新疆光恒纪信息技术有限责任公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 2185000.0
+    },
+    {
+      "package_no": "2",
+      "name": "阿克苏世邦生物科技有限公司",
+      "role": "winner",
+      "total_score": 90.99,
+      "rank": null,
+      "amount": 2093000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

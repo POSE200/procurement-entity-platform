@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260401_26347946",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:清溪镇高清智能天网监控（三期）维护(二次)招标文件（2026031101）.pdf",
+  "note": "双包项目，同一主承包商东莞市清溪数字科技有限公司以不同联合体成员分别中标包1（联合体成员：中国移动）与包2（联合体成员：中国电信）。概要品目列为空，category 取HTML标的信息表品目名称列。HTML标的信息表金额(元)列为空，各item的total_price取该包中标（成交）金额（表格1/表格2，包内唯一标的），unit_price未在原文给出故为null；quantity=1、unit=项来自附件招标文件标的表，非推算。包金额之和7,735,700+4,910,100=12,645,800与总中标金额1264.58万元一致。rank取自评分表得分排名列（原文明示）。",
+  "project": {
+    "buyer": "东莞市公安局清溪分局",
+    "project_name": "清溪镇高清智能天网监控（三期）维护(二次)",
+    "total_amount": 12645800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "清溪镇高清智能天网监控(三期)线路租赁项目",
+        "winner": "东莞市清溪数字科技有限公司(联合体成员：中国移动通信集团广东有限公司东莞分公司)"
+      },
+      {
+        "package_no": "2",
+        "package_name": "清溪镇高清智能天网监控(三期)运维项目",
+        "winner": "东莞市清溪数字科技有限公司(联合体成员：中国电信股份有限公司东莞分公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "清溪镇高清智能天网监控(三期)线路租赁项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 7735700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运行维护服务",
+      "item_name": "清溪镇高清智能天网监控(三期)运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 4910100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东莞市清溪数字科技有限公司(联合体成员：中国移动通信集团广东有限公司东莞分公司)",
+      "role": "winner",
+      "total_score": 96.62,
+      "rank": 1,
+      "amount": 7735700.0
+    },
+    {
+      "package_no": "1",
+      "name": "重庆乾和建筑工程有限公司",
+      "role": "participant",
+      "total_score": 42.05,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市莞软智能科技有限公司",
+      "role": "participant",
+      "total_score": 39.71,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "东莞市清溪数字科技有限公司(联合体成员：中国电信股份有限公司东莞分公司)",
+      "role": "winner",
+      "total_score": 96.69,
+      "rank": 1,
+      "amount": 4910100.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东纳萨斯通信科技有限公司",
+      "role": "participant",
+      "total_score": 44.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "东莞市智慧万家网络信息科技有限公司",
+      "role": "participant",
+      "total_score": 29.98,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260601_26664831",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "两个采购包。中标公告正文仅列两家中标人（175,120+185,000=360,120元，与总中标金额￥36.012万元一致）；其余供应商的得分、排名、报价取自附件包1/包2供应商评审情况表，其『评审结果』列明示第一至第三中标候选人，据此填rank。包1四川蜀金建筑工程有限公司未通过符合性审查（缺线缆检验检测报告）、包2成都伟联信科技有限公司未通过资格性审查（未提供中小企业声明函），无得分/报价，rank=null。品目编号C16079900，品目名称列原文为『C16079900 其他运行维护服务』，category取『其他运行维护服务』。标的信息表的响应报价列为页面模板乱码（priceSummaryList渲染残留）无实际值，两包均为服务迁移项目，quantity/unit/unit_price/total_price不推算、全null。标的与包的对应：招标文件1.3明示01包=一期消防控制室迁移服务、02包=一期监控室迁移服务，且附件中小企业声明函印证（周鼎=包1消防、科罗创代=包2监控）。",
+  "project": {
+    "buyer": "成都市双流区中医医院",
+    "project_name": "一期消防控制室及监控室迁移服务采购项目(二次)",
+    "total_amount": 360120.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "一期消防控制室迁移服务",
+        "winner": "四川周鼎消防工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "一期监控室迁移服务",
+        "winner": "成都科罗创代科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他运行维护服务",
+      "item_name": "一期消防控制室迁移服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "其他运行维护服务",
+      "item_name": "一期监控室迁移服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川周鼎消防工程有限公司",
+      "role": "winner",
+      "total_score": 96.3,
+      "rank": 1,
+      "amount": 175120.0
+    },
+    {
+      "package_no": "1",
+      "name": "壹树工程有限公司",
+      "role": "participant",
+      "total_score": 95.07,
+      "rank": 2,
+      "amount": 185000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川勇鑫建筑工程有限公司",
+      "role": "participant",
+      "total_score": 94.34,
+      "rank": 3,
+      "amount": 198000.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川蜀金建筑工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "成都科罗创代科技有限公司",
+      "role": "winner",
+      "total_score": 94.8,
+      "rank": 1,
+      "amount": 185000.0
+    },
+    {
+      "package_no": "2",
+      "name": "四川旷骅科技有限公司",
+      "role": "participant",
+      "total_score": 94.39,
+      "rank": 2,
+      "amount": 191000.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都慧翼科技有限公司",
+      "role": "participant",
+      "total_score": 88.76,
+      "rank": 3,
+      "amount": 191550.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都伟联信科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

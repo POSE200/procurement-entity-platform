@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260511_26545535",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件正文.pdf",
+  "note": "原始HTML明确披露豫政采(2)20260445-1/-2/-3三个包的成交供应商、成交金额和评审总得分；三包金额合计1524000元。每包均有名称为河南工学院教师业绩数据治理与智能服务平台项目的单条服务标的信息，按对应包成交金额关联其total_price（包级金额关联，非原文分项总价列），不推数量或单价。rank未披露，保留null。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "河南工学院",
+    "project_name": "河南工学院教师业绩数据治理与智能服务平台项目",
+    "total_amount": 1524000.0,
+    "packages": [
+      {
+        "package_no": "豫政采(2)20260445-1",
+        "package_name": "A包：教师业绩智能服务平台",
+        "winner": "联奕科技股份有限公司"
+      },
+      {
+        "package_no": "豫政采(2)20260445-2",
+        "package_name": "B包：人事管理系统",
+        "winner": "河南铂恩智能科技有限公司"
+      },
+      {
+        "package_no": "豫政采(2)20260445-3",
+        "package_name": "C包：科研管理服务平台",
+        "winner": "正方软件股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "豫政采(2)20260445-1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "河南工学院教师业绩数据治理与智能服务平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 696000.0
+    },
+    {
+      "package_no": "豫政采(2)20260445-2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "河南工学院教师业绩数据治理与智能服务平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 558000
+    },
+    {
+      "package_no": "豫政采(2)20260445-3",
+      "item_no": "1",
+      "category": null,
+      "item_name": "河南工学院教师业绩数据治理与智能服务平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 270000
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "豫政采(2)20260445-1",
+      "name": "联奕科技股份有限公司",
+      "role": "winner",
+      "total_score": 95.94,
+      "rank": null,
+      "amount": 696000.0
+    },
+    {
+      "package_no": "豫政采(2)20260445-2",
+      "name": "河南铂恩智能科技有限公司",
+      "role": "winner",
+      "amount": 558000,
+      "total_score": 89.57,
+      "rank": null
+    },
+    {
+      "package_no": "豫政采(2)20260445-3",
+      "name": "正方软件股份有限公司",
+      "role": "winner",
+      "amount": 270000,
+      "total_score": 95.6,
+      "rank": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080508",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（采购包1）。无任何含数据的报价明细附件（包(1)_开标/报价明细表仅解析出表头；附件.pdf为中小企业声明函+业绩表+劳务报酬表），故items只写一条服务总称：品目概要列空，category取HTML标的信息表'品目名称'列=其他教育服务；quantity/unit/unit_price=null（单条服务仅一个总金额，禁止填quantity=1、unit_price=总价），total_price=中标金额600000元。两家未成交供应商仅有综合得分（81.35/76.58），未中标原因未明示名次、得分排名列为空，rank=null，amount=null（复核确认无未决疑点）。",
+  "project": {
+    "buyer": "山东城市服务职业学院",
+    "project_name": "山东城市服务职业学院双高专业群智慧教学平台服务项目",
+    "total_amount": 600000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他教育服务",
+      "item_name": "双高专业群智慧教学平台服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 600000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.67,
+      "rank": null,
+      "amount": 600000.0
+    },
+    {
+      "package_no": "1",
+      "name": "嘉兴学时教育科技有限公司",
+      "role": "participant",
+      "total_score": 81.35,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南荷鲤文化传媒有限公司",
+      "role": "participant",
+      "total_score": 76.58,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

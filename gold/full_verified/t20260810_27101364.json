@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260810_27101364",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要'总中标金额￥0.000000万元'为占位值→project.total_amount=null，实际中标金额345100.00元填在winner.amount（需视觉核验概要栏）；品目列空且无标的明细表→category=null，items仅一条总称记录（名称取自项目名'台式计算机'）；中标行只给得分90.43未给排名（未中标表排名2-5为明示），winner.rank按规范不推定→null；东营市东阜信息技术有限公司废标（未按招标文件要求提供税收及社保凭证），得分列'废标'→total_score=null；表格3为供应商历史业绩，非本项目明细，未计入items；复核修正：唯一item即整个采购项目，中标金额345100.00元（表格1）即其总价，total_price由null改为345100.0；概要'￥0.000000万'为占位值已按规范置null，无需视觉核验。",
+  "project": {
+    "buyer": "东营市垦利区职业中等专业学校",
+    "project_name": "东营市垦利区职业中等专业学校台式计算机采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东惠通科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "台式计算机",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 345100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东惠通科技有限公司",
+      "role": "winner",
+      "total_score": 90.43,
+      "rank": null,
+      "amount": 345100.0
+    },
+    {
+      "package_no": null,
+      "name": "山东骏博智能工程有限公司",
+      "role": "participant",
+      "total_score": 90.09,
+      "rank": 2,
+      "amount": 317100.0
+    },
+    {
+      "package_no": null,
+      "name": "山东领汇信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.52,
+      "rank": 3,
+      "amount": 192500.0
+    },
+    {
+      "package_no": null,
+      "name": "东营瀚云信息科技有限公司",
+      "role": "participant",
+      "total_score": 76.73,
+      "rank": 4,
+      "amount": 349300.0
+    },
+    {
+      "package_no": null,
+      "name": "山东铭豪科技有限公司",
+      "role": "participant",
+      "total_score": 73.93,
+      "rank": 5,
+      "amount": 348530.0
+    },
+    {
+      "package_no": null,
+      "name": "东营市东阜信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 322000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

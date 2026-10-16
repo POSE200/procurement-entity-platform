@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260609_26718001",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（上海凯泉泵业（集团）有限公司）.pdf",
+  "note": "概要品目列空，category 取标的信息表品目名称列（5 条均为水质污染防治设备，品目号均 1-1，item_no 取附件报价明细序号 1-5）；规格型号/品牌以 HTML 表格2 为准（附件 OCR 混入水印）；5 条金额合计 2,345,000 元与总中标金额一致。第2条规格型号以HTML表格2文本层为准（WQ/YT-12500-90-2），附件中夹入的X0C等字系水印污染（规范第10条情形），五项金额合计恰等于中标金额2,345,000，复核确认。 复核修正：2026-09-23独立复核通过，原“需视觉核验”疑点消除。",
+  "project": {
+    "buyer": "惠东县市政园林事务中心",
+    "project_name": "惠东县平山街道、九龙峰增光片区排水防涝系统提质增效工程项目(第一期)泵站设备采购项目",
+    "total_amount": 2345000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "惠东县平山街道、九龙峰增光片区排水防涝系统提质增效工程项目(第一期)泵站设备采购项目",
+        "winner": "上海凯泉泵业（集团）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "水质污染防治设备",
+      "item_name": "一体化泵站",
+      "brand": "上海凯泉",
+      "model": "WQ/YT-1600-28-2，设计规模250m³/d，直径2.5m，配置2台潜污泵1用1备，供应商成套设备，筒体采用一体式复合缠绕玻璃钢GRP结构，含管配件。",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 468352.0,
+      "total_price": 468352.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "水质污染防治设备",
+      "item_name": "一体化泵站",
+      "brand": "上海凯泉",
+      "model": "WQ/YT-12500-90-2设计规模800m³/d，直径2.5m，配置3台潜污泵2用1备，供应商成套设备，筒体采用一体式复合缠绕玻璃钢GRP结构，含管配件。",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 559152.0,
+      "total_price": 559152.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "水质污染防治设备",
+      "item_name": "一体化泵站",
+      "brand": "上海凯泉",
+      "model": "WQ/YT-4200-800-3,设计规模7500m³/d，直径4.2m，配置3台潜污泵2用1备，供应商成套设备，筒体采用一体式复合缠绕玻璃钢GRP结构，含管配件。",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 752199.0,
+      "total_price": 752199.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "水质污染防治设备",
+      "item_name": "一体化泵站",
+      "brand": "上海凯泉",
+      "model": "WQ/YT-2500-118-2，设计规模1500m³/d，直径2.5m，配置2台潜污泵1用1备，供应商成套设备，筒体采用一体式复合缠绕玻璃钢GRP结构，含管配件。",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 561797.0,
+      "total_price": 561797.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "水质污染防治设备",
+      "item_name": "便携式有毒检测仪",
+      "brand": "上海凯泉",
+      "model": "1)量程：H2S:0-100mg/m³，CH4:0~100% LEL；检测误差：≤5%FS，手持一体式； 2)传感器，IP68； 3)3通道变送器，IP65，LCD现场显示； 4)硫化氢浓度/甲烷浓度/故障状态，自带蓄电池；5)防爆等级：不低于Exd IIC T4，带一体式声光警报器。",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3500.0,
+      "total_price": 3500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海凯泉泵业（集团）有限公司",
+      "role": "winner",
+      "total_score": 79.74,
+      "rank": 1,
+      "amount": 2345000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏迈科道环境科技有限公司",
+      "role": "participant",
+      "total_score": 73.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏航天水力设备有限公司",
+      "role": "participant",
+      "total_score": 42.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河北鑫能重工机械有限公司",
+      "role": "participant",
+      "total_score": 37.81,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260407_26367707",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（江苏皓博数字科技发展有限公司）.pdf",
+  "note": "单包（合同包1，表格3合同包号明示）。概要品目列空，category取HTML标的信息表品目名称列'教学仪器'。item_no取附件报价明细的序号1-5（HTML品目号均为1-1，已备注）。item_name'智慧交通数据服务平台'原文带'（核心产品）'标记，已去除（标记非名称组成部分）。附件OCR有水印污染：数据应用服务器规格型号附件显示'S423G44 4台平'，按HTML'规格型号'列取S423G4。5条明细合计2,080,000与总中标金额208万元一致。第4名广东数安网络科技有限公司得分排名列为4（推荐排名列空），rank按得分排名列填4。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "大数据集成集群实训室设备采购",
+    "total_amount": 2080000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "大数据集成集群实训室设备采购",
+        "winner": "江苏皓博数字科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "智慧交通数据服务平台",
+      "brand": "五舟",
+      "model": "S423G3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 328000.0,
+      "total_price": 328000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "数据应用服务器",
+      "brand": "五舟",
+      "model": "S423G4",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 173800.0,
+      "total_price": 173800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "智能算力服务器",
+      "brand": "五舟",
+      "model": "S748G4",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 651500.0,
+      "total_price": 651500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "教学仪器",
+      "item_name": "大数据开发工作站",
+      "brand": "里诺",
+      "model": "RNBZ2044",
+      "quantity": 51,
+      "unit": "套",
+      "unit_price": 15900.0,
+      "total_price": 810900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "教学仪器",
+      "item_name": "多媒体教学设备",
+      "brand": "比丽普、定制",
+      "model": "BLP920、BK-2300、K-218A、S5735S-L24T4X-QA2、定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 115800.0,
+      "total_price": 115800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏皓博数字科技发展有限公司",
+      "role": "winner",
+      "total_score": 84.66,
+      "rank": 1,
+      "amount": 2080000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州创智引擎智能科技有限公司",
+      "role": "participant",
+      "total_score": 54.51,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "福州弘大智远科技有限公司",
+      "role": "participant",
+      "total_score": 52.3,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数安网络科技有限公司",
+      "role": "participant",
+      "total_score": 47.06,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

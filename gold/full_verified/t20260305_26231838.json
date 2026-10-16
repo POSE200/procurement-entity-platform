@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260305_26231838",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市城市规划勘测设计研究院有限公司）.pdf",
+  "note": "公告概要品目列为空，category 取标的信息表（表格2）「品目名称」列末级名『其他专业技术服务』。4 条 item 取自附件报价明细表（最细粒度），原文同时给单价、数量（1(项)）与总价，单价×数量=总价全部吻合；4 条合计 300000+300000+1960000+200000=2760000 元，与总中标金额 276 万元一致。附件中第2条服务名称被水印字符污染（『采 府 整合基础数据 政 东库 广』），已按语义清洗为『整合基础数据库』（与表格2采购标的列一致）。item_no 由品目号+序号组成（品目号均为1-1，序号1-4）。中标信息表（表格1）联合体成员用顿号分隔、评分表（表格4）用逗号分隔，各照抄原表写法。声明函/联合体协议附件含大量水印乱序字符，未提供新的价格数量值。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "广州市城市规划编制研究中心",
+    "project_name": "一张图规划管理及维护子项：2026年广州市国土空间规划城市体检评估",
+    "total_amount": 2760000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "一张图规划管理及维护子项：2026年广州市国土空间规划城市体检评估",
+        "winner": "广州市城市规划勘测设计研究院有限公司(联合体成员：广州市岭南建筑研究中心有限公司、广州市交通规划研究院有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他专业技术服务",
+      "item_name": "构建指标体系",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他专业技术服务",
+      "item_name": "整合基础数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他专业技术服务",
+      "item_name": "开展综合评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1960000.0,
+      "total_price": 1960000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他专业技术服务",
+      "item_name": "规划优化及政策措施建议",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市城市规划勘测设计研究院有限公司(联合体成员：广州市岭南建筑研究中心有限公司,广州市交通规划研究院有限公司)",
+      "role": "winner",
+      "total_score": 90.8,
+      "rank": 1,
+      "amount": 2760000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省城乡规划设计研究院科技集团股份有限公司(联合体成员：深圳中梦数字科技有限公司)",
+      "role": "participant",
+      "total_score": 85.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市城市规划设计研究院有限公司(联合体成员：广州城昱规划咨询有限公司)",
+      "role": "participant",
+      "total_score": 75.75,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

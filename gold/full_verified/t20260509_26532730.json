@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260509_26532730",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1）。概要品目列空，category取HTML标的表品目名称列（教学仪器）。item 1-2为一批多设备打包标的，品牌/规格型号列为多个值的并列原文（燧光、比丽普、优力普、里诺电脑 / AG1A0001、定制、UP152GM V1、RNBZ2026），原样保留。两项总价之和827,000+1,623,000=2,450,000元=总中标金额￥245.000000万元一致。报价明细附件.pdf被跳过不可读，但HTML标的表信息完整，无缺失。附件内容含MR交互终端等制造商明细，与HTML标的表口径不同，未据此增改items。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "VR数字技术实训室设备采购项目",
+    "total_amount": 2450000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "VR数字技术实训室设备采购项目",
+        "winner": "广州创智引擎智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "动作捕捉系统",
+      "brand": "度量",
+      "model": "Mars9H",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 827000.0,
+      "total_price": 827000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "VR数字技术实训室设备",
+      "brand": "燧光、比丽普、优力普、里诺电脑",
+      "model": "AG1A0001、定制、UP152GM V1、RNBZ2026",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 1623000.0,
+      "total_price": 1623000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州创智引擎智能科技有限公司",
+      "role": "winner",
+      "total_score": 84.87,
+      "rank": 1,
+      "amount": 2450000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东一晨科技有限公司",
+      "role": "participant",
+      "total_score": 74.56,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "常州市智度智能科技有限公司",
+      "role": "participant",
+      "total_score": 62.96,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东拓嘉信息科技有限公司",
+      "role": "participant",
+      "total_score": 57.2,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市南岗区成拾商贸行（个体工商户）",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中洛科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

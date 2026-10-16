@@ -1,0 +1,177 @@
+{
+  "announcement_id": "t20260511_26544375",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "原始HTML明确披露A/B/C包成交供应商及各包金额；包划分为原文明示，不是推断的单包。服务数量、单位、单价无直接依据时保留null；包金额保存在对应winner.amount，不盲目复制到整体总称items。 原文无明示综合得分及排名时保留null。正文列有附件链接，但本地file ZIP未提供该ID附件包，不得把附件缺包描述为公告无附件。 评审段还明确披露各包其他投标人；逐评委分数不换算为total_score。天行健名称在两段存在差异，见unresolved。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "高密市大数据中心",
+    "project_name": "高密市2026年信息系统安全等级保护测评项目",
+    "total_amount": 702960.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "联通数字科技有限公司山东省分公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "速科检测技术（山东）有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "道普信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "高密市2026年信息系统安全等级保护测评项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 702960.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "联通数字科技有限公司山东省分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 234000
+    },
+    {
+      "package_no": "B",
+      "name": "速科检测技术（山东）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 230960
+    },
+    {
+      "package_no": "C",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 238000
+    },
+    {
+      "package_no": "A",
+      "name": "速科检测技术（山东）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "天行健信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "黑龙江省万文信息安全测评有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "天行健信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "黑龙江省万文信息安全测评有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "天行健信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "黑龙江省万文信息安全测评有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [
+      "评审段使用“天行健信息技术有限公司”，未中标原因段使用“天行健信息安全技术有限公司”；按包评审段原名保留，不能未经工商/更正文件依据强行合并或新增另一独立竞争者。",
+      "正文仅列逐评委分数，未明示综合得分和排名；total_score/rank均null，不自行取和或平均。",
+      "公告列有附件链接，但提供的赛题五.基准测试数据_file.zip没有该ID附件包；未能核验附件所载进一步参与者、报价明细等，不据此宣称完整附件级覆盖。",
+      "主要标的信息为跨包项目总称，不能仅凭各包成交总额重建分项内容；正式包名或明细未明确部分保留null，不克隆项目金额。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

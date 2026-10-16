@@ -1,0 +1,249 @@
+<script setup lang="ts">
+defineOptions({ name: 'RelationsView' })
+import { computed, nextTick, onDeactivated, reactive, ref, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
+import Cell from '@/components/Cell.vue'
+import EvidenceDrawer from '@/components/EvidenceDrawer.vue'
+import GraphPanel from '@/components/GraphPanel.vue'
+import OrgPicker from '@/components/OrgPicker.vue'
+import { api } from '@/api/client'
+import type { ScenarioId, ScenarioResponse, Scope } from '@/types/api'
+import { moneyWan, ms } from '@/utils/format'
+
+const TABS: { id: ScenarioId; title: string; desc: string; input: 'buyer' | 'one' | 'many' }[] = [
+  { id: 1, title: '一 · 采购单位的合作供应商', desc: '任意采购单位 → 中标供应商、产品品牌、合作次数与交易金额', input: 'buyer' },
+  { id: 2, title: '二 · 采购单位的高频投标主体', desc: '任意采购单位 → 历史项目 TOP 投标主体与高频共同参与组合', input: 'buyer' },
+  { id: 3, title: '三 · 中标供应商的共同竞标主体', desc: '任意中标供应商 → 其中标项目中的 TOP 共同竞标主体及全量参与方', input: 'one' },
+  { id: 4, title: '四 · 多供应商的共同采购单位', desc: '两个或多个中标供应商 → 共同合作的采购单位交集', input: 'many' },
+  { id: 5, title: '五 · 多供应商的共同投标项目', desc: '两个或多个供应商 → 共同投标项目、每家结果、项目数与总金额', input: 'many' },
+]
+
+const tab = ref<ScenarioId>(1)
+const form = reactive({
+  buyer: '',
+  one: '',
+  many: [] as string[],
+  range: null as [string, string] | null,
+  scope: 'project' as Scope,
+  topK: 5,
+  participantOnly: false,
+})
+
+// 支持从“任务二总览”带参数跳转：?tab=1..5&buyer=…&one=…&many=…&many=…
+const route = useRoute()
+function applyQuery(q: typeof route.query): ScenarioId | null {
+  const t = Number(q.tab)
+  if (![1, 2, 3, 4, 5].includes(t)) return null
+  if (typeof q.buyer === 'string' && q.buyer) form.buyer = q.buyer
+  if (typeof q.one === 'string' && q.one) form.one = q.one
+  const many = ([] as unknown[]).concat(q.many ?? []).filter((x): x is string => typeof x === 'string' && !!x)
+  if (many.length) form.many = many
+  return t as ScenarioId
+}
+const initialTab = applyQuery(route.query)
+if (initialTab) tab.value = initialTab
+type Result = ScenarioResponse & { render_ms: number | null; request_to_render_ms: number | null }
+const results = reactive<Partial<Record<ScenarioId, Result>>>({})
+const loading = ref(false)
+const error = ref('')
+const drawer = reactive({ open: false, ids: [] as string[], title: '' })
+let t0 = 0
+
+const cur = computed(() => TABS.find((t) => t.id === tab.value)!)
+const res = computed(() => results[tab.value])
+const ready = computed(() => {
+  const i = cur.value.input
+  return i === 'buyer' ? !!form.buyer : i === 'one' ? !!form.one : form.many.length >= 2
+})
+
+async function run() {
+  if (!ready.value) return
+  loading.value = true
+  error.value = ''
+  const id = tab.value
+  const i = cur.value.input
+  t0 = performance.now()
+  try {
+    const r = await api.scenario(id, {
+      buyer_id: i === 'buyer' ? form.buyer : undefined,
+      supplier_ids: i === 'one' ? [form.one] : i === 'many' ? form.many : undefined,
+      date_range: form.range,
+      scope: form.scope,
+      top_k: form.topK,
+      participant_only: id === 2 ? form.participantOnly : undefined,
+    })
+    results[id] = { ...r, render_ms: null, request_to_render_ms: null }
+    await nextTick() // 表格先渲染；图谱渲染完成时回调补齐总耗时
+  } catch (e) {
+    error.value = (e as Error).message
+  } finally {
+    loading.value = false
+  }
+}
+function onRendered(renderMs: number) {
+  const r = results[tab.value]
+  if (!r || r.request_to_render_ms !== null) return
+  r.render_ms = renderMs
+  r.request_to_render_ms = performance.now() - t0
+}
+
+function evidenceFor(key: unknown, title: string) {
+  const ids = res.value?.evidence_refs[String(key)] ?? []
+  if (!ids.length) return
+  drawer.ids = ids
+  drawer.title = title
+  drawer.open = true
+}
+function onNode(id: string) {
+  const r = res.value
+  if (!r) return
+  const row = r.rows.find((x) => x._key === id)
+  const label = r.nodes.find((n) => n.id === id)?.label ?? id
+  if (row) evidenceFor(id, `统计依据 · ${label}`)
+}
+const firstLabelKey = computed(() => res.value?.columns.find((c) => !c.kind || c.kind === 'text')?.key)
+
+// 跳转到当前查询对象的用户画像（场景 1/2 为采购单位，场景 3 为供应商，4/5 取第一家）
+const router = useRouter()
+const profileTarget = computed(() => {
+  const i = cur.value.input
+  if (i === 'buyer') return form.buyer ? { kind: 'buyer', org: form.buyer } : null
+  const org = i === 'one' ? form.one : form.many[0]
+  return org ? { kind: 'supplier', org } : null
+})
+function goProfile() {
+  if (profileTarget.value) router.push({ path: '/profile', query: profileTarget.value })
+}
+
+onDeactivated(() => (drawer.open = false))
+watch(tab, () => { if (!results[tab.value] && ready.value) run() })
+// 页面被 KeepAlive 缓存，从总览再次带参跳入时需要按新参数重新查询
+watch(() => route.query, (q) => {
+  if (route.path !== '/relations') return
+  const t = applyQuery(q)
+  if (!t) return
+  delete results[t]
+  if (tab.value !== t) tab.value = t // 由 tab 监听触发查询
+  else run()
+})
+if (ready.value) run()
+</script>
+
+<template>
+  <div class="page">
+    <div class="page-head">
+      <div>
+        <h1><span class="no">伍</span>关系分析</h1>
+        <div class="sub">统计表列出完整结果，图谱展示前 TopK 的关系。点击行或节点可查看对应公告。</div>
+      </div>
+    </div>
+
+    <el-tabs v-model="tab" class="tabs">
+      <el-tab-pane v-for="t in TABS" :key="t.id" :name="t.id" :label="t.title" />
+    </el-tabs>
+    <p class="hint" style="margin: -6px 0 12px">{{ cur.desc }}</p>
+
+    <section class="sheet query">
+      <div class="q-main">
+        <label class="lbl">{{ cur.input === 'buyer' ? '采购单位' : cur.input === 'one' ? '中标供应商' : '中标供应商（2–5 家）' }}</label>
+        <OrgPicker v-if="cur.input === 'buyer'" v-model="form.buyer" role="buyer" placeholder="输入名称检索采购单位" />
+        <OrgPicker v-else-if="cur.input === 'one'" v-model="form.one" role="winner" placeholder="输入名称检索中标供应商" />
+        <OrgPicker v-else v-model="form.many" role="winner" multiple placeholder="至少选择两家" />
+      </div>
+      <div>
+        <label class="lbl">公告时间</label>
+        <el-date-picker v-model="form.range" type="daterange" value-format="YYYY-MM-DD" start-placeholder="不限" end-placeholder="不限" unlink-panels style="width: 100%" />
+      </div>
+      <div>
+        <label class="lbl">统计口径</label>
+        <el-radio-group v-model="form.scope">
+          <el-radio-button value="project">项目级</el-radio-button>
+          <el-radio-button value="package">同包级</el-radio-button>
+        </el-radio-group>
+      </div>
+      <div>
+        <label class="lbl">图谱 TopK</label>
+        <el-input-number v-model="form.topK" :min="3" :max="20" controls-position="right" style="width: 110px" />
+      </div>
+      <div v-if="tab === 2">
+        <label class="lbl">主体范围</label>
+        <el-switch v-model="form.participantOnly" active-text="仅未中标参与方" inactive-text="全部" inline-prompt style="--el-switch-on-color: var(--indigo)" />
+      </div>
+      <div class="q-go">
+        <el-button type="primary" :loading="loading" :disabled="!ready" @click="run">查询</el-button>
+        <el-button :disabled="!profileTarget" @click="goProfile">查看画像</el-button>
+      </div>
+    </section>
+
+    <div v-if="error" class="banner err" style="margin-top: 12px">{{ error }}</div>
+
+    <template v-if="res && res.scenario === tab">
+      <div class="banner info" style="margin-top: 14px"><div><b>统计口径（{{ form.scope === 'project' ? '项目级' : '同包级' }}）</b>：{{ res.definition }}</div></div>
+      <div v-for="n in res.notes ?? []" :key="n" class="banner warn" style="margin-top: 8px">{{ n }}</div>
+
+      <div class="stats" style="margin-top: 14px">
+        <div class="stat"><div class="k">业务项目数（去重）</div><div class="v">{{ res.project_count }}</div></div>
+        <div class="stat"><div class="k">涉及采购包</div><div class="v">{{ res.package_count }}</div></div>
+        <div class="stat"><div class="k">已知金额合计</div><div class="v">{{ moneyWan(res.known_amount) }}</div></div>
+        <div class="stat"><div class="k">金额未披露项目</div><div class="v">{{ res.unknown_count }}<small>个，不计为 0</small></div></div>
+        <div class="stat"><div class="k">结果行数</div><div class="v">{{ res.rows.length }}</div></div>
+        <div class="stat timing">
+          <div class="k">响应耗时</div>
+          <div class="t">查询 <b>{{ ms(res.query_ms) }}</b></div>
+          <div class="t">图谱渲染 <b>{{ ms(res.render_ms) }}</b></div>
+          <div class="t">发起→完全渲染 <b>{{ ms(res.request_to_render_ms) }}</b></div>
+        </div>
+      </div>
+
+      <div class="result" :class="{ wide: res.columns.length > 8 }">
+        <section class="sheet">
+          <h2 class="sheet-title">统计表</h2>
+          <el-table :data="res.rows" border height="460" empty-text="所选条件下没有结果" row-class-name="clickable"
+            @row-click="(r: Record<string, unknown>) => evidenceFor(r._key, `统计依据 · ${firstLabelKey ? r[firstLabelKey] : ''}`)">
+            <el-table-column v-for="c in res.columns" :key="c.key" :label="c.label" :min-width="c.kind ? 110 : 200"
+              :align="c.kind === 'money' || c.kind === 'count' ? 'right' : 'left'" show-overflow-tooltip>
+              <template #default="{ row }">
+                <span v-if="row[c.key] === '中标'" class="tag win">中标</span>
+                <span v-else-if="row[c.key] === '未中标'" class="tag lose">未中标</span>
+                <Cell v-else :value="row[c.key]" :kind="c.key === 'date' ? 'date' : c.kind" />
+              </template>
+            </el-table-column>
+          </el-table>
+        </section>
+        <section class="sheet">
+          <h2 class="sheet-title">局部关系子图 <span class="hint">节点 {{ res.nodes.length }} · 边 {{ res.edges.length }}</span></h2>
+          <GraphPanel :nodes="res.nodes" :edges="res.edges" @rendered="onRendered" @select="onNode" />
+        </section>
+      </div>
+
+      <section v-if="res.secondary" class="sheet" style="margin-top: 16px">
+        <h2 class="sheet-title">{{ res.secondary.title }}</h2>
+        <el-table :data="res.secondary.rows" border max-height="360" empty-text="无"
+          @row-click="(r: Record<string, unknown>) => evidenceFor(r._key, '统计依据')">
+          <el-table-column v-for="c in res.secondary.columns" :key="c.key" :label="c.label" :min-width="c.kind ? 110 : 200"
+            :align="c.kind === 'count' ? 'right' : 'left'" show-overflow-tooltip>
+            <template #default="{ row }"><Cell :value="row[c.key]" :kind="c.kind" /></template>
+          </el-table-column>
+        </el-table>
+      </section>
+      <p class="hint mono" style="margin-top: 10px">source_revision: {{ res.source_revision }}</p>
+    </template>
+    <div v-else-if="!loading && !error" class="banner info" style="margin-top: 14px">选择查询对象后点击“查询”。</div>
+
+    <EvidenceDrawer v-model="drawer.open" :announcement-ids="drawer.ids" :title="drawer.title" />
+  </div>
+</template>
+
+<style scoped>
+.tabs :deep(.el-tabs__header) { margin-bottom: 10px; }
+.query { display: grid; grid-template-columns: minmax(280px, 2.2fr) 1.6fr auto auto auto auto; gap: 14px; align-items: end; }
+.lbl { display: block; font-size: 12px; color: var(--ink-3); margin-bottom: 6px; }
+.result { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 16px; margin-top: 16px; }
+.result .sheet + .sheet { margin-top: 0; }
+/* 列很多（如场景 5 逐家得分/排名/报价）时统计表独占一行，图谱放到下方 */
+.result.wide { grid-template-columns: minmax(0, 1fr); }
+.timing .t { font-size: 12px; color: var(--ink-3); line-height: 1.7; }
+.timing .t b { color: var(--ink); font-family: var(--mono); font-weight: 500; }
+:deep(.clickable) { cursor: pointer; }
+@media (max-width: 1200px) { .query { grid-template-columns: 1fr 1fr; } .result { grid-template-columns: 1fr; } }
+</style>

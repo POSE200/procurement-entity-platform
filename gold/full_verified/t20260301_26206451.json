@@ -1,0 +1,193 @@
+{
+  "announcement_id": "t20260301_26206451",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "12个标包各1名中标人；结果表'中标金额'列实际内容为人天服务单价（如'高级职称900元/人/天'）而非金额，故bidders.amount=null，总价390万元无法按包分摊。品目列空、主要标的信息为一条汇总服务描述且无品目名称列→category=null、items仅一条汇总（数量单价不可得）。无评分/排名信息，total_score/rank=null。",
+  "project": {
+    "buyer": "潍坊市审计局",
+    "project_name": "潍坊市审计局2026年财务审计及地理信息测绘服务",
+    "total_amount": 3900000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东天健正信会计师事务所有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中兴华会计师事务所（特殊普通合伙）潍坊分所"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东普惠会计师事务所有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "永拓会计师事务所（特殊普通合伙）山东分所"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "新联谊会计师事务所（特殊普通合伙）潍坊分所"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "山东世纪鸢飞会计师事务所有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": null,
+        "winner": "北京中税嘉新会计师事务所（普通合伙）"
+      },
+      {
+        "package_no": "8",
+        "package_name": null,
+        "winner": "山东精诚联合会计师事务所（普通合伙）"
+      },
+      {
+        "package_no": "9",
+        "package_name": null,
+        "winner": "中勤万信会计师事务所（特殊普通合伙）"
+      },
+      {
+        "package_no": "10",
+        "package_name": null,
+        "winner": "山东北方联合会计师事务所（普通合伙）"
+      },
+      {
+        "package_no": "11",
+        "package_name": null,
+        "winner": "山东正大地理信息科技集团有限公司"
+      },
+      {
+        "package_no": "12",
+        "package_name": null,
+        "winner": "山东司南地理信息有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市审计局2026年财务审计及地理信息测绘服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东天健正信会计师事务所有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中兴华会计师事务所（特殊普通合伙）潍坊分所",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东普惠会计师事务所有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "永拓会计师事务所（特殊普通合伙）山东分所",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "新联谊会计师事务所（特殊普通合伙）潍坊分所",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "山东世纪鸢飞会计师事务所有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "7",
+      "name": "北京中税嘉新会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "8",
+      "name": "山东精诚联合会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "9",
+      "name": "中勤万信会计师事务所（特殊普通合伙）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "10",
+      "name": "山东北方联合会计师事务所（普通合伙）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "11",
+      "name": "山东正大地理信息科技集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "12",
+      "name": "山东司南地理信息有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

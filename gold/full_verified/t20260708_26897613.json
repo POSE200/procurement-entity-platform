@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260708_26897613",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两分包费率类项目：分包1（南京、无锡、常州、苏州、镇江、扬州、泰州等地区辅助服务）中标南京工业大学，分包2（南通、徐州、宿迁、淮安、盐城、连云港等地区辅助服务）中标常州大学，均中标优惠率10%、评审总得分450/447（总分制，原文明示，无排名列故rank=null，禁止中标即第1推定）。总中标金额栏为￥0.002000万元（=20元），系费率优惠类合同的占位值而非真实金额，total_amount=null。全文无任何金额（服务费按优惠率结算），故items的quantity/unit/unit_price/total_price均null；品目取概要「品目」列=其他专业技术服务。附件为采购文件doc（招标文件本体），无分项报价。未中标投标人名单原文未公布，bidders仅两名中标人各按分包一条。独立复核（0924）：全部字段逐项核对无误。",
+  "project": {
+    "buyer": "江苏省特种设备安全监督检验研究院",
+    "project_name": "江苏省特检院直属分院安全评估类辅助工作外委项目（第三次）",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "南京、无锡、常州、苏州、镇江、扬州、泰州等地区辅助服务",
+        "winner": "南京工业大学"
+      },
+      {
+        "package_no": "2",
+        "package_name": "南通、徐州、宿迁、淮安、盐城、连云港等地区辅助服务",
+        "winner": "常州大学"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他专业技术服务",
+      "item_name": "南京、无锡、常州、苏州、镇江、扬州、泰州等地区辅助服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "其他专业技术服务",
+      "item_name": "南通、徐州、宿迁、淮安、盐城、连云港等地区辅助服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "南京工业大学",
+      "role": "winner",
+      "total_score": 450.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "常州大学",
+      "role": "winner",
+      "total_score": 447.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

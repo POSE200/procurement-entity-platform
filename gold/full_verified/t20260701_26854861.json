@@ -1,0 +1,195 @@
+{
+  "announcement_id": "t20260701_26854861",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:服务明细表.pdf,公示数据.pdf,评委费用支付表.pdf",
+  "note": "2个包：A包（数据治理服务）、B包（系统升级），完整包号为SDGP370000000202601005983-A/-B（公告表格1明示），附件均称A包/B包。同一供应商广联达科技股份有限公司包揽A、B两包（各336,000元、346,000元），两包之和682,000元=总中标金额￥68.2万元，一致（评委费用支付表亦载明中标成交金额336000.00元+346000.00元）。items取两包各自的服务明细表.pdf各4条（序2.1-2.4），每包4条单价之和恰等于该包中标金额（A：81,300+119,000+88,900+46,800=336,000；B：82,300+77,600+93,800+92,300=346,000），数量列1.00无计量单位→unit=null。公示数据.pdf给出4家供应商在两包的5位评委分项分（如A包广联达99.82/87.82/92.82/95.82/94.82），未给综合得分与排名，故total_score/rank=null，禁止自行求均值。参加两包的4家供应商（广联达、济南索玛、山东舜义智云、山东登锐）在A、B两包各出一条bidders记录。品目两处均无→null。gold_source中的文件名系解压zip后的附件简称（完整路径含_unpacked_SDGP370000000202601005983-A/B_广联达科技股份有限公司\\前缀）。",
+  "project": {
+    "buyer": "山东省公共资源交易中心",
+    "project_name": "山东省公共资源交易电子服务平台升级改造项目",
+    "total_amount": 682000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "2026年度省公共资源交易中心电子服务系统升级改造项目（数据治理服务）",
+        "winner": "广联达科技股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "2026年度省公共资源交易中心电子服务系统升级改造项目（系统升级）",
+        "winner": "广联达科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "2.1",
+      "category": null,
+      "item_name": "数据监测范围",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 81300.0,
+      "total_price": 81300.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2.2",
+      "category": null,
+      "item_name": "数据接口校验规则清单",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 119000.0,
+      "total_price": 119000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2.3",
+      "category": null,
+      "item_name": "问题数据分析",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 88900.0,
+      "total_price": 88900.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2.4",
+      "category": null,
+      "item_name": "问题数据反馈",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 46800.0,
+      "total_price": 46800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2.1",
+      "category": null,
+      "item_name": "数据质量校验",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 82300.0,
+      "total_price": 82300.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2.2",
+      "category": null,
+      "item_name": "异常数据预警修正",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 77600.0,
+      "total_price": 77600.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2.3",
+      "category": null,
+      "item_name": "评价考核管理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 93800.0,
+      "total_price": 93800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "2.4",
+      "category": null,
+      "item_name": "数据下行服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 92300.0,
+      "total_price": 92300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "广联达科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 336000.0
+    },
+    {
+      "package_no": "A",
+      "name": "济南索玛软件有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东舜义智云人工智能有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东登锐信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "广联达科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 346000.0
+    },
+    {
+      "package_no": "B",
+      "name": "济南索玛软件有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东舜义智云人工智能有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东登锐信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

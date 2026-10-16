@@ -1,0 +1,118 @@
+{
+  "announcement_id": "t20260609_26719754",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表 (1).jpg,报价明细表 (2).jpg",
+  "note": "品目取HTML标的信息表品目名称列（教学仪器），概要品目列空；单价/数量取自已OCR报价明细表(1)(2).jpg，附件无总价列，item总价按单价×数量互推（1,200,000×1+930,000×2+500,000×2+50,000×4=4,260,000，与总中标金额一致）；复核修正：原OCR疑点已用算术闭环确认——总额4,260,000减其余三项即得浮标单价1,200,000，与OCR碎片吻合，无需视觉核验；评审结果表得分排名列空，rank一律null。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学(筹)海洋与低空应用子平台设备采购项目",
+    "total_amount": 4260000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛华航环境科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "海气参数浮标设备",
+      "brand": null,
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1200000.0,
+      "total_price": 1200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "海上区域试验无人船设备",
+      "brand": "青岛华航",
+      "model": "WindBoard D05",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 930000.0,
+      "total_price": 1860000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "多基垂向测风激光雷达设备",
+      "brand": "青岛华航",
+      "model": "WindPrint V2000",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 500000.0,
+      "total_price": 1000000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "三维超声测风仪设备",
+      "brand": "青岛华航",
+      "model": "US3D",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 200000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛华航环境科技有限责任公司",
+      "role": "winner",
+      "total_score": 89.7,
+      "rank": null,
+      "amount": 4260000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛海研电子有限公司",
+      "role": "participant",
+      "total_score": 86.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "九江恒胜船舶通导设备科技有限公司",
+      "role": "participant",
+      "total_score": 85.74,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国船舶集团有限公司第七六〇研究所",
+      "role": "participant",
+      "total_score": 76.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华特拓疆智能装备有限公司",
+      "role": "participant",
+      "total_score": 68.14,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

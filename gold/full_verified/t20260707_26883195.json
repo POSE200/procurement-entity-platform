@@ -1,0 +1,127 @@
+{
+  "announcement_id": "t20260707_26883195",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:招标文件正文A包,招标文件正文B包",
+  "note": "已通过OCR补齐：最终排名表A包、B包（图片）已OCR，两家中标人的 total_score 已填（A包惠每云99.14、B包厚裕72.50，总分=报价+技术+商务分逐项吻合），并新发现5家未中标主体（A包：承德市捷邦商贸755000元/67.67分、河北博航信息技术688000元/55.00分；B包：河北孜谦医疗器械236552元/46.15分、江西柚子医疗器械238290元/40.04分、石家庄那蓝静雪医药科技237028元/38.62分），participant 的 amount 取各包综合得分表「投标总价」。OCR可疑处：捷邦「调整后投标总价」被识作1755000（疑755000之误，该列未采用，amount取投标总价列755000）；「河北博航倍息技术」按上下文校正为「博航信息技术」。排名列数值均未被OCR捕获，rank 全 null。中小企业声明函A/B包、供应商资格承诺函A/B包已OCR，无标的明细。本项目分 A、B 两个采购包（表格2「服务名称」：信息化相关系统建设项目-1(A包)/(B包)），中标金额 730000+231000=961000 元，与「总中标金额 ￥96.100000 万元」一致。buyer 照抄公告概要「采购单位」=保定市第一中医院；注意招标文件（A/B 包均）载明采购人为『广安门医院保定医院』，两处署名不一致（同一项目），未自行合并。公告概要「品目」列为空，category 全 null。招标文件（仅前30页）载明：A包预算 76 万元，含住院病历内涵质控系统（最高限价 38 万元）与大模型底座鉴别诊断系统（最高限价 38 万元）两个软件系统，须分别报价但未给分项成交金额，A 包中标金额 730000 元无法在两系统间拆分，故 A 包两条 item 的单价/总价均 null（最高限价非成交价，不填）；B包预算 24 万元，内容为搭建全院多科室呼吸康复全病程管理平台，B包 item 的 total_price 取该包中标金额 231000 元（单条标的只有总金额，quantity/unit/unit_price 按口径 null）。预算金额（76万/24万/合计100万）为预算非中标值，未填入任何金额字段。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "保定市第一中医院",
+    "project_name": "信息化相关系统建设项目-1",
+    "total_amount": 961000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "信息化相关系统建设项目-1(A包)",
+        "winner": "北京惠每云科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "信息化相关系统建设项目-1(B包)",
+        "winner": "河北厚裕科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "住院病历内涵质控系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "大模型底座鉴别诊断系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息化相关系统建设项目-1(B包)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 231000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "北京惠每云科技有限公司",
+      "role": "winner",
+      "total_score": 99.14,
+      "rank": null,
+      "amount": 730000.0
+    },
+    {
+      "package_no": "B",
+      "name": "河北厚裕科技有限公司",
+      "role": "winner",
+      "total_score": 72.5,
+      "rank": null,
+      "amount": 231000.0
+    },
+    {
+      "package_no": "A",
+      "name": "承德市捷邦商贸有限公司",
+      "role": "participant",
+      "total_score": 67.67,
+      "rank": null,
+      "amount": 755000.0
+    },
+    {
+      "package_no": "A",
+      "name": "河北博航信息技术有限公司",
+      "role": "participant",
+      "total_score": 55.0,
+      "rank": null,
+      "amount": 688000.0
+    },
+    {
+      "package_no": "B",
+      "name": "河北孜谦医疗器械科技有限公司",
+      "role": "participant",
+      "total_score": 46.15,
+      "rank": null,
+      "amount": 236552.0
+    },
+    {
+      "package_no": "B",
+      "name": "江西柚子医疗器械有限公司",
+      "role": "participant",
+      "total_score": 40.04,
+      "rank": null,
+      "amount": 238290.0
+    },
+    {
+      "package_no": "B",
+      "name": "石家庄那蓝静雪医药科技有限公司",
+      "role": "participant",
+      "total_score": 38.62,
+      "rank": null,
+      "amount": 237028.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

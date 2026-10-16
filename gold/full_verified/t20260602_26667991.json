@@ -1,0 +1,105 @@
+{
+  "announcement_id": "t20260602_26667991",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个分标均由上海智保慧民信息科技有限公司成交，分标↔标的对应按表格1与表格3序号1/2/3一一对应（推断）；分标4『在线客服咨询系统运维服务』因有效供应商不足三家废标，无winner、无标的明细行；品目列空且HTML标的表无品目列→category=null；每分标仅一个总价，quantity/unit_price按规范不推算（null）；三笔成交价之和118700+997100+118800=1234600元=总成交金额自洽；原文无得分/排名/其他投标人信息→相应字段null。",
+  "project": {
+    "buyer": "广西壮族自治区人力资源和社会保障信息中心",
+    "project_name": "人社公共系统运维服务采购",
+    "total_amount": 1234600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "社保系统平台维护服务",
+        "winner": "上海智保慧民信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "公共服务认证服务",
+        "winner": "上海智保慧民信息科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "电子政务维护服务",
+        "winner": "上海智保慧民信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "在线客服咨询系统运维服务",
+        "winner": null
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "社保系统平台维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 118700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "公共服务认证服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 997100.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "电子政务维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 118800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海智保慧民信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 118700.0
+    },
+    {
+      "package_no": "2",
+      "name": "上海智保慧民信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 997100.0
+    },
+    {
+      "package_no": "3",
+      "name": "上海智保慧民信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 118800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

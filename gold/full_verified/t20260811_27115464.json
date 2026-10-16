@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115464",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中标通知书.pdf",
+  "note": "无标的物明细：附件「采购文件正文.pdf」仅前30页且不含报价明细，其他附件为业绩/承诺函类。品目两处均空（概要品目列空、HTML无标的信息品目列），category=null。包号\"A\"为HTML包号列明示。表3按最终得分排序（序号1-4）但无明示得分排名列，rank一律=null。附件「采购文件正文.pdf」未含中标金额明细，中标金额41916000.00元来自HTML包表及中标通知书（通知书称\"中标单价金额\"，复核确认：该金额与HTML表格1中标金额、表格0总中标金额、专家劳务支付表中标成交金额三处互证一致，属通知书表述冗余，无需视觉核验）。items仅1条总称记录，total_price按该唯一标的对应包中标金额填入，quantity/unit_price按规范留null。",
+  "project": {
+    "buyer": "金乡县卫生健康局",
+    "project_name": "金乡县紧密型医共体智慧化医疗服务能力提升项目",
+    "total_amount": 41916000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "讯飞医疗科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "金乡县紧密型医共体智慧化医疗服务能力提升项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 41916000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "讯飞医疗科技股份有限公司",
+      "role": "winner",
+      "total_score": 86.837,
+      "rank": null,
+      "amount": 41916000.0
+    },
+    {
+      "package_no": "A",
+      "name": "济南显微智能科技有限公司",
+      "role": "participant",
+      "total_score": 60.286,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "智业软件股份有限公司",
+      "role": "participant",
+      "total_score": 57.031,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东未来网络科技发展有限公司",
+      "role": "participant",
+      "total_score": 50.359,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

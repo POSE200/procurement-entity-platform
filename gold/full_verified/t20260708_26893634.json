@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260708_26893634",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两采购包固定单价合同（招标文件第611行：本项目实施固定单价方式，不设固定采购数量，最终按实际供货数量×中标单价结算）。包1技能大赛台式计算机：宏碁（acer）VeritonT6504184、53台、单价9400元/台；包2教学台式计算机：宏碁（acer）VeritonT6504228、144台、单价7450元/台，同一供应商江苏凤凰数字传媒有限公司兼投兼中两包。重大矛盾需视觉核验：①表格1/2「中标/成交金额」栏9400元/7450元实为中标单价（与表格3单价完全相同），非包总价；②总中标金额￥1.685000万（=16850元）恰为两包中标单价之和，系系统占位值而非真实总价，故total_amount=null（原文值16850元记录于此备查）；③真实总价原文未给出，items的total_price按单价×数量唯一互推：53×9400=498,200元（≤包1预算50万）、144×7450=1,072,800元（≤包2预算108万），与预算自洽，佐证单价与数量可信。category取概要品目列=台式计算机。bidders的amount照抄中标/成交金额栏（9400/7450，实为单价，见上）。评审总得分94.29/96.2为均分制原文明示，无排名信息rank=null。附件为采购文件（docx解包跳过31个xml，仅招标文件文本可用），无分项报价表。独立复核（0924）：疑点①由采购文件'固定单价方式'条款及表格3单价一致确认；疑点②占位总额按null口径处理；疑点③互推算式成立且与预算自洽。三项均无需视觉核验，全部字段核对无误。",
+  "project": {
+    "buyer": "江苏省射阳中等专业学校",
+    "project_name": "江苏省射阳中等专业学校教学与技能大赛专用电脑采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "技能大赛台式计算机",
+        "winner": "江苏凤凰数字传媒有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "教学台式计算机",
+        "winner": "江苏凤凰数字传媒有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "台式计算机",
+      "item_name": "技能大赛台式计算机",
+      "brand": "宏碁（acer）",
+      "model": "VeritonT6504184",
+      "quantity": 53,
+      "unit": "台",
+      "unit_price": 9400.0,
+      "total_price": 498200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "台式计算机",
+      "item_name": "教学台式计算机",
+      "brand": "宏碁（acer）",
+      "model": "VeritonT6504228",
+      "quantity": 144,
+      "unit": "台",
+      "unit_price": 7450.0,
+      "total_price": 1072800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "江苏凤凰数字传媒有限公司",
+      "role": "winner",
+      "total_score": 94.29,
+      "rank": null,
+      "amount": 9400.0
+    },
+    {
+      "package_no": "2",
+      "name": "江苏凤凰数字传媒有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": 7450.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

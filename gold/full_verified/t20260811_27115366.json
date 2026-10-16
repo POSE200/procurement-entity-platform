@@ -1,0 +1,178 @@
+{
+  "announcement_id": "t20260811_27115366",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "成交结果公告无采购包划分（标题、正文、附件均无包号），故全部package_no=null；品目无出处：概要品目列空且主要标的信息表无品目名称列，category全为null；主要标的信息表7条明细仅第1条有成交价1410000.00元（恰等于成交总金额1410000.00元），第2-7条成交价原文空白，无法判断1410000元是第1行6台的单行总价还是整包金额，故仅第1条total_price照抄1410000、单价不可唯一互推全部null，第2-7条价格全null；数量列无计量单位，unit=null；本包附件均为业绩/声明/劳务报酬表，无报价明细可补（附件.rar已跳过但主要标的信息HTML已完整）；排名1-8取自评分表'排名'列（原文明示）；需视觉核验：附件业绩一览表.jpg OCR错字较多（邹鼓/鱼台等）但不影响本gold字段",
+  "project": {
+    "buyer": "菏泽市农业农村局本级",
+    "project_name": "菏泽市2026年农作物病虫田间智能监测点建设项目",
+    "total_amount": 1410000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "济南农智信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "智能虫情测报灯",
+      "brand": "农智",
+      "model": "NZCB100",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1410000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "害虫自动计数性诱捕器（每台监测一种害虫）",
+      "brand": "欧柯奇",
+      "model": "OK-CQ8",
+      "quantity": 12,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": null,
+      "item_name": "田间小气候监测设备",
+      "brand": "农智",
+      "model": "NZ500",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "4",
+      "category": null,
+      "item_name": "农田远程实时监测",
+      "brand": "农智",
+      "model": "NZJK100",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "5",
+      "category": null,
+      "item_name": "鼠害物联网智能监测仪",
+      "brand": "云智",
+      "model": "VIMS 4.0 IM-M",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "6",
+      "category": null,
+      "item_name": "病虫害田间调查设备",
+      "brand": "君明天下",
+      "model": "JM-A4W",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": "7",
+      "category": null,
+      "item_name": "混凝土底座、围栏、标识牌等配套设备及田间施工",
+      "brand": "农智",
+      "model": "定制",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "济南农智信息科技有限公司",
+      "role": "winner",
+      "total_score": 92.67,
+      "rank": 1,
+      "amount": 1410000.0
+    },
+    {
+      "package_no": null,
+      "name": "君卓科技集团有限公司",
+      "role": "participant",
+      "total_score": 90.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东广智电子科技有限公司",
+      "role": "participant",
+      "total_score": 89.84,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "杭州时祺科技有限公司",
+      "role": "participant",
+      "total_score": 89.27,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东行远智能装备有限公司",
+      "role": "participant",
+      "total_score": 87.37,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东精控农业科技有限公司",
+      "role": "participant",
+      "total_score": 84.15,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东祥辰科技集团有限公司",
+      "role": "participant",
+      "total_score": 83.41,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东丰农科技服务有限公司",
+      "role": "participant",
+      "total_score": 80.21,
+      "rank": 8,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

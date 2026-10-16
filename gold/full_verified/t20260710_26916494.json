@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260710_26916494",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:公告附件-斑马鱼.pdf",
+  "note": "package_no=1 系依据公告标题（采购包1）推断（附件仅写采购包名称未写包号）；两条明细（单价448,000/217,000元、数量1套）取自附件投标报价明细表，之和665,000元=总中标金额￥66.5万元，单价×数量=总价一致；品牌/规格型号取自报价明细表并与符合本国产品标准的声明函（DanioVision/诺达思(北京)信息技术有限责任公司、P820/上海磐麦科技有限公司）互证；品目名称取自HTML主要标的信息表品目名称列（临床检验设备）；HTML评分表得分排名列与推荐排名列为空，故所有 bidder 的 rank 均为 null（未明示），综合得分仅给出88.86/85.80/70.94/70.21/66.77；未中标供应商投标报价原文未给，amount=null。需视觉核验：报价明细表OCR文字逐列断行错位（诺达思/P820等值已由第二遍表格与声明函交叉确认）。",
+  "project": {
+    "buyer": "山东省妇幼保健院",
+    "project_name": "山东省妇幼保健院2026年斑马鱼行为轨迹跟踪系统及低氧工作站采购项目",
+    "total_amount": 665000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "斑马鱼行为轨迹跟踪系统及低氧工作站",
+        "winner": "山东佰奥乐医学科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "临床检验设备",
+      "item_name": "斑马鱼行为轨迹跟踪系统",
+      "brand": "诺达思",
+      "model": "DanioVision",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 448000.0,
+      "total_price": 448000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "临床检验设备",
+      "item_name": "低氧工作站",
+      "brand": "磐麦",
+      "model": "P820",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 217000.0,
+      "total_price": 217000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东佰奥乐医学科技有限公司",
+      "role": "winner",
+      "total_score": 88.86,
+      "rank": null,
+      "amount": 665000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京众实迪创科技发展有限责任公司",
+      "role": "participant",
+      "total_score": 85.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东瑞赛生物科技有限公司",
+      "role": "participant",
+      "total_score": 70.94,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海源领生物科技有限公司",
+      "role": "participant",
+      "total_score": 70.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南伯纳生物科技有限公司",
+      "role": "participant",
+      "total_score": 66.77,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

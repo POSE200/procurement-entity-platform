@@ -1,0 +1,156 @@
+{
+  "announcement_id": "t20260703_26865702",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf,包3供应商评审情况表.pdf",
+  "note": "三包服务项目，包号由 HTML（采购包1/包件2/第3包）及附件目录明示。每包仅 1 条服务标的，附件报价明细表为空白格式模板（无实际明细），明细级数量/单价不可得，quantity/unit_price 填 null。概要品目列空，category 照抄 HTML 品目名称列（原文含编码前缀「C16029900 其他系统集成实施服务」，原样保留）。HTML 响应报价列为模板变量残留（th:text 残片），标的金额取自 HTML 表1-3 中标金额，三包之和=2,449,720元=总中标金额￥244.972万。排名取自各包供应商评审情况表「评审结果」列（第一/二/三中标候选人），participant 的 amount 取其报价金额。附件 PDF 为双层字 OCR，部分供应商名含部首异体字，已按可辨识字形修正：四川宇速⿍铭→四川宇速鼎铭、四川川发国润⼤数据→大数据、⾬⽲启云→雨禾启云、成都⾹草⼭→香草山、成都⾠星→辰星。需视觉核验：上述 5 个供应商名的正确用字。复核：三包评审表（3+4+3家）候选人排名/报价、空白模板确认已独立核对；部首异体字（⼤⾬⾹⾠⿍）与正字为标准一一映射，归一无歧义，确认通过。",
+  "project": {
+    "buyer": "成都理工大学",
+    "project_name": "2026年信息系统集成第二批采购",
+    "total_amount": 2449720.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "男生宿舍火灾远程报警系统集成服务",
+        "winner": "成都诚开科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "研究生教室多媒体系统集成服务",
+        "winner": "成都朗悦视听设备有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "会议音视频系统集成服务",
+        "winner": "成都香草山信息技术有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "男生宿舍火灾远程报警系统集成服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1171810.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "研究生教室多媒体系统集成服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 679910.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "C16029900 其他系统集成实施服务",
+      "item_name": "会议音视频系统集成服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 598000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "成都诚开科技有限公司",
+      "role": "winner",
+      "total_score": 95.31,
+      "rank": 1,
+      "amount": 1171810.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川宇速鼎铭科技有限公司",
+      "role": "participant",
+      "total_score": 60.79,
+      "rank": 2,
+      "amount": 1173965.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川川发国润大数据有限公司",
+      "role": "participant",
+      "total_score": 53.0,
+      "rank": 3,
+      "amount": 1149300.0
+    },
+    {
+      "package_no": "2",
+      "name": "成都朗悦视听设备有限公司",
+      "role": "winner",
+      "total_score": 91.77,
+      "rank": 1,
+      "amount": 679910.0
+    },
+    {
+      "package_no": "2",
+      "name": "蓉艺（成都）文化创意有限公司",
+      "role": "participant",
+      "total_score": 79.52,
+      "rank": 2,
+      "amount": 691600.0
+    },
+    {
+      "package_no": "2",
+      "name": "雨禾启云（四川）科技有限公司",
+      "role": "participant",
+      "total_score": 75.34,
+      "rank": 3,
+      "amount": 695860.0
+    },
+    {
+      "package_no": "2",
+      "name": "光标科技（绵阳）有限公司",
+      "role": "participant",
+      "total_score": 63.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "成都香草山信息技术有限责任公司",
+      "role": "winner",
+      "total_score": 90.6,
+      "rank": 1,
+      "amount": 598000.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都辰星信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.75,
+      "rank": 2,
+      "amount": 615400.0
+    },
+    {
+      "package_no": "3",
+      "name": "成都申电科技有限公司",
+      "role": "participant",
+      "total_score": 67.21,
+      "rank": 3,
+      "amount": 618398.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

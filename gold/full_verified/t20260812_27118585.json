@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260812_27118585",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市力凡科技发展有限公司）.pdf",
+  "note": "两条明细合计300,000+1,669,000=1,969,000.0元与总成交金额196.9万一致；两条品目号均为1-1（附件序号1/2），item_no均抄「1-1」；品目取HTML标的表「品目名称」列「其他信息技术服务」（概要品目列为空）；标的表无品牌/规格型号列，brand/model=null（item名称含「WPS 365 政务版平台V12」字样，未拆入brand/model）；3家供应商得分与得分排名原文明示。",
+  "project": {
+    "buyer": "中共茂名市委宣传部",
+    "project_name": "茂名市直机关单位办公软件场地授权采购项目",
+    "total_amount": 1969000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "茂名市直机关单位办公软件场地授权采购项目",
+        "winner": "广州市力凡科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "配套服务费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "WPS 365 政务版平台V12三年授权服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1669000.0,
+      "total_price": 1669000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市力凡科技发展有限公司",
+      "role": "winner",
+      "total_score": 97.83,
+      "rank": 1,
+      "amount": 1969000.0
+    },
+    {
+      "package_no": "1",
+      "name": "茂名市华拓信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.03,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东大中商品电子商务有限公司",
+      "role": "participant",
+      "total_score": 70.92,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

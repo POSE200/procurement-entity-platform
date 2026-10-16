@@ -1,0 +1,175 @@
+{
+  "announcement_id": "t20260512_26548685",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且HTML无品目名称列，category=null；6个服务包均未提供数量/单价/品牌型号，item仅填名称并将包中标金额记入total_price；各包金额之和7211820元与总中标金额721.182万元一致。",
+  "project": {
+    "buyer": "山东省鲁南地质工程勘察院（山东省地质矿产勘查开发局第二地质大队）",
+    "project_name": "2026年省地矿局山东省地热资源综合服务系统新建项目",
+    "total_amount": 7211820.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "山东省地热资源综合服务系统软件开发服务",
+        "winner": "山东省地矿建设有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "数据治理和三维数据建模服务",
+        "winner": "山东省地矿建设有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "软件产品购置",
+        "winner": "北京龙智信创科技有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": "第三方软件测评服务",
+        "winner": "安徽新空间数字科技有限公司"
+      },
+      {
+        "package_no": "E",
+        "package_name": "二级等保测评服务",
+        "winner": "山东新潮信息技术有限公司"
+      },
+      {
+        "package_no": "F",
+        "package_name": "监理服务",
+        "winner": "山东卓朗检测股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省地热资源综合服务系统软件开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 5637800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据治理和三维数据建模服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 898000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "软件产品购置",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 419500.0
+    },
+    {
+      "package_no": "D",
+      "item_no": null,
+      "category": null,
+      "item_name": "第三方软件测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 99500.0
+    },
+    {
+      "package_no": "E",
+      "item_no": null,
+      "category": null,
+      "item_name": "二级等保测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 31900.0
+    },
+    {
+      "package_no": "F",
+      "item_no": null,
+      "category": null,
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 125120.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东省地矿建设有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 5637800.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东省地矿建设有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 898000.0
+    },
+    {
+      "package_no": "C",
+      "name": "北京龙智信创科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 419500.0
+    },
+    {
+      "package_no": "D",
+      "name": "安徽新空间数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 99500.0
+    },
+    {
+      "package_no": "E",
+      "name": "山东新潮信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 31900.0
+    },
+    {
+      "package_no": "F",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 125120.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

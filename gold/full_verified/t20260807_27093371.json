@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260807_27093371",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市点易资讯科技有限公司）.pdf",
+  "note": "单包6条明细。品目概要列为空，category 逐条取HTML标的信息表品目名称列「其他运行维护服务」。附件报价明细的「服务名称」列为粗粒度大类（实施服务/开发服务），区分各条目的具体名称在「服务范围」列，item_name 取该列（远程支持/定期巡检/A类应用/B类应用/C类应用/驻场服务），需视觉核验该取舍。6条总价之和288000+90000+54000+243000+426000+360000=1,461,000.00，与中标金额1,461,000.00元及总中标金额￥146.10万一致。数量单位原文为「(（次/年）)」「(（人/年）)」双层括号，unit 按「次/年」「人/年」照抄。附件OCR有水印字符打散混入（点易资讯/智慧云台等竖排水印），数值列可辨认。bidders 3家排名取自评分表「得分排名」列，广东数智孪生推荐排名列留空。复核：附件报价明细6条（单价×数量×总价）、合计1,461,000元与中标金额、HTML标的表服务范围列与item_name取舍均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "韩山师范学院",
+    "project_name": "韩山师范学院智慧校园运维（2026年-2029年）项目",
+    "total_amount": 1461000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "韩山师范学院智慧校园运维（2026年-2029年）项目",
+        "winner": "广州市点易资讯科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他运行维护服务",
+      "item_name": "远程支持",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "年",
+      "unit_price": 96000.0,
+      "total_price": 288000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他运行维护服务",
+      "item_name": "定期巡检",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "次/年",
+      "unit_price": 15000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他运行维护服务",
+      "item_name": "A类应用",
+      "brand": null,
+      "model": null,
+      "quantity": 9,
+      "unit": "个",
+      "unit_price": 6000.0,
+      "total_price": 54000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他运行维护服务",
+      "item_name": "B类应用",
+      "brand": null,
+      "model": null,
+      "quantity": 9,
+      "unit": "个",
+      "unit_price": 27000.0,
+      "total_price": 243000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他运行维护服务",
+      "item_name": "C类应用",
+      "brand": null,
+      "model": null,
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 71000.0,
+      "total_price": 426000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他运行维护服务",
+      "item_name": "驻场服务",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "人/年",
+      "unit_price": 120000.0,
+      "total_price": 360000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市点易资讯科技有限公司",
+      "role": "winner",
+      "total_score": 94.6,
+      "rank": 1,
+      "amount": 1461000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州集韵信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东数智孪生科技有限公司",
+      "role": "participant",
+      "total_score": 75.86,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

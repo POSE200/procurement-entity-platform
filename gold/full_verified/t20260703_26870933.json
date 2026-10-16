@@ -1,0 +1,189 @@
+{
+  "announcement_id": "t20260703_26870933",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "4个包分别成交：HTML 仅第一张中标信息表明示'第1包'，其后3张中标信息表与4张排序表按出现顺序与第1包对应，包号2/3/4为按表格出现顺序推断（已在 note 声明）；4包中标金额之和 49.95+4.99+14.75+4.98=74.67 万元恰等于总中标金额，数学自洽；概要品目列空且标的信息表无'品目名称'列（'服务类'为分节标题不作品目），category=null；服务类标的无数量/单价线索，相关字段为 null；排名由4张排序表明示（1/2/3）；中标信息表与排序表中供应商地址/信用代码列被 &#20013;&#26631; 实体污染，已按语义识别为'中标金额'列。",
+  "project": {
+    "buyer": "天津市疾病预防控制中心",
+    "project_name": "天津市疾病预防控制中心地铁及LED屏幕健康公益广告及信息技术服务项目",
+    "total_amount": 746700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "津彩互动广告（天津）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "津彩互动广告（天津）有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "北京夷安君泰管理咨询有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "天津万步健走科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "天津地铁公共空间广告位宣传服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "健康大巴天津行广告宣传服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "基于儿童生理参数的PBTK模型构建与食品添加剂联合暴露风险评估信息技术服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "“健康体重 全民行动”活动系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "津彩互动广告（天津）有限公司",
+      "role": "winner",
+      "total_score": 99.6,
+      "rank": 1,
+      "amount": 495000.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津乐彩广告有限公司",
+      "role": "participant",
+      "total_score": 79.392,
+      "rank": 2,
+      "amount": 499900.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津华凡世嘉文化传媒有限公司",
+      "role": "participant",
+      "total_score": 72.59,
+      "rank": 3,
+      "amount": 500000.0
+    },
+    {
+      "package_no": "2",
+      "name": "津彩互动广告（天津）有限公司",
+      "role": "winner",
+      "total_score": 89.6,
+      "rank": 1,
+      "amount": 49900.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津乐彩广告有限公司",
+      "role": "participant",
+      "total_score": 74.19,
+      "rank": 2,
+      "amount": 49950.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津华凡世嘉文化传媒有限公司",
+      "role": "participant",
+      "total_score": 67.99,
+      "rank": 3,
+      "amount": 49950.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京夷安君泰管理咨询有限公司",
+      "role": "winner",
+      "total_score": 97.2,
+      "rank": 1,
+      "amount": 147500.0
+    },
+    {
+      "package_no": "3",
+      "name": "大连雅谷信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.2993,
+      "rank": 2,
+      "amount": 149000.0
+    },
+    {
+      "package_no": "3",
+      "name": "大连致为信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.0662,
+      "rank": 3,
+      "amount": 149500.0
+    },
+    {
+      "package_no": "4",
+      "name": "天津万步健走科技有限公司",
+      "role": "winner",
+      "total_score": 97.6,
+      "rank": 1,
+      "amount": 49800.0
+    },
+    {
+      "package_no": "4",
+      "name": "天津乐知教育科技有限公司",
+      "role": "participant",
+      "total_score": 84.564,
+      "rank": 2,
+      "amount": 49980.0
+    },
+    {
+      "package_no": "4",
+      "name": "天津琦鲤医学科技有限公司",
+      "role": "participant",
+      "total_score": 78.38,
+      "rank": 3,
+      "amount": 49900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

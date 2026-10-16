@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260512_26552185",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "item顺序与item_no按附件报价明细序号（附件序号2为县直镇级单位、序号3为县直单位，与HTML主要标的信息表顺序不同，以附件为准），四条品目号均为1-1；四条合计8285040元与总中标金额828.504万元一致；三名未中标供应商原文未给出投标金额，amount=null。",
+  "project": {
+    "buyer": "连平县政务服务和数据管理局",
+    "project_name": "连平县电子政务外网网络畅通服务项目",
+    "total_amount": 8285040.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "连平县电子政务外网网络畅通服务项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "互联网出口",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "条",
+      "unit_price": 280800.0,
+      "total_price": 842400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他电信和信息传输服务",
+      "item_name": "县直镇级单位网络接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 171,
+      "unit": "条",
+      "unit_price": 30600.0,
+      "total_price": 5232600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他电信和信息传输服务",
+      "item_name": "县直单位网络接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 7,
+      "unit": "条",
+      "unit_price": 20520.0,
+      "total_price": 143640.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他电信和信息传输服务",
+      "item_name": "村级单位网络接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 175,
+      "unit": "条",
+      "unit_price": 11808.0,
+      "total_price": 2066400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 95.19,
+      "rank": 1,
+      "amount": 8285040.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司河源分公司",
+      "role": "participant",
+      "total_score": 67.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东云电能信息科技有限公司",
+      "role": "participant",
+      "total_score": 43.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东通力智能科技有限公司",
+      "role": "participant",
+      "total_score": 37.82,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

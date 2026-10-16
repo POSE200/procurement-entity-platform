@@ -1,0 +1,166 @@
+{
+  "announcement_id": "t20260509_26536085",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中网讯信息科技（广州）有限公司）.pdf",
+  "note": "概要品目列为空，category取HTML标的信息表「品目名称」列（两条均为其他运行维护服务）；单价×数量=总价核对一致（769000+151000=920000，与总中标金额92万元一致）；得分排名列原文明示故填rank；广东讯恒科技有限公司资格性审查不通过，得分排名为null。",
+  "project": {
+    "buyer": "广东省从化监狱",
+    "project_name": "省监狱局从化监狱政务信息化基础设施运维（2026年）项目暨从化监狱2026年办公设备维修和保养服务项目",
+    "total_amount": 920000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中网讯信息科技（广州）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "政务信息化基础设施运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 769000.0,
+      "total_price": 769000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他运行维护服务",
+      "item_name": "办公设备维修和保养服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 151000.0,
+      "total_price": 151000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中网讯信息科技（广州）有限公司",
+      "role": "winner",
+      "total_score": 97.2,
+      "rank": 1,
+      "amount": 920000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省信息工程有限公司",
+      "role": "participant",
+      "total_score": 96.58,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "睿冠（广东）信息科技有限公司",
+      "role": "participant",
+      "total_score": 94.79,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市泓泰科技发展有限公司",
+      "role": "participant",
+      "total_score": 88.29,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东暨通信息发展有限公司",
+      "role": "participant",
+      "total_score": 86.29,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "神州数码数云科技有限公司",
+      "role": "participant",
+      "total_score": 85.98,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市艾乐特电子科技有限公司",
+      "role": "participant",
+      "total_score": 80.31,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东颐点科技有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州蓝色快线信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 79.19,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "金税信息技术服务股份有限公司",
+      "role": "participant",
+      "total_score": 77.88,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东比特豹科技有限公司",
+      "role": "participant",
+      "total_score": 69.56,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市宏方网络科技有限公司",
+      "role": "participant",
+      "total_score": 68.89,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇天科技发展有限公司",
+      "role": "participant",
+      "total_score": 52.91,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东讯恒科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

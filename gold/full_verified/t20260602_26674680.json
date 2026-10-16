@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260602_26674680",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国联合网络通信有限公司聊城市分公司).pdf,报价明细表(第1轮-中国移动通信集团山东有限公司聊城分公司).pdf",
+  "note": "两张中标表未标包号，包号按附件推定：劳务报酬支付表载'采购包1预算380,000.00元/采购包2预算220,000.00元'，与两家报价明细表的最高限价（联通公共服务域限价380000元、移动行政服务域限价220000元）一一对应，故包1=电子政务外网公共服务域（联通，374470元）、包2=电子政务外网行政服务域（移动，217900元）（note声明）；HTML品目号与'品目编号及品目名称'列均为空，category=null；评分表'得分排名/推荐排名'列空，rank=null，综合诚信等分项得分列亦空；两包之和374470+217900=592370元与总中标金额一致；item_no取附件报价明细表序号1（HTML品目号空）。复核：包号对应另获劳务报酬支付表'采购包1：374470元'成交金额行直接印证，两包数量1.0000/单位项为附件明示，全部字段核对无误。",
+  "project": {
+    "buyer": "高唐县人民政府办公室",
+    "project_name": "高唐县电子政务外网服务项目",
+    "total_amount": 592370.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "电子政务外网公共服务域",
+        "winner": "中国联合网络通信有限公司聊城市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "电子政务外网行政服务域",
+        "winner": "中国移动通信集团山东有限公司聊城分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "电子政务外网公共服务域",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 374470.0,
+      "total_price": 374470.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "电子政务外网行政服务域",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 217900.0,
+      "total_price": 217900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "winner",
+      "total_score": 86.49,
+      "rank": null,
+      "amount": 374470.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司聊城分公司",
+      "role": "participant",
+      "total_score": 84.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省邮电工程有限公司",
+      "role": "participant",
+      "total_score": 78.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司聊城分公司",
+      "role": "winner",
+      "total_score": 87.29,
+      "rank": null,
+      "amount": 217900.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": 84.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "茌平县皓轩网络工程有限公司",
+      "role": "participant",
+      "total_score": 72.79,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

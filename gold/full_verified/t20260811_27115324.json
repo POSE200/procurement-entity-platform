@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260811_27115324",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "已强制核对中标人投标（响应）报价明细表.pdf：5条明细与HTML标的信息表完全一致，合计418000+75000+170000+750000+42000=1455000元=总中标金额1455000.00元；1-4条单价13392.8571元×56节点=749999.9976元≈750000元（四舍五入尾差，1%容差内）；附件报价明细表.docx为空白模板无数据；中标附件.docx载明第1包预算1472600元、中标金额1455000元；品目取自HTML标的信息表'品目编号及品目名称'列（概要品目列空）；中标人得分排名列空白故rank=null（不推定第1），未中标人无排名明示；1-4规格型号「DACS-CellGuide V1.0」及各数量已由HTML表格2与附件报价明细表双源互证（OCR断字/粘连不影响读值），无需视觉核验",
+  "project": {
+    "buyer": "威海海洋职业学院",
+    "project_name": "船舶数字化三维扫描设备及点云分析软件",
+    "total_amount": 1455000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京舰客文化科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测绘仪器",
+      "item_name": "船舶三维激光扫描仪",
+      "brand": "徕卡",
+      "model": "RTC300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 418000.0,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "点云数据预处理软件",
+      "brand": "徕卡",
+      "model": "REGISTER 360",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 75000.0,
+      "total_price": 75000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "船舶货舱试箱检验工作台",
+      "brand": "舰客教育",
+      "model": "JKJY-MOD-3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 170000.0,
+      "total_price": 170000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "船舱点云逆建模检验分析软件",
+      "brand": "海徕",
+      "model": "DACS-CellGuide V1.0",
+      "quantity": 56,
+      "unit": "节点",
+      "unit_price": 13392.8571,
+      "total_price": 750000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "视听资料",
+      "item_name": "船舱三维扫描教学资源",
+      "brand": "舰客教育",
+      "model": "JKJY-SC-A2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 42000.0,
+      "total_price": 42000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京舰客文化科技有限公司",
+      "role": "winner",
+      "total_score": 92.6,
+      "rank": null,
+      "amount": 1455000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京鹏程万博科技有限公司",
+      "role": "participant",
+      "total_score": 84.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东山海见微智能科技有限公司",
+      "role": "participant",
+      "total_score": 68.88,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

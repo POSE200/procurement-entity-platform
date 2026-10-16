@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260708_26894030",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:3.招标文件-大连大学数据网络安全建设采购项目.docx",
+  "note": "单标项项目（标项号1）。4条明细取自HTML主要标的信息表（品牌/规格型号/数量/单价俱全）：345,822+145,822+308,822+238,822=1,039,288元，与中标报价1,039,288元（总中标金额￥103.930000万）一致；原文表格无总价列，total_price为单价×数量唯一互推。数量列原文仅「1」无单位，unit取附件招标文件第一章采购需求「IPS入侵防御1套、堡垒机1套、链路负载均衡设备1套、国产杀毒软件1套」对应的「套」（第4条原文为服务器杀毒软件(200客户端)，与需求清单国产杀毒软件按序对应）。概要品目列空且标的信息表无品目名称列，category=null。bidders 4家取自表格2（资格审查结果表含总得分与排名列，明示1-4名）；未中标3家报价原文未给，amount=null。独立复核（0924）：全部字段逐项核对无误；unit=套由附件招标文件分项清单（IPS入侵防御/堡垒机/链路负载均衡/服务器杀毒软件 各'套|1'）直接明示确认。",
+  "project": {
+    "buyer": "大连大学",
+    "project_name": "大连大学数据网络安全建设采购项目",
+    "total_amount": 1039288.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "大连大学数据网络安全建设采购项目",
+        "winner": "大连奥远电子股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "IPS入侵防御",
+      "brand": "绿盟",
+      "model": "NIPSNX5-HH20000-P",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 345822.0,
+      "total_price": 345822.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "堡垒机",
+      "brand": "安恒",
+      "model": "DAS-USM280",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 145822.0,
+      "total_price": 145822.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "链路负载均衡",
+      "brand": "信安世纪",
+      "model": "APV-7860C-DA",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 308822.0,
+      "total_price": 308822.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "服务器杀毒软件(200客户端)",
+      "brand": "奇安信",
+      "model": "奇安信网神统一服务器安全管理系统V8.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 238822.0,
+      "total_price": 238822.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "大连奥远电子股份有限公司",
+      "role": "winner",
+      "total_score": 95.53,
+      "rank": 1,
+      "amount": 1039288.0
+    },
+    {
+      "package_no": "1",
+      "name": "富成数字技术集团有限公司",
+      "role": "participant",
+      "total_score": 81.35,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大连新桥科技发展有限公司",
+      "role": "participant",
+      "total_score": 77.27,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大连惟远恒泰信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.3,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

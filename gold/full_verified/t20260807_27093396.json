@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260807_27093396",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市琪讯数码科技有限公司）.pdf",
+  "note": "单包单条明细。品目概要列为空，category 取HTML标的信息表品目名称列「基础环境运维服务」；附件报价明细给出单价350,000×1(项)=总价350,000.00，与中标金额350,000.00元及总中标金额￥35.00万一致。附件声明函为OCR水印打散文本（琪讯数码/智慧云台等竖排水印混入正文），无有效字段可取。bidders 3家排名取自评分表「得分排名」列，广东广凌推荐排名列留空。复核：附件报价明细1条（350,000×1项）、评分表3家得分排名均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "广州职业技术大学",
+    "project_name": "广州职业技术大学2026年校园安防视频监控维护项目",
+    "total_amount": 350000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州职业技术大学2026年校园安防视频监控维护项目",
+        "winner": "广州市琪讯数码科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境运维服务",
+      "item_name": "运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 350000.0,
+      "total_price": 350000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市琪讯数码科技有限公司",
+      "role": "winner",
+      "total_score": 83.22,
+      "rank": 1,
+      "amount": 350000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州诚踏信息科技有限公司",
+      "role": "participant",
+      "total_score": 70.48,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广凌信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 68.11,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

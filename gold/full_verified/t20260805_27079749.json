@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260805_27079749",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "attachment:合同包1：报价明细附件（广州市盛通建设工程质量检测有限公司）.pdf,合同包2：报价明细附件（公诚管理咨询有限公司）.pdf",
+  "note": "附件为zip压缩包（声明跳过），其内部两个合同包报价明细PDF已以unpacked形式解析可见并核对；概要品目列为空，category取HTML对应包标的信息表品目名称列；两包金额56,480+50,000=106,480元=总中标金额10.648万元，一致；附件文本有水印字符混入，服务名称已按HTML采购标的列清理（复核确认两处一致，无需视觉核验）。",
+  "project": {
+    "buyer": "广东省海洋发展规划研究中心",
+    "project_name": "广东省海洋数据应用系统升级改造（2026年）项目(二次)",
+    "total_amount": 106480.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省海洋数据应用系统升级改造（2026年）项目-第三方网络安全等级保护与验收测评服务",
+        "winner": "广州市盛通建设工程质量检测有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "广东省海洋数据应用系统升级改造（2026年）项目-第三方监理服务",
+        "winner": "公诚管理咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "广东省海洋数据应用系统升级改造（2026年）项目-第三方网络安全等级保护与验收测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 56480.0,
+      "total_price": 56480.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息化工程监理服务",
+      "item_name": "广东省海洋数据应用系统升级改造（2026年）项目-第三方监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市盛通建设工程质量检测有限公司",
+      "role": "winner",
+      "total_score": 90.4,
+      "rank": 1,
+      "amount": 56480.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 90.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "工业和信息化部电子第五研究所",
+      "role": "participant",
+      "total_score": 83.68,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市网安计算机安全检测技术有限公司",
+      "role": "participant",
+      "total_score": 68.27,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京金源动力信息化测评技术有限公司",
+      "role": "participant",
+      "total_score": 48.89,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "公诚管理咨询有限公司",
+      "role": "winner",
+      "total_score": 84.86,
+      "rank": 1,
+      "amount": 50000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东艾发信创设计院有限公司",
+      "role": "participant",
+      "total_score": 62.72,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州驭网信息技术有限公司",
+      "role": "participant",
+      "total_score": 56.2,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

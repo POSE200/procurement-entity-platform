@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260812_27123411",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,附件.pdf",
+  "note": "标题明示采购包1，package_no=1；HTML标的信息表仅1条（品目号1-1教学仪器，1宗，规格型号'详见声明函和报价表等'），中标人附件.pdf内明细表拆为3条最细粒度（柔性腕带分拣模块2套/智能仓储与追溯模块2套/其他配套设备设施1宗，合计1089600元与中标金额吻合），故items按附件3条输出，品目沿用HTML品目名称'教学仪器'；规格型号BN-N426-01/02/03取自附件.pdf本国产品声明函附表；评分表'得分排名'列为空，rank一律null；包(1)_开标一览表与包(1)_投标报价明细表为空模板，未中标方无报价。",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院智能制造数字化控制与孪生应用实训系统项目",
+    "total_amount": 1089600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京赛育达科教有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "柔性腕带分拣模块",
+      "brand": "博诺",
+      "model": "BN-N426-01",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 445000.0,
+      "total_price": 890000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "智能仓储与追溯模块",
+      "brand": "博诺",
+      "model": "BN-N426-02",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 74800.0,
+      "total_price": 149600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "其他配套设备设施",
+      "brand": "博诺",
+      "model": "BN-N426-03",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京赛育达科教有限责任公司",
+      "role": "winner",
+      "total_score": 91.16,
+      "rank": null,
+      "amount": 1089600.0
+    },
+    {
+      "package_no": "1",
+      "name": "安徽佐标智能科技有限公司",
+      "role": "participant",
+      "total_score": 74.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "郑州永鼎电子科技有限公司",
+      "role": "participant",
+      "total_score": 73.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中科讯（青岛）智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.1,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

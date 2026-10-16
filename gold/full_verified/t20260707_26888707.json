@@ -1,0 +1,475 @@
+{
+  "announcement_id": "t20260707_26888707",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州文远知行科技有限公司）.pdf,合同包2：报价明细附件（高新兴科技集团股份有限公司）.pdf",
+  "note": "两包结果公告：包1广州文远知行科技有限公司2,570,000元（6条明细）、包2高新兴科技集团股份有限公司2,418,000元（26条明细），两包之和4,988,000=总中标金额498.8万，包内明细之和亦与各自中标金额核验一致。概要品目列空，category 取 HTML 标的信息表品目名称列。附件报价明细（zip已解包）与 HTML 表一致，brand/model 等以 HTML 表为准（附件OCR水印噪字较多）。反馈抑制器规格型号：HTML 表与报价明细附件均为 PS-210F（与电源时序器同型），仅本国产品声明函正文写 FBQ-220，声明函非标的明细来源，两处明细来源一致故按 PS-210F 定值。rank 取自各包评分表得分排名列。复核修正：原'PS-210F/FBQ-220 不一致需视觉核验'关闭（报价明细附件与 HTML 一致）。",
+  "project": {
+    "buyer": "广州职业技术大学",
+    "project_name": "广州职业技术大学智能网联与新能源汽车L4级自动驾驶系统集成与智能座舱测试工程化应用实训基地采购项目",
+    "total_amount": 4988000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "L4级自动驾驶系统集成",
+        "winner": "广州文远知行科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "智能座舱测试工程化应用",
+        "winner": "高新兴科技集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "自动驾驶远程控制与监测系统",
+      "brand": "文远知行",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 238000.0,
+      "total_price": 238000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他车辆",
+      "item_name": "产业级L4自动驾驶乘用车",
+      "brand": "远程牌",
+      "model": "JL6501BEV100",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 1300000.0,
+      "total_price": 1300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "定制传感标定板",
+      "brand": "广东致荣",
+      "model": "ZR-BDB",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 32000.0,
+      "total_price": 32000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "应用软件",
+      "item_name": "L4级自动驾驶标定软件",
+      "brand": "广东致荣",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他车辆",
+      "item_name": "产业级L4自动驾驶物流车",
+      "brand": "广东致荣",
+      "model": "ZR-WL05",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 450000.0,
+      "total_price": 450000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "智能远程驾驶舱",
+      "brand": "广东致荣",
+      "model": "ZR-JSC01",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "保密柜",
+      "item_name": "保险柜",
+      "brand": "虎牌",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 6500.0,
+      "total_price": 39000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "LED 显示屏",
+      "item_name": "远程驾驶数据可视化大屏",
+      "brand": "木林森",
+      "model": "室内1.86",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 59000.0,
+      "total_price": 59000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-3",
+      "category": "其他车辆",
+      "item_name": "L4级车路协同自动驾驶开发平台",
+      "brand": "风向标",
+      "model": "FXB-ZNJSEO03",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 396000.0,
+      "total_price": 396000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-4",
+      "category": "教学仪器",
+      "item_name": "车规级智能网联汽车传感器套组",
+      "brand": "瀛天",
+      "model": "YT-Sensor",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 68000.0,
+      "total_price": 68000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-5",
+      "category": "教学仪器",
+      "item_name": "智能网联汽车计算平台",
+      "brand": "高新兴",
+      "model": "G-Computing",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 39800.0,
+      "total_price": 39800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-6",
+      "category": "教学仪器",
+      "item_name": "智能网联汽车四轮四转移动研究平台",
+      "brand": "博岚智汽",
+      "model": "CY-RFG-DF",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 82000.0,
+      "total_price": 82000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-7",
+      "category": "教学仪器",
+      "item_name": "自动驾驶测试工作站",
+      "brand": "联想",
+      "model": "ThinkStation P3 Tower",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 20000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-8",
+      "category": "教学仪器",
+      "item_name": "汽车装调工具套装",
+      "brand": "博岚智汽",
+      "model": "CY-Tool",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 22500.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-9",
+      "category": "教学仪器",
+      "item_name": "工具货架",
+      "brand": "时升",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 1200.0,
+      "total_price": 7200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-10",
+      "category": "教学仪器",
+      "item_name": "车辆充电站",
+      "brand": "极氪",
+      "model": "3.5KW充放一体",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 1000.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-11",
+      "category": "教学仪器",
+      "item_name": "工作台",
+      "brand": "时升",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 14000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-12",
+      "category": "教学仪器",
+      "item_name": "智能座舱自动化测试平台",
+      "brand": "领翰智能",
+      "model": "LH-IC",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 399000.0,
+      "total_price": 798000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-13",
+      "category": "教学仪器",
+      "item_name": "智能座舱零部件测试台",
+      "brand": "博岚智汽",
+      "model": "BL-HM-JC",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 212800.0,
+      "total_price": 212800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-14",
+      "category": "教学仪器",
+      "item_name": "车辆气密性淋雨测试系统",
+      "brand": "领翰智能",
+      "model": "LH-VATRT-S",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 266000.0,
+      "total_price": 266000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-15",
+      "category": "教学仪器",
+      "item_name": "音箱",
+      "brand": "比丽普",
+      "model": "F10",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 1950.0,
+      "total_price": 7800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-16",
+      "category": "教学仪器",
+      "item_name": "功放",
+      "brand": "比丽普",
+      "model": "E-2150",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 3150.0,
+      "total_price": 3150.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-17",
+      "category": "教学仪器",
+      "item_name": "调音台",
+      "brand": "比丽普",
+      "model": "TD-600-12",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1550.0,
+      "total_price": 1550.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-18",
+      "category": "教学仪器",
+      "item_name": "定制教学桌",
+      "brand": "时升",
+      "model": "定制",
+      "quantity": 7,
+      "unit": "组",
+      "unit_price": 2800.0,
+      "total_price": 19600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-19",
+      "category": "教学仪器",
+      "item_name": "定制教学椅",
+      "brand": "时升",
+      "model": "定制",
+      "quantity": 42,
+      "unit": "个",
+      "unit_price": 250.0,
+      "total_price": 10500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-20",
+      "category": "教学仪器",
+      "item_name": "定制隔断柜",
+      "brand": "时升",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "组",
+      "unit_price": 1000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-21",
+      "category": "教学仪器",
+      "item_name": "无线话筒",
+      "brand": "比丽普",
+      "model": "BLP-920",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1600.0,
+      "total_price": 1600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-22",
+      "category": "教学仪器",
+      "item_name": "反馈抑制器",
+      "brand": "比丽普",
+      "model": "PS-210F",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1750.0,
+      "total_price": 1750.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-23",
+      "category": "教学仪器",
+      "item_name": "电源时序器",
+      "brand": "比丽普",
+      "model": "PS-210F",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1950.0,
+      "total_price": 1950.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-24",
+      "category": "教学仪器",
+      "item_name": "智慧教学黑板",
+      "brand": "文香",
+      "model": "WX-BP08651J",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 24500.0,
+      "total_price": 24500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-25",
+      "category": "教学仪器",
+      "item_name": "举升机",
+      "brand": "世达",
+      "model": "351453",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 13900.0,
+      "total_price": 222400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-26",
+      "category": "教学仪器",
+      "item_name": "汽车全自动轮胎充气机",
+      "brand": "世达",
+      "model": "98105",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 2100.0,
+      "total_price": 8400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州文远知行科技有限公司",
+      "role": "winner",
+      "total_score": 92.13,
+      "rank": 1,
+      "amount": 2570000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州诚踏信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.38,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州海扬网络科技有限公司",
+      "role": "participant",
+      "total_score": 66.54,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "高新兴科技集团股份有限公司",
+      "role": "winner",
+      "total_score": 72.6,
+      "rank": 1,
+      "amount": 2418000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州坤沐科技有限责任公司",
+      "role": "participant",
+      "total_score": 39.34,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州星樾智教科技有限公司",
+      "role": "participant",
+      "total_score": 38.57,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "佛山天弓智能科技有限公司",
+      "role": "participant",
+      "total_score": 26.19,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

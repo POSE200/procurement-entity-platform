@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260310_26250892",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件。品目列空、无标的信息表，category=null。两个服务包各只有一条标的（表格2），按包中标金额填total_price；按口径3，单条服务标的不推填quantity=1/unit_price=总价，quantity/unit/unit_price=null。包金额107万+23万=130万与总中标金额￥130.000000万一致。rank原文未明示，null。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）通勤班车租赁服务采购项目",
+    "total_amount": 1300000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "空天信息大学（筹）与济南市区（不含长清区）通勤班车采购",
+        "winner": "山东广大汽车服务有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "空天信息大学（筹）与济南市长清区通勤班车采购项目",
+        "winner": "山东合行达新能源汽车有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "空天信息大学（筹）与济南市区（不含长清区）通勤班车采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1070000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "空天信息大学（筹）与济南市长清区通勤班车采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 230000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东广大汽车服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1070000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东合行达新能源汽车有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 230000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

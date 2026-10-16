@@ -1,0 +1,421 @@
+{
+  "announcement_id": "t20260812_27123653",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1-报价明细表(最后报价-中国石油大学（华东）).pdf,2-报价明细表(最后报价-弘成科技发展有限公司).pdf,3-报价明细表(最后报价-山东漫星律动文化传媒有限公司).pdf,4-报价明细表(最后报价-山东世纪读秀信息科技有限公司).pdf",
+  "note": "4个采购包各1条标的；四张综合得分表按'最高分=该包中标人评审总得分'对应包1/2/3/4（推定对应关系，另经中标金额表顺序与未中标原因表顺序交叉印证一致）；得分排名/推荐排名列全空，rank均null；包2的郑州盈视信息科技有限公司未在规定时间内提交报价视为无效响应、无得分，仍收录为participant（其在包3有得分75.26）；各包报价明细表（最后报价）单价×1.0000宗=合计，与各包成交金额一致；包金额之和219000+202000+220000+228000=869000=总中标金额。复核：与原文逐字段核对一致（含4包×全部投标人得分），verified。",
+  "project": {
+    "buyer": "山东农业大学",
+    "project_name": "山东农业大学2026年高等学历继续教育网络课程建设项目（26-SDSM-F-014）",
+    "total_amount": 869000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国石油大学（华东）"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "弘成科技发展有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东漫星律动文化传媒有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数字内容加工处理服务",
+      "item_name": "精品课程建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 219000.0,
+      "total_price": 219000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "数字内容加工处理服务",
+      "item_name": "课程建设二",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 202000.0,
+      "total_price": 202000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "数字内容加工处理服务",
+      "item_name": "课程建设三",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "数字内容加工处理服务",
+      "item_name": "课程建设四",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 228000.0,
+      "total_price": 228000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国石油大学（华东）",
+      "role": "winner",
+      "total_score": 89.21,
+      "rank": null,
+      "amount": 219000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东漫星律动文化传媒有限公司",
+      "role": "participant",
+      "total_score": 86.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "弘成科技发展有限公司",
+      "role": "participant",
+      "total_score": 85.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 81.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 81.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东启泽教育科技有限公司",
+      "role": "participant",
+      "total_score": 79.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东平创信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.3,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京无疆致远文化科技有限公司",
+      "role": "participant",
+      "total_score": 78.57,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "弘成科技发展有限公司",
+      "role": "winner",
+      "total_score": 85.73,
+      "rank": null,
+      "amount": 202000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东漫星律动文化传媒有限公司",
+      "role": "participant",
+      "total_score": 84.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 82.93,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "participant",
+      "total_score": 82.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 81.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛糖果时光影音科技有限公司",
+      "role": "participant",
+      "total_score": 81.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京无疆致远文化科技有限公司",
+      "role": "participant",
+      "total_score": 79.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东平创信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东启泽教育科技有限公司",
+      "role": "participant",
+      "total_score": 78.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 76.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "张家口曦才教育科技有限公司",
+      "role": "participant",
+      "total_score": 73.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "郑州盈视信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东漫星律动文化传媒有限公司",
+      "role": "winner",
+      "total_score": 88.13,
+      "rank": null,
+      "amount": 220000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 83.48,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "弘成科技发展有限公司",
+      "role": "participant",
+      "total_score": 82.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 81.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "青岛糖果时光影音科技有限公司",
+      "role": "participant",
+      "total_score": 81.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京无疆致远文化科技有限公司",
+      "role": "participant",
+      "total_score": 80.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东平创信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.61,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东启泽教育科技有限公司",
+      "role": "participant",
+      "total_score": 79.09,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 77.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "郑州盈视信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "张家口曦才教育科技有限公司",
+      "role": "participant",
+      "total_score": 74.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 85.76,
+      "rank": null,
+      "amount": 228000.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东漫星律动文化传媒有限公司",
+      "role": "participant",
+      "total_score": 83.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 82.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "青岛糖果时光影音科技有限公司",
+      "role": "participant",
+      "total_score": 82.37,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京网梯科技发展有限公司",
+      "role": "participant",
+      "total_score": 82.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "北京无疆致远文化科技有限公司",
+      "role": "participant",
+      "total_score": 80.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东平创信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东启泽教育科技有限公司",
+      "role": "participant",
+      "total_score": 79.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260507_26519724",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:271-中标公告.docx",
+  "note": "三个包分别成交，包号→中标人映射取自附件中标公告（01包智农天地9,323,200元/02包农村产权交易所1,700,000元/03包小全科技1,425,000元），HTML中标表未标包号。三包合计12,448,200元=总中标金额￥1244.82万元。HTML标的信息表商品名称列为空、主要标的信息仅给项目级名称，item_name=null；品目列空且\"服务类\"为分节标题不算品目，category=null。数量/单价/总价三列原文均有值（数量1、单价=总价=中标金额），系照抄非推算。评审总得分公告明示（8.3条与中标表一致），rank原文未给排名列，rank=null。招标文件附件仅前30页，无评标明细。需视觉核验：01包金额大写\"玖佰叁拾贰万叁仟贰佰元整\"=9,323,200与表格1的932.32万元一致。",
+  "project": {
+    "buyer": "北京市农业农村局（本级）",
+    "project_name": "北京市乡村振兴大数据平台（含农业农村综合管理平台）升级改造项目",
+    "total_amount": 12448200.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": null,
+        "winner": "北京智农天地网络技术有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": null,
+        "winner": "北京农村产权交易所有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": null,
+        "winner": "北京小全科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 9323200.0,
+      "total_price": 9323200.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1700000.0,
+      "total_price": 1700000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1425000.0,
+      "total_price": 1425000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京智农天地网络技术有限公司",
+      "role": "winner",
+      "total_score": 95.9,
+      "rank": null,
+      "amount": 9323200.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京农村产权交易所有限公司",
+      "role": "winner",
+      "total_score": 89.0,
+      "rank": null,
+      "amount": 1700000.0
+    },
+    {
+      "package_no": "03",
+      "name": "北京小全科技有限公司",
+      "role": "winner",
+      "total_score": 89.66,
+      "rank": null,
+      "amount": 1425000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "announcement_id": "t20260803_27062148",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东锐阳建设工程有限公司）.pdf,最终承诺报价书（广东锐阳建设工程有限公司）.pdf",
+  "note": "单一工程标的；成交total_price取公告四、主要标的信息和最终承诺报价书的1529237.46元。2026-07-30分项报价1736206.61元仅保留为initial_quote历史，不再作为成交明细价。最终成交单价未直接披露，unit_price置null；quantity=1项的来源明确为初次报价表。最终承诺报价书生成时间2026-07-31，轮次字段原文为1，不将其擅改为轮次2。品牌型号无本次可补证据。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "广州大学",
+    "project_name": "广州大学数学与信息科学学院实验室维修改造项目",
+    "total_amount": 1529237.46,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州大学数学与信息科学学院实验室维修改造项目",
+        "winner": "广东锐阳建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "装修工程",
+      "item_name": "广州大学数学与信息科学学院实验室维修改造项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 1529237.46,
+      "pricing_history": [
+        {
+          "stage": "initial_quote",
+          "unit_price": 1736206.61,
+          "quantity": 1,
+          "unit": "项",
+          "total_price": 1736206.61,
+          "evidence": {
+            "source": "赛题五.基准测试数据_file.zip!t20260803_27062148.zip!合同包1：报价明细附件（广东锐阳建设工程有限公司）.pdf",
+            "page": 1,
+            "quote": "单价 数量 总价：1,736,206.61 1 (项) 1,736,206.61；日期：2026 年 07 月 30 日"
+          }
+        },
+        {
+          "stage": "final_award",
+          "unit_price": null,
+          "total_price": 1529237.46,
+          "evidence": [
+            {
+              "source": "赛题五.基准测试数据_html.zip!t20260803_27062148.html",
+              "location": "四、主要标的信息 金额(元)",
+              "quote": "1,529,237.4600"
+            },
+            {
+              "source": "赛题五.基准测试数据_file.zip!t20260803_27062148.zip!最终承诺报价书（广东锐阳建设工程有限公司）.pdf",
+              "page": 1,
+              "quote": "投标总报价(元) 小写： 1,529,237.46元"
+            }
+          ]
+        }
+      ],
+      "quantity_basis": "initial_quote"
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东锐阳建设工程有限公司",
+      "role": "winner",
+      "total_score": 96.42,
+      "rank": 1,
+      "amount": 1529237.46
+    },
+    {
+      "package_no": "1",
+      "name": "广州宁致建筑工程有限公司",
+      "role": "participant",
+      "total_score": 96.07,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州中太建筑安装工程有限公司",
+      "role": "participant",
+      "total_score": 95.93,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东豪龙建设有限公司",
+      "role": "participant",
+      "total_score": 95.33,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东云联达建设工程有限公司",
+      "role": "participant",
+      "total_score": 94.87,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东辰光建设有限公司",
+      "role": "participant",
+      "total_score": 94.4,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东旭垄腾建设股份有限公司",
+      "role": "participant",
+      "total_score": 94.01,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东恒泽建设集团有限公司",
+      "role": "participant",
+      "total_score": 93.96,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东泰山建设有限公司",
+      "role": "participant",
+      "total_score": 93.94,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东创博智慧能源科技有限公司",
+      "role": "participant",
+      "total_score": 92.94,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东长博建设工程有限公司",
+      "role": "participant",
+      "total_score": 92.15,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东九潮建设有限公司",
+      "role": "participant",
+      "total_score": 92.02,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东掌瑞建筑工程有限公司",
+      "role": "participant",
+      "total_score": 91.81,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州盈德建筑工程有限公司",
+      "role": "participant",
+      "total_score": 91.78,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州顿奇装饰集团股份有限公司",
+      "role": "participant",
+      "total_score": 91.69,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州艺源建设工程有限公司",
+      "role": "participant",
+      "total_score": 91.46,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "君兆建设控股集团有限公司",
+      "role": "participant",
+      "total_score": 91.46,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东筑兴建设工程有限公司",
+      "role": "participant",
+      "total_score": 88.9,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东骏森建设工程有限公司",
+      "role": "participant",
+      "total_score": 87.98,
+      "rank": 19,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市兴宏达建设工程有限公司",
+      "role": "participant",
+      "total_score": 85.59,
+      "rank": 20,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东领军建筑工程有限公司",
+      "role": "participant",
+      "total_score": 81.09,
+      "rank": 21,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东育泓建筑工程有限公司",
+      "role": "participant",
+      "total_score": 75.9,
+      "rank": 22,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东粤疆建设工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

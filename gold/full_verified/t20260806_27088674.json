@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088674",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东国晟汽车服务有限公司).pdf",
+  "note": "概要品目列空，category 取标的信息表'品目编号及品目名称'列'平台运营服务'；单价/数量/单位取自附件报价明细表(第1轮-山东国晟)（单价1985000元×数量1项=响应报价1985000元，最高限价1990000元）；服务期三年非数量；package_no=1 取自公告标题'（采购包1）'及品目号1-1；得分排名列空白，rank 全 null。",
+  "project": {
+    "buyer": "沂源县人民政府办公室",
+    "project_name": "山东省淄博市沂源县党政机关公务用车服务平台社会化管理运营采购项目",
+    "total_amount": 1985000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东国晟汽车服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "山东省淄博市沂源县党政机关公务用车服务平台社会化管理运营采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1985000.0,
+      "total_price": 1985000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东国晟汽车服务有限公司",
+      "role": "winner",
+      "total_score": 87.67,
+      "rank": null,
+      "amount": 1985000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南安弘程汽车服务有限公司",
+      "role": "participant",
+      "total_score": 66.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博安程锦阳汽车服务有限公司",
+      "role": "participant",
+      "total_score": 66.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博国亿汽车服务有限公司",
+      "role": "participant",
+      "total_score": 65.97,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260703_26865897",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（联通（广东）产业互联网有限公司）.pdf",
+  "note": "单包项目（合同包1，附件明示包号）。概要品目列空，category 取自 HTML 品目名称列（1-4/1-8 为其他服务，其余为其他信息化设备）。1-4 综合布线、1-8 系统集成在 HTML 表3 金额栏为空，单价/总价取自附件报价明细表。8 条明细之和=9,225,758元，与总中标金额￥922.5758万一致。1-1/1-2/1-3/1-7 的品牌、规格型号原文均为「详见投标文件」（附件同样写法），投标文件未随包提供，按口径填 null。3 家投标人未通过符合性审查无得分。需视觉核验：无重大疑点。复核：8条明细、合计与评分表（含3家未过符合性审查）已独立核对，确认通过。",
+  "project": {
+    "buyer": "博罗中等专业学校",
+    "project_name": "博罗中等专业学校新校区续建扩建工程项目（智慧校园建设项目）一",
+    "total_amount": 9225758.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "博罗中等专业学校新校区续建扩建工程项目（智慧校园建设项目）一",
+        "winner": "联通（广东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "网络系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4241575.0,
+      "total_price": 4241575.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "校园广播系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 851777.0,
+      "total_price": 851777.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息化设备",
+      "item_name": "停车场管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 127200.0,
+      "total_price": 127200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他服务",
+      "item_name": "综合布线",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1722300.0,
+      "total_price": 1722300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他信息化设备",
+      "item_name": "智慧教学显示终端（核心产品）",
+      "brand": "希沃",
+      "model": "FH86EA",
+      "quantity": 94,
+      "unit": "台",
+      "unit_price": 13280.0,
+      "total_price": 1248320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他信息化设备",
+      "item_name": "集控软件（核心产品）",
+      "brand": "希沃",
+      "model": "V1.0",
+      "quantity": 94,
+      "unit": "套",
+      "unit_price": 549.0,
+      "total_price": 51606.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他信息化设备",
+      "item_name": "多媒体电教系统：其他产品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 460280.0,
+      "total_price": 460280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他服务",
+      "item_name": "系统集成",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 522700.0,
+      "total_price": 522700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 89.81,
+      "rank": 1,
+      "amount": 9225758.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东中安合创科技有限公司",
+      "role": "participant",
+      "total_score": 54.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州像素数据技术股份有限公司",
+      "role": "participant",
+      "total_score": 45.57,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊九虎智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江省梵宇科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市弈派智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

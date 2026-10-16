@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260509_26538075",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:第六包-北京斯迪克信息技术有限公司_中小企业声明函.pdf",
+  "note": "包号/包名来自公告标题（第5包陈经纶中学呼家楼校区、第6包中国人民大学附属中学朝阳学校朝阳港校区）；附件声明函名「第六包-北京斯迪克信息技术有限公司」锚定斯迪克中标第6包，本项目仅两个包且恰有两家中标供应商，信诺时代按排除法归第5包（推断已在note声明）；1521000+427700=1948700元与总中标金额一致；概要品目列为空且HTML无品目名称列，category为null；标的信息表数量=1但无计量单位列，unit为null；第6包中小企业声明函内另列更细标的（网络安全等级保护测评、软件测评、资源分析等系统清单）但无金额拆分，未单列item；无排名信息，rank为null。",
+  "project": {
+    "buyer": "北京市朝阳区教育数智化发展中心",
+    "project_name": "2026年朝阳区学位建设信息化软件配套项目",
+    "total_amount": 1948700.0,
+    "packages": [
+      {
+        "package_no": "5",
+        "package_name": "陈经纶中学呼家楼校区",
+        "winner": "北京信诺时代科技发展有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "中国人民大学附属中学朝阳学校朝阳港校区",
+        "winner": "北京斯迪克信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": null,
+      "item_name": "陈经纶中学呼家楼校区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 427700.0,
+      "total_price": 427700.0
+    },
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "中国人民大学附属中学朝阳学校朝阳港校区",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1521000.0,
+      "total_price": 1521000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "6",
+      "name": "北京斯迪克信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": null,
+      "amount": 1521000.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京信诺时代科技发展有限公司",
+      "role": "winner",
+      "total_score": 82.62,
+      "rank": null,
+      "amount": 427700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260209_26161613",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category取HTML标的明细表（表格2）'品目名称'列，三行原值均为'其他专业技术服务'，逐条照抄；标的明细表金额(元)列为空，分项total_price=null；报价明细附件（广州市城市规划勘测设计研究院有限公司）.pdf解析被跳过，分项报价不可得；中标人为联合体，名称按中标信息表原文保留（评分表中成员间分隔符为','与中标表的'、'略异）；声明函附件仅有中小企业声明内容，无价格字段；中标金额1,495,000.00元与总成交金额￥149.50万一致；bidders含评分表全部3家（第3家无推荐排名），rank取评分表'得分排名'列。复核修正：按新口径2，标的明细表品目名称列有值即照抄，category由null改为'其他专业技术服务'。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "广州市道路工程研究中心",
+    "project_name": "广州市中心城区非机动车道骨干网络优化提升方案（2026-2028年）",
+    "total_amount": 1495000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市中心城区非机动车道骨干网络优化提升方案（2026-2028年）",
+        "winner": "广州市城市规划勘测设计研究院有限公司(联合体成员：上海济安交通工程咨询有限公司、广州市交通规划研究院有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "非机动车道网络系统提升方案及实施清单",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "2027年度非机动车道网络治理技术咨询",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "2028年度非机动车道网络治理技术咨询",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市城市规划勘测设计研究院有限公司(联合体成员：上海济安交通工程咨询有限公司、广州市交通规划研究院有限公司)",
+      "role": "winner",
+      "total_score": 96.37,
+      "rank": 1,
+      "amount": 1495000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州湾区城市规划设计院有限公司",
+      "role": "participant",
+      "total_score": 63.21,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中联合创设计有限公司",
+      "role": "participant",
+      "total_score": 49.43,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

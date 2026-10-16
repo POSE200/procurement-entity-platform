@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260601_26667045",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:开标一览表（报价表）.pdf",
+  "note": "单包（附件明示\"共分1个包\"，包号1为推断）；视觉核验：开标一览表（报价表）.pdf高清渲染（DPI400局部放大）确认投标人名称为淄博华易云信息技术有限公司（打印体\"淄**华易云\"，公章压字；与业绩.pdf署名及签章人纪向忠一致），报价¥3151800元与总中标金额完全一致，且该公司不在HTML未中标名单5家中，据此推断其为中标人并补入bidders（winner），名称前两字受公章遮挡系依据业绩附件同名推断",
+  "project": {
+    "buyer": "高青县公安局",
+    "project_name": "高青县公安局2026年度视频监控运维改造升级项目",
+    "total_amount": 3151800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "高青县公安局2026年度视频监控运维改造升级项目",
+        "winner": "淄博华易云信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "高青县公安局2026年度视频监控运维改造升级项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3151800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司淄博分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博飞翔鸟网络科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东亨泽瑞智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东创联智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中电信数智科技有限公司淄博分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "淄博华易云信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3151800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

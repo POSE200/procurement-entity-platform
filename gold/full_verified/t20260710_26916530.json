@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260710_26916530",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-奥格科技股份有限公司).pdf,报价明细表(第1轮-山东建筑大学工程鉴定加固研究院有限公司).pdf",
+  "note": "分2个采购包（公告标题『采购包1、2』及附件包(1)/包(2)报价明细表明示）：包1=质检核查（建大加固研究院中标1,618,000元，最高限价1,630,000元）、包2=软件使用培训指导（奥格科技中标128,800元，最高限价130,000元）；两包之和1,618,000+128,800=1,746,800=总中标金额￥174.68万，一致。两包各1条明细，单价/数量(1.0000)/单位(项)/响应报价均直接取自各自报价明细表（单价=响应报价），单价×数量=总价一致。品目取HTML标的信息表品目名称列『其他专业技术服务』。HTML评分表得分排名/推荐排名列为空，所有bidder的rank=null；未中标供应商报价原文未给，amount=null。需视觉核验：包1报价明细表OCR竖排断行但数值已乘法互验。",
+  "project": {
+    "buyer": "山东省住房和城乡建设厅",
+    "project_name": "山东省住房和城乡建设厅全国自然灾害综合风险房屋建筑和市政设施基础数据更新",
+    "total_amount": 1746800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东建筑大学工程鉴定加固研究院有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "奥格科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "全省数据更新线上线下质检核查，以及现场调查、质检核查培训指导",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1618000.0,
+      "total_price": 1618000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专业技术服务",
+      "item_name": "全省数据更新软件使用培训指导",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 128800.0,
+      "total_price": 128800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东建筑大学工程鉴定加固研究院有限公司",
+      "role": "winner",
+      "total_score": 89.0,
+      "rank": null,
+      "amount": 1618000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省建筑工程质量检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 76.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鲁勘集团有限公司",
+      "role": "participant",
+      "total_score": 70.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "奥格科技股份有限公司",
+      "role": "winner",
+      "total_score": 87.04,
+      "rank": null,
+      "amount": 128800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东远湖信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛数字世界信息科技有限公司",
+      "role": "participant",
+      "total_score": 32.34,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

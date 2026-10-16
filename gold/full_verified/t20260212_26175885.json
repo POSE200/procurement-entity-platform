@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260212_26175885",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "各包中标金额公告未分包披露，bidders.amount=null（附件招标文件载明包1-4预算112/98/87.5/52.5万元/年、合计350万与总中标金额一致，但预算≠中标金额，不据此填写）。附件为4个包的招标文件（均仅前30页）+中小企业声明函，无开标/评标/报价数据。品目取概要列完整路径'服务/教育服务/考试服务'。评标信息未公布，rank/total_score=null。",
+  "project": {
+    "buyer": "教育部教育考试院",
+    "project_name": "教育部教育考试院全国大学英语四、六级口语考试——计算机化考试及网上评卷技术服务招标项目",
+    "total_amount": 3500000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京世纪互联软件开发有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "广东讯飞启明科技发展有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "深圳市海云天科技股份有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "山东山大鸥玛软件股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/教育服务/考试服务",
+      "item_name": "教育部教育考试院全国大学英语四、六级口语考试——计算机化考试及网上评卷技术服务招标项目（包1）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "服务/教育服务/考试服务",
+      "item_name": "教育部教育考试院全国大学英语四、六级口语考试——计算机化考试及网上评卷技术服务招标项目（包2）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "服务/教育服务/考试服务",
+      "item_name": "教育部教育考试院全国大学英语四、六级口语考试——计算机化考试及网上评卷技术服务招标项目（包3）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4",
+      "category": "服务/教育服务/考试服务",
+      "item_name": "教育部教育考试院全国大学英语四、六级口语考试——计算机化考试及网上评卷技术服务招标项目（包4）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京世纪互联软件开发有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东讯飞启明科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "深圳市海云天科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "山东山大鸥玛软件股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

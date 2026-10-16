@@ -1,0 +1,142 @@
+{
+  "announcement_id": "t20260612_26743079",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京智谷星图科技有限公司）.pdf",
+  "note": "品目取自HTML标的信息表品目名称列（概要品目列为空）；附件报价明细与HTML表格2逐项一致；各明细单价×数量之和=2,667,000元=总中标金额，账目相符；评分表第5行广东三胜智能装备有限公司的'不通过符合性审查'文字落在资格性/符合性列之间（表头疑似错位），其得分字段均为空；无视觉核验疑点。",
+  "project": {
+    "buyer": "东莞职业技术学院",
+    "project_name": "大数据实训室设备采购项目(三次)",
+    "total_amount": 2667000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "大数据实训室设备采购项目",
+        "winner": "北京智谷星图科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "大数据开发工作站",
+      "brand": "里诺电脑",
+      "model": "RNBZ2044",
+      "quantity": 51,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 765000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "大数据算力模型训练管理平台",
+      "brand": "普开",
+      "model": "ZKPK V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 390000.0,
+      "total_price": 390000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "现场数据采集智能监控装置",
+      "brand": "普开",
+      "model": "PKBI V1.0",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 362000.0,
+      "total_price": 1086000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "大数据实训一体机",
+      "brand": "智谷星图、紫金盾",
+      "model": "V1.0/定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 372200.0,
+      "total_price": 372200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学、实验椅凳",
+      "item_name": "实训桌椅",
+      "brand": "固永家具",
+      "model": "定制",
+      "quantity": 50,
+      "unit": "套",
+      "unit_price": 1000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学、实验椅凳",
+      "item_name": "多功能讲台桌椅",
+      "brand": "名扬京源",
+      "model": "JY-01",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3800.0,
+      "total_price": 3800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京智谷星图科技有限公司",
+      "role": "winner",
+      "total_score": 87.0,
+      "rank": 1,
+      "amount": 2667000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东知行信息网络技术有限公司",
+      "role": "participant",
+      "total_score": 68.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州金昱科技有限公司",
+      "role": "participant",
+      "total_score": 64.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市云汇创想信息技术有限公司",
+      "role": "participant",
+      "total_score": 48.4,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东三胜智能装备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

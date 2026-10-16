@@ -1,0 +1,87 @@
+{
+  "announcement_id": "t20260512_26549108",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:联通数字科技有限公司_分项报价.pdf,北京移动系统集成有限公司_分项报价.pdf",
+  "note": "1包以固定单价450元/处中标（附件注明井盖点位共533处，共计23.985万元），quantity/unit取自附件注/说明；2包品牌/型号取自附件注/说明（原文OCR断行“H4 000”合并为H4000，“v3. 0”合并为v3.0）；无品目列，category=null；原文总中标金额122.9615万元仅等于2包金额，1包金额23.985万元未计入总中标金额，两包合计146.8465万元与总中标金额不一致——原文如此；包1与包2的中标金额分别为单价报价与总价，口径不同。；核验：总中标金额按原文口径取值，1包23.985万未计入系原文如此，已记录",
+  "project": {
+    "buyer": "北京市顺义区应急管理局本级",
+    "project_name": "顺义区工贸企业智能化监管项目",
+    "total_amount": 1229615.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "顺义区工贸企业智能化监管项目（1包）",
+        "winner": "北京移动系统集成有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "顺义区工贸企业智能化监管项目（2包）",
+        "winner": "联通数字科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "顺义区工贸企业智能化监管项目（1包）",
+      "brand": null,
+      "model": null,
+      "quantity": 533,
+      "unit": "处",
+      "unit_price": 450.0,
+      "total_price": 239850.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "智能头环",
+      "brand": "谷东科技有限公司",
+      "model": "H4000",
+      "quantity": 31,
+      "unit": "个",
+      "unit_price": 29733.0,
+      "total_price": 921723.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "智能巡检平台使用账号",
+      "brand": "谷东科技有限公司",
+      "model": "AR远程专家指导系统v3.0",
+      "quantity": 31,
+      "unit": "个",
+      "unit_price": 9932.0,
+      "total_price": 307892.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京移动系统集成有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 239850.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通数字科技有限公司",
+      "role": "winner",
+      "total_score": 88.12,
+      "rank": null,
+      "amount": 1229615.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

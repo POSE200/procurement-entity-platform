@@ -1,0 +1,139 @@
+{
+  "announcement_id": "t20260608_26707055",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东科迪隆科技有限公司）.pdf,合同包2：报价明细附件（广州禾信仪器股份有限公司）.pdf",
+  "note": "两个合同包：包1中标广东科迪隆（1,189,980元）、包2中标广州禾信（1,128,000元），合计2,317,980=总中标金额231.798万。品目（其他专业技术服务）取HTML标的信息表品目名称列（概要品目列为空）。附件zip已解包解析，两包明细各1条：单价=总价、数量1项（单价×数量唯一互推成立）。10条bidders=5家供应商×2包各一条；rank取各包得分排名列。两家中标供应商的amount取HTML中标金额表，其余参与方无报价线索填null。附件文本有水印字符串扰（'白云石5 0井站'等），已按HTML同段落对照修正。需视觉核验：附件水印污染的服务范围文字；包2评分表中得分排名列与推荐排名列不一致（科迪隆得分排名第1但未获推荐，禾信得分排名第2、推荐排名第1），rank字段统一取得分排名列。复核：已解除——两包单价/数量/总价清晰可辨；得分排名与推荐排名不一致系原文清晰印刷（科迪隆包2得分排名第1但推荐排名为空，因已中包1），rank统一取得分排名列政策一致。",
+  "project": {
+    "buyer": "广州市生态环境局白云分局",
+    "project_name": "2026年广州市生态环境局白云分局环境空气质量监测系统运维项目",
+    "total_amount": 2317980.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "环境空气质量监测系统运维1",
+        "winner": "广东科迪隆科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "环境空气质量监测系统运维2",
+        "winner": "广州禾信仪器股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "环境空气质量监测系统运维1",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1189980.0,
+      "total_price": 1189980.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专业技术服务",
+      "item_name": "环境空气质量监测系统运维2",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1128000.0,
+      "total_price": 1128000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东科迪隆科技有限公司",
+      "role": "winner",
+      "total_score": 95.81,
+      "rank": 1,
+      "amount": 1189980.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州禾信仪器股份有限公司",
+      "role": "participant",
+      "total_score": 93.62,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "安徽蓝盾光电子股份有限公司",
+      "role": "participant",
+      "total_score": 93.44,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "丹东瑞特科技有限公司",
+      "role": "participant",
+      "total_score": 87.64,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "壹点环境科技（广州）有限公司",
+      "role": "participant",
+      "total_score": 74.32,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州禾信仪器股份有限公司",
+      "role": "winner",
+      "total_score": 93.67,
+      "rank": 2,
+      "amount": 1128000.0
+    },
+    {
+      "package_no": "2",
+      "name": "安徽蓝盾光电子股份有限公司",
+      "role": "participant",
+      "total_score": 93.51,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东科迪隆科技有限公司",
+      "role": "participant",
+      "total_score": 95.88,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "丹东瑞特科技有限公司",
+      "role": "participant",
+      "total_score": 87.64,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "壹点环境科技（广州）有限公司",
+      "role": "participant",
+      "total_score": 74.42,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

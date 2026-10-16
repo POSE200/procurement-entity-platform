@@ -1,0 +1,205 @@
+{
+  "announcement_id": "t20260309_26247645",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "四包公告（A/B/C/D包，HTML明示包号）；各包服务标的仅有包中标金额，quantity/unit/unit_price按口径不推算；A包中标金额原文写作『?2698900.00元』（?为货币符号乱码，按2892200-73000-44800-75500=2698900元与A-D合计2892200元相互印证）；各评分表『排序』列为原文明示排名，rank照抄；C包『中科信息安全共性技术国家工程研究中心 有限公司』单元格内含换行空格，已合并为连续名称；无附件，全部真值来自HTML。",
+  "project": {
+    "buyer": "烟台市大数据局",
+    "project_name": "烟台市政务AI大模型服务项目",
+    "total_amount": 2892200.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "烟台市政务AI大模型服务项目（A包）",
+        "winner": "浪潮云信息技术股份公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "烟台市政务AI大模型服务项目监理服务（B包）",
+        "winner": "烟台正中信息技术咨询有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "烟台市政务AI大模型服务工具商用密码应用安全性评估（C包）",
+        "winner": "道普信息技术有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": "烟台市政务AI大模型服务工具软件测评（D包）",
+        "winner": "道普信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市政务AI大模型服务项目（A包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2698900.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市政务AI大模型服务项目监理服务（B包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 73000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市政务AI大模型服务工具商用密码应用安全性评估（C包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 44800.0
+    },
+    {
+      "package_no": "D",
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市政务AI大模型服务工具软件测评（D包）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 75500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "浪潮云信息技术股份公司",
+      "role": "winner",
+      "total_score": 90.31,
+      "rank": 1,
+      "amount": 2698900.0
+    },
+    {
+      "package_no": "A",
+      "name": "烟台海颐软件股份有限公司",
+      "role": "participant",
+      "total_score": 72.66,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "济南慧天云海信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.29,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东信通易网科技有限公司",
+      "role": "participant",
+      "total_score": 62.8,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "烟台正中信息技术咨询有限公司",
+      "role": "winner",
+      "total_score": 93.5,
+      "rank": 1,
+      "amount": 73000.0
+    },
+    {
+      "package_no": "B",
+      "name": "潍坊衡星信息工程监理有限公司",
+      "role": "participant",
+      "total_score": 89.08,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "成都安美勤信息技术股份有限公司",
+      "role": "participant",
+      "total_score": 87.03,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": 94.8,
+      "rank": 1,
+      "amount": 44800.0
+    },
+    {
+      "package_no": "C",
+      "name": "中科信息安全共性技术国家工程研究中心有限公司",
+      "role": "participant",
+      "total_score": 89.96,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 89.96,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "天津鲲奥世达科技有限公司",
+      "role": "participant",
+      "total_score": 88.97,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": 1,
+      "amount": 75500.0
+    },
+    {
+      "package_no": "D",
+      "name": "河北方维网络技术有限公司",
+      "role": "participant",
+      "total_score": 83.97,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "天津鲲奥世达科技有限公司",
+      "role": "participant",
+      "total_score": 83.78,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

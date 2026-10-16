@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260812_27123466",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "品目取 HTML 标的信息表品目名称列『应用软件』。采购包号取标题『采购包1』。bidders 6 家：5 家过审查（含中标人），山东致远康和科技有限公司资格性审查未通过（得分/金额 null）。得分排名列全空，rank 全 null。单价/数量/总价来自附件.pdf 内中标人投标（响应）报价明细表：276000×1=276000，与总中标金额￥27.600000万元一致。附件.pdf 同时混入多项目劳务报酬表（覆盖 SDGP...5735/5736/5737/6086 四个项目）及招标文件，已按项目编号过滤。复核修正：原三处'需视觉核验'OCR疑点均已解决——①报价明细表大写'贰合柒万陆仟元整'系'贰拾柒万陆仟元整'OCR误识，数值276000由HTML中标金额/评审得分表/明细表三处印证；②规格型号采用HTML表格2完整值'安美医选数智科室管理系统V1.0'；③混入的他项目内容不进入任何gold字段。均无需视觉核验。",
+  "project": {
+    "buyer": "山东医药大学附属医院",
+    "project_name": "山东医药大学附属医院皮肤数智化科室管理系统采购项目",
+    "total_amount": 276000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "益诚智慧医疗科技（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "皮肤科数智化科室管理系统",
+      "brand": "安美医选",
+      "model": "安美医选数智科室管理系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 276000.0,
+      "total_price": 276000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "益诚智慧医疗科技（山东）有限公司",
+      "role": "winner",
+      "total_score": 84.54,
+      "rank": null,
+      "amount": 276000.0
+    },
+    {
+      "package_no": "1",
+      "name": "日照莒人商贸有限公司",
+      "role": "participant",
+      "total_score": 81.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "厦门市德医互联科技有限公司",
+      "role": "participant",
+      "total_score": 77.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东君溪康商贸有限公司",
+      "role": "participant",
+      "total_score": 67.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "益晟鑫诚医疗科技（辽宁）有限公司",
+      "role": "participant",
+      "total_score": 63.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东致远康和科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

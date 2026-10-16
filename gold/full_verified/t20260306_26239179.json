@@ -1,0 +1,319 @@
+{
+  "announcement_id": "t20260306_26239179",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category 取标的信息表（表格7-12）「品目名称」列末级名『其他系统集成实施服务』；标的表金额(元)列全空，各 item 数量/单价/总价为 null。报价明细附件.zip 跳过未知类型未解析，各包分项数量/单价不可得；3 份声明函（其中2份仅解析前30页）只含节能环保产品清单及证书（有品牌型号但无数量单价），不作为分项明细依据。六包中标金额合计 22077000+2447332.96+1063067.5+5728000+2103750+1080020.33=34499177.79 元，与总中标金额 ￥3449.9178 万元=34499178.00 元差 0.21 元（万元位舍入差异），原文值照抄未改。bidders 按新口径G2同一供应商每包各一条（共24条），按包1→包6分组、条目顺序即所属包序，组内顺序同该包评分表（表格14-19）。中山市祥合科技有限公司包1符合性审查未通过（授权文件评审不通过），无得分排名。评分表未列未中标人报价，participant 的 amount 均为 null。复核修正：按新口径G2，bidders 由每主体一条展开为每包一条，得分/排名取各包评分表（表格14-19）明示值，winner amount 取各包中标（成交）金额表（表格1-6）。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "中山市卫生健康局三乡分局",
+    "project_name": "中山市南部区域中心医院改造提升工程智能化系统建设项目",
+    "total_amount": 34499178.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息基础设施系统",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "视频监控系统",
+        "winner": "联通（广东）产业互联网有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "公共安全防范系统",
+        "winner": "联通（广东）产业互联网有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "智能医疗辅助系统",
+        "winner": "中国电信股份有限公司广东分公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "数字化手术室系统",
+        "winner": "联通（广东）产业互联网有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "物联网（资产管理系统）",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "信息基础设施系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "视频监控系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "公共安全防范系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "智能医疗辅助系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "数字化手术室系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "其他系统集成实施服务",
+      "item_name": "物联网（资产管理系统）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 94.97,
+      "rank": 1,
+      "amount": 22077000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东新逸达科技有限公司",
+      "role": "participant",
+      "total_score": 82.57,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宜通世纪科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.06,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇通信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 77.01,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中山市祥合科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 94.03,
+      "rank": 1,
+      "amount": 2447332.96
+    },
+    {
+      "package_no": "2",
+      "name": "广东志朗智能科技有限公司",
+      "role": "participant",
+      "total_score": 39.85,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中山聚物互联科技有限公司",
+      "role": "participant",
+      "total_score": 39.14,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 91.27,
+      "rank": 1,
+      "amount": 1063067.5
+    },
+    {
+      "package_no": "3",
+      "name": "中山市云政商务服务有限公司",
+      "role": "participant",
+      "total_score": 70.09,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中山聚物互联科技有限公司",
+      "role": "participant",
+      "total_score": 50.11,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 88.92,
+      "rank": 1,
+      "amount": 5728000.0
+    },
+    {
+      "package_no": "4",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 74.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广东布恩网络有限公司",
+      "role": "participant",
+      "total_score": 64.83,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中山市匠能信息科技有限公司",
+      "role": "participant",
+      "total_score": 54.63,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "中山市鹰眼电子科技有限公司",
+      "role": "participant",
+      "total_score": 43.21,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 92.79,
+      "rank": 1,
+      "amount": 2103750.0
+    },
+    {
+      "package_no": "5",
+      "name": "广东志朗智能科技有限公司",
+      "role": "participant",
+      "total_score": 46.7,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "中山市云政商务服务有限公司",
+      "role": "participant",
+      "total_score": 40.17,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 97.43,
+      "rank": 1,
+      "amount": 1080020.33
+    },
+    {
+      "package_no": "6",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 69.3,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "中山市鹰眼电子科技有限公司",
+      "role": "participant",
+      "total_score": 49.75,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "广东布恩网络有限公司",
+      "role": "participant",
+      "total_score": 48.03,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "6",
+      "name": "中山市匠能信息科技有限公司",
+      "role": "participant",
+      "total_score": 38.75,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

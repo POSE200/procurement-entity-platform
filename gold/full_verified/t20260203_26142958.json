@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260203_26142958",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空→category=null；本公告无附件包，但服务标准/服务要求注明「见附件」，相关内容不可得；三包成交金额 998000+498000+448700=1944700 与总中标金额一致；未中标主体名单原文未给，bidders 仅收录三家中标供应商；单条服务标的仅包金额，quantity/unit_price 按规范留空。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "山东省国土空间规划院（山东省自然资源和不动产登记中心）",
+    "project_name": "山东省2025年度自然资源调查监测相关系统及软件运维项目",
+    "total_amount": 1944700.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "山东省自然资源统一调查举证管理系统运维",
+        "winner": "杭州今奥信息科技股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "山东省2025年度国土变更调查内业核查软件运维",
+        "winner": "北京数慧时空信息技术有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "山东省林草湿荒综合调查监测系统和核查软件运维",
+        "winner": "北京世纪国源科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省自然资源统一调查举证管理系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 998000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省2025年度国土变更调查内业核查软件运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 498000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "山东省林草湿荒综合调查监测系统和核查软件运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 448700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "杭州今奥信息科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 998000.0
+    },
+    {
+      "package_no": "B",
+      "name": "北京数慧时空信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 498000.0
+    },
+    {
+      "package_no": "C",
+      "name": "北京世纪国源科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 448700.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

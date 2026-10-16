@@ -1,0 +1,275 @@
+{
+  "announcement_id": "t20260703_26867071",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1.大连大学海洋药用生物资源开发与利用工程研究中心平台建设项目三期-招标文件发标.docx",
+  "note": "两包（附件货物需求一览表明示 A包/B包，对应公告评审表标项号1/2）。items 按需求一览表全清单 16 条输出（A包2条、B包14条，恒温培养箱与超净工作台数量为2，其余为1，unit=台套）。金额说明：一览表的单项限价（万元）为招标预算限价而非成交价，一律不填入 unit_price/total_price；仅 HTML 中标标的表披露了两个核心产品的中标单价（A包 三重四极杆液相色谱质谱联用仪 1,628,000元、B包 流变仪 351,900元），其余 14 条标的的中标单价未在公告及附件中披露，填 null。两核心条目 total_price=单价×数量唯一互推（数量均为1）。全部 item 的 total_price 之和（1,979,900元）小于总中标金额 3,211,000元，差额为未披露单价的其余设备，属原文信息缺失而非数据错误。概要品目列空且 HTML 标的表无品目名称列，category 全部 null。品牌/型号仅核心产品在公告标的表中披露（岛津 LCMS-8045RX；保圣 RH-20），其余 null。B包中标供应商大连辉新一方实验室设备有限公司同时为 A包 participant、B包 winner；大连君晟达实验设备有限公司反之。需视觉核验：无重大疑点；公告表4 标项名称存在「大连大学大连大学…」重复字样（原文如此，未采用）。复核：限价表16条、数量、核心产品单价与评分表已独立核对，确认通过。",
+  "project": {
+    "buyer": "大连大学",
+    "project_name": "大连大学海洋药用生物资源开发与利用工程研究中心平台建设项目三期",
+    "total_amount": 3211000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "A包",
+        "winner": "大连君晟达实验设备有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "B包",
+        "winner": "大连辉新一方实验室设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "三重四极杆液相色谱质谱联用仪",
+      "brand": "岛津",
+      "model": "LCMS-8045RX",
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": 1628000.0,
+      "total_price": 1628000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": "2",
+      "category": null,
+      "item_name": "超临界流体色谱系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "3",
+      "category": null,
+      "item_name": "流变仪",
+      "brand": "保圣",
+      "model": "RH-20",
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": 351900.0,
+      "total_price": 351900.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "4",
+      "category": null,
+      "item_name": "叠加摇床",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "5",
+      "category": null,
+      "item_name": "十万分之一天平",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "6",
+      "category": null,
+      "item_name": "恒温培养箱",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "7",
+      "category": null,
+      "item_name": "超净工作台",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "8",
+      "category": null,
+      "item_name": "灌装轧螺纹盖机",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "9",
+      "category": null,
+      "item_name": "超低温冰箱",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "10",
+      "category": null,
+      "item_name": "氮气空气发生器",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "11",
+      "category": null,
+      "item_name": "酶标仪",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "12",
+      "category": null,
+      "item_name": "酸度计",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "13",
+      "category": null,
+      "item_name": "电穿孔仪",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "14",
+      "category": null,
+      "item_name": "鼓风干燥箱",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "15",
+      "category": null,
+      "item_name": "灭菌锅",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "16",
+      "category": null,
+      "item_name": "小型漩涡仪",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台套",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "大连君晟达实验设备有限公司",
+      "role": "winner",
+      "total_score": 97.2,
+      "rank": 1,
+      "amount": 2326000.0
+    },
+    {
+      "package_no": "A",
+      "name": "沈阳欧佩尔仪器仪表有限公司",
+      "role": "participant",
+      "total_score": 83.46,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "大连辉新一方实验室设备有限公司",
+      "role": "participant",
+      "total_score": 81.37,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "大连辉新一方实验室设备有限公司",
+      "role": "winner",
+      "total_score": 99.2,
+      "rank": 1,
+      "amount": 885000.0
+    },
+    {
+      "package_no": "B",
+      "name": "大连君晟达实验设备有限公司",
+      "role": "participant",
+      "total_score": 61.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "沈阳欧佩尔仪器仪表有限公司",
+      "role": "participant",
+      "total_score": 60.08,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

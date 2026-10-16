@@ -1,0 +1,329 @@
+{
+  "announcement_id": "t20260707_26890688",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf,投标（响应）报价明细表([3]).pdf,投标（响应）报价明细表([4]).pdf",
+  "note": "本项目共5包，本公告仅覆盖采购包1、2、3、5（包4光热催化一体化系统不在本公告，winner未知）。四份报价明细表附件的合计金额（[4]=1490800、[2]=3488500、[3]=826000、[1]=790000，[1][3][4]有投标人公章）与结果表四个中标金额唯一对应，据此绑定包与中标人：包1(A包)=山东艾优生物科技、包2(B包)=济南奥能科学仪器、包3(C包)=山东华盛永健、包5(E包)=济南鑫程仪器。HTML标的信息表'采购标的'列只有'A包/B包/C包/E包'字样，item_name取报价明细附件的货物名称（原文实义）。category取HTML'品目名称'列（教学仪器），item_no用HTML品目号（1-1-1等，与附件行序一致）。各条total_price=单价×数量（附件仅给合计，行总价为唯一互推，包内之和恰等于中标金额）。四包之和1490800+3488500+826000+790000=6595300与总中标金额￥659.53万元一致。评审表得分排名/推荐排名两列全空，rank一律null（G3禁止推定）。包2第2条品牌'格霖科技格霖科技蓝电柏伦'、包3第2条品牌'辰华、格瑞、新威×5、力辰、大龙'为原文多品牌合并条目，型号同为核心合并串，原样保留。需视觉核验疑点：①附件为竖排OCR断行，单价/数量已按数学关系修复，建议核对包1三条单价(198800/78000/167000)与包3第二条单价276000；②包2报价明细表[2]无投标人公章行，归属由金额唯一匹配推定。独立复核（0924）：包1三条单价(198800/78000/167000)与包3第二条单价276000已由「附件合计=中标金额」数学一致性及OCR原文数字唯一确认，无需视觉核验；HTML表格、bidders得分、金额逐项核对无误。",
+  "project": {
+    "buyer": "济宁学院",
+    "project_name": "济宁学院应用型重点学科群平台设备更新项目（一）",
+    "total_amount": 6595300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "应用型重点学科群平台设备更新项目（一）A包",
+        "winner": "山东艾优生物科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "应用型重点学科群平台设备更新项目（一）B包",
+        "winner": "济南奥能科学仪器有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "应用型重点学科群平台设备更新项目（一）C包",
+        "winner": "山东华盛永健智能科技发展有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "应用型重点学科群平台设备更新项目（一）E包",
+        "winner": "济南鑫程仪器设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "双模态乙酸乙酯实践装置数字孪生系统",
+      "brand": "莱帕克",
+      "model": "LPK-IKDD-DT",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 198800.0,
+      "total_price": 198800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "恒压过滤实验装置",
+      "brand": "莱帕克",
+      "model": "LPK-BFLP",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 78000.0,
+      "total_price": 624000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "教学仪器",
+      "item_name": "多功能特殊精馏实验装置",
+      "brand": "莱帕克",
+      "model": "LPK-SDM",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 167000.0,
+      "total_price": 668000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "教学仪器",
+      "item_name": "复杂环境材料性能测试系统",
+      "brand": "中试",
+      "model": "ZSTD-2725",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1578500.0,
+      "total_price": 1578500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "教学仪器",
+      "item_name": "储能安全材料全流程制备及测试系统",
+      "brand": "格霖科技格霖科技蓝电柏伦",
+      "model": "GT-3C15GTT-225CCT3004ABL-THA700",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "教学仪器",
+      "item_name": "构造应力测试系统",
+      "brand": "西安金探",
+      "model": "KX-2002",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 380000.0,
+      "total_price": 380000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "教学仪器",
+      "item_name": "总有机碳分析仪",
+      "brand": "武汉柯默",
+      "model": "TOC-4200",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-5",
+      "category": "教学仪器",
+      "item_name": "三维荧光光谱仪",
+      "brand": "日立",
+      "model": "F-4700",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-6",
+      "category": "教学仪器",
+      "item_name": "植物冠层分析仪",
+      "brand": "力高泰",
+      "model": "LGT-2200CAP",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-7",
+      "category": "教学仪器",
+      "item_name": "高通量平行快速中压纯化系统",
+      "brand": "中汇达",
+      "model": "Selekt",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-1",
+      "category": "教学仪器",
+      "item_name": "VL寿命测试一体机",
+      "brand": "晶合",
+      "model": "J3000-LT",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 550000.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-2",
+      "category": "教学仪器",
+      "item_name": "电池测试系统",
+      "brand": "辰华、格瑞、新威、新威、新威、新威、新威、力辰、大龙",
+      "model": "CHI760F、GE-106、CT-4008Q-5V100mA-HWX-W、CTE-4008Tn-5V12A、CT-4008Tn-5V20mA-HWX、CT-4008Q-5V50mA-HWX、WHW-200L2-0C-220V-5V50mA-160CH、CLT-1A、MS7-H550-Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 276000.0,
+      "total_price": 276000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-1",
+      "category": "教学仪器",
+      "item_name": "多功能膜分离实验装置",
+      "brand": "睿智科技",
+      "model": "BYMF-BD",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 80500.0,
+      "total_price": 322000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-2",
+      "category": "教学仪器",
+      "item_name": "二氧化碳PVT曲线测定实验装置",
+      "brand": "睿智科技",
+      "model": "ERHT-PVT—BD",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 47000.0,
+      "total_price": 188000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1-3",
+      "category": "教学仪器",
+      "item_name": "洞道式干燥器实验装置",
+      "brand": "睿智科技",
+      "model": "BDGZ-B+BCQT-BZ",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 140000.0,
+      "total_price": 280000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东艾优生物科技有限公司",
+      "role": "winner",
+      "total_score": 94.5,
+      "rank": null,
+      "amount": 1490800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛昱博丰科技有限公司",
+      "role": "participant",
+      "total_score": 86.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东兴瑞盛邦商贸有限公司",
+      "role": "participant",
+      "total_score": 80.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "泰安盛展商贸有限公司",
+      "role": "participant",
+      "total_score": 77.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南奥能科学仪器有限公司",
+      "role": "winner",
+      "total_score": 86.9,
+      "rank": null,
+      "amount": 3488500.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东广泽生物技术有限公司",
+      "role": "participant",
+      "total_score": 82.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南康创仪器有限公司",
+      "role": "participant",
+      "total_score": 82.62,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东华盛永健智能科技发展有限公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 826000.0
+    },
+    {
+      "package_no": "3",
+      "name": "济南利纳德自动化科技有限公司",
+      "role": "participant",
+      "total_score": 82.52,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南星光仪器科技有限公司",
+      "role": "participant",
+      "total_score": 80.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "济南鑫程仪器设备有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": null,
+      "amount": 790000.0
+    },
+    {
+      "package_no": "5",
+      "name": "山东希多环保科技有限公司",
+      "role": "participant",
+      "total_score": 87.57,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "5",
+      "name": "济南新鹏瑞智能科技有限公司",
+      "role": "participant",
+      "total_score": 86.02,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

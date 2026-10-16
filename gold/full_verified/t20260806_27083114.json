@@ -1,0 +1,210 @@
+{
+  "announcement_id": "t20260806_27083114",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（合同包1）。概要品目列空，category 取HTML标的表品目名称列'教学仪器'。附件报价明细附件已解析，13条明细与HTML表格2金额/数量完全一致，仅行序不同（附件中AR眼镜为序3、高通量作物分子检测仪为序13）；附件品牌/型号列受水印污染（如'慧诺瑞德 G'、'Z ZJ- Z G千眼狼'、'Roki d'），统一采用HTML表格的干净值。13条明细合计=1,523,000元=总中标金额￥152.300000万元。得分排名列明示1/2/3，rank照抄。",
+  "project": {
+    "buyer": "仲恺农业工程学院",
+    "project_name": "仲恺农业工程学院多模态智慧农场科教融合创新平台项目——大田甘薯性状检测分析设备采购",
+    "total_amount": 1523000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "仲恺农业工程学院多模态智慧农场科教融合创新平台项目——大田甘薯性状检测分析设备采购",
+        "winner": "广州市诚屹进出口有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "自走式智能植物表型车",
+      "brand": "慧诺瑞德",
+      "model": "TraitGo",
+      "quantity": 1,
+      "unit": "辆",
+      "unit_price": 580000.0,
+      "total_price": 580000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "超高速图像采集系统（高速摄影机）",
+      "brand": "千眼狼",
+      "model": "S1315",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 295000.0,
+      "total_price": 295000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "高通量作物分子检测仪（毛细管电泳仪）",
+      "brand": "奥盛",
+      "model": "GeneCE-100",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 212500.0,
+      "total_price": 212500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "AR眼镜",
+      "brand": "Rokid",
+      "model": "ar lite",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 5000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "土壤紧实度测定仪",
+      "brand": "托普云农",
+      "model": "TPJSD-750-V",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 7600.0,
+      "total_price": 15200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "叶面积测定仪",
+      "brand": "托普云农",
+      "model": "YMJ-B",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 7250.0,
+      "total_price": 29000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "叶片厚度测定仪",
+      "brand": "托普云农",
+      "model": "YH-1",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 2000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "叶绿素测定仪",
+      "brand": "托普云农",
+      "model": "TYS-B",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 5050.0,
+      "total_price": 20200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "植物蒸腾速率测定仪",
+      "brand": "托普云农",
+      "model": "TPZT-1000",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 25500.0,
+      "total_price": 102000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "植物冠层分析仪",
+      "brand": "托普云农",
+      "model": "TOP-1300",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 33750.0,
+      "total_price": 67500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "根系分析仪",
+      "brand": "托普云农",
+      "model": "GXY-A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 38000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "烤红薯机",
+      "brand": "怡盟",
+      "model": "136立式",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2200.0,
+      "total_price": 2200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "微波消解仪",
+      "brand": "博澳",
+      "model": "micromate d7",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 143400.0,
+      "total_price": 143400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市诚屹进出口有限公司",
+      "role": "winner",
+      "total_score": 96.52,
+      "rank": 1,
+      "amount": 1523000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市腾龙信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州欣阳科学仪器有限公司",
+      "role": "participant",
+      "total_score": 69.57,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

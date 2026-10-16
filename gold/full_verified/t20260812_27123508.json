@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260812_27123508",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "品目取 HTML 标的信息表品目名称列『其他数据处理服务』（概要品目列空）。采购包号取标题『采购包1』。单价/数量来自附件『投标（响应）报价明细表.pdf』：单价260900.0000元/数量1.000项/响应报价260900元，260900×1=260900，与总中标金额￥26.090000万元一致；HTML 标的信息表金额列为空。bidders 4 家均过审查，得分排名列空（未中标原因仅写『综合评审得分不是排名第一』，不构成明示名次），rank 全 null。复核修正：附件报价明细表 OCR 列窄断行一节已解决——单价列'260,900.00 00元'=260900.0000元、数量/单位交错'1.000 项 0'复原为数量1.0000/单位项，与合计260900元（大写贰拾陆万零玖佰元整）互证，无需视觉核验。附件『附件(1).pdf』仅『支付表/业绩一览表』字样无实质内容。",
+  "project": {
+    "buyer": "山东省国土空间生态修复中心",
+    "project_name": "国土生态保护修复及地质灾害防治技术提升（2026年）(国家地下水监测工程站点运维)—监测站点运维服务",
+    "total_amount": 260900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东省煤田地质规划勘察研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他数据处理服务",
+      "item_name": "国土生态保护修复及地质灾害防治技术提升(2026年)(国家地下水监测工程站点运维)一监测站点运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 260900.0,
+      "total_price": 260900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东省煤田地质规划勘察研究院",
+      "role": "winner",
+      "total_score": 89.34,
+      "rank": null,
+      "amount": 260900.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省地质矿产勘查开发局第四地质大队（山东省第四地质矿产勘查院）",
+      "role": "participant",
+      "total_score": 81.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州南方测绘科技股份有限公司",
+      "role": "participant",
+      "total_score": 77.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东坤元空间信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

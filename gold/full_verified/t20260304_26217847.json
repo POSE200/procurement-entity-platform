@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260304_26217847",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空，category 取 null。单一服务标的只有一个总金额 5,278,000 元，按严格口径不填 quantity/unit_price。本包无附件。bidders 的 total_score/rank 取评分表综合得分与排序，amount 取开标记录表单价报价（4 家报价与中标金额不矛盾）。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "青岛市公安局黄岛分局",
+    "project_name": "青岛市公安局黄岛分局重点区域视图系统运维服务项目",
+    "total_amount": 5278000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛市公安局黄岛分局重点区域视图系统运维服务项目",
+        "winner": "青岛联凯智能化工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "青岛市公安局黄岛分局重点区域视图系统运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 5278000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛联凯智能化工程有限公司",
+      "role": "winner",
+      "total_score": 86.47,
+      "rank": 1,
+      "amount": 5278000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛彩虹智能系统有限公司",
+      "role": "participant",
+      "total_score": 67.19,
+      "rank": 2,
+      "amount": 5213000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛华普环网网络科技有限公司",
+      "role": "participant",
+      "total_score": 60.25,
+      "rank": 3,
+      "amount": 5290000.0
+    },
+    {
+      "package_no": "1",
+      "name": "云监科技（青岛）有限公司",
+      "role": "participant",
+      "total_score": 57.8,
+      "rank": 4,
+      "amount": 5106000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

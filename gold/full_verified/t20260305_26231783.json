@@ -1,0 +1,186 @@
+{
+  "announcement_id": "t20260305_26231783",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本项目为实训基地项目的包组2，公告自身按合同包1组织（代理服务费表列合同包1），package_no取合同包号1；7条item单价×数量之和=749540元，与中标金额及概要总金额74.954万元一致；品目概要列为空，category取标的信息表『品目名称』列；附件报价明细被跳过（html类型），brand/model取自HTML标的信息表（1-4规格型号列原文含『EWP-UAP672-E 无线路由：RT-UR7208-P』两个设备型号，原样保留）；新数维（深圳）科技有限公司未通过符合性审查，无得分排名，role=participant且score/rank=null。",
+  "project": {
+    "buyer": "广东交通职业技术学院",
+    "project_name": "广东交通职业技术学院工业互联网开放型区域产教融合实训基地项目（包组2）",
+    "total_amount": 749540.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "工业互联网开放型区域产教融合实训基地项目（包组2）",
+        "winner": "广州奕阳数创信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "图形工作站",
+      "item_name": "图形工作站",
+      "brand": "惠普",
+      "model": "主机：HP Z2G9 SFF 显示器：HP M2456V",
+      "quantity": 69,
+      "unit": "套",
+      "unit_price": 10450.0,
+      "total_price": 721050.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "交换设备",
+      "item_name": "汇聚交换机",
+      "brand": "新华三",
+      "model": "LS-5130V2-28P-SI",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4200.0,
+      "total_price": 4200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "交换设备",
+      "item_name": "接入交换机",
+      "brand": "新华三",
+      "model": "LS-US552S",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 3400.0,
+      "total_price": 10200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "移动通信（网）设备",
+      "item_name": "吸顶式AP",
+      "brand": "新华三",
+      "model": "EWP-UAP672-E 无线路由：RT-UR7208-P",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 1750.0,
+      "total_price": 3500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "视频监控设备",
+      "item_name": "监控摄像头",
+      "brand": "海康威视",
+      "model": "DS-2CD1345V2-LA",
+      "quantity": 12,
+      "unit": "台",
+      "unit_price": 380.0,
+      "total_price": 4560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "视频监控设备",
+      "item_name": "硬盘录像机",
+      "brand": "海康威视",
+      "model": "DS-7816N-Q2/16P(B）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4580.0,
+      "total_price": 4580.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "视频监控设备",
+      "item_name": "安全门禁",
+      "brand": "大华",
+      "model": "DH-ASI41CO-M",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1450.0,
+      "total_price": 1450.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州奕阳数创信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.51,
+      "rank": 1,
+      "amount": 749540.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州华南教育科技发展有限公司",
+      "role": "participant",
+      "total_score": 83.64,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中禾科技（广东）有限公司",
+      "role": "participant",
+      "total_score": 83.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东东联信创信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.64,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州豪泰信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.49,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京扬帆基业科技有限公司",
+      "role": "participant",
+      "total_score": 69.89,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "翰林汇信息产业股份有限公司",
+      "role": "participant",
+      "total_score": 69.22,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州易圆信息科技发展有限公司",
+      "role": "participant",
+      "total_score": 68.01,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "新数维（深圳）科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

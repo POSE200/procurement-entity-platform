@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080484",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:专家支付费用表.pdf",
+  "note": "单包项目；附件专家支付费用表明示'1包：7498688.0'（该表显示全项目分包2个、2包4200500.0属另一公告，本公告仅含1包）。无任何标的明细表，仅中标供应商一条明细报价7498688.000000，故items只写一条服务总称，quantity/unit/unit_price=null（单条服务仅一个总金额，禁止填quantity=1、unit_price=总价）。品目概要列空且无品目名称列，category=null。rank取自评分表'排序'列（1-4明示）。参与人amount取自开标报价表（表6）。HTML采购单位为'崂山区电子政务和大数据中心'（附件表头写作'青岛市崂山区电子政务和大数据中心'，以HTML概要为准）。需视觉核验：无（复核：中标金额7498688.0在表1/表2/表6与附件费用表『1包：7498688.0』四处一致，文本清晰）。",
+  "project": {
+    "buyer": "崂山区电子政务和大数据中心",
+    "project_name": "新型智慧城市建设工程部分项目运维服务（智慧社区运维项目）",
+    "total_amount": 7498688.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧社区（金家岭街道、王哥庄街道、北宅街道部分）项目运维服务",
+        "winner": "青岛海信网络科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "智慧社区（金家岭街道、王哥庄街道、北宅街道部分）项目运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 7498688.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛海信网络科技股份有限公司",
+      "role": "winner",
+      "total_score": 92.74,
+      "rank": 1,
+      "amount": 7498688.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛慧奕电子工程有限公司",
+      "role": "participant",
+      "total_score": 59.99,
+      "rank": 2,
+      "amount": 7567500.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛悉点盈通创新科技有限公司",
+      "role": "participant",
+      "total_score": 46.57,
+      "rank": 3,
+      "amount": 7510000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛创境能源科技有限公司",
+      "role": "participant",
+      "total_score": 43.9,
+      "rank": 4,
+      "amount": 7376700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

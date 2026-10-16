@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260509_26536921",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东慧图资环科技发展有限公司）.pdf,合同包2：报价明细附件（自然资源部信息中心）.pdf,合同包3：报价明细附件（奥格科技股份有限公司）.pdf",
+  "note": "报价明细附件为zip解包后的3个合同包PDF，各包单价×数量=总价核对一致；692000+398000+1750000=2840000元与总中标金额284万元一致；概要品目列为空，category取HTML标的信息表「品目名称」列（三条均为其他专业技术服务）；包3中标人为联合体「奥格科技股份有限公司(联合体成员：广州市绯影信息科技有限公司)」，按原文原样保留；得分排名列原文明示故填rank。",
+  "project": {
+    "buyer": "广东省国土资源技术中心（广东省基础地理信息中心）",
+    "project_name": "土地储备数据质量提升、数据模型调整及清查资料收集整理（2026年度）",
+    "total_amount": 2840000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省全民所有自然资源资产清查资料收集整理、专题数据集制作和清查工作范围提取（2026年度）",
+        "winner": "广东慧图资环科技发展有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "土地储备专项债券信息采集与房地产市场影响分析（2026年度）",
+        "winner": "自然资源部信息中心"
+      },
+      {
+        "package_no": "3",
+        "package_name": "土地储备数据质量提升和数据统计模型调整（2026年度）",
+        "winner": "奥格科技股份有限公司(联合体成员：广州市绯影信息科技有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他专业技术服务",
+      "item_name": "广东省全民所有自然资源资产清查资料收集整理、专题数据集制作和清查工作范围提取（2026年度）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 692000.0,
+      "total_price": 692000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他专业技术服务",
+      "item_name": "土地储备专项债券信息采集与房地产市场影响分析（2026年度）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 398000.0,
+      "total_price": 398000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他专业技术服务",
+      "item_name": "土地储备数据质量提升和数据统计模型调整（2026年度）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1750000.0,
+      "total_price": 1750000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东慧图资环科技发展有限公司",
+      "role": "winner",
+      "total_score": 87.8,
+      "rank": 1,
+      "amount": 692000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东国地科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.53,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "武汉蚁图时空科技有限公司",
+      "role": "participant",
+      "total_score": 75.53,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州科测空间信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.3,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州国测规划信息技术有限公司",
+      "role": "participant",
+      "total_score": 52.55,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "自然资源部信息中心",
+      "role": "winner",
+      "total_score": 77.69,
+      "rank": 1,
+      "amount": 398000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东国地科技股份有限公司",
+      "role": "participant",
+      "total_score": 76.95,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "人工智能与数字经济广东省实验室（深圳）",
+      "role": "participant",
+      "total_score": 70.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "奥格科技股份有限公司(联合体成员：广州市绯影信息科技有限公司)",
+      "role": "winner",
+      "total_score": 68.9,
+      "rank": 1,
+      "amount": 1750000.0
+    },
+    {
+      "package_no": "3",
+      "name": "广东东图规划科技有限公司",
+      "role": "participant",
+      "total_score": 59.08,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州国测规划信息技术有限公司",
+      "role": "participant",
+      "total_score": 58.38,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东省城乡规划设计研究院科技集团股份有限公司(联合体成员：浙江臻善科技股份有限公司)",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

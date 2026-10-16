@@ -1,0 +1,270 @@
+{
+  "announcement_id": "t20260812_27123477",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "工程类（装修工程）项目：品目取 HTML 标的信息表品目名称列『装修工程』（概要品目列空），18 条明细逐条对应 HTML 表格2 的品目号 1-1-1~1-1-18 与附件.pdf 内中标人报价明细表序号 1~18；item_name 取附件工程名称（HTML 采购标的列全为项目名，无区分度）。数学自查 18 条：单价×数量均与响应报价吻合（如167.6224×22.67=3800、247.9264×110.92=27500），合计 115000 元与总中标金额￥11.500000万元一致。brand/model 原文无（项目经理/执业证书列均为/），填 null。采购包号取标题『采购包1』。bidders 3 家均过审查，得分排名列空，rank 全 null。附件 OCR 叠字（如『⼯⼯程程』）不影响数值。附件最高限价列写『不限价』，磋商文件预算116800元仅供参考未填入。",
+  "project": {
+    "buyer": "枣庄职业学院",
+    "project_name": "枣庄职业学院智能制造系党员活动室建设项目",
+    "total_amount": 115000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东泰吉装饰工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "装修工程",
+      "item_name": "走廊窗户PVC板封堵",
+      "brand": null,
+      "model": null,
+      "quantity": 22.67,
+      "unit": "㎡",
+      "unit_price": 167.6224,
+      "total_price": 3800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "装修工程",
+      "item_name": "顶板轻钢龙骨石膏板吊顶",
+      "brand": null,
+      "model": null,
+      "quantity": 110.92,
+      "unit": "㎡",
+      "unit_price": 247.9264,
+      "total_price": 27500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "装修工程",
+      "item_name": "墙面轻钢龙骨阻燃板石膏板造型墙制作",
+      "brand": null,
+      "model": null,
+      "quantity": 56.7,
+      "unit": "㎡",
+      "unit_price": 264.5503,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "装修工程",
+      "item_name": "暖气罩包装",
+      "brand": null,
+      "model": null,
+      "quantity": 10.12,
+      "unit": "㎡",
+      "unit_price": 331.0277,
+      "total_price": 3350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "装修工程",
+      "item_name": "墙面刮腻子粉刷内墙乳胶漆/基膜",
+      "brand": null,
+      "model": null,
+      "quantity": 152.69,
+      "unit": "㎡",
+      "unit_price": 33.401,
+      "total_price": 5100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "装修工程",
+      "item_name": "电源线路布设",
+      "brand": null,
+      "model": null,
+      "quantity": 103.84,
+      "unit": "㎡",
+      "unit_price": 56.8182,
+      "total_price": 5900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "装修工程",
+      "item_name": "铺装复合木地板",
+      "brand": null,
+      "model": null,
+      "quantity": 103.84,
+      "unit": "㎡",
+      "unit_price": 96.302,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "装修工程",
+      "item_name": "柔光灯带",
+      "brand": null,
+      "model": null,
+      "quantity": 58.4,
+      "unit": "m",
+      "unit_price": 59.9315,
+      "total_price": 3500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "装修工程",
+      "item_name": "灯槽暗装灯带",
+      "brand": null,
+      "model": null,
+      "quantity": 19.8,
+      "unit": "m",
+      "unit_price": 55.5556,
+      "total_price": 1100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "装修工程",
+      "item_name": "嵌入式筒灯（白光）",
+      "brand": null,
+      "model": null,
+      "quantity": 40.0,
+      "unit": "盏",
+      "unit_price": 65.0,
+      "total_price": 2600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "装修工程",
+      "item_name": "发光党徽",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "个",
+      "unit_price": 1000.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "装修工程",
+      "item_name": "北窗百叶窗帘",
+      "brand": null,
+      "model": null,
+      "quantity": 4.0,
+      "unit": "套",
+      "unit_price": 700.0,
+      "total_price": 2800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "装修工程",
+      "item_name": "定制橱柜",
+      "brand": null,
+      "model": null,
+      "quantity": 12.51,
+      "unit": "㎡",
+      "unit_price": 979.2166,
+      "total_price": 12250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "装修工程",
+      "item_name": "墙面镶贴定制壁布",
+      "brand": null,
+      "model": null,
+      "quantity": 55.87,
+      "unit": "㎡",
+      "unit_price": 116.3415,
+      "total_price": 6500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "装修工程",
+      "item_name": "双开套装门",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": "樘",
+      "unit_price": 2000.0,
+      "total_price": 2000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "装修工程",
+      "item_name": "立体雕刻字",
+      "brand": null,
+      "model": null,
+      "quantity": 19.32,
+      "unit": "㎡",
+      "unit_price": 196.6874,
+      "total_price": 3800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "装修工程",
+      "item_name": "图文展板",
+      "brand": null,
+      "model": null,
+      "quantity": 21.28,
+      "unit": "㎡",
+      "unit_price": 375.9398,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "装修工程",
+      "item_name": "轨道射灯",
+      "brand": null,
+      "model": null,
+      "quantity": 10.0,
+      "unit": "盏",
+      "unit_price": 80.0,
+      "total_price": 800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东泰吉装饰工程有限公司",
+      "role": "winner",
+      "total_score": 88.83,
+      "rank": null,
+      "amount": 115000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东翔晨建筑工程有限公司",
+      "role": "participant",
+      "total_score": 85.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "枣庄飞马建设工程有限公司",
+      "role": "participant",
+      "total_score": 83.88,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

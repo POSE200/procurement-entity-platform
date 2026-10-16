@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260306_26238572",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:3_1包中标清单.pdf",
+  "note": "本项目分多包招标，本公告仅为『3_1包』（分包名称：全媒体新闻演播室视觉形象提升，即招标文件第三包），package_no=3由附件『3_1包招标文件.pdf』明示（HTML中标情况表序号列为1，取附件明示包号优先）；项目名原文含异常空格『全媒 体全场景…』照抄；品目列空且标的表无品目列，category=null；标的表无总价列，total_price按单价×数量唯一互推，5条之和213600元=中标金额；序号列无逐条item_no，填null；item_name『●LED聚光灯』的●为原文核心产品标记，原样照抄；附件中标清单与HTML标的表数值一致；产地列（广州/北京/山东）schema无对应字段，未收录。",
+  "project": {
+    "buyer": "青岛市广播电视台",
+    "project_name": "全媒 体全场景移动直播平台高清转播车重塑及专业设备采购项目",
+    "total_amount": 213600.0,
+    "packages": [
+      {
+        "package_no": "3",
+        "package_name": "全媒体新闻演播室视觉形象提升",
+        "winner": "青岛慧明高电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "●LED聚光灯",
+      "brand": "MONON",
+      "model": "VIVI23-SAN-LC",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 5700.0,
+      "total_price": 45600.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "LED平板柔光灯",
+      "brand": "MONON",
+      "model": "DYNA22-MBN-2C",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 4400.0,
+      "total_price": 35200.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "吊挂维修",
+      "brand": "MONON",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 48500.0,
+      "total_price": 48500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "有线话筒",
+      "brand": "逊卡",
+      "model": "MKE2",
+      "quantity": 6,
+      "unit": "个",
+      "unit_price": 3300.0,
+      "total_price": 19800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "播音台及周边",
+      "brand": "HMG",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 64500.0,
+      "total_price": 64500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "3",
+      "name": "青岛慧明高电子科技有限公司",
+      "role": "winner",
+      "total_score": 80.4,
+      "rank": 1,
+      "amount": 213600.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东伟铭世纪电子科技有限公司",
+      "role": "participant",
+      "total_score": 71.33,
+      "rank": 2,
+      "amount": 217800.0
+    },
+    {
+      "package_no": "3",
+      "name": "青岛恒科信科技开发有限公司",
+      "role": "participant",
+      "total_score": 70.18,
+      "rank": 3,
+      "amount": 218700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

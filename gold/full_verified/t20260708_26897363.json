@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260708_26897363",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单标项项目（pacs存储扩容）。3条明细取自HTML主要标的信息表：457,300×1套+12,300×2台+10,000×1项=491,900元，与中标金额491,900元（总中标金额￥49.190000万）一致；原文表格无总价列，total_price为单价×数量唯一互推（已在note声明）。品牌列含产地前缀（「深圳、深信服」「深圳、华为」「宁波、启翔」），按语义剥离产地后填品牌=深信服/华为/启翔，产地信息原文为深圳/深圳/宁波；规格型号第3行「定制」照抄。概要品目列空且标的信息表无品目名称列，category=null。package_no按表格1序号1推断（原文为标项序号）。附件为声明函与招标文件，无开标记录/未中标名单，bidders仅中标人1条，得分排名原文未给null。本国产品标准声明函佐证：分布式存储生产厂深信服科技股份有限公司、万兆交换机生产厂华为技术有限公司，与品牌剥离结果一致。独立复核（0924）：全部字段逐项核对无误。",
+  "project": {
+    "buyer": "象山县红十字台胞医院医疗健康集团",
+    "project_name": "象山县红十字台胞医院医疗健康集团pacs存储扩容项目（重发）",
+    "total_amount": 491900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "pacs存储扩容",
+        "winner": "宁波启翔信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "分布式存储",
+      "brand": "深信服",
+      "model": "aStor-EDS-GK1260",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 457300.0,
+      "total_price": 457300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "万兆交换机",
+      "brand": "华为",
+      "model": "S620-24T16X8Y2CZ",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 12300.0,
+      "total_price": 24600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "集成服务及数据迁移",
+      "brand": "启翔",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁波启翔信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 491900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "announcement_id": "t20260702_26863059",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东君致系统集成有限公司).pdf,报价明细表(第1轮-山东云天安全技术有限公司).pdf,报价明细表(第1轮-中国联合网络通信有限公司济南市分公司).pdf,报价明细表(第1轮-济南三泽信息安全测评有限公司).pdf",
+  "note": "四包一一对应四条标的：items的数量1、单位宗、单价来自四份中标人报价明细表附件（单价=响应报价，与HTML金额一致）；概要品目列为空且HTML'品目编号及品目名称'列亦为空，category=null；四包金额之和353,380+296,800+431,800+79,700=1,161,680元恰等于总中标金额；四包评分表得分排名/推荐排名列均为空，rank一律null；未中标供应商投标报价不可得，amount=null；联通报价明细表内'服务期自2026年12月起'与服务范围'2026年7月至2027年6月'表述矛盾（OCR原文如此，未采用入字段）；需视觉核验：联通附件服务时间列的起算月份。复核：四包标的/单价/合计与四份报价明细已独立核对，确认通过（服务时间矛盾为原文自述问题，未入字段，不影响标注）。",
+  "project": {
+    "buyer": "济南市不动产登记中心",
+    "project_name": "济南市不动产登记中心2026年度网络运维与网络安全服务",
+    "total_amount": 1161680.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东君致系统集成有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东云天安全技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司济南市分公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "济南三泽信息安全测评有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 353380.0,
+      "total_price": 353380.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "网络安全服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 296800.0,
+      "total_price": 296800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "通讯链路租用服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 431800.0,
+      "total_price": 431800.0
+    },
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "不动产登记信息平台网络安全等级保护测评",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 79700.0,
+      "total_price": 79700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东君致系统集成有限公司",
+      "role": "winner",
+      "total_score": 93.34,
+      "rank": null,
+      "amount": 353380.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南华众世纪信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东丘泰信息技术有限公司",
+      "role": "participant",
+      "total_score": 71.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东云天安全技术有限公司",
+      "role": "winner",
+      "total_score": 96.33,
+      "rank": null,
+      "amount": 296800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东玖讯信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中晟软件股份有限公司",
+      "role": "participant",
+      "total_score": 53.78,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司济南市分公司",
+      "role": "winner",
+      "total_score": 89.17,
+      "rank": null,
+      "amount": 431800.0
+    },
+    {
+      "package_no": "3",
+      "name": "济南飞扬信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南市万众天和信息科技有限公司",
+      "role": "participant",
+      "total_score": 74.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "winner",
+      "total_score": 93.16,
+      "rank": null,
+      "amount": 79700.0
+    },
+    {
+      "package_no": "4",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": 79.13,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "华易数安科技（吉林省）有限公司",
+      "role": "participant",
+      "total_score": 69.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "announcement_id": "t20260612_26744922",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列与标的明细表均无品目列，category 全部为 null；标的表'明细报价'列按单价处理（单价×数量之和=649000元，与中标金额吻合）；首条标的原文为'●超融合一体机'，●为列表符号已去除；package_no=1 取自中标情况表序号1（推断）；附件仅为评审专家劳务报酬支付表，不提供字段值。无视觉核验疑点。",
+  "project": {
+    "buyer": "山东省青岛第二中学分校",
+    "project_name": "2026年青岛二中分校网络设备采购项目",
+    "total_amount": 649000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年青岛二中分校网络设备采购",
+        "winner": "青岛海阔天高信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "超融合一体机",
+      "brand": "天融信",
+      "model": "TopHC TH-C2413-HG",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 148000.0,
+      "total_price": 444000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "超融合组网交换机",
+      "brand": "华三",
+      "model": "S6510-50QS",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 15500.0,
+      "total_price": 31000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "防火墙",
+      "brand": "天融信",
+      "model": "NGFW4000-UF(FT-A50)(万兆) V3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 81000.0,
+      "total_price": 81000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "核心交换机",
+      "brand": "华三",
+      "model": "S7503X-G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 93000.0,
+      "total_price": 93000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛海阔天高信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": 1,
+      "amount": 649000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛言辰信息科技有限公司",
+      "role": "participant",
+      "total_score": 85.08,
+      "rank": 2,
+      "amount": 978000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛金杰灿教育科技有限公司",
+      "role": "participant",
+      "total_score": 59.21,
+      "rank": 3,
+      "amount": 662000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛正华智能科技有限公司",
+      "role": "participant",
+      "total_score": 46.25,
+      "rank": 4,
+      "amount": 981000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东诚泽志宇信息技术有限公司",
+      "role": "participant",
+      "total_score": 45.48,
+      "rank": 5,
+      "amount": 989390.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

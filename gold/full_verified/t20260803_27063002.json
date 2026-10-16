@@ -1,0 +1,316 @@
+{
+  "announcement_id": "t20260803_27063002",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "复核修正：原'需视觉核验'各点已复核消解——①package_no=3由公告标题、表格0项目名称、招标文件名三处明示'采购包3'，标题末尾'（采购包1）'为页面模板残留，无需视觉核验；②附件第3条规格'探针（STA-100-L3100、深信服潜伏威胁探针系统STA-100 V3.0（万兆））'在附件内跨行续写完整，与HTML标的信息表一致，补全有出处；③品牌'淮柴动力'HTML与附件两处一致，按'有出处就照抄'保留原文字形（是否应为'潍柴'属外部事实，不改动）。本公告为项目（九）的采购包3结果公告。附件《投标（响应）报价明细表》OCR列碎片化严重，17条明细的单价/数量/品牌/规格已逐条拼合：合计3895000元与中标金额3,895,000.00元一致（14000×27=378000、138000×4=552000）。total_price由单价×数量唯一互推。数量单位以HTML标的信息表为准（附件OCR第14-17条单位列缺失，HTML均为套）。概要品目列空，category取HTML品目名称列'教学仪器'，item_no取品目号1-1-1至1-1-17。评审表'得分排名'列原文为空，rank=null。招标文件PDF仅前30页。",
+  "project": {
+    "buyer": "山东工艺美术学院",
+    "project_name": "山东工艺美术学院数字创意产教融合实验实训设备更新项目（九）采购包3",
+    "total_amount": 3895000.0,
+    "packages": [
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东象临科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "3",
+      "item_no": "1-1-1",
+      "category": "教学仪器",
+      "item_name": "数据中心防火墙",
+      "brand": "深信服",
+      "model": "AF-2000-L3150-QS、AF-2000 V8.0（万兆）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 250000.0,
+      "total_price": 250000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-2",
+      "category": "教学仪器",
+      "item_name": "端点安全系统",
+      "brand": "深信服",
+      "model": "深信服统一端点安全管理系统V6.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-3",
+      "category": "教学仪器",
+      "item_name": "安全运营管理平台",
+      "brand": "深信服",
+      "model": "深信服可扩展威胁检测响应平台XDR软件V2.0、探针（STA-100-L3100、深信服潜伏威胁探针系统STA-100 V3.0（万兆））",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 420000.0,
+      "total_price": 420000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-4",
+      "category": "教学仪器",
+      "item_name": "数据库审计系统",
+      "brand": "聚信得仁",
+      "model": "聚信数据库安全审计系统 聚信-DBAudit V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-5",
+      "category": "教学仪器",
+      "item_name": "网络流量接入与控制系统",
+      "brand": "Panabit",
+      "model": "派网网络流量接入与控制系统Panabit PB-26000-WSTDLD",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 230000.0,
+      "total_price": 230000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-6",
+      "category": "教学仪器",
+      "item_name": "网络日志审计系统",
+      "brand": "Panabit",
+      "model": "Panabit网络大数据日志审计系统Panalog V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-7",
+      "category": "教学仪器",
+      "item_name": "TAP网络分流器",
+      "brand": "盛科",
+      "model": "盛科CENTEC TAP分流器 V530-24X2Q",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-8",
+      "category": "教学仪器",
+      "item_name": "容灾备份系统",
+      "brand": "华为、数存",
+      "model": "TaiShan200 2280、Datapp-NBP海量数据备份管理软件V3.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-9",
+      "category": "教学仪器",
+      "item_name": "机柜系统",
+      "brand": "华为",
+      "model": "NetHos-M FR42612",
+      "quantity": 27,
+      "unit": "套",
+      "unit_price": 14000.0,
+      "total_price": 378000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-10",
+      "category": "教学仪器",
+      "item_name": "双排封闭冷通道",
+      "brand": "华为",
+      "model": "FusionModule2000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-11",
+      "category": "教学仪器",
+      "item_name": "精密配电柜",
+      "brand": "华为",
+      "model": "PDU8000-ACV4-SCA-1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 240000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-12",
+      "category": "教学仪器",
+      "item_name": "行级精密制冷系统（核心产品）",
+      "brand": "华为",
+      "model": "室内机FusionCol5000-A065H4、室外机FusionCol500-A0904C2",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 138000.0,
+      "total_price": 552000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-13",
+      "category": "教学仪器",
+      "item_name": "微模块动环监控系统",
+      "brand": "华为",
+      "model": "ECC800-Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-14",
+      "category": "教学仪器",
+      "item_name": "机房动环管理系统",
+      "brand": "华为",
+      "model": "ECC800-Pro配套APP移动智能管理",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-15",
+      "category": "教学仪器",
+      "item_name": "微模块一体化电源",
+      "brand": "华为",
+      "model": "UPS5000-E-300K-SM",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 255000.0,
+      "total_price": 255000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-16",
+      "category": "教学仪器",
+      "item_name": "柴油发电机组",
+      "brand": "淮柴动力",
+      "model": "HC660Z-CL",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 330000.0,
+      "total_price": 330000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "1-1-17",
+      "category": "教学仪器",
+      "item_name": "资料室环境提升设备",
+      "brand": "鑫泰格、海康威视",
+      "model": "1.空气质量传感器（XTG-K8S）；2.恒湿净化一体机（XTG-HSJH120Pro-7）；3.移动扩容水箱（XTG-YDSX100Pro）；4.壁挂式新风净化机（XTG-XF480）；5.霉菌净化机（XTG-MJ600）；6.漏水检测器（XTG-QS60K）；7.监控系统：400万像素半球摄像头（DS-2CD1345V2-LA）、硬盘录像机（DS-8632N-K8-V3）、交换机（DS-3E1510P-S）；8.物联控制终端（XTG-R22B）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 390000.0,
+      "total_price": 390000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "3",
+      "name": "山东象临科技有限公司",
+      "role": "winner",
+      "total_score": 95.6,
+      "rank": null,
+      "amount": 3895000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东明大天诚信息技术有限公司",
+      "role": "participant",
+      "total_score": 83.48,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东永创信息技术有限公司",
+      "role": "participant",
+      "total_score": 82.07,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东宏鲁信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.34,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "kind": "同一公告包号别名",
+            "groups": [
+              {
+                "canonical": "3",
+                "aliases": [
+                  "1"
+                ],
+                "evidence": [
+                  {
+                    "source": "原始公告HTML",
+                    "label": "结果表编号",
+                    "text": "数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 首页 政采法规 购买服务 监督检查 信息公告 国际专栏 当前位置： 首页 » 政采公告 » 地方公告 » 中标公告 山东工艺美术学院数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 2026年08月03日 23:47 来源： 【 打印 】 公告概要： 公告信息： "
+                  },
+                  {
+                    "source": "原始公告HTML",
+                    "label": "项目/采购标的中的包标识",
+                    "text": "山东工艺美术学院数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-638"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source_package_aliases": [
+    {
+      "canonical": "3",
+      "aliases": [
+        "1"
+      ],
+      "evidence": [
+        {
+          "source": "原始公告HTML",
+          "label": "结果表编号",
+          "text": "数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-63819289 首页 政采法规 购买服务 监督检查 信息公告 国际专栏 当前位置： 首页 » 政采公告 » 地方公告 » 中标公告 山东工艺美术学院数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 2026年08月03日 23:47 来源： 【 打印 】 公告概要： 公告信息： "
+        },
+        {
+          "source": "原始公告HTML",
+          "label": "项目/采购标的中的包标识",
+          "text": "山东工艺美术学院数字创意产教融合实验实训设备更新项目（九）采购包3结果公告（采购包1） 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站 服务热线：400-810-1996    |   服务投诉：010-638"
+        }
+      ]
+    }
+  ]
+}

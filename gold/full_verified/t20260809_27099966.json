@@ -1,0 +1,202 @@
+{
+  "announcement_id": "t20260809_27099966",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方通信建设有限公司）.pdf",
+  "note": "本篇为该项目合同包1的结果公告；品目取自HTML标的表品目名称列（概要品目列空）；品牌/规格型号列均为'满足招标文件要求，详见投标文件\"三、分项报价表\"'，附件报价明细同，无实际品牌型号→null；数量1批、单价与总价10719988元为HTML/附件明示；rank取'得分排名'列（推荐排名列仅前3名且与得分排序不一致，故不采用）；黑龙江省船口办公设备有限公司未通过符合性审查、无得分→total_score/rank=null。复核修正：得分排名列数值与综合得分排序逐一吻合（89.14→1…31.23→19），列无错位，rank取值确认，无需视觉核验。",
+  "project": {
+    "buyer": "肇庆学院",
+    "project_name": "肇庆学院新校区理科实训楼等楼宇信息化建设项目",
+    "total_amount": 10719988.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "信息化平台及网络机房建设",
+        "winner": "广东南方通信建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "信息化平台及网络机房建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 10719988.0,
+      "total_price": 10719988.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方通信建设有限公司",
+      "role": "winner",
+      "total_score": 89.14,
+      "rank": 1,
+      "amount": 10719988.0
+    },
+    {
+      "package_no": "1",
+      "name": "浪潮软件股份有限公司",
+      "role": "participant",
+      "total_score": 87.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联奕科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.23,
+      "rank": 12,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 87.14,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "participant",
+      "total_score": 87.04,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 86.94,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东恒电信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 85.88,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 82.94,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天讯瑞达通信技术有限公司",
+      "role": "participant",
+      "total_score": 82.9,
+      "rank": 8,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中时讯通信建设有限公司",
+      "role": "participant",
+      "total_score": 82.0,
+      "rank": 9,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中通服中睿科技有限公司",
+      "role": "participant",
+      "total_score": 81.78,
+      "rank": 10,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "杰创智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.38,
+      "rank": 11,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市悦程信息科技有限公司",
+      "role": "participant",
+      "total_score": 74.6,
+      "rank": 13,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司茂名市分公司",
+      "role": "participant",
+      "total_score": 54.77,
+      "rank": 14,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东坤宸科技有限公司",
+      "role": "participant",
+      "total_score": 43.37,
+      "rank": 15,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市坤龙信息系统有限公司",
+      "role": "participant",
+      "total_score": 41.36,
+      "rank": 16,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东赛诺科技股份有限公司",
+      "role": "participant",
+      "total_score": 40.94,
+      "rank": 17,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市佳业讯信息科技有限公司",
+      "role": "participant",
+      "total_score": 35.04,
+      "rank": 18,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市弈派智能科技有限公司",
+      "role": "participant",
+      "total_score": 31.23,
+      "rank": 19,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江省船口办公设备有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260402_26350924",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "单包项目（附件评审报告明示采购包号1）。HTML概要品目列与主要标的信息表品目列均空；category取自附件报价明细表『采购包：1（其他服务）』的品目标注。附件报价明细表为OCR件且列值有噪声（疑最高限价1000000、单价980000、数量1.0000），为避免污染gold，单价/数量按OCR待补处理填null，总价980000以HTML与附件『合计：980000元』为准。表格4得分排名列为空且附件评审结果排序值在OCR中丢失，故各bidders rank均null（禁止『中标即第1』推定）。参与供应商的最终报价取自附件评审结果表（该表供应商名OCR有噪声，按综合得分与HTML表格4唯一匹配对应）。",
+  "project": {
+    "buyer": "滕州市综合行政执法局本级",
+    "project_name": "滕州市数字城管平台通信及安防运维项目",
+    "total_amount": 980000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他服务",
+      "item_name": "滕州市数字城管平台通信及安防运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": 980000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 89.0,
+      "rank": null,
+      "amount": 980000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东诚合致捷信息工程有限公司",
+      "role": "participant",
+      "total_score": 65.58,
+      "rank": null,
+      "amount": 650000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东顺付信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.67,
+      "rank": null,
+      "amount": 580000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司枣庄市分公司",
+      "role": "participant",
+      "total_score": 48.23,
+      "rank": null,
+      "amount": 999000.0
+    },
+    {
+      "package_no": "1",
+      "name": "滕州市三迪网络科技有限公司",
+      "role": "participant",
+      "total_score": 58.14,
+      "rank": null,
+      "amount": 999999.6
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

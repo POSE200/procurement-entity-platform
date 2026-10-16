@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27080770",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标报价明细表.png",
+  "note": "单包（标题明示采购包1），package_no=1。item来自已OCR附件『投标报价明细表.png』：工程名称学生宿舍智能用电改造，最高限价599136.43元，单价595960元、数量1.0000、响应报价595960元，与总中标金额￥59.596万一致。**OCR截断**：该PNG表头『数量』后的计量单位列未被OCR capture，unit=null（疑为『项』），需视觉核验。品目category取HTML品目名称列『房屋修缮』。综合得分列有值（88.33/81.92/81.28）但得分排名/推荐排名列原文空白，rank=null。清单.xlsx为空白模板（各金额列空），无法提供分项价格；其中工伤保险计价表计算基础549243.53元、费率0.077%、金额422.92元。未中标供应商报价原文未给。视觉核验：投标报价明细表.png 经 fitz 250DPI 渲染（3737x2537）看图，'计量单位'列清晰为'宗'（非 OCR 猜测的'项'），unit 已由 null 修正为'宗'；行内其余值与既有抽取一致——工程名称'学生宿舍智能用电改造'、最高限价599136.43元、单价595960元、数量1.0000、响应报价595960元、合计595960元（大写：伍拾玖万伍仟玖佰陆拾元整）、投标人山东首正建设有限公司（盖章日期2026-08-05），与项目级中标金额595960元互相印证，证据闭合，status=verified。",
+  "project": {
+    "buyer": "山东交通学院",
+    "project_name": "山东交通学院威海校区学生宿舍智能用电改造项目",
+    "total_amount": 595960.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东首正建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "房屋修缮",
+      "item_name": "学生宿舍智能用电改造",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 595960.0,
+      "total_price": 595960.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东首正建设有限公司",
+      "role": "winner",
+      "total_score": 88.33,
+      "rank": null,
+      "amount": 595960.0
+    },
+    {
+      "package_no": "1",
+      "name": "鸿蒙建工科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 81.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东山河公路机械有限公司",
+      "role": "participant",
+      "total_score": 81.28,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

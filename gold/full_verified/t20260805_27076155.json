@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27076155",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京贝瑞和康医学检验实验室有限公司）.pdf",
+  "note": "总中标金额栏为占位值￥0.000000万元，故total_amount=null；本项目中标（成交）金额栏为'折扣率：58.00%'而非金额，winner的amount同样留null（需视觉核验：确认公告正文无其他中标金额表述）。附件报价明细明确列出单价3,800,000元、数量1(项)、折扣率58%、总价3,800,000.00元（等于本项目预算金），单价/数量/总价为原文照抄非推算。概要品目空，品目取HTML品目名称列'其他健康检查服务'。第3名推荐排名空但得分排名=3，rank照抄得分排名列。",
+  "project": {
+    "buyer": "广州医科大学附属第二医院",
+    "project_name": "广州医科大学附属第二医院神经系统发育异常疾病产前和产后诊断项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "神经系统发育异常疾病产前和产后诊断项目",
+        "winner": "北京贝瑞和康医学检验实验室有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他健康检查服务",
+      "item_name": "神经系统发育异常疾病产前和产后诊断项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3800000.0,
+      "total_price": 3800000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京贝瑞和康医学检验实验室有限公司",
+      "role": "winner",
+      "total_score": 94.74,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳东亿医学检验实验室",
+      "role": "participant",
+      "total_score": 48.25,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州嘉检医学检测有限公司",
+      "role": "participant",
+      "total_score": 42.18,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

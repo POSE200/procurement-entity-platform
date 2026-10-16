@@ -1,0 +1,106 @@
+{
+  "announcement_id": "t20260411_26391317",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价分析表.pdf",
+  "note": "单包（竞争性磋商），包号A01取自附件磋商文件明示'包号：A01'（HTML结果表包号列为BZGP-2026-0065A01）。附件报价分析表3项小计348000+126000+25000=499000元，与中标金额495000元不一致（供应商磋商报价499000≠成交金额495000，按公告总中标金额495000为准，不改原文）。评分表仅有'得分1/得分2/得分3'三列（疑似三位评审专家分项打分），无综合得分列、无排名列，故total_score与rank均null。item2名称'不动产统一产权地板建设工作问题指导处置及质检'疑为'底板'之OCR误字，照抄附件原文。品目：概要品目列与标的信息表均无品目名称，category=null。需视觉核验：报价分析表3条服务名称及金额、评分表表头。复核：3条item与报价分析表逐行核对一致（金额小计精确），5家bidder与表格3一致，495000经劳务支付表中标成交金额佐证；'地板'为附件原文照抄保留；通过。",
+  "project": {
+    "buyer": "滨州市自然资源和规划局",
+    "project_name": "山东省滨州市自然资源和规划局自然资源确权登记数据更新及不动产统一产权底板建设",
+    "total_amount": 495000.0,
+    "packages": [
+      {
+        "package_no": "A01",
+        "package_name": "山东省滨州市自然资源和规划局自然资源确权登记数据更新及不动产统一产权底板建设",
+        "winner": "金田产业发展（山东）集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A01",
+      "item_no": "1",
+      "category": null,
+      "item_name": "小开河等6个自然资源登记单元数据更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 348000.0,
+      "total_price": 348000.0
+    },
+    {
+      "package_no": "A01",
+      "item_no": "2",
+      "category": null,
+      "item_name": "不动产统一产权地板建设工作问题指导处置及质检",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 126000.0,
+      "total_price": 126000.0
+    },
+    {
+      "package_no": "A01",
+      "item_no": "3",
+      "category": null,
+      "item_name": "自然资源更新成果及不动产登记数据问题上报及省级汇交",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 25000.0,
+      "total_price": 25000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A01",
+      "name": "金田产业发展（山东）集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 495000.0
+    },
+    {
+      "package_no": "A01",
+      "name": "山东正衡土地房地产评估勘测有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A01",
+      "name": "山东鲁义地理信息工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A01",
+      "name": "滨州市勘察测绘研究院有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A01",
+      "name": "山东宏信建设工程咨询有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

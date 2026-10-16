@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27115368",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "价格明细不可得：附件包(1)_开标（报价）一览表.pdf与包(1)_投标（响应）报价明细表.pdf解析仅剩重影表头无数据行，分项报价明细表.docx为空白模板，无'报价明细表(第1轮-*)'类附件可核对；HTML表格2金额(元)列空白且无数量列（仅单位'项'），故item价格/数量全null，单价×数量互推不成立，包级仅有总中标金额597000.00元；品目取自HTML标的信息表'品目编号及品目名称'列（概要品目列空）→行业应用软件开发服务；中标人得分排名列空白故rank=null（不推定第1），未中标人无排名明示；需视觉核验：无（本篇无有效报价明细可核）",
+  "project": {
+    "buyer": "聊城市公安局交通管理支队",
+    "project_name": "聊城市公安局交管支队机动车检验智能审核系统",
+    "total_amount": 597000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "深圳市安车检测股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "聊城市公安局交管支队机动车检验智能审核系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "项",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市安车检测股份有限公司",
+      "role": "winner",
+      "total_score": 90.16,
+      "rank": null,
+      "amount": 597000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东元竞信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华御信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.73,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东智云交通科技有限公司",
+      "role": "participant",
+      "total_score": 65.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "乘飞智行科技（深圳）有限公司",
+      "role": "participant",
+      "total_score": 63.71,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

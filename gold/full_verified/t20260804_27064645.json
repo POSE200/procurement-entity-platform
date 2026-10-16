@@ -1,0 +1,62 @@
+{
+  "announcement_id": "t20260804_27064645",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件，全部取自HTML。品目列（概要与标的信息）均为空，category=null。标的信息为一句话合并描述两个型号：NLS02 25台×7800元、NLJ02 100套×2532元，逐条total_price由单价×数量唯一互推（195000+253200=448200，与中标金额448200.00元一致）。全文无采购包号，package_no=null。复核修正：型号与数量/单价的对应顺序已由算术确认——仅NLS02配25台×7800、NLJ02配100套×2532时两组乘积之和等于中标金额448200元，另一种对应之和为843300元，故对应关系唯一，无需视觉核验。",
+  "project": {
+    "buyer": "烟台市生态环境局芝罘分局",
+    "project_name": "烟台市生态环境局芝罘分局芝罘区重污染天气应急企业排污智能管控项目",
+    "total_amount": 448200.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东诺蓝信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市生态环境局芝罘分局芝罘区重污染天气应急企业排污智能管控项目",
+      "brand": "诺蓝科技",
+      "model": "NLS02",
+      "quantity": 25,
+      "unit": "台",
+      "unit_price": 7800.0,
+      "total_price": 195000.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "烟台市生态环境局芝罘分局芝罘区重污染天气应急企业排污智能管控项目",
+      "brand": "诺蓝科技",
+      "model": "NLJ02",
+      "quantity": 100,
+      "unit": "套",
+      "unit_price": 2532.0,
+      "total_price": 253200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东诺蓝信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 448200.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

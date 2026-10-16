@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260311_26257801",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告概要'总中标金额￥0.000000万元'为源数据异常，取中标金额表及专家费附件（中标成交金额1437750元）→total_amount=1437750.0。两项报价合计1353750+84000=1437750元一致。标的信息表各栏'详见附件'但附件 明细.pdf 仅写'服务范围和要求详见招标文件'，无品牌/规格/数量→null；表4只有'报价'列无单价数量列→unit_price=null、total_price=报价，不做拆分推算。评分表'总得分'为5位评委打分之和（如466.0=94+93+91+94+94），非平均综合得分，按原文明示值填入total_score；无排名列→rank=null。分包数量1个但原文无明示包号，按单包推断package_no=\"1\"（note声明）。无品目列→category=null。",
+  "project": {
+    "buyer": "济南市妇幼保健院",
+    "project_name": "济南市妇幼保健院病案数字化项目",
+    "total_amount": 1437750.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "济南市妇幼保健院病案数字化项目",
+        "winner": "山东麦德森文化传媒有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "病案数字化加工及配套服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1353750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "历史病案数字化无索引信息录入（病案号、出院日期、患者姓名）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 84000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东麦德森文化传媒有限公司",
+      "role": "winner",
+      "total_score": 466.0,
+      "rank": null,
+      "amount": 1437750.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京汉王影研科技有限公司",
+      "role": "participant",
+      "total_score": 453.75,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "申江万国数据信息股份有限公司",
+      "role": "participant",
+      "total_score": 415.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京汉龙思琪数码科技有限公司",
+      "role": "participant",
+      "total_score": 404.7,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

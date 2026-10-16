@@ -1,0 +1,63 @@
+{
+  "announcement_id": "t20260507_26517763",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告概要品目列空，主要标的信息名称写\"详见附件\"但本公告无附件包，故 category/item 细节全部无出处填 null，items 仅保留一条占位记录。HTML明示A包/B包两个成交包。A包39.8万(398000)+B包38.99万(389900)=787900元，与总中标金额￥78.79万元一致。原文未给得分与排名，total_score/rank均为null。需视觉核验：A/B包成交金额万元→元换算是否与原公告一致。",
+  "project": {
+    "buyer": "潍坊市自然资源和规划局",
+    "project_name": "潍坊市国土空间规划数据库整合汇交项目",
+    "total_amount": 787900.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东建筑大学设计集团有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "潍坊市规划设计研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东建筑大学设计集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 398000.0
+    },
+    {
+      "package_no": "B",
+      "name": "潍坊市规划设计研究院",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 389900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

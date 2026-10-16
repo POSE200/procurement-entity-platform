@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260703_26866969",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标价格明细表及本国产品声明函.pdf",
+  "note": "全文（HTML+附件）无任何采购包/合同包编号信息，package_no 一律 null。概要品目列为 8 个代码串（A02019900×5,A08060303,A02091103×2），未标明与条目的对应关系，无法唯一归属，故 category 逐条取自 HTML 标的信息表品目名称列；概要代码按位置似对应 HTML 的 8 条标的（A08060303↔校本资源/应用软件、A02091103↔两摄像机/摄录一体机），需视觉核验该对应关系。附件投标价格明细表共 9 条（轻型智慧作业批阅一体机拆为硬件 468000 元+软件 45000 元两行），按最细粒度输出；9 条之和=1,168,000元，与总中标金额￥116.8万一致。品牌/规格型号取自附件合并列「品牌/规格型号」。附件明细表无数量单位列，unit=null；quantity 只放数字。评审表以备注列明示排名（第一名/第二名/第三名），宁夏航明博智能科技无排名备注故 rank=null。复核：9条附件明细、HTML表2汇总一致性、评分表排名已独立核对，确认通过（概要代码与标的对应关系为补充信息，不影响已按HTML品目名称列取值的category）。",
+  "project": {
+    "buyer": "平罗县第三中学",
+    "project_name": "平罗县第三中学2026年数据赋能规模化因材施教项目",
+    "total_amount": 1168000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "宁夏伊达电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": "其他信息化设备",
+      "item_name": "课堂智能反馈系统",
+      "brand": "希沃",
+      "model": "希沃课堂智能反馈系统",
+      "quantity": 32,
+      "unit": null,
+      "unit_price": 4500.0,
+      "total_price": 144000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": "其他信息化设备",
+      "item_name": "AI分析终端",
+      "brand": "希沃",
+      "model": "DF16",
+      "quantity": 32,
+      "unit": null,
+      "unit_price": 5000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": "其他信息化设备",
+      "item_name": "阵列麦克风",
+      "brand": "希沃",
+      "model": "MC16",
+      "quantity": 32,
+      "unit": null,
+      "unit_price": 1000.0,
+      "total_price": 32000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "4",
+      "category": "摄录一体机",
+      "item_name": "4K教师摄像机",
+      "brand": "希沃",
+      "model": "TC16",
+      "quantity": 32,
+      "unit": null,
+      "unit_price": 1500.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "5",
+      "category": "摄录一体机",
+      "item_name": "多目教学观察摄像机",
+      "brand": "希沃",
+      "model": "SC16S",
+      "quantity": 32,
+      "unit": null,
+      "unit_price": 2000.0,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "6",
+      "category": "其他信息化设备",
+      "item_name": "批阅一体机硬件要求",
+      "brand": "畅言",
+      "model": "P30C",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 52000.0,
+      "total_price": 468000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "7",
+      "category": "其他信息化设备",
+      "item_name": "批阅一体机软件要求",
+      "brand": "畅言",
+      "model": "皆成智能批阅机软件V1.0",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 5000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "8",
+      "category": "应用软件",
+      "item_name": "校本资源",
+      "brand": "希沃",
+      "model": "希沃魔方- 校级软件服务",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 108000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "9",
+      "category": "其他信息化设备",
+      "item_name": "教师教研数据中心",
+      "brand": "希沃",
+      "model": "XP35J",
+      "quantity": 50,
+      "unit": null,
+      "unit_price": 1980.0,
+      "total_price": 99000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "宁夏伊达电子科技有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": 1,
+      "amount": 1168000.0
+    },
+    {
+      "package_no": null,
+      "name": "西安海漫达电子科技有限公司",
+      "role": "participant",
+      "total_score": 73.93,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏航明博智能科技有限公司",
+      "role": "participant",
+      "total_score": 67.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "宁夏泓鹏商贸有限公司",
+      "role": "participant",
+      "total_score": 79.42,
+      "rank": 2,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260702_26855928",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:公开招标采购文件（海曙公安分局车辆采购JC008）定稿.doc",
+  "note": "2个标项各1名中标人（表格1序号1/2对应标项一/二，按最高限价35.96万/113.68万与投标总价358000/1132900的对应关系推断并在此声明）。概要品目空、标的表无品目列，category=null。标项一：附件采购清单明示执法执勤用车一数量2辆，HTML标的表写1批；按附件为准取2辆，179000×2=358000恰等于该包投标总价，total_price据此互推。标项二：HTML标的表单价154700、数量1批，154700×1≠包投标总价1132900，附件清单列3种车（用车二1辆/用车三7辆/用车四2辆，单价限价15.48/10.6/12万/辆）但无成交单价，无法拆分或互推，total_price=null，需视觉核验标的表单价154700的口径。复核：附件采购清单数量（2/1/7/2辆）已独立核对无误；item2 total_price复核修正为1132900（表格1序号2投标总价，出处同包映射推断），154700单价口径仍存疑留note。标项二规格型号“银河星耀、博越L 1.5T山河版等”无法与具体车型一一对应，整包保留。无其他投标人名单、无评分排名，bidders仅中标人2条，total_score/rank=null。两包投标总价之和=1490900=总中标金额，一致。",
+  "project": {
+    "buyer": "宁波市公安局海曙区分局",
+    "project_name": "宁波市公安局海曙区分局2026年车辆集中采购项目",
+    "total_amount": 1490900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "执法执勤用车一",
+        "winner": "宁波广祺和汽车销售服务有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "执法执勤用车二、执法执勤用车三、执法执勤用车四",
+        "winner": "宁波永轩睿众汽车销售服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "执法执勤用车一",
+      "brand": "广汽传祺",
+      "model": "E8悦享版",
+      "quantity": 2,
+      "unit": "辆",
+      "unit_price": 179000.0,
+      "total_price": 358000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "执法执勤用车二、执法执勤用车三、执法执勤用车四",
+      "brand": "吉利",
+      "model": "银河星耀、博越L 1.5T山河版等",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 154700.0,
+      "total_price": 1132900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁波广祺和汽车销售服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 358000.0
+    },
+    {
+      "package_no": "2",
+      "name": "宁波永轩睿众汽车销售服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1132900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

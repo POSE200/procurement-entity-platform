@@ -1,0 +1,106 @@
+{
+  "announcement_id": "t20260509_26535918",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_中标通知书\\24b247793dc7d57ae2b0523c5f245f1f.pdf",
+  "note": "单包。中标人陕西京运服电子科技有限公司及中标金额53万元来自附件中标通知书；HTML概要无中标人表。概要品目列空，HTML标的信息表无品目名称列，category=null。表格2为「主要投标标的」表，3项合计230,000+62,000+30,000=322,000元，与总中标金额530,000元不一致——原文仅列主要标的，非全部明细，未补差额。附件投标人得分排序表.doc被跳过（html未知类型），各投标人得分/排名不可得，rank/total_score=null。表格1的4家投标人符合性审查未通过被拒绝，收录为participant（各字段null）。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "中国民用航空西北地区空中交通管理局",
+    "project_name": "中国民用航空西北地区空中交通管理局西安咸阳国际机场三期扩建工程空管工程搜寻救援系统采购项目",
+    "total_amount": 530000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "陕西京运服电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "多点视频控制单元",
+      "brand": "华为",
+      "model": "VP9830",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 230000.0,
+      "total_price": 230000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "视频会议终端",
+      "brand": "华为",
+      "model": "Box310",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 31000.0,
+      "total_price": 62000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "视频会议摄像头",
+      "brand": "华为",
+      "model": "Camera 200 4K",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 15000.0,
+      "total_price": 30000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "陕西京运服电子科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 530000.0
+    },
+    {
+      "package_no": "1",
+      "name": "武汉市建晟智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京中网澳环科技有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州宝兆丰信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海衡升实业有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

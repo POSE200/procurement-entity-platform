@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27111417",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东智量建设工程有限公司）.pdf",
+  "note": "品目概要列为空，品目取自HTML标的信息表「品目名称」列（其他建筑工程）；附件报价明细给出单价/数量1(项)/总价均为1,077,066.98元，而公告中标（成交）金额及总成交金额为1,075,400.00元，两者相差1,666.98元——原文如此（疑为评审优惠/下浮所致），item按附件填1,077,066.98，中标金额按公告填1,075,400，未改原文；两处数值文本均清晰可读，差异系原文固有（非OCR问题）。",
+  "project": {
+    "buyer": "湛江财贸中等专业学校",
+    "project_name": "湛江财贸中等专业学校人工智能产教融合实训基地（一期）建设项目",
+    "total_amount": 1075400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "湛江财贸中等专业学校人工智能产教融合实训基地（一期）建设项目",
+        "winner": "广东智量建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他建筑工程",
+      "item_name": "湛江财贸中等专业学校人工智能产教融合实训基地（一期）建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1077066.98,
+      "total_price": 1077066.98
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东智量建设工程有限公司",
+      "role": "winner",
+      "total_score": 96.3,
+      "rank": 1,
+      "amount": 1075400.0
+    },
+    {
+      "package_no": "1",
+      "name": "鹏匠工程有限公司",
+      "role": "participant",
+      "total_score": 85.97,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东博庆建筑工程有限公司",
+      "role": "participant",
+      "total_score": 75.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东恒昱建设工程有限公司",
+      "role": "participant",
+      "total_score": 61.64,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260508_26523448",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司).pdf,报价明细表(第1轮-联通（山东）产业互联网有限公司).pdf,报价明细表(第1轮-中电信数智科技有限公司山东分公司).pdf,报价明细表(第1轮-银联商务支付股份有限公司山东分公司).pdf",
+  "note": "单一来源项目，4个采购包各1家成交；包号1-4由标题及品目号前缀明示；品目category取HTML标的信息表「品目名称」列原样照抄；每包报价明细表明示单价/数量1.0000/计量单位项，单价=响应报价=该包成交金额（单价×数量互推成立）；4包成交金额之和348000+248000+149400+249000=994400=总中标金额99.44万；评审表「得分排名/推荐排名」列空白，rank=null，无总得分列；附件中的包(1)-(4)开标一览表/报价明细表仅表头无数据行。",
+  "project": {
+    "buyer": "山东旅游职业学院",
+    "project_name": "山东旅游职业学院涉旅客流与消费大数据服务项目",
+    "total_amount": 994400.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "联通（山东）产业互联网有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中电信数智科技有限公司山东分公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "银联商务支付股份有限公司山东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "信息技术管理咨询服务",
+      "item_name": "中国移动手机漫游客流大数据服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 348000.0,
+      "total_price": 348000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息技术咨询服务",
+      "item_name": "中国联通手机漫游客流大数据服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 248000.0,
+      "total_price": 248000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "信息技术咨询服务",
+      "item_name": "中国电信手机漫游客流大数据服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 149400.0,
+      "total_price": 149400.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "信息技术咨询服务",
+      "item_name": "中国银联商务旅游消费大数据",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 249000.0,
+      "total_price": 249000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 348000.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 248000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中电信数智科技有限公司山东分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 149400.0
+    },
+    {
+      "package_no": "4",
+      "name": "银联商务支付股份有限公司山东分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 249000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

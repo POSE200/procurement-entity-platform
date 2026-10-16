@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260410_26389642",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "3个标项按单价折扣计价（数量按实结算）：结果表按序号1/2/3列示3家中标人及投标折扣（30%/35%/45%），按行序对应标项1/2/3（唐马声明函标的为'创意广告类设计制作服务'即标项1，佐证该映射；推断已在note声明）。概要'总中标金额￥0.000000万元'为占位错误值，本项目无确定成交金额，total_amount置null；各标项预算/最高限价33万元、折扣率30%/35%见于原文但金额与折扣不同类，bidders.amount不填折扣故为null。招标文件含各标项'最高单价限价'采购清单，但属采购需求单价目录而非成交分项报价，未展开为items。品目：概要与标的信息表均无品目列，category=null。复核：3标项/折扣/占位金额与表格核对一致，序号映射经唐马声明函佐证；通过。",
+  "project": {
+    "buyer": "诸暨市五泄镇人民政府",
+    "project_name": "诸暨市五泄镇2026年度广告制作服务采购项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "创意广告类设计制作服务",
+        "winner": "诸暨市唐马广告有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "户外广告类制作服务",
+        "winner": "浙江一百广告传媒股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "办公广告类制作服务",
+        "winner": "浙江凌风广告股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "创意广告类设计制作服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "户外广告类制作服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "办公广告类制作服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "诸暨市唐马广告有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "浙江一百广告传媒股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "浙江凌风广告股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

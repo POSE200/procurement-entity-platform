@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260610_26720514",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "本篇无 OCR 待补：3 个附件均解析成功（二次招标文件仅前30页、两份供应商资格承诺函）。HTML「品目」列为空，2 条 item 的 category 全 null。服务类标的每包只给一个包级中标金额，无数量/单价线索，按口径 quantity/unit/unit_price 全 null（不填 quantity=1）；item_name 取表格2「服务名称」原文，各包实质服务范围放入 package_name（取自表格2「服务范围」列及招标文件标的名称，两处一致）。金额自查：1包 3843540 + 2包 1482120 = 5325660 元，与「总中标金额 ￥532.566000 万元」一致。各包预算（1包 399.58 万元、2包 153.92 万元）出自招标文件，非中标值，未填入。公告未附评分/排名表，可见投标主体仅两家中标人（表格1 供应商信息表与表格2 中标表），bidders 收录这两家、total_score 全 null、rank 亦为 null。附件《供应商资格承诺函1包》《供应商资格承诺函2包》分别由中国图书进出口（集团）有限公司、北京中科进出口有限责任公司出具，与表格2 的包-中标人对应关系一致，互为印证。表格2 两条记录顺序为 2包在前、1包在后，已按包号还原。复核修正：按 G3 口径，2 个 winner 的 rank 由 1 改为 null（公告未附评分/排名表，原 rank=1 系「中标即第1」推定）。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "华北理工大学",
+    "project_name": "华北理工大学2026年图书资源建设-电子资源采购（外文）",
+    "total_amount": 5325660.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "科学技术、医学类、社科类等外文期刊全文数据库",
+        "winner": "中国图书进出口（集团）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "化学及相关学科、管理类外文全文期刊库，外文文摘库，外文工程索引库",
+        "winner": "北京中科进出口有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "华北理工大学2026年图书资源建设-电子资源采购（外文）1包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3843540.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "华北理工大学2026年图书资源建设-电子资源采购（外文）2包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1482120.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 3843540.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1482120.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

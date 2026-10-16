@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260203_26144018",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category=null；HTML标的表的品牌/规格型号/数量/单价均写'详见附件'，但该公告无附件包（附件目录为空），相关字段置空；包A(1393000)+包B(463800)=1856800元，与总中标金额￥185.68万一致；包级total_price取各自中标（成交）金额。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "鲁南技师学院",
+    "project_name": "鲁南技师学院实训教学设备更新项目（2025年第二批次）工业网络智能控制与维护系统与数字孪生技术应用系统项目",
+    "total_amount": 1856800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东荣沃教育科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "浙江天煌科技实业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "鲁南技师学院实训教学设备更新项目（2025年第二批次）工业网络智能控制与维护系统与数字孪生技术应用系统项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1393000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "鲁南技师学院实训教学设备更新项目（2025年第二批次）工业网络智能控制与维护系统与数字孪生技术应用系统项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 463800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东荣沃教育科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1393000.0
+    },
+    {
+      "package_no": "B",
+      "name": "浙江天煌科技实业有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 463800.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260305_26223148",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:专家支付表（公示）.pdf,服务费确认单.pdf",
+  "note": "HTML概要『总中标金额￥0.000000万元』为占位错误，total_amount取表格1中标金额338960元（附件专家支付表『中标成交金额338960元』、服务费确认单『中标金额338960.00元』相互印证）；品目两处（概要品目列、主要标的信息表）均为空，category=null；本项目不分包且全文无包号，package_no=null；主要标的信息表数量/单位列为空，仅有一个总金额，按口径不填quantity=1/unit_price=总价；附件报价明细表.pdf报价340659元与成交金额338960元不一致——视觉核验：已渲染报价明细表.pdf，『服务明细表』报价栏明写340659，表下注明『二次报价根据一次报价同比例下浮』，即该明细表为磋商首轮（一次）报价，成交金额338960为二次下浮后金额（338960/340659≈99.5%，与同比例下浮口径相符），明细表维持按附件原文照抄340659、items成交金额338960不变；总得分为3名评委打分之和（86+89+86=261等），原文无排名列，rank一律null。；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "济南市历下区人民医院",
+    "project_name": "济南市历下区人民医院医疗电子票据系统运维服务、医保智能结算平台、DRG数据采集质控系统运维服务及医院信息系统运维项目",
+    "total_amount": 338960.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "济南市历下区人民医院医疗电子票据系统运维服务、医保智能结算平台、DRG数据采集质控系统运维服务及医院信息系统运维项目",
+        "winner": "东软集团股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市历下区人民医院医疗电子票据系统运维服务、医保智能结算平台、DRG数据采集质控系统运维服务及医院信息系统运维项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 338960.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东软集团股份有限公司",
+      "role": "winner",
+      "total_score": 261.0,
+      "rank": null,
+      "amount": 338960.0
+    },
+    {
+      "package_no": "1",
+      "name": "地纬智能科技股份有限公司",
+      "role": "participant",
+      "total_score": 251.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "福建博思软件股份有限公司",
+      "role": "participant",
+      "total_score": 207.94,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

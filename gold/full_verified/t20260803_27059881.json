@@ -1,0 +1,310 @@
+{
+  "announcement_id": "t20260803_27059881",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东盈安医疗科技有限公司）.pdf",
+  "note": "概要品目列空，category取HTML主要标的信息表品目名称列（其他医疗设备），20条明细全部相同。HTML表格2品目号列全部为1-1无法区分条目，item_no取附件报价明细表的序号1-20；两处单价/数量/总价一致。20条明细之和10,927,500元=总中标金额1092.75万元，单价×数量=总价，数学一致。包号1来自合同包号列，包名称「智慧药房一体化建设」取自代理服务费表。rank取表格4得分排名列（原文明示1-5）。运输机器人品牌为南京终极（制造商南京终极人工智能科技有限公司），其余制造商均为韦乐海茨（上海）医药设备科技有限公司。",
+  "project": {
+    "buyer": "江门市中心医院",
+    "project_name": "江门市中心医院智慧药房一体化建设项目",
+    "total_amount": 10927500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "智慧药房一体化建设",
+        "winner": "广东盈安医疗科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他医疗设备",
+      "item_name": "智能总库",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 899000.0,
+      "total_price": 899000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他医疗设备",
+      "item_name": "智能二级库",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 796500.0,
+      "total_price": 796500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他医疗设备",
+      "item_name": "快速发药机",
+      "brand": "韦乐海茨",
+      "model": "KC-D5 pro",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 1409000.0,
+      "total_price": 4227000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他医疗设备",
+      "item_name": "自动补药机器人",
+      "brand": "韦乐海茨",
+      "model": "CLS-AUTO",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 295000.0,
+      "total_price": 885000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他医疗设备",
+      "item_name": "内置追溯码采集核对系统",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "套",
+      "unit_price": 70000.0,
+      "total_price": 420000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他医疗设备",
+      "item_name": "智能分筐系统",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他医疗设备",
+      "item_name": "智能药筐",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 480000.0,
+      "total_price": 480000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他医疗设备",
+      "item_name": "混发传输系统",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 450000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他医疗设备",
+      "item_name": "直发传输系统",
+      "brand": "韦乐海茨",
+      "model": "RC/RS",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 30000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他医疗设备",
+      "item_name": "急诊自助取药系统",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1300000.0,
+      "total_price": 1300000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他医疗设备",
+      "item_name": "可视化中央管理系统",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他医疗设备",
+      "item_name": "智能药品集采任务监管平台",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "其他医疗设备",
+      "item_name": "全院药事管理体系软件",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "其他医疗设备",
+      "item_name": "智能拆零机",
+      "brand": "韦乐海茨",
+      "model": "MP01-CF60",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 180000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": "其他医疗设备",
+      "item_name": "智能调配机",
+      "brand": "韦乐海茨",
+      "model": "KC-YD-03",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 200000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": "其他医疗设备",
+      "item_name": "麻精药品管理系统",
+      "brand": "韦乐海茨",
+      "model": "SP600",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": "其他医疗设备",
+      "item_name": "运输机器人",
+      "brand": "南京终极",
+      "model": "ULTI AI-M20",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": "其他医疗设备",
+      "item_name": "高拍仪",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 12,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 180000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "19",
+      "category": "其他医疗设备",
+      "item_name": "PDA",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 5000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "20",
+      "category": "其他医疗设备",
+      "item_name": "系统服务器",
+      "brand": "韦乐海茨",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东盈安医疗科技有限公司",
+      "role": "winner",
+      "total_score": 84.56,
+      "rank": 1,
+      "amount": 10927500.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东科锐医疗器械有限公司",
+      "role": "participant",
+      "total_score": 83.07,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大翔（江门）医药有限公司",
+      "role": "participant",
+      "total_score": 75.45,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "科恩伯格（广州）医疗科技有限公司",
+      "role": "participant",
+      "total_score": 73.95,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州誉达技术服务有限公司",
+      "role": "participant",
+      "total_score": 68.52,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

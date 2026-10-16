@@ -1,0 +1,206 @@
+{
+  "announcement_id": "t20260805_27080720",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(1).pdf",
+  "note": "品目概要列空，category 取 HTML 标的信息表'品目名称'列（其他信息化设备）；HTML 标的信息仅一行汇总（12个品牌/型号并列），12条明细取自附件'报价明细表(1).pdf'（序号1-12，品牌/型号与HTML并列值一一对应）；该附件无合价列和合计行，total_price 由附件明示的单价×数量推得（唯一互推），12项之和=239800元与中标金额239,800.00元精确吻合；package_no='1'（文件集附件名'包(1)'、劳务报酬表分包数量1个）；评分表'得分排名/推荐排名'列空白，rank 全 null。需视觉核验：无重大疑点。",
+  "project": {
+    "buyer": "齐鲁工业大学（山东省科学院）",
+    "project_name": "齐鲁工业大学（山东省科学院）数智化实验教学及实验管理系统采购项目",
+    "total_amount": 239800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东海罗国际贸易有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他信息化设备",
+      "item_name": "数字化管理平台软件（核心产品）",
+      "brand": "励控",
+      "model": "V2.1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 17880.0,
+      "total_price": 17880.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他信息化设备",
+      "item_name": "实验室预约系统",
+      "brand": "励控",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 5500.0,
+      "total_price": 5500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他信息化设备",
+      "item_name": "4K实训录播系统",
+      "brand": "文香",
+      "model": "V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 22000.0,
+      "total_price": 22000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他信息化设备",
+      "item_name": "录播资源管理平台",
+      "brand": "文香",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 15900.0,
+      "total_price": 15900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他信息化设备",
+      "item_name": "智慧物联终端",
+      "brand": "励控",
+      "model": "ET-HQC1000",
+      "quantity": 12,
+      "unit": "套",
+      "unit_price": 2650.0,
+      "total_price": 31800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他信息化设备",
+      "item_name": "交互触控面板",
+      "brand": "励控",
+      "model": "ET-MB4IN",
+      "quantity": 12,
+      "unit": "块",
+      "unit_price": 950.0,
+      "total_price": 11400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他信息化设备",
+      "item_name": "智能灯光控制器",
+      "brand": "励控",
+      "model": "ET-MBZB-2",
+      "quantity": 24,
+      "unit": "个",
+      "unit_price": 730.0,
+      "total_price": 17520.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他信息化设备",
+      "item_name": "4K移动实训录播车",
+      "brand": "文香",
+      "model": "WX-MCP501",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 45500.0,
+      "total_price": 45500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他信息化设备",
+      "item_name": "教学扩音",
+      "brand": "赛步",
+      "model": "SY-50A",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 780.0,
+      "total_price": 7800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他信息化设备",
+      "item_name": "立式终控端",
+      "brand": "赛弗",
+      "model": "SF-Z001L",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 27700.0,
+      "total_price": 27700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他信息化设备",
+      "item_name": "智能试剂柜",
+      "brand": "赛弗",
+      "model": "SF-X202C",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 30500.0,
+      "total_price": 30500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他信息化设备",
+      "item_name": "综合布线",
+      "brand": "海罗",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 6300.0,
+      "total_price": 6300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东海罗国际贸易有限公司",
+      "role": "winner",
+      "total_score": 68.93,
+      "rank": null,
+      "amount": 239800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛洪通大数据有限公司",
+      "role": "participant",
+      "total_score": 66.2,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊卓亚信息科技有限公司",
+      "role": "participant",
+      "total_score": 58.61,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": 53.77,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

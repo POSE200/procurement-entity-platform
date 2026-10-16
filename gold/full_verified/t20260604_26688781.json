@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260604_26688781",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:(发布稿）招标文件-2026年慈溪市海洋智能网格预报和海洋生态监测与综合评价项目.docx",
+  "note": "单一标项未分包，package_no=null；概要品目列为空、标的信息表无品目名称列，category=null；quantity=1/unit=项为招标文件采购需求明示（『数量：1项』），unit_price=628000元由中标总价628000÷1唯一互推；中标公告未公布未中标供应商名单、评审得分与排名，bidders仅中标人1条且score/rank=null；附件为招标文件，其中分项报价表为空白模板无实际报价数据；公告总中标金额￥62.8万与成交报价628000元一致。复核：「数量：1项」在招标公告项目基本情况原文核实为明示；628000元低于最高限价632500元；单一标项未分包，package_no=null的取舍已声明；确认verified。",
+  "project": {
+    "buyer": "慈溪市自然资源和规划局",
+    "project_name": "2026年慈溪市海洋智能网格预报和海洋生态监测与综合评价项目",
+    "total_amount": 628000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "2026年慈溪市海洋智能网格预报和海洋生态监测与综合评价项目",
+        "winner": "宁波市海洋环境监测中心（宁波市海洋预报台）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年慈溪市海洋智能网格预报和海洋生态监测与综合评价项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 628000.0,
+      "total_price": 628000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "宁波市海洋环境监测中心（宁波市海洋预报台）",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 628000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

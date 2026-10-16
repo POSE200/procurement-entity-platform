@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260701_26849758",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州中长康达信息技术有限公司）.pdf",
+  "note": "单包（合同包1）。概要品目列为空，category取HTML标的信息表品目名称列「其他信息化设备」。HTML表格2有8行但品目号仅1-1/1-2两档，1-2档下7条明细（附件序号1-7），item_no按原文品目号保留故有重复。附件OCR的品牌/型号列有水印污染（如「京东科智技Joy Ag ent」），采用HTML表格2的干净值。各明细金额之和5,799,552元=中标金额，一致。声明函附件未提供字段值，不计入gold_source。",
+  "project": {
+    "buyer": "广东科学技术职业学院",
+    "project_name": "AI+智慧教育赋能平台大模型基座建设项目",
+    "total_amount": 5799552.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "AI+智慧教育赋能平台大模型基座建设项目",
+        "winner": "广州中长康达信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "大模型一体机",
+      "brand": "河南昆仑、京东",
+      "model": "硬件设备：KunLun G5680 V2、智算管理平台：Joy Scale",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 1174962.0,
+      "total_price": 3524886.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "知识中台",
+      "brand": "京东",
+      "model": "京东科技知识中台系统",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1096796.0,
+      "total_price": 1096796.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "智能应用管理平台",
+      "brand": "京东",
+      "model": "京东科技Joy Agent",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 441560.0,
+      "total_price": 441560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "集群交换机",
+      "brand": "华为",
+      "model": "CloudEngine XH9110-24BQ8DQ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 236890.0,
+      "total_price": 236890.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "知识咨询服务",
+      "brand": "中长康达",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 165800.0,
+      "total_price": 165800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "模型运维服务",
+      "brand": "中长康达",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 114700.0,
+      "total_price": 114700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "集成服务",
+      "brand": "中长康达",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 158920.0,
+      "total_price": 158920.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "整体实施服务",
+      "brand": "中长康达",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州中长康达信息技术有限公司",
+      "role": "winner",
+      "total_score": 89.55,
+      "rank": 1,
+      "amount": 5799552.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东亿迅科技有限公司",
+      "role": "participant",
+      "total_score": 83.65,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 82.34,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东天唯科技有限公司",
+      "role": "participant",
+      "total_score": 63.42,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州尚汉信息科技有限公司",
+      "role": "participant",
+      "total_score": 50.98,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市博立信息科技有限公司",
+      "role": "participant",
+      "total_score": 46.55,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

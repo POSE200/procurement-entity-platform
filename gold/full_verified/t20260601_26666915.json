@@ -1,0 +1,326 @@
+{
+  "announcement_id": "t20260601_26666915",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东泉信检测技术有限公司).pdf",
+  "note": "单包（磋商文件明示采购包1）；22条明细取自中标人报价明细表PDF，合计190000元与中标金额/总中标金额19万一致；品目号与品目名称取HTML标的信息表（1-1-1至1-1-22，逐行与报价明细表序号按服务范围核对一一对应）；评分表得分排名列为空，rank全部null；quantity=1/unit=项/unit_price为报价明细表原文照抄（非推算）。",
+  "project": {
+    "buyer": "山东省计算中心（国家超级计算济南中心）",
+    "project_name": "山东省计算中心（国家超级计算济南中心）智算平台关键技术及应用系统测试服务项目(二次)",
+    "total_amount": 190000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东泉信检测技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台服务系统-项目管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台服务系统-数据服务模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台服务系统-资产管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台服务系统-模型服务模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台服务系统-容器服务模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台管理系统-资源管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台管理系统-存储管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台管理系统-资产管理模块",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台开放系统-模型集市服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台开放系统-算法集市服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台开放系统-小模型体验中心服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台开放系统-云端训练平台服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台开放系统-服务数量",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-架构安全",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-操作系统兼容性",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 6000.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-开发框架兼容性",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-健壮性要求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-显卡支持需求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5000.0,
+      "total_price": 5000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-19",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-GPU资源池化需求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-20",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-调度策略需求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-21",
+      "category": "测试评估认证服务",
+      "item_name": "国产智算平台细粒度资源池调度系统-资源监控告警需求",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5000.0,
+      "total_price": 5000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-22",
+      "category": "测试评估认证服务",
+      "item_name": "黄河陆海统筹关键带环境生态数字仿真业务支撑系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东泉信检测技术有限公司",
+      "role": "winner",
+      "total_score": 95.33,
+      "rank": null,
+      "amount": 190000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "participant",
+      "total_score": 82.77,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京交信检测技术有限公司",
+      "role": "participant",
+      "total_score": 76.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东嘉安质量检测有限公司",
+      "role": "participant",
+      "total_score": 72.08,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

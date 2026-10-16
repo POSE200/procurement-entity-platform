@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260508_26523351",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件包；品目列空且标的信息表无品目名称列（「货物类」为分节标题不作品目），category=null；品牌/规格型号/数量/单价均「详见响应文件」且无附件，全部null；A/B两包成交金额之和556800+167900=724700与总中标金额72.47万一致。",
+  "project": {
+    "buyer": "潍坊市精神卫生中心",
+    "project_name": "潍坊市精神卫生中心智慧协同中心信息化建设项目",
+    "total_amount": 724700.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东富通信息科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "潍坊声艺音响工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市精神卫生中心智慧协同中心信息化建设项目A包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "潍坊市精神卫生中心智慧协同中心信息化建设项目B包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东富通信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 556800.0
+    },
+    {
+      "package_no": "B",
+      "name": "潍坊声艺音响工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 167900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

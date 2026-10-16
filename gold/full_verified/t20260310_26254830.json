@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260310_26254830",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "ERR_PAGE: 合同包1：报价明细附件（复纳科学仪器（上海）有限公司）.pdf 为'系统正在维护中'错误页，附件明细不可得；items以HTML主要标的信息表7行为准。数学自查：各条单价×数量=总价均成立，7条合计4000+49000+110000+52000+1554000+48000+33000=1850000元与总中标金额￥185万及中标金额1,850,000.00元一致。原表7行共用品目号'1-1'，item_no原样照抄不改动。品目取品目名称列'热学式分析仪器'（概要品目列空）。",
+  "project": {
+    "buyer": "松山湖材料实验室",
+    "project_name": "松山湖材料实验室原位冷冻热电系统采购项目",
+    "total_amount": 1850000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "原位冷冻热电系统",
+        "winner": "复纳科学仪器（上海）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "装有操作软件的移动工作站",
+      "brand": "DELL",
+      "model": "PC16250",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4000.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "源表",
+      "brand": "keithley",
+      "model": "2450",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 49000.0,
+      "total_price": 49000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "高真空透射样品杆储存站",
+      "brand": "速普",
+      "model": "THS02T",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "1300℃高温加热控制器",
+      "brand": "DENSsolutions",
+      "model": "DENSsolutions",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 52000.0,
+      "total_price": 52000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "原位冷冻热电样品杆",
+      "brand": "DENSsolutions",
+      "model": "Lightning Arctic",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1554000.0,
+      "total_price": 1554000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "温度加热冷却控制单元",
+      "brand": "DENSsolutions",
+      "model": "Lightning Arctic",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 48000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "热学式分析仪器",
+      "item_name": "芯片",
+      "brand": "DENSsolutions",
+      "model": "DENSsolutions",
+      "quantity": 3,
+      "unit": "盒",
+      "unit_price": 11000.0,
+      "total_price": 33000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "复纳科学仪器（上海）有限公司",
+      "role": "winner",
+      "total_score": 93.6,
+      "rank": 1,
+      "amount": 1850000.0
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市真光科技有限公司",
+      "role": "participant",
+      "total_score": 79.51,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市和迈科技有限公司",
+      "role": "participant",
+      "total_score": 79.27,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

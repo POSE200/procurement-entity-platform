@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260612_26744980",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:采购包1综合评分表.jpg,采购包2综合评分表.jpg",
+  "note": "附件.zip 被跳过（其解包内容均已解析），钳工实训台的品牌/规格型号原文写'详见响应文件'故填null；品目编号及品目名称列为空，category=null；rank=null：HTML表格6/7的'得分排名/推荐排名'列确为空，附件综合评分表.jpg OCR中亦无排名数值，两源一致；参与者投标报价取自附件综合评分表（数字完整清晰，中标方报价与HTML表格1/2及采购包报价.pdf交叉一致）；劳务报酬表OCR提及采购包3（预算180000元）但本结果公告仅含采购包1、2。复核修正：原'需视觉核验：排名列是否有值/报价数字是否准确'两项，经HTML空列+OCR完整数字+交叉验证消解，status改verified。",
+  "project": {
+    "buyer": "枣庄科技职业学院本级",
+    "project_name": "中小机床智能制造高水平专业群钳工实训设备、图书资源及校园信息化平台建设项目",
+    "total_amount": 675000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东屹海贸易有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "钳工实训台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 391000.0,
+      "total_price": 391000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "校园网用户管理平台国产化改造",
+      "brand": "深信服",
+      "model": "深信服全网行为管理系统AC-1000-L3100",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 284000.0,
+      "total_price": 284000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东屹海贸易有限公司",
+      "role": "winner",
+      "total_score": 95.52,
+      "rank": null,
+      "amount": 391000.0
+    },
+    {
+      "package_no": "1",
+      "name": "烟台泛音文化传媒有限公司",
+      "role": "participant",
+      "total_score": 86.34,
+      "rank": null,
+      "amount": 389000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东优内沃斯智能科技有限公司",
+      "role": "participant",
+      "total_score": 75.75,
+      "rank": null,
+      "amount": 390000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 84.3,
+      "rank": null,
+      "amount": 284000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东顺付信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.5,
+      "rank": null,
+      "amount": 200000.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通（山东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 68.47,
+      "rank": null,
+      "amount": 284000.0
+    },
+    {
+      "package_no": "2",
+      "name": "滕州市木子网络科技有限公司",
+      "role": "participant",
+      "total_score": 66.56,
+      "rank": null,
+      "amount": 284900.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东新瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 64.22,
+      "rank": null,
+      "amount": 284970.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

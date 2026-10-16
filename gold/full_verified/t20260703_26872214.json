@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260703_26872214",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包项目（采购包1，由公告标题及附件『包(1)_』前缀明示，分包数量1个）；items明细取自中标人附件投标（响应）报价明细表：226600+401400=628000，与HTML中标金额628,000.00元、总中标金额62.8万元及OCR劳务支付表中标成交金额62.8万元三方一致；HTML标的信息表的采购标的列为项目名（遥感科学与技术实验室软件采购项目），item_name取附件更具体的货物名称（遥感图像处理软件/地理信息系统软件），品目号沿用HTML的1-1-1/1-1-2（与附件行1/2一一对应）；两件软件最高限价均为『不限价』；概要品目列为空，category取标的信息表品目名称列（应用软件）；评分表『得分排名』列值为空，rank一律null；招标文件内嵌空白报价模板（{供应商响应}占位符）不作为取值来源。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）遥感科学与技术实验室软件采购项目",
+    "total_amount": 628000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京网数时代科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "应用软件",
+      "item_name": "遥感图像处理软件",
+      "brand": "ENVI",
+      "model": "ENVI遥感图像处理软件",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 226600.0,
+      "total_price": 226600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "应用软件",
+      "item_name": "地理信息系统软件",
+      "brand": "ArcGIS",
+      "model": "ArcGIS地理信息系统软件",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 401400.0,
+      "total_price": 401400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京网数时代科技有限公司",
+      "role": "winner",
+      "total_score": 92.2,
+      "rank": null,
+      "amount": 628000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京乐道远航科技有限公司",
+      "role": "participant",
+      "total_score": 82.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "飞拓智控（北京）科技有限公司",
+      "role": "participant",
+      "total_score": 72.92,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

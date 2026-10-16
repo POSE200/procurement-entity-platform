@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260604_26688594",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中标公告-ZC26-0313-2 中国信息通信研究院通感智融合的无线通信网络测试计量平台-无线通信网络全场景流量仿真装置等（第二次）.docx",
+  "note": "两包各1条明细，中标金额与得分（96.40/97.40分）来自中标公告docx；品目取概要列完整路径『货物/设备/仪器仪表/其他仪器仪表』；品牌『星宏 伟业』原文即含空格，原样保留；矛盾点：概要总中标金额￥111.800000万元(1118000元)与两包中标金额之和1118800元(579800+539000)相差800元，不改原文，需视觉核验概要页金额；rank原文未明示填null；未中标投标人名单原文不可见，bidders仅中标人2条。复核修正：概要页金额￥111.800000万元在包内表格0原文即为该值（非OCR疑点），800元差额系公告自身矛盾，按规范第11条不改原文值、以note记录处理，无需进一步视觉核验；品牌空格、unit=台/套（docx表头「数量（台/套）」）、得分96.40/97.40均与两个来源逐字核对一致；确认verified。",
+  "project": {
+    "buyer": "中国信息通信研究院",
+    "project_name": "通感智融合的无线通信网络测试计量平台-无线通信网络全场景流量仿真装置等（第二次）",
+    "total_amount": 1118000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "深圳市星宏伟业科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山西云行科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "无线通信网络全场景流量仿真装置",
+      "brand": "星宏 伟业",
+      "model": "SYS-WCD400",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 579800.0,
+      "total_price": 579800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "货物/设备/仪器仪表/其他仪器仪表",
+      "item_name": "NTN智能语音性能测试仪",
+      "brand": "山西云行科技",
+      "model": "YXT100-NTN",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 539000.0,
+      "total_price": 539000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市星宏伟业科技有限公司",
+      "role": "winner",
+      "total_score": 96.4,
+      "rank": null,
+      "amount": 579800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山西云行科技有限公司",
+      "role": "winner",
+      "total_score": 97.4,
+      "rank": null,
+      "amount": 539000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

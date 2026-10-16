@@ -1,0 +1,73 @@
+{
+  "announcement_id": "t20260811_27108861",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目，package_no=1为从HTML中标情况表『序号1』推断（分包数量1个，附件未明示包号）。单条服务标的仅有一个明细报价总额，按规范不填quantity/unit/unit_price。品目概要列与标的信息均无品目名称，category=null。附件为专家支付费用表与中小企业声明函，不提供字段真值。本篇无综合得分/排名列，bidders的total_score/rank均为null；participant的amount取开标报价表投标报价。",
+  "project": {
+    "buyer": "青岛市黄岛区灵珠山街道办事处",
+    "project_name": "灵珠山街道办事处购买政务服务项目",
+    "total_amount": 1915200.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "其他服务",
+        "winner": "青岛利盾安保服务集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "灵珠山街道办事处购买政务服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1915200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "青岛利盾安保服务集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1915200.0
+    },
+    {
+      "package_no": null,
+      "name": "山东世中兴智能科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 1916463.36
+    },
+    {
+      "package_no": null,
+      "name": "青岛凯格森保安服务有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": 1918560.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "source_audit_20261015": {
+      "reason": "单包默认序号按原文包标识核正；分包名称与编号分开",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260811_27108861\\公告.html",
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260811_27108861\\逐项对照.json"
+      ]
+    }
+  }
+}

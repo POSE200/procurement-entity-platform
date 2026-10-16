@@ -1,0 +1,201 @@
+{
+  "announcement_id": "t20260303_26212365",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "四包项目：各包中标金额之和883800+448500+183900+189600=1705800元与总中标金额￥170.580000万元一致；package_no由明细表品目号前缀（1-x/2-x/3-x/4-x）与代理费表合同包号对应，评分表按中标人归属各包；报价明细附件.zip为html未知类型被跳过，明细以HTML标的信息表为准；品目取自品目名称列（概要品目列为空）；各评分表第3名推荐排名列空白，rank取自得分排名列。",
+  "project": {
+    "buyer": "香港城市大学（东莞）",
+    "project_name": "香港城市大学（东莞）智慧能源实验室多项设备采购项目",
+    "total_amount": 1705800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "自动光学接触角表界面张力测量仪等",
+        "winner": "广州市晞灵国际贸易有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "电池测试系统",
+        "winner": "广东写川技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "红外热成像仪",
+        "winner": "北京纳凯诺科技发展有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "实验室多参数测试仪",
+        "winner": "广州健星仪器有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他分析仪器",
+      "item_name": "自动光学接触角表界面张力测量仪",
+      "brand": "DataPhysics",
+      "model": "OCA25",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 537000.0,
+      "total_price": 537000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "粉碎、筛粉设备",
+      "item_name": "高能球磨机",
+      "brand": "FRITSCH",
+      "model": "pulverisette 7",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 346800.0,
+      "total_price": 346800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他分析仪器",
+      "item_name": "电池测试系统",
+      "brand": "Arbin",
+      "model": "LBT21084 5V20A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 448500.0,
+      "total_price": 448500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他分析仪器",
+      "item_name": "红外热成像仪",
+      "brand": "FOTRIC",
+      "model": "FOTRIC 348+-L25-NaviPDM",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 183900.0,
+      "total_price": 183900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "其他分析仪器",
+      "item_name": "实验室多参数测试仪",
+      "brand": "梅特勒托利多",
+      "model": "NineFocus",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 189600.0,
+      "total_price": 189600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市晞灵国际贸易有限公司",
+      "role": "winner",
+      "total_score": 95.8,
+      "rank": 1,
+      "amount": 883800.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州领达科技有限公司",
+      "role": "participant",
+      "total_score": 78.44,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "成都世纳科技有限公司",
+      "role": "participant",
+      "total_score": 74.86,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东写川技术有限公司",
+      "role": "winner",
+      "total_score": 94.2,
+      "rank": 1,
+      "amount": 448500.0
+    },
+    {
+      "package_no": "2",
+      "name": "深圳垚晟科技有限公司",
+      "role": "participant",
+      "total_score": 82.68,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州铭梓科学仪器有限公司",
+      "role": "participant",
+      "total_score": 76.56,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京纳凯诺科技发展有限公司",
+      "role": "winner",
+      "total_score": 96.2,
+      "rank": 1,
+      "amount": 183900.0
+    },
+    {
+      "package_no": "3",
+      "name": "江西科域永兴工贸有限公司",
+      "role": "participant",
+      "total_score": 88.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州益禾盛科技有限公司",
+      "role": "participant",
+      "total_score": 82.68,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州健星仪器有限公司",
+      "role": "winner",
+      "total_score": 92.26,
+      "rank": 1,
+      "amount": 189600.0
+    },
+    {
+      "package_no": "4",
+      "name": "广州市翁迪仪器有限责任公司",
+      "role": "participant",
+      "total_score": 81.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "广州博岳科学仪器有限公司",
+      "role": "participant",
+      "total_score": 73.52,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

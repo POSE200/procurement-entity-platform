@@ -1,0 +1,197 @@
+{
+  "announcement_id": "t20260602_26674875",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "4个采购包各1条标的，标的表无金额/数量/单价列，各包唯一标的的total_price取该包中标金额（648800/248500/399000/810000，note声明），quantity/unit/unit_price=null；品目概要列为空，category取标的表品目名称列'音像制作服务'；评分表'得分排名/推荐排名'列空，rank=null；附件评审劳务报酬支付表所载成交金额274.19万元系'2026年公共文化云项目+2026年数字资源建设项目'两项目合计（两个项目编号），与本项目总中标金额210.63万元不可直接比对，以公告表格为准（四包之和恰为2106300元）；附件为业绩/声明函OCR件，不含报价信息。需视觉核验：劳务报酬支付表中两项目成交金额拆分。复核：劳务报酬支付表OCR原文项目编号栏同时列示SDGP…2532（公共文化云）与SDGP…2944（数字资源建设）两个编号、成交金额274.19万元为两项目合计值，表内无分项目拆分，差异解释成立，全部字段核对无误。",
+  "project": {
+    "buyer": "山东省文化馆",
+    "project_name": "山东省文化馆2026年数字资源建设项目",
+    "total_amount": 2106300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "全民艺术普及相关直录播",
+        "winner": "济南东升国峰文化传媒有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "学才艺培训",
+        "winner": "南京超星数图信息技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "区域和地方群众文化活动",
+        "winner": "汉雅星空文化科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "原创精品资源建设",
+        "winner": "浙江艺高文化创意有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "音像制作服务",
+      "item_name": "全民艺术普及相关直录播",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 648800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "音像制作服务",
+      "item_name": "学才艺培训",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 248500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "音像制作服务",
+      "item_name": "区域和地方群众文化活动",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 399000.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "音像制作服务",
+      "item_name": "原创精品资源建设",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 810000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南东升国峰文化传媒有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 648800.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南高景文化传媒有限公司",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东赤心文化传播有限公司",
+      "role": "participant",
+      "total_score": 86.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "南京超星数图信息技术有限公司",
+      "role": "winner",
+      "total_score": 88.0,
+      "rank": null,
+      "amount": 248500.0
+    },
+    {
+      "package_no": "2",
+      "name": "文瀚（山东）文化传媒有限公司",
+      "role": "participant",
+      "total_score": 78.27,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东文智数字科技有限公司",
+      "role": "participant",
+      "total_score": 74.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "汉雅星空文化科技有限公司",
+      "role": "winner",
+      "total_score": 92.9,
+      "rank": null,
+      "amount": 399000.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京澜声银辉文化传媒有限公司",
+      "role": "participant",
+      "total_score": 83.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京众成日盛科技有限公司",
+      "role": "participant",
+      "total_score": 77.66,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "浙江艺高文化创意有限公司",
+      "role": "winner",
+      "total_score": 90.98,
+      "rank": null,
+      "amount": 810000.0
+    },
+    {
+      "package_no": "4",
+      "name": "河南省良辰文化集团有限公司",
+      "role": "participant",
+      "total_score": 90.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "新疆腾英文化科技有限公司",
+      "role": "participant",
+      "total_score": 75.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "峰影（天津）文化传播有限公司",
+      "role": "participant",
+      "total_score": 72.25,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "announcement_id": "t20260610_26727630",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告标题明示为'采购包1'，单包，package_no=1。14条明细取自 HTML 标的信息表：品目号列与'品目编号及品目名称'列均为空，故 item_no=null、category=null（不推算）；各条 单价×数量=金额 均成立，14条金额之和=142910.00 与中标金额及总中标金额 ￥14.291000万 一致。'罐装设备（租赁）'等4条品牌为'排列组合'（原文照抄，疑为框架协议/以物易物类供应商名，保留原文）。评分表得分排名列与分项得分均为空，仅综合得分可得（91.60/84.31/83.27），rank=null。附件'包(1)_投标（响应）报价明细表.pdf'为空白模板（仅表头无数据），无法补充明细；招标文件.pdf 仅前30页。未中标供应商无投标报价信息，amount=null。需视觉核验：无重大疑点。复核修正：另一份含数据的附件'投标（响应）报价明细表.pdf'（非包(1)_空白模板）逐条印证HTML明细数值，且制造商'青岛排列组合信息技术有限公司'证实品牌'排列组合'为真实供应商名，全部字段与原文一致。",
+  "project": {
+    "buyer": "济南信息工程学校",
+    "project_name": "数字媒体设备与电子电器设备项目",
+    "total_amount": 142910.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南智融信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "摄像机",
+      "brand": "索尼（SONY）",
+      "model": "ILCE-A7M4",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 14919.0,
+      "total_price": 14919.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "便携式云台相机",
+      "brand": "大疆（DJI）",
+      "model": "Osmo Pocket 4 全能套装",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 5499.0,
+      "total_price": 10998.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "内存卡",
+      "brand": "雷克沙（Lexar）",
+      "model": "LMSSIPL256G-BNNNC",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 399.0,
+      "total_price": 1197.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "无人机",
+      "brand": "大疆（DJI）",
+      "model": "DJI Air 3s畅飞套装（带屏遥控器）",
+      "quantity": 1,
+      "unit": "架",
+      "unit_price": 12644.0,
+      "total_price": 12644.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "直流拉坯机",
+      "brand": "造物空间",
+      "model": "ZW-LPJ-TZL20",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 989.0,
+      "total_price": 989.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训项目耗材",
+      "brand": "定制",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 2900.0,
+      "total_price": 2900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "云台",
+      "brand": "大疆（DJI）",
+      "model": "Osmo Mobile 8 标准套装",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 795.0,
+      "total_price": 795.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "摄像机脚架",
+      "brand": "miliboo",
+      "model": "MTT602II-AL配脚轮",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 2992.0,
+      "total_price": 2992.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "全景运动相机",
+      "brand": "大疆（DJI）",
+      "model": "Osmo Action 6 畅拍套装",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 4998.0,
+      "total_price": 4998.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "罐装设备（租赁）",
+      "brand": "排列组合",
+      "model": "双头智能啤酒罐装设备HY_BM02",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 32768.0,
+      "total_price": 32768.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "云平台部署",
+      "brand": "排列组合",
+      "model": "Web云平台，微服务",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 22650.0,
+      "total_price": 22650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "电子产品耗材",
+      "brand": "排列组合",
+      "model": "嵌入式及AI智能主机套装",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 15490.0,
+      "total_price": 15490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "实训工具",
+      "brand": "排列组合",
+      "model": "电子实训工具套装",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 7850.0,
+      "total_price": 7850.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "云服务器和域名",
+      "brand": "华为云",
+      "model": "ECS服务器域名套装",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 11720.0,
+      "total_price": 11720.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南智融信息科技有限公司",
+      "role": "winner",
+      "total_score": 91.6,
+      "rank": null,
+      "amount": 142910.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东昶雅信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南盛得瑞贸易有限公司",
+      "role": "participant",
+      "total_score": 83.27,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

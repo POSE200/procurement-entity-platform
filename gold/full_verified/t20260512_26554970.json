@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260512_26554970",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州华资软件技术有限公司）.pdf,合同包2：报价明细附件（广州驭网信息技术有限公司）.pdf",
+  "note": "复核修正：note中包1金额笔误2936000更正为2935000。两包各1条服务标的，单价/数量/总价取自附件报价明细（附件明示数量1项，单价×数量=总价可互推）；包1、包2金额之和2935000+58600=2993600与总中标金额￥299.36万元一致；附件报价明细中OCR噪声字（水印）较多但数值可辨；rank取自HTML得分排名列，为明示值。",
+  "project": {
+    "buyer": "惠州市医疗保障局",
+    "project_name": "国家医疗保障信息平台2026年度（惠州）本地运营项目",
+    "total_amount": 2993600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "国家医疗保障信息平台2026年度（惠州）本地运营服务",
+        "winner": "广州华资软件技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "国家医疗保障信息平台2026年度（惠州）本地监理服务",
+        "winner": "广州驭网信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "国家医疗保障信息平台2026年度（惠州）本地运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2935000.0,
+      "total_price": 2935000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "信息化工程监理服务",
+      "item_name": "国家医疗保障信息平台2026年度（惠州）本地监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 58600.0,
+      "total_price": 58600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州华资软件技术有限公司",
+      "role": "winner",
+      "total_score": 83.83,
+      "rank": 1,
+      "amount": 2935000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州擎云计算机科技有限公司",
+      "role": "participant",
+      "total_score": 60.4,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "众源科技（广东）股份有限公司",
+      "role": "participant",
+      "total_score": 60.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州驭网信息技术有限公司",
+      "role": "winner",
+      "total_score": 88.2,
+      "rank": 1,
+      "amount": 58600.0
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市中联信信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.58,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州赛宝联睿信息科技有限公司",
+      "role": "participant",
+      "total_score": 65.17,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

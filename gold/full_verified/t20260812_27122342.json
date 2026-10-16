@@ -1,0 +1,126 @@
+{
+  "announcement_id": "t20260812_27122342",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（联通（广东）产业互联网有限公司）.pdf",
+  "note": "概要品目列空，品目取自HTML标的信息表品目名称列；服务项1-6的HTML金额列为空，单价419,500元/数量1套/总价419,500元取自附件报价明细附件；货物5项+服务1项合计1,190,000元与总中标金额一致，各条单价×数量=总价校验通过；rank取自HTML评分表'得分排名'列（1-3名）。",
+  "project": {
+    "buyer": "广东海洋大学",
+    "project_name": "广东海洋大学2026年云资源中心安全升级改造项目",
+    "total_amount": 1190000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东海洋大学2026年云资源中心安全升级改造项目",
+        "winner": "联通（广东）产业互联网有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息安全设备",
+      "item_name": "抗DDOS设备",
+      "brand": "远江盛邦",
+      "model": "RayADS-10000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 169000.0,
+      "total_price": 169000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息安全设备",
+      "item_name": "Web应用防火墙",
+      "brand": "深信服",
+      "model": "AF-2000-FH3120B",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 236000.0,
+      "total_price": 236000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息安全设备",
+      "item_name": "数据库审计系统",
+      "brand": "深信服",
+      "model": "DAS-1000-B1800",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 129400.0,
+      "total_price": 129400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息安全设备",
+      "item_name": "运维安全管理系统",
+      "brand": "深信服",
+      "model": "OSM-1000-B2100",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 116400.0,
+      "total_price": 116400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他信息安全设备",
+      "item_name": "日志分析管理系统",
+      "brand": "深信服",
+      "model": "SIP-Logger-C600",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 119700.0,
+      "total_price": 119700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他信息技术服务",
+      "item_name": "服务器安全防护服务和云端安全监测服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 419500.0,
+      "total_price": 419500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "winner",
+      "total_score": 92.06,
+      "rank": 1,
+      "amount": 1190000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市天齐科技实业有限公司",
+      "role": "participant",
+      "total_score": 49.49,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东双和网络股份有限公司",
+      "role": "participant",
+      "total_score": 46.8,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

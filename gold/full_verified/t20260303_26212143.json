@@ -1,0 +1,173 @@
+{
+  "announcement_id": "t20260303_26212143",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "原始HTML中标情况明确披露A/B两包供应商、金额及评审总得分；A包182000元、B包1557600元，合计1739600元与项目总额一致，不存在B包中标人缺失。公告仅披露两条带品牌型号单价的中标明细，其余为需求清单；不得将包金额分摊至缺价设备。已有两条明细总价为数量乘单价的计算值，非原文总价列。rank未披露，保留null。；终审：队友修订111项补丁全部经证据核验采纳（含分包意向扫描件看图确认），本篇遗留项关闭",
+  "project": {
+    "buyer": "郑州市中心医院",
+    "project_name": "郑州市中心医院国家创伤区域医疗中心微生物鉴定和药敏系统等10种设备采购项目",
+    "total_amount": 1739600.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "微生物鉴定和药敏系统",
+        "winner": "河南同其辉生物科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "全自动酶免分析系统",
+        "winner": "中康健（郑州）医疗设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "微生物鉴定和药敏系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动血培养仪",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动大便分析仪",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "尿常规及沉渣分析仪",
+      "brand": "迪瑞",
+      "model": "MUS-3600",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "二氧化碳培养箱",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动革兰染色仪",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "压力蒸汽灭菌器（立式）",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "电热恒温培养箱",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "全自动酶免分析系统",
+      "brand": "艾德康",
+      "model": "ADC ELISA 600",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 599800.0,
+      "total_price": 1199600.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "全自动正置荧光显微镜",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "河南同其辉生物科技有限公司",
+      "role": "winner",
+      "total_score": 93.7,
+      "rank": null,
+      "amount": 182000.0
+    },
+    {
+      "package_no": "B",
+      "name": "中康健（郑州）医疗设备有限公司",
+      "role": "winner",
+      "amount": 1557600,
+      "total_score": 98.95,
+      "rank": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [
+      "原文明细不完整，需求清单其余设备品牌、型号及成交单价未明示；不按包总额补差或分摊。"
+    ],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

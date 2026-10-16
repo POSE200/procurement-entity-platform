@@ -1,0 +1,314 @@
+{
+  "announcement_id": "t20260710_26910496",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州广电国际技术有限公司）.pdf",
+  "note": "仅合同包1。21条明细HTML标的信息表与附件报价明细完全一致；21条总价之和1,571,800元=中标金额157.18万元，单价×数量=总价，数学一致。品目取HTML品目名称列。疑点（需视觉核验）：1-8规格型号HTML/报价明细作'WKT-VST3O0DW'（疑为WKT-VST300DW的0/O误识，本国产品声明函作WKT-VST300DW），暂照抄HTML；1-5型号本国产品声明函一处作'HZ-SX-201B'，与报价明细'HZ-SX-01B'矛盾，暂取HZ-SX-01B。",
+  "project": {
+    "buyer": "广东职业技术学院",
+    "project_name": "广东职业技术学院纺织研发智检基地项目",
+    "total_amount": 1571800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东职业技术学院纺织研发智检基地项目",
+        "winner": "广州广电国际技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他试验仪器及装置",
+      "item_name": "手持静电纺丝仪",
+      "brand": "汇智电纺",
+      "model": "HED-01",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 8200.0,
+      "total_price": 8200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "电化学分析仪器",
+      "item_name": "电化学工作站",
+      "brand": "辰华",
+      "model": "CHI760F",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 92800.0,
+      "total_price": 92800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "光学式分析仪器",
+      "item_name": "全自动凝胶成像分析系统",
+      "brand": "金鹏",
+      "model": "JP-2880",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 34800.0,
+      "total_price": 34800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "生物、医学样品制备设备",
+      "item_name": "离心机",
+      "brand": "卢湘仪",
+      "model": "TG16.5",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 11500.0,
+      "total_price": 11500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "非织造织物设备",
+      "item_name": "静电纺丝纳米纱线仪器",
+      "brand": "汇智电纺",
+      "model": "HZ-SX-01B",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 12800.0,
+      "total_price": 12800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "电化学分析仪器",
+      "item_name": "万用表",
+      "brand": "胜利仪器（VICTOR）",
+      "model": "VICTOR 8165A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "物位及机械量仪表",
+      "item_name": "高精度测厚仪",
+      "brand": "斟辰",
+      "model": "YG(B)141GZ",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 11800.0,
+      "total_price": 11800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "非金属材料试验机",
+      "item_name": "热变形及维卡软化点温度测定仪",
+      "brand": "维科美拓",
+      "model": "WKT-VST3O0DW",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 86000.0,
+      "total_price": 86000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "光学式分析仪器",
+      "item_name": "傅立叶变换红外光谱仪",
+      "brand": "北分瑞利",
+      "model": "WQF-530A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 263000.0,
+      "total_price": 263000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "物理特性分析仪器及校准仪器",
+      "item_name": "数字式密度计",
+      "brand": "金河源",
+      "model": "JHY-120G",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 6650.0,
+      "total_price": 13300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "非金属材料试验机",
+      "item_name": "氧指数测定仪",
+      "brand": "久滨",
+      "model": "JB-2",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "其他试验机",
+      "item_name": "柔性电子测试仪",
+      "brand": "Prtronic",
+      "model": "FT2000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 118000.0,
+      "total_price": 118000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "电阻测量仪器",
+      "item_name": "超高电阻测试仪",
+      "brand": "北京华测",
+      "model": "Huace-300",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 23000.0,
+      "total_price": 46000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "显微镜",
+      "item_name": "偏光显微镜（带热台）",
+      "brand": "SPOTOP",
+      "model": "CX40P",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 96800.0,
+      "total_price": 193600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "其他试验仪器及装置",
+      "item_name": "大功率超声仪触摸屏超声波清洗器",
+      "brand": "禾创",
+      "model": "KH-800ZDE",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "热学式分析仪器",
+      "item_name": "热重分析仪",
+      "brand": "北京恒久",
+      "model": "HTG-2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 178000.0,
+      "total_price": 178000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "光学式分析仪器",
+      "item_name": "纺织品防紫外性能测试仪",
+      "brand": "斟辰",
+      "model": "YG(B)912ES",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-18",
+      "category": "电子示波器",
+      "item_name": "示波记录仪",
+      "brand": "智教冠科",
+      "model": "DL350",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-19",
+      "category": "数字电网监测表",
+      "item_name": "静电计",
+      "brand": "同惠",
+      "model": "TH2690",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 99000.0,
+      "total_price": 99000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-20",
+      "category": "数据录入设备",
+      "item_name": "数据采集器",
+      "brand": "固纬",
+      "model": "DAQ-9600",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 70000.0,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-21",
+      "category": "放大器",
+      "item_name": "电流前置放大器",
+      "brand": "固纬",
+      "model": "DAQ-901",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州广电国际技术有限公司",
+      "role": "winner",
+      "total_score": 98.25,
+      "rank": 1,
+      "amount": 1571800.0
+    },
+    {
+      "package_no": "1",
+      "name": "贝格瑞普（广州）科技有限公司",
+      "role": "participant",
+      "total_score": 62.65,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州华彩信息科技有限公司",
+      "role": "participant",
+      "total_score": 57.3,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南峻亚贸易有限公司",
+      "role": "participant",
+      "total_score": 56.29,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260508_26523322",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "仅采购包1（标题及磋商文件明示）；概要品目列空、标的信息表「品目编号及品目名称」列空白，category=null；技术服务行无数量列值（仅单位「套」），quantity/unit_price=null、total_price=58799；货物两条单价×数量=金额逐条相符，354297+335904+58799=749000=中标金额74.9万；评分表「得分排名/推荐排名」列空白，rank全部null（不推定）；附件为磋商文件（采购需求），不提供成交字段值。",
+  "project": {
+    "buyer": "东平县公安局本级",
+    "project_name": "东平县公安局更换视频图像平台存储设备及安装调试服务",
+    "total_amount": 749000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东通维信息工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "48盘位存储节点设备",
+      "brand": "宇视",
+      "model": "CX1848-V3",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 118099.0,
+      "total_price": 354297.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "企业级硬盘",
+      "brand": "宇视",
+      "model": "ND-HD016TE-A-S-N",
+      "quantity": 96,
+      "unit": "块",
+      "unit_price": 3499.0,
+      "total_price": 335904.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": 58799.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东通维信息工程有限公司",
+      "role": "winner",
+      "total_score": 96.03,
+      "rank": null,
+      "amount": 749000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东彩华信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东久辉信息科技有限公司",
+      "role": "participant",
+      "total_score": 69.34,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

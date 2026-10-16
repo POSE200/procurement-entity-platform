@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260810_27107142",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,聊城市人民医院病案数字化及云胶片服务采购项目(二次)招标文件.docx",
+  "note": "本篇为单价合同（固定单价、按量据实结算）：中标单价0.07元/页（表格1「执行标准」列与投标（响应）报价明细表响应报价0.07元一致），数量取标的信息表「6,250,000.00（项）」（分项报价表口径为6250000页、单价最高限价0.08元/页），标的金额500,000元=年度预算上限。单价×数量=0.07×6,250,000=437,500元≠总中标金额500,000元（据实结算模式下总价为年度预算控制额度），数学不一致处按原文照抄不改。概要品目列为空，category取标的信息表「品目编号及品目名称」列「数据加工处理服务」。评分表得分排名列空白，rank=null。山东华健信息科技有限公司仅出现在未中标原因表（符合性审查未通过），评分表无其得分，作为participant收录、total_score=null。无OCR待补（专家支付报酬表/业绩统计表/资格审查表为已OCR件，不含价格字段）。",
+  "project": {
+    "buyer": "聊城市人民医院",
+    "project_name": "聊城市人民医院病案数字化及云胶片服务采购项目",
+    "total_amount": 500000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "病案数字化项目",
+        "winner": "上海联众网络信息股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "数据加工处理服务",
+      "item_name": "病案数字化项目",
+      "brand": null,
+      "model": null,
+      "quantity": 6250000,
+      "unit": "项",
+      "unit_price": 0.07,
+      "total_price": 500000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "上海联众网络信息股份有限公司",
+      "role": "winner",
+      "total_score": 93.96,
+      "rank": null,
+      "amount": 500000.0
+    },
+    {
+      "package_no": "1",
+      "name": "上海今创信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东南泉信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南鼎发信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东华健信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

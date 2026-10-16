@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260803_27062849",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-中国移动通信集团山东有限公司).pdf",
+  "note": "复核修正：路由器1单价81983.4375元已复核确认——附件报价明细表明文给出4位小数，且81983.4375×16=1311735元与响应报价精确相等，无需视觉核验。单包项目（公告标题及附件明示'采购包1'）。HTML主要标的信息表无单价/总价列，items单价/总价取中标人报价明细表（第1轮）：440639+1311735+1337436=3089810元=中标金额=总中标金额308.981万元，单价×数量均精确一致。item_name取附件货物名称'核心路由器/路由器1/路由器2'（HTML采购标的列三条同名'山东省政务云（医保域）B中心网络设备'）；category取HTML标的表品目名称列'路由器'（概要品目列空）；item_no沿用HTML品目号1-1-1/1-1-2/1-1-3（与附件按规格型号一一对应）。评分表得分排名/推荐排名列原文为空、'综合评审得分低于第一名'为原因描述非排名明示→rank=null。",
+  "project": {
+    "buyer": "山东省医疗保障局",
+    "project_name": "2026年山东省医疗保障局山东省政务云（医保域）B中心网络设备采购新建项目",
+    "total_amount": 3089810.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团山东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "路由器",
+      "item_name": "核心路由器",
+      "brand": "HUAWEI",
+      "model": "NetEngine 8000E M14",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 220319.5,
+      "total_price": 440639.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "路由器",
+      "item_name": "路由器1",
+      "brand": "HUAWEI",
+      "model": "NetEngine 8000E M8",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 81983.4375,
+      "total_price": 1311735.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "路由器",
+      "item_name": "路由器2",
+      "brand": "H3C",
+      "model": "SR6608-M",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 83589.75,
+      "total_price": 1337436.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "winner",
+      "total_score": 81.32,
+      "rank": null,
+      "amount": 3089810.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南宝鼎信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东汇正信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.15,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

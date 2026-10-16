@@ -1,0 +1,290 @@
+{
+  "announcement_id": "t20260511_26548215",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州万维视景科技有限公司）.pdf",
+  "note": "品目号1-16在原文被重复用于4条明细（附件序号1-4依次为电杆抱箍/波纹管/光缆/电缆；HTML表格顺序为波纹管/光缆/电缆/电杆抱箍，按HTML顺序输出并保留原品目号）；品目取自HTML品目名称列\"教学仪器\"（公告概要品目为空）；19条明细单价×数量均相符，合计909900元=总中标金额；附件报价明细与HTML一致。",
+  "project": {
+    "buyer": "广州市交通运输职业学校",
+    "project_name": "车路协同应用实训室建设",
+    "total_amount": 909900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "车路协同应用实训室建设",
+        "winner": "广州万维视景科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "车路协同实训一体机",
+      "brand": "万维视景",
+      "model": "TringAI-CLY1.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 192000.0,
+      "total_price": 192000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "5G OBU",
+      "brand": "万维视景",
+      "model": "TringAI-OBU1.0",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 19000.0,
+      "total_price": 76000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "演示平板",
+      "brand": "万维视景",
+      "model": "TringAI-PB1.0",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 3800.0,
+      "total_price": 15200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "实训交互演示系统",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 16000.0,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "教学仪器",
+      "item_name": "车路协同感知与控制系统",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "教学仪器",
+      "item_name": "5G-V2X 路侧通信单元（RSU）",
+      "brand": "万维视景",
+      "model": "TringAI-RUS1.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 65000.0,
+      "total_price": 130000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "教学仪器",
+      "item_name": "MEC路侧边缘计算设备",
+      "brand": "万维视景",
+      "model": "TringAI-MEC1.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 75000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "教学仪器",
+      "item_name": "AI摄像机",
+      "brand": "万维视景",
+      "model": "TringAI-SJJ1.0",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 18000.0,
+      "total_price": 54000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "教学仪器",
+      "item_name": "激光雷达及算法",
+      "brand": "万维视景",
+      "model": "TringAI-JG1.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 44000.0,
+      "total_price": 88000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "教学仪器",
+      "item_name": "车联网信号灯智能检测盒",
+      "brand": "万维视景",
+      "model": "TringAI-CLW1.0",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 4500.0,
+      "total_price": 9000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "教学仪器",
+      "item_name": "GPS信号转发器",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 650.0,
+      "total_price": 650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "教学仪器",
+      "item_name": "工业交换机",
+      "brand": "鸿普惠",
+      "model": "Hermes3000-2GF8GE-LI-DCW24",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 2600.0,
+      "total_price": 5200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "教学仪器",
+      "item_name": "毫米波雷达",
+      "brand": "万维视景",
+      "model": "TringAI-HMB1.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 19000.0,
+      "total_price": 19000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "教学仪器",
+      "item_name": "防雷器",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 350.0,
+      "total_price": 1750.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "教学仪器",
+      "item_name": "抱杆机箱",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 2500.0,
+      "total_price": 2500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "波纹管",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 200,
+      "unit": "米",
+      "unit_price": 9.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "光缆",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 50,
+      "unit": "米",
+      "unit_price": 2.0,
+      "total_price": 100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "电缆",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 200,
+      "unit": "米",
+      "unit_price": 3.0,
+      "total_price": 600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "教学仪器",
+      "item_name": "电杆抱箍",
+      "brand": "万维视景",
+      "model": "定制",
+      "quantity": 10,
+      "unit": "对",
+      "unit_price": 10.0,
+      "total_price": 100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州万维视景科技有限公司",
+      "role": "winner",
+      "total_score": 99.29,
+      "rank": 1,
+      "amount": 909900.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州天诺网络技术有限公司",
+      "role": "participant",
+      "total_score": 43.51,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东协创教育技术有限公司",
+      "role": "participant",
+      "total_score": 42.44,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "合肥雅诺儿供应链管理有限公司",
+      "role": "participant",
+      "total_score": 40.8,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

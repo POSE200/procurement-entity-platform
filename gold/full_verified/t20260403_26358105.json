@@ -1,0 +1,160 @@
+{
+  "announcement_id": "t20260403_26358105",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国教育图书进出口有限公司）.pdf,合同包2：报价明细附件（北京中科进出口有限责任公司）.pdf,合同包3：报价明细附件（中国图书进出口（集团）有限公司）.pdf",
+  "note": "3个合同包，各包分别中标：包1（Elsevier+Lexis）中国教育图书进出口有限公司、包2（Taylor & Francis）北京中科进出口有限责任公司、包3（ProQuest）中国图书进出口（集团）有限公司。品目概要列为空，category 取 HTML 标的信息表品目名称列「互联网信息服务」。各包明细来自报价明细附件：包1两条（1,289,162+118,283=1,407,445）、包2一条（629,607）、包3一条（249,000），合计2,286,052元=总中标金额￥228.6052万，数学一致。zip容器本身被跳过但内部3个PDF已解包解析成功，无信息缺失。评分表仅给「得分排名」列名而无综合得分数值，total_score=null、rank 按得分排名列填写。bidders 的 amount 取各包评审报价/最终报价（包1未中标方最终报价1,421,000元等）。",
+  "project": {
+    "buyer": "广东外语外贸大学",
+    "project_name": "广东外语外贸大学2026年外文数据库（第一批）代理采购",
+    "total_amount": 2286052.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "Elsevier ScienceDirect期刊全文数据库及Lexis 全球法律数据库代理采购项目",
+        "winner": "中国教育图书进出口有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "Taylor & Francis 期刊全文数据库（SSH人文社科子集）代理采购项目",
+        "winner": "北京中科进出口有限责任公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "ProQuest Central Premium综合性学术期刊全文数据库代理采购项目",
+        "winner": "中国图书进出口（集团）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "互联网信息服务",
+      "item_name": "Elsevier ScienceDirect期刊全文数据库代理采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1289162.0,
+      "total_price": 1289162.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "互联网信息服务",
+      "item_name": "Lexis 全球法律数据库代理采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 118283.0,
+      "total_price": 118283.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "互联网信息服务",
+      "item_name": "Taylor & Francis 期刊全文数据库（SSH人文社科子集）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 629607.0,
+      "total_price": 629607.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "互联网信息服务",
+      "item_name": "ProQuest Central Premium综合性学术期刊全文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 249000.0,
+      "total_price": 249000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国教育图书进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 1407445.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 1421000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 1421000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中科进出口有限责任公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 629607.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国教育图书进出口有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 630000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 630000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国图书进出口（集团）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 249000.0
+    },
+    {
+      "package_no": "3",
+      "name": "北京中科进出口有限责任公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 250000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国教育图书进出口有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 250000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

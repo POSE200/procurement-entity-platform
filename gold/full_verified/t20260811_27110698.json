@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27110698",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司肇庆分公司）.pdf",
+  "note": "品目概要列为空，品目取自HTML标的信息表「品目名称」列；附件报价明细附件仅1条汇总行（设备级明细原文写明「详见投标文件分项报价表」，该文件未随公告提供），金额6,463,910元与总中标金额一致，HTML表2与附件两个来源逐字段一致（附件文本带水印噪声但数值清晰）；品牌/型号单元格含「详见投标文件分项报价表」字样照抄；招标文件.pdf仅解析前30页、招标文件.zip被跳过（不影响结果字段）。",
+  "project": {
+    "buyer": "肇庆市高要区公路事务中心",
+    "project_name": "广东省普通国道基础设施数字化转型升级示范工程（肇庆市）",
+    "total_amount": 6463910.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省普通国道基础设施数字化转型升级示范工程（肇庆市）",
+        "winner": "中国移动通信集团广东有限公司肇庆分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "交通管理设备",
+      "item_name": "广东省普通国道基础设施数字化转型升级示范工程（肇庆市）",
+      "brand": "大华、顺泰、飞尚等，详见投标文件分项报价表",
+      "model": "主线监控球形摄像机（型号：DH-SD-8A1440-HNR-GA-EF；规格详见投标文件分项报价表）、路基段12米立柱（含安装附件、避雷针）（型号：12m；规格详见投标文件分项报价表）、振动、倾角一体化设备（型号：FS-iFWL-MF02-V1.00；规格详见投标文件分项报价表）等，详见投标文件分项报价表",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 6463910.0,
+      "total_price": 6463910.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司肇庆分公司",
+      "role": "winner",
+      "total_score": 86.95,
+      "rank": 1,
+      "amount": 6463910.0
+    },
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "participant",
+      "total_score": 79.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司肇庆分公司",
+      "role": "participant",
+      "total_score": 79.19,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东东为信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.4,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东金赋科技股份有限公司",
+      "role": "participant",
+      "total_score": 56.81,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

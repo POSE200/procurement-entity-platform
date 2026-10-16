@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260703_26866974",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东广弘医药有限公司）.pdf",
+  "note": "单包项目（合同包1，附件明示包号）。概要品目列空，category 取自 HTML 品目名称列（物理治疗、康复及体育治疗仪器设备）。3 条明细单价×数量=总价，之和=1,060,000元，与总中标金额￥106万一致。附件报价明细表与 HTML 数值一致。2 家投标人未通过资格性审查无得分。需视觉核验：1-2 规格型号 NTK-MI-D6O 末位为字母 O（原文如此），存在 0/O 混淆可能。复核：3条明细、合计与评分表已独立核对；NTK-MI-D6O 在HTML与附件两处一致，按原文照抄，确认通过。",
+  "project": {
+    "buyer": "茂名市社会福利中心（茂名市社会福利特殊教育学校）",
+    "project_name": "茂名市社会福利中心智能化康复设备采购项目",
+    "total_amount": 1060000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "茂名市社会福利中心智能化康复设备采购项目",
+        "winner": "广东广弘医药有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "物理治疗、康复及体育治疗仪器设备",
+      "item_name": "外骨骼机器人",
+      "brand": "迈步",
+      "model": "CX0-C2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 530000.0,
+      "total_price": 530000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "物理治疗、康复及体育治疗仪器设备",
+      "item_name": "经颅磁刺激治疗仪",
+      "brand": "脑调控",
+      "model": "NTK-MI-D6O",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "物理治疗、康复及体育治疗仪器设备",
+      "item_name": "多功能渐进式上肢综合康复训练系统",
+      "brand": "泽普",
+      "model": "ZEPU-SG1+智能版",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 130000.0,
+      "total_price": 130000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东广弘医药有限公司",
+      "role": "winner",
+      "total_score": 89.77,
+      "rank": 1,
+      "amount": 1060000.0
+    },
+    {
+      "package_no": "1",
+      "name": "海南新瑞广医疗器械有限公司",
+      "role": "participant",
+      "total_score": 87.31,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州睿敏达医疗器械有限公司",
+      "role": "participant",
+      "total_score": 84.32,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "华润（广东）医学检验有限公司",
+      "role": "participant",
+      "total_score": 83.45,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州恒丰建贸易有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市金中泰医疗器械有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

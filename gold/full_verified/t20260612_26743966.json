@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260612_26743966",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:（定稿）招标文件--华中农业大学园艺作物智慧育种创新支撑平台设备更新项目第一批.pdf",
+  "note": "概要品目为完整路径'货物/设备/仪器仪表/教学仪器'，原样保留；中标清单数量列为'满足文件要求'非数字，quantity/unit 取自招标文件采购清单（01/02包各1台/套），总价=单价×数量系唯一互推；02包中标单价932.8万元超过招标文件02包合计限价450万元，与限价矛盾（原文如此，见文末复核修正①）；招标文件包号表第三行『高分辨液质联用仪』（限价486万）包号单元格在文本还原中为空，不排除该行并入02包（但限价486万独立于02包450万列示，更可能为独立03包），且结果公告未列其信息，故packages不收录；招标文件仅前30页，未见第三包'高分辨液质联用仪'（限价486万元）的中标信息，结果公告亦未列，故不标注；无评分表/未中标名单/排名列，rank与total_score均为null（中标清单序号1/2非排名）；包号01/02系按设备名称与招标文件包号表对应（推断）。复核修正：①02包单价9328000.00元系HTML表格1文本还原（非OCR），数字确凿为原文如此，与招标文件限价的矛盾按规范保留原文值并以本note记录；②12,560,000+9,328,000=21,888,000与概要总中标金额￥2188.8万精确吻合，两包结构成立，第三行『高分辨液质联用仪』的包号归属不影响任何输出字段（结果公告未列其中标信息），两处视觉核验疑点均消解，status改verified。",
+  "project": {
+    "buyer": "华中农业大学",
+    "project_name": "华中农业大学园艺作物智慧育种创新支撑平台设备更新项目第一批",
+    "total_amount": 21888000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "超高分辨液质联用仪",
+        "winner": "广东省中科进出口有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "超高效液相色谱质谱联用成像系统",
+        "winner": "武汉贝科泰科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": "1",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "超高分辨液质联用仪",
+      "brand": "Thermo Scientific",
+      "model": "Orbitrap Astral",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 12560000.0,
+      "total_price": 12560000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": "2",
+      "category": "货物/设备/仪器仪表/教学仪器",
+      "item_name": "超高效液相色谱质谱联用成像系统（核心产品）",
+      "brand": "Waters（核心产品）",
+      "model": "Xevo TQ Absolute XR（核心产品）",
+      "quantity": 1,
+      "unit": "台/套",
+      "unit_price": 9328000.0,
+      "total_price": 9328000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "广东省中科进出口有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 12560000.0
+    },
+    {
+      "package_no": "02",
+      "name": "武汉贝科泰科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 9328000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

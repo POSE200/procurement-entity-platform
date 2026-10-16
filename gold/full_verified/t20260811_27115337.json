@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260811_27115337",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-齐鲁工业大学（山东省科学院）).pdf",
+  "note": "已强制核对报价明细表(第1轮-齐鲁工业大学（山东省科学院）).pdf：1条服务明细单价199800元/数量1项/总价199800元（最高限价200000元），合计199800元=总中标金额199800.00元，数学成立；品目取自HTML标的信息表品目名称列（概要品目列空）→行业应用软件开发服务；服务类标的brand/model无线索为null；HTML表格2金额(元)列空白，价格真值取自报价明细表；中标人得分排名列空白故rank=null（不推定第1），未中标人无排名明示",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）人工智能、辅助病历生成、临床研究病房智能管理平台建设(二次)",
+    "total_amount": 199800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "齐鲁工业大学（山东省科学院）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "人工智能、辅助病历生成",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 199800.0,
+      "total_price": 199800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "齐鲁工业大学（山东省科学院）",
+      "role": "winner",
+      "total_score": 88.67,
+      "rank": null,
+      "amount": 199800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东华健信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "三亚沐头信息科技有限公司",
+      "role": "participant",
+      "total_score": 56.0,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

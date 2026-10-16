@@ -1,0 +1,163 @@
+{
+  "announcement_id": "t20260708_26890758",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标分项报价表-1包.docx,投标分项报价表-2包.docx",
+  "note": "双包：包号1/2取自代理服务费表及中小企业声明函文件名（合同包1=西安秦基数智科技有限公司、合同包2=陕西晟奥科技有限公司）。包1明细来自附件投标分项报价表-1包.docx（5条，金额列OCR混入水印时间戳，已按语义修复型号'H3C S6510-50QS'第4条与'H3C SecPath F1000-AI-25'第5条），五条小计之和1448700+46160+887000+21200+23200=2426260与中标金额一致；包2一条：数量7×单价38466=269262，数量列原文仅'7'无计量单位，unit=null。两包之和2426260+269262=2695522与总中标金额￥269.5522万元一致。category取HTML'品目名称'列（其他信息技术服务）；包1的HTML品目号仅1-1，items按附件行序记为1-1-1至1-1-5。rank取'中标(成交)候选人排序'列明示值（包2第4家陕西永合源原文该列为'0'，非有效排名，rank=null）。文件集zip中的分项报价表为空白招标格式（{供应商响应}占位），非成交人报价，未采用。需视觉核验疑点：①包1第4条规格型号是否确为S6510-50QS（与第2条同型）；②包2数量7的计量单位（套/项）；③陕西永合源候选人排序'0'的真实含义。独立复核（0924）：疑点①按规范第10条语义清理确认（干扰字符均为时间戳碎片1:2/107/5:3）；疑点②报价表为docx原生文本层非OCR，数量列实为'7'无单位，unit=null即真值；疑点③原文排序列明示'0'，非有效排名gold取null不受影响。三项均无需视觉核验。",
+  "project": {
+    "buyer": "镇巴县人民医院",
+    "project_name": "2026年超融合平台及重症监护系统床位管理模块扩充项目",
+    "total_amount": 2695522.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "超融合平台",
+        "winner": "西安秦基数智科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "重症监护系统床位管理模块扩充",
+        "winner": "陕西晟奥科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他信息技术服务",
+      "item_name": "内网国产化超融合集群",
+      "brand": "新华三技术有限公司",
+      "model": "H3C UIS 3060 G7",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 482900.0,
+      "total_price": 1448700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他信息技术服务",
+      "item_name": "内网汇聚交换机",
+      "brand": "新华三技术有限公司",
+      "model": "H3C S6510-50QS",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 23080.0,
+      "total_price": 46160.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他信息技术服务",
+      "item_name": "外网国产化超融合集群",
+      "brand": "新华三技术有限公司",
+      "model": "H3C UIS 3060 G7",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 443500.0,
+      "total_price": 887000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他信息技术服务",
+      "item_name": "外网汇聚交换机",
+      "brand": "新华三技术有限公司",
+      "model": "H3C S6510-50QS",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 21200.0,
+      "total_price": 21200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他信息技术服务",
+      "item_name": "内外网隔离防火墙",
+      "brand": "新华三技术有限公司",
+      "model": "H3C SecPath F1000-AI-25",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 23200.0,
+      "total_price": 23200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他信息技术服务",
+      "item_name": "重症监护系统床位管理模块扩充",
+      "brand": "苏州麦迪斯顿医疗科技股份有限公司",
+      "model": "重症监护临床信息系统V7.0",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 38466.0,
+      "total_price": 269262.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "西安秦基数智科技有限公司",
+      "role": "winner",
+      "total_score": 93.9,
+      "rank": 1,
+      "amount": 2426260.0
+    },
+    {
+      "package_no": "1",
+      "name": "西安建科软件科技有限公司",
+      "role": "participant",
+      "total_score": 79.36,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "陕西博晟恒辉电子科技有限公司",
+      "role": "participant",
+      "total_score": 78.1,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "陕西晟奥科技有限公司",
+      "role": "winner",
+      "total_score": 66.7,
+      "rank": 1,
+      "amount": 269262.0
+    },
+    {
+      "package_no": "2",
+      "name": "汉中市淇森医疗科技有限公司",
+      "role": "participant",
+      "total_score": 53.66,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "陕西绿韵康和健康管理有限公司",
+      "role": "participant",
+      "total_score": 52.93,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "陕西永合源网络科技有限责任公司",
+      "role": "participant",
+      "total_score": 50.15,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

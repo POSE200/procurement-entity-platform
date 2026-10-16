@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260811_27108715",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司茂名分公司）.pdf",
+  "note": "金额分歧已定案：合同包1报价明细附件单价/总价1,445,200元为磋商前的投标报价，HTML总成交金额142.78万与中标金额1,427,800.00元一致为磋商后降价成交价（两处数字多位不同、均系文本层，非OCR错讹）；代理服务费交叉验证成立：1,427,800元×差额定率累进（100万×1.5%+42.78万×0.8%）=18,422.4元=表格3的1.84224万元，按1,445,200元计算不吻合，成交金额1,427,800元确证，total_amount/amount/item金额均采用之。item单价1,427,800由成交金额÷数量1项唯一互推（数量1(项)为报价明细附件明示）。",
+  "project": {
+    "buyer": "高州市人民医院",
+    "project_name": "高清视频监控系统维保项目",
+    "total_amount": 1427800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "高清视频监控系统维保项目",
+        "winner": "中国移动通信集团广东有限公司茂名分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "高清视频监控系统维保",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1427800.0,
+      "total_price": 1427800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司茂名分公司",
+      "role": "winner",
+      "total_score": 92.58,
+      "rank": 1,
+      "amount": 1427800.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 87.12,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "云仓库（广东）信息科技有限公司",
+      "role": "participant",
+      "total_score": 74.67,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东问兔科技有限责任公司",
+      "role": "participant",
+      "total_score": 37.19,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "茂名市新创信息科技有限公司",
+      "role": "participant",
+      "total_score": 28.54,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

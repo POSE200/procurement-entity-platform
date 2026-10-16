@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260708_26891517",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东汇能科技有限公司）.pdf,合同包2：报价明细附件（华际信息系统有限公司）.pdf",
+  "note": "双包项目：包号取自代理服务费表'合同包号'列及'子包一/子包二'表述；概要品目列空，category 取 HTML 标的信息表'品目名称'列（硬件运维服务）；单价/数量/总价来自附件报价明细（数量1(年)），两包单价×数量=总价成立；包金额之和845600+623000=1468600 与总中标金额146.86万元一致。报价明细附件原始zip在包内以解包路径出现且内容可见，无OCR待补。独立复核（0924）：全部字段逐项核对无误；复核修正：item_no由'1-1/2-1'改为'1-1-1/2-1-1'（附件为品目号+序号1，按'品目号-序号'层级补全，与同批次口径一致）。",
+  "project": {
+    "buyer": "普宁市人民医院",
+    "project_name": "普宁市人民医院计算机办公IT设备运维服务、信息中心机房设备运维服务采购项目",
+    "total_amount": 1468600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "计算机办公IT设备运维服务（子包一）",
+        "winner": "广东汇能科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "信息中心机房设备运维服务（子包二）",
+        "winner": "华际信息系统有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "硬件运维服务",
+      "item_name": "计算机办公IT设备运维服务（子包一）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "年",
+      "unit_price": 845600.0,
+      "total_price": 845600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "硬件运维服务",
+      "item_name": "信息中心机房设备运维服务（子包二）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "年",
+      "unit_price": 623000.0,
+      "total_price": 623000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东汇能科技有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": 1,
+      "amount": 845600.0
+    },
+    {
+      "package_no": "1",
+      "name": "中业（广东）科技信息有限公司",
+      "role": "participant",
+      "total_score": 79.94,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "瑞乐（广东）网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.74,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "华际信息系统有限公司",
+      "role": "winner",
+      "total_score": 76.98,
+      "rank": 1,
+      "amount": 623000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州博时信息科技有限公司",
+      "role": "participant",
+      "total_score": 58.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州谦益科技有限公司",
+      "role": "participant",
+      "total_score": 56.03,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

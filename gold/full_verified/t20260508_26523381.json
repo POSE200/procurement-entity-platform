@@ -1,0 +1,230 @@
+{
+  "announcement_id": "t20260508_26523381",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "分包数量1个但全文无标包号，package_no=null；概要品目列空，category 取主要标的信息表「名称」列值「其他广播、电视、电影设备」（该值为品目末级名，表无独立品目名称列，已择歧声明）；items 14条全部取自附件投标明细表，单价×数量=合计逐条相符且合计之和=1346900元=中标金额；表格0「总中标金额￥0.000000万元」与表格1/附件中标成交金额1346900元不符，以明细为准；rank 原文未给（评分表仅总得分），全部null。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "济南广播电视台",
+    "project_name": "鲁中传媒中心非线性编辑系统升级改造",
+    "total_amount": 1346900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南予汇信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "中心存储系统（核心产品）",
+      "brand": "德拓",
+      "model": "NEUTRINO 3024",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 186000.0,
+      "total_price": 186000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "万兆交换机",
+      "brand": "H3C",
+      "model": "S5560X-54C-EI",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7200.0,
+      "total_price": 7200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "千兆交换机",
+      "brand": "华为",
+      "model": "S5735S-L24T4X-QA2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3500.0,
+      "total_price": 3500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "核心服务支撑系统",
+      "brand": "SOBEY",
+      "model": "MOC",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 15000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "媒体处理服务端系统",
+      "brand": "SOBEY",
+      "model": "MPC",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 32000.0,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "容器云",
+      "brand": "SOBEY",
+      "model": "LYC-LCE",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "综合管理服务系统",
+      "brand": "西雅",
+      "model": "SEOI V7.2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 68000.0,
+      "total_price": 68000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "精编合成系统",
+      "brand": "hp",
+      "model": "HP Z2 Tower G9 Workstation Desktop PC-B353705805A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 69000.0,
+      "total_price": 69000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "高清有卡新闻编辑系统终端",
+      "brand": "hp",
+      "model": "HP Z2 Tower G9 Workstation Desktop PC-B353705805A",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 76000.0,
+      "total_price": 304000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "高清无卡新闻编辑系统终端",
+      "brand": "hp",
+      "model": "HP Z2 Tower G9 Workstation Desktop PC-B353705805A",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 46000.0,
+      "total_price": 368000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "USB安全导入网关系统",
+      "brand": "SOBEY",
+      "model": "Shield SafeBox3.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6100.0,
+      "total_price": 12200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "原非编升级改造",
+      "brand": "金士顿、希捷、铭瑄、索贝",
+      "model": "金士顿（Kingston）A400512M固态硬盘 金士顿（Kingston） DDR3 1600 8G内存 希捷酷鱼sata3 4T 硬盘 铭瑄RX550 4G显卡 升级软件",
+      "quantity": 10,
+      "unit": "套",
+      "unit_price": 8000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "集成服务",
+      "brand": "予汇",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "其他广播、电视、电影设备",
+      "item_name": "施工及材料费",
+      "brand": "予汇",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 20000.0,
+      "total_price": 20000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南予汇信息科技有限公司",
+      "role": "winner",
+      "total_score": 475.5,
+      "rank": null,
+      "amount": 1346900.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东云海睿科信息科技有限公司",
+      "role": "participant",
+      "total_score": 373.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东盼旺信息科技有限公司",
+      "role": "participant",
+      "total_score": 362.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东屹格信息技术有限公司",
+      "role": "participant",
+      "total_score": 357.3,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

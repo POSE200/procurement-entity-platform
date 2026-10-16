@@ -1,0 +1,87 @@
+{
+  "announcement_id": "t20260209_26162960",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:G25402中标人投标分项报价表第一包.pdf,G25402中标人投标分项报价表第二包.pdf",
+  "note": "复核确认：已从原始附件 PDF（data/attachments）提取落款文本——第一包（BGPC-G25402/1）投标人名称（加盖公章）为中国联合网络通信有限公司北京市分公司，第二包（BGPC-G25402/2）为中国移动通信集团北京有限公司；HTML未标明各中标人对应包号，映射据此确定。第二包分项1名称原文写作『…带宽租赁项目（第一包）』系投标文件笔误，照抄。两包各1条+2条明细，1425000=1425000 与公告中标金额一致；1269800+155200=1425000 数学相符。品目列概要与HTML标的表均为空，category=null。数量『一项』拆为 quantity=1/unit=项；第一包数量列原文为1无单位故unit=null。原文未给排名列，rank=null。",
+  "project": {
+    "buyer": "首都医科大学附属北京同仁医院",
+    "project_name": "首都医科大学附属北京同仁医院2026及2027年度服务互联网出口带宽租赁项目",
+    "total_amount": 2850000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "首都医科大学附属北京同仁医院2026及2027年度服务互联网出口带宽租赁项目（第一包）",
+        "winner": "中国联合网络通信有限公司北京市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "首都医科大学附属北京同仁医院2026及2027年度服务互联网出口带宽租赁项目（第二包）",
+        "winner": "中国移动通信集团北京有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "首都医科大学附属北京同仁医院2026及2027年度服务互联网出口带宽租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1425000.0,
+      "total_price": 1425000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": null,
+      "item_name": "首都医科大学附属北京同仁医院2026及2027年度服务互联网出口带宽租赁项目（第一包）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1269800.0,
+      "total_price": 1269800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "流量清洗（抗D）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 155200.0,
+      "total_price": 155200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司北京市分公司",
+      "role": "winner",
+      "total_score": 99.43,
+      "rank": null,
+      "amount": 1425000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团北京有限公司",
+      "role": "winner",
+      "total_score": 93.71,
+      "rank": null,
+      "amount": 1425000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

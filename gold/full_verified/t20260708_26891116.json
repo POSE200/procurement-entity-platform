@@ -1,0 +1,172 @@
+{
+  "announcement_id": "t20260708_26891116",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（公诚管理咨询有限公司）.pdf,合同包2：报价明细附件（中科智诚（广州）科技有限公司）.pdf,合同包3：报价明细附件（山东正中信息技术股份有限公司）.pdf",
+  "note": "三包监理服务项目：包号1/2/3取自代理服务费表'合同包号'列及报价明细附件文件名。总中标金额栏为'￥0.000000万元'占位值，total_amount=null。各包中标金额仅以'投标折扣'表示（包1=80.00%、包2=92.00%、包3=93.00%），无元金额，故bidders.amount及total_amount均null，折扣无对应基数不可换算。概要品目列空，category取HTML标的信息表'品目名称'列（信息化工程监理服务）。附件报价明细：各包单价456,000×数量1(项)=总价456,000.00成立，但'投标折扣'列与单价/总价的关系（456,000是否已折后价）原文未明示，需视觉核验。包2中广东省科技基础条件平台中心资格性审查不通过，scores/rank为null但作为投标主体收录；广州市汇源通信建设监理有限公司同时参与包1（第2名）与包2（第2名），按口径分两条。需视觉核验疑点：①三包单价均为456,000是否巧合或OCR串行；②各包采购预算（折扣基数）未见。独立复核（0924）：疑点①由三个独立附件文件各自明示'单价456,000/数量1(项)/总价456,000.00'直接确认，非OCR串行；疑点②原文（含附件）确无预算基数，amount/total_amount保持null。复核修正：item_no由'1-1/2-1/3-1'改为'1-1-1/2-1-1/3-1-1'（附件为品目号1-1+序号1，按'品目号-序号'层级补全，与同批次口径一致）。",
+  "project": {
+    "buyer": "广州市南沙区政务服务和数据管理局",
+    "project_name": "2026-2027年广州市南沙区全区信息化项目监理服务项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "区公安分局、区规自局等单位信息化项目监理服务",
+        "winner": "公诚管理咨询有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "区卫健局、区教育局等单位信息化项目监理服务",
+        "winner": "中科智诚（广州）科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "区政务和数据局、区财政局等单位信息化项目监理服务",
+        "winner": "山东正中信息技术股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 456000.0,
+      "total_price": 456000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 456000.0,
+      "total_price": 456000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1-1",
+      "category": "信息化工程监理服务",
+      "item_name": "监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 456000.0,
+      "total_price": 456000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "公诚管理咨询有限公司",
+      "role": "winner",
+      "total_score": 87.79,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市汇源通信建设监理有限公司",
+      "role": "participant",
+      "total_score": 72.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省科技基础条件平台中心",
+      "role": "participant",
+      "total_score": 58.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中科智诚（广州）科技有限公司",
+      "role": "winner",
+      "total_score": 87.82,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市汇源通信建设监理有限公司",
+      "role": "participant",
+      "total_score": 76.7,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州驭网信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.33,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州赛宝联睿信息科技有限公司",
+      "role": "participant",
+      "total_score": 33.81,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳智信方略工程咨询有限公司",
+      "role": "participant",
+      "total_score": 31.83,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省科技基础条件平台中心",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 85.82,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "深圳天致信息工程咨询有限公司",
+      "role": "participant",
+      "total_score": 46.55,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "江门市五邑信息工程咨询监理有限公司",
+      "role": "participant",
+      "total_score": 44.75,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27096630",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "单包服务项目。品目概要列空，category 取HTML标的信息表品目名称列「其他信息技术服务」；HTML金额列空，单价/数量/总价取自附件报价明细（附件明示单价4,452,800×1项=总价4,452,800.00，非推算），与中标金额4,452,800.00元及总中标金额￥445.28万一致。OCR文字有水印噪声（ZC台平云等）已忽略，不影响数值。复核：逐字段核对无误。",
+  "project": {
+    "buyer": "广州市公安局南沙分局",
+    "project_name": "2026-2028年南沙区交通管理系统通信光纤租赁服务项目",
+    "total_amount": 4452800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2028年南沙区交通管理系统通信光纤租赁服务项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "交通管理系统通信光纤租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4452800.0,
+      "total_price": 4452800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 97.3,
+      "rank": 1,
+      "amount": 4452800.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 84.78,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东广信通信服务有限公司",
+      "role": "participant",
+      "total_score": 62.93,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天讯瑞达通信技术有限公司",
+      "role": "participant",
+      "total_score": 50.2,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260803_27057037",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东九州信泰信息科技股份有限公司).pdf",
+  "note": "品目取HTML主要标的信息表品目名称列（安全运维服务）；单价48800元/数量1项/总价48800元明示于附件报价明细表(第1轮)。包号1来自公告标题（采购包1）及附件包(1)文件名，无合同包名称。表格3综合得分列有值但得分排名列为空，rank一律null。需视觉核验：附件「包(1)_开标（报价）一览表.pdf」「包(1)_投标（响应）报价明细表.pdf」解析结果仅剩表头（正文空），明细取自报价明细表(第1轮)，建议核验这两份文件是否确无数据。",
+  "project": {
+    "buyer": "山东省林业科学研究院",
+    "project_name": "自然资源网络安全能力提升专项采购网站安全运维服务项目",
+    "total_amount": 48800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东九州信泰信息科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "安全运维服务",
+      "item_name": "自然资源网络安全能力提升专项采购网站安全运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 48800.0,
+      "total_price": 48800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东九州信泰信息科技股份有限公司",
+      "role": "winner",
+      "total_score": 93.33,
+      "rank": null,
+      "amount": 48800.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南众甲网络科技有限公司",
+      "role": "participant",
+      "total_score": 89.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南旭腾信息科技有限公司",
+      "role": "participant",
+      "total_score": 80.19,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

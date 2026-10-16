@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260401_26348420",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "本篇为智能装备虚拟仿真实训基地项目（2个包）中的第1包：轨道交通虚拟仿真实训室项目，包号取附件招标文件明示「第1包」。公告概要品目为空且主要标的信息表无品目列，category=null。主要标的信息表无总价列，total_price按单价×数量推算（规范允许的唯一互推）；5条推算之和=1,029,700元=中标金额，数学一致，附件1包中标清单与HTML标的表5条一致。rank取HTML评审排序列（明示1-4），各供应商投标报价取HTML投标报价表。附件1包招标文件.pdf仅解析前30页，但标的明细已在HTML与中标清单中获得，无OCR待补。",
+  "project": {
+    "buyer": "青岛工程职业学院",
+    "project_name": "智能装备虚拟仿真实训基地项目",
+    "total_amount": 1029700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "轨道交通虚拟仿真实训室项目",
+        "winner": "郑州捷安科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●城轨服务员在线实训系统",
+      "brand": "捷安",
+      "model": "城市轨道交通行车值班员在线实训系统V1.0、城市轨道交通站务员在线实训系统V1.0",
+      "quantity": 42,
+      "unit": "节点",
+      "unit_price": 11900.0,
+      "total_price": 499800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "桌面级模拟驾驶与应急处置实训系统",
+      "brand": "捷安",
+      "model": "捷安城轨列车模拟驾驶仿真系统V1.0",
+      "quantity": 42,
+      "unit": "节点",
+      "unit_price": 6500.0,
+      "total_price": 273000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市轨道交通车辆整体结构认知仿真实训系统",
+      "brand": "谨诚科技",
+      "model": "轨道交通车辆结构认知虚拟仿真实训系统V1.0",
+      "quantity": 42,
+      "unit": "节点",
+      "unit_price": 2950.0,
+      "total_price": 123900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "城市轨道交通车辆制动检修实训系统",
+      "brand": "谨诚科技",
+      "model": "车辆制动系统检修仿真软件 V1.0",
+      "quantity": 42,
+      "unit": "节点",
+      "unit_price": 3000.0,
+      "total_price": 126000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "教学资源",
+      "brand": "捷安",
+      "model": "教学资源库系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 7000.0,
+      "total_price": 7000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "郑州捷安科技有限公司",
+      "role": "winner",
+      "total_score": 76.14,
+      "rank": 1,
+      "amount": 1029700.0
+    },
+    {
+      "package_no": "1",
+      "name": "汇智聚媒（上海）文化科技发展有限公司",
+      "role": "participant",
+      "total_score": 65.2,
+      "rank": 2,
+      "amount": 983000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南百科通科技有限公司",
+      "role": "participant",
+      "total_score": 63.78,
+      "rank": 3,
+      "amount": 1035300.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南字节动力科技有限公司",
+      "role": "participant",
+      "total_score": 63.21,
+      "rank": 4,
+      "amount": 1038000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

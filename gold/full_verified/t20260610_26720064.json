@@ -1,0 +1,146 @@
+{
+  "announcement_id": "t20260610_26720064",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（金税信息技术服务股份有限公司）.pdf",
+  "note": "单包项目；HTML主要标的信息表服务类各行金额列为空，单价/数量/总价取自附件报价明细附件（7条明细之和=2,594,660元，与中标金额2,594,660.00元一致）；品目取HTML标的信息表品目名称列（货物'其他存储设备'/服务'基础设施运营服务'），概要品目列空；附件正文含水印散字已忽略；得分排名列有明示1/2/3/4，rank照填。复核：全部字段与原文一致。",
+  "project": {
+    "buyer": "广东科学技术职业学院",
+    "project_name": "广东科学技术职业学院混合云IaaS资源服务平台和大数据服务平台、私有云平台扩容采购项目",
+    "total_amount": 2594660.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "混合云IaaS资源服务平台和大数据服务平台、私有云平台扩容采购项目",
+        "winner": "金税信息技术服务股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "混合云IaaS资源服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 777400.0,
+      "total_price": 777400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他存储设备",
+      "item_name": "2.4T服务器磁盘",
+      "brand": "超聚变",
+      "model": "超聚变 HDD 2400GB,SAS,12Gb/s,10K 2.5",
+      "quantity": 28,
+      "unit": "块",
+      "unit_price": 3080.0,
+      "total_price": 86240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "基础设施运营服务",
+      "item_name": "CPU授权",
+      "brand": null,
+      "model": null,
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 15000.0,
+      "total_price": 270000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "基础设施运营服务",
+      "item_name": "大数据服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1211700.0,
+      "total_price": 1211700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他存储设备",
+      "item_name": "20T服务器磁盘",
+      "brand": "超聚变",
+      "model": "超聚变 HDD 20000GB,SATA 6.0Gb/s,7.2K 3.5",
+      "quantity": 24,
+      "unit": "块",
+      "unit_price": 6680.0,
+      "total_price": 160320.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "基础设施运营服务",
+      "item_name": "品高云平台扩容实施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 78200.0,
+      "total_price": 78200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "基础设施运营服务",
+      "item_name": "项目整体实施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 10800.0,
+      "total_price": 10800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "金税信息技术服务股份有限公司",
+      "role": "winner",
+      "total_score": 95.25,
+      "rank": 1,
+      "amount": 2594660.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州睿普信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州宏同信息技术有限公司",
+      "role": "participant",
+      "total_score": 65.81,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东鸿望智能科技有限公司",
+      "role": "participant",
+      "total_score": 64.09,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

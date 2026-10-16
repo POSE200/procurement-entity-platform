@@ -1,0 +1,180 @@
+{
+  "announcement_id": "t20260310_26253158",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表([1]).pdf,分项报价表([2]).pdf,分项报价表([3]).pdf",
+  "note": "报价明细附件.zip为压缩容器被跳过，但包内3份分项报价表PDF已解出，items数量/单价/总价取自附件。视觉核验：查阅 分项报价表([1]).pdf 第1页确认包号1、服务器维护单价382,000、数量1(项)、总价382,000.00；[2][3]单价475,000/950,000与总价合计382000+475000+950000=1807000元=总中标金额￥180.7万交叉验证一致。概要品目列'服务/其他服务'原样填入category。三包评分表（表格2/3/4）分别对应合同包1/2/3，rank取得分排名列；中标人amount取各包分项报价总价，未中标人报价原文未给→null。",
+  "project": {
+    "buyer": "国家税务总局广州市税务局",
+    "project_name": "广州税务2025年服务器、小型机与存储设备维护服务",
+    "total_amount": 1807000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广州胜鸿电子科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "广东励康信息技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "广东励康信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "服务/其他服务",
+      "item_name": "服务器维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 382000.0,
+      "total_price": 382000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "服务/其他服务",
+      "item_name": "小型机维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 475000.0,
+      "total_price": 475000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "服务/其他服务",
+      "item_name": "存储设备维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 950000.0,
+      "total_price": 950000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州胜鸿电子科技有限公司",
+      "role": "winner",
+      "total_score": 89.52,
+      "rank": 1,
+      "amount": 382000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州集康信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.82,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州成翔计算机有限公司",
+      "role": "participant",
+      "total_score": 63.38,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州帝博瑞克系统集成有限公司",
+      "role": "participant",
+      "total_score": 60.7,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州凌众智能科技有限公司",
+      "role": "participant",
+      "total_score": 40.2,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市和昊信息技术有限公司",
+      "role": "participant",
+      "total_score": 39.95,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州君腾信息科技有限公司",
+      "role": "participant",
+      "total_score": 34.61,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东励康信息技术有限公司",
+      "role": "winner",
+      "total_score": 89.18,
+      "rank": 1,
+      "amount": 475000.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州集康信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.63,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京安普利信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东励康信息技术有限公司",
+      "role": "winner",
+      "total_score": 88.18,
+      "rank": 1,
+      "amount": 950000.0
+    },
+    {
+      "package_no": "3",
+      "name": "广州集康信息科技有限公司",
+      "role": "participant",
+      "total_score": 79.62,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "北京安普利信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.8,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "announcement_id": "t20260601_26664498",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司佛山南海区分公司）.pdf,合同包2：报价明细附件（中国移动通信集团广东有限公司）.pdf,合同包3：报价明细附件（中国联合网络通信有限公司佛山市分公司）.pdf",
+  "note": "3个采购包，6家供应商均投标3个包（兼投不兼中）。包1、包3各1条明细，包2附件报价明细2条（1,139,600+64个地址38,400=1,178,000元=包2中标金额）；三包之和1,619,999+1,178,000+659,000=3,456,999元=总中标金额￥345.6999万元，数学一致。品目名称取自HTML品目名称列（网络接入服务）。异常点：包2、包3因『兼投不兼中』规则，综合得分第1的电信未中标（包2得分第1为电信96.11但中标人是得分第2的移动82.14、推荐排名1；包3同理），rank按各包『得分排名』列填写；包1中标价1,619,999元低于分包预算1,620,000元。",
+  "project": {
+    "buyer": "佛山市南海区政务网络中心",
+    "project_name": "区政务网互联网统一出口年费",
+    "total_amount": 3456999.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "区政务网互联网统一出口年费分包一",
+        "winner": "中国电信股份有限公司佛山南海区分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "区政务网互联网统一出口年费分包二",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "区政务网互联网统一出口年费分包三",
+        "winner": "中国联合网络通信有限公司佛山市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "网络接入服务",
+      "item_name": "一年不少于2.5Gbps上下行对等的互联网专线接入服务，448个互联网合法IPv4地址，一段/56的合法ipv6地址和一年期智能DNS云解析服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1619999.0,
+      "total_price": 1619999.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "网络接入服务",
+      "item_name": "2.1GB 上下行带宽对等专线",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1139600.0,
+      "total_price": 1139600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "网络接入服务",
+      "item_name": "64 个互联网合法 IPV4 地址",
+      "brand": null,
+      "model": null,
+      "quantity": 64,
+      "unit": "个",
+      "unit_price": 600.0,
+      "total_price": 38400.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "网络接入服务",
+      "item_name": "互联网专线接入服务费用、管理费用、税费、合理利润、风险费用及合同签订过程中可预见和不可预见费用。",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 659000.0,
+      "total_price": 659000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司佛山南海区分公司",
+      "role": "winner",
+      "total_score": 96.8,
+      "rank": 1,
+      "amount": 1619999.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 81.21,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司佛山市分公司",
+      "role": "participant",
+      "total_score": 66.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市千立信息科技有限公司",
+      "role": "participant",
+      "total_score": 30.23,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东赛诺科技股份有限公司",
+      "role": "participant",
+      "total_score": 30.2,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市和讯通信工程有限公司",
+      "role": "participant",
+      "total_score": 29.0,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 82.14,
+      "rank": 2,
+      "amount": 1178000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司佛山南海区分公司",
+      "role": "participant",
+      "total_score": 96.11,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司佛山市分公司",
+      "role": "participant",
+      "total_score": 65.91,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东赛诺科技股份有限公司",
+      "role": "participant",
+      "total_score": 30.6,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市千立信息科技有限公司",
+      "role": "participant",
+      "total_score": 30.42,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "佛山市和讯通信工程有限公司",
+      "role": "participant",
+      "total_score": 29.08,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国联合网络通信有限公司佛山市分公司",
+      "role": "winner",
+      "total_score": 66.6,
+      "rank": 3,
+      "amount": 659000.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司佛山南海区分公司",
+      "role": "participant",
+      "total_score": 96.0,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 81.23,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东赛诺科技股份有限公司",
+      "role": "participant",
+      "total_score": 30.6,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广州市千立信息科技有限公司",
+      "role": "participant",
+      "total_score": 30.25,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "佛山市和讯通信工程有限公司",
+      "role": "participant",
+      "total_score": 28.96,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

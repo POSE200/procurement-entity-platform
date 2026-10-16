@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260604_26685026",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "四包竞争性磋商成交公告。成交结果表（表格1）按序号1-4列出各包成交供应商，序号与表格3标项（包一~包四）一一对应，且四笔成交金额之和199900+79000+618000+79740=976640元恰等于总中标金额97.664万，对应关系据此确认（推断声明）。附件为磋商文件（招标文件-网络链路.pdf，仅前30页），未提供各包分项报价明细，items仅按标项各写一条，quantity/unit/unit_price=null。概要品目列空且无品目名称列，category=null。原文无排名列，rank=null。同一供应商（中国移动巴州分公司）分中包二、包三，bidders各一条。复核：包一~包四包号在表格3标项名称中明示，序号映射与四笔金额之和976,640元=97.664万双重印证；供应商/金额/得分与表格1逐行一致；确认verified。",
+  "project": {
+    "buyer": "新疆生产建设兵团第二师铁门关市信息技术服务中心",
+    "project_name": "数字二师基础支撑能力保障提升项目—网络链路",
+    "total_amount": 976640.0,
+    "packages": [
+      {
+        "package_no": "包一",
+        "package_name": "数字二师基础支撑能力保障提升项目—网络链路（包一）",
+        "winner": "中国电信股份有限公司巴音郭楞蒙古自治州分公司"
+      },
+      {
+        "package_no": "包二",
+        "package_name": "数字二师基础支撑能力保障提升项目—网络链路（包二）",
+        "winner": "中国移动通信集团新疆有限公司巴州分公司"
+      },
+      {
+        "package_no": "包三",
+        "package_name": "数字二师基础支撑能力保障提升项目—网络链路（包三）",
+        "winner": "中国移动通信集团新疆有限公司巴州分公司"
+      },
+      {
+        "package_no": "包四",
+        "package_name": "数字二师基础支撑能力保障提升项目—网络链路（包四）",
+        "winner": "中国联合网络通信有限公司巴音郭楞蒙古自治州分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "包一",
+      "item_no": "1",
+      "category": null,
+      "item_name": "数字二师基础支撑能力保障提升项目—网络链路（包一）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 199900.0
+    },
+    {
+      "package_no": "包二",
+      "item_no": "2",
+      "category": null,
+      "item_name": "数字二师基础支撑能力保障提升项目—网络链路（包二）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 79000.0
+    },
+    {
+      "package_no": "包三",
+      "item_no": "3",
+      "category": null,
+      "item_name": "数字二师基础支撑能力保障提升项目—网络链路（包三）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 618000.0
+    },
+    {
+      "package_no": "包四",
+      "item_no": "4",
+      "category": null,
+      "item_name": "数字二师基础支撑能力保障提升项目—网络链路（包四）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 79740.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "包一",
+      "name": "中国电信股份有限公司巴音郭楞蒙古自治州分公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 199900.0
+    },
+    {
+      "package_no": "包二",
+      "name": "中国移动通信集团新疆有限公司巴州分公司",
+      "role": "winner",
+      "total_score": 93.67,
+      "rank": null,
+      "amount": 79000.0
+    },
+    {
+      "package_no": "包三",
+      "name": "中国移动通信集团新疆有限公司巴州分公司",
+      "role": "winner",
+      "total_score": 93.67,
+      "rank": null,
+      "amount": 618000.0
+    },
+    {
+      "package_no": "包四",
+      "name": "中国联合网络通信有限公司巴音郭楞蒙古自治州分公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 79740.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

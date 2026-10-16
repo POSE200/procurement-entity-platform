@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27076812",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列空，品目取HTML品目名称列'其他运营服务'。HTML主要标的信息表金额(元)栏为空，唯一附件为中小企业声明函（不含报价明细），单价/数量/总价无出处一律null（禁止按单价=总价推算）。表1中标金额1,774,000.00元与概要总中标金额￥177.400000万元一致，填入total_amount及winner的amount。bidders的rank取得分排名列，第4名推荐排名为'/'。",
+  "project": {
+    "buyer": "佛山市信息网络中心",
+    "project_name": "佛山市政府网站和新媒体监测（2026年）项目",
+    "total_amount": 1774000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市政府网站和新媒体监测（2026年）项目",
+        "winner": "云联智高（北京）信息技术研究院有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运营服务",
+      "item_name": "佛山市政府网站和新媒体监测（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "云联智高（北京）信息技术研究院有限公司",
+      "role": "winner",
+      "total_score": 87.6,
+      "rank": 1,
+      "amount": 1774000.0
+    },
+    {
+      "package_no": "1",
+      "name": "贵州多彩博虹科技有限公司",
+      "role": "participant",
+      "total_score": 75.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "西安政数通信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.2,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "锦州网景盛世科技有限公司",
+      "role": "participant",
+      "total_score": 55.81,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

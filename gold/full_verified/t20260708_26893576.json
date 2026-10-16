@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260708_26893576",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东南方信息安全研究院）.pdf,合同包2：报价明细附件（广东中科实数科技有限公司）.pdf",
+  "note": "双包验收测评项目：包号1/2取自代理服务费表'合同包号'列及报价明细附件文件名。总中标金额栏为'￥0.000000万元'占位值，total_amount=null；各包中标金额仅以'投标折扣'表示（包1=96.00%、包2=98.40%），无元金额，bidders.amount均null。概要品目列空，category取HTML标的信息表'品目名称'列（测试评估认证服务）。附件报价明细：两包单价均为750,000，数量1(项)，单价×数量=总价750,000.00成立，但'投标折扣'列与单价/总价关系原文未明示，需视觉核验。包2中金盾检测技术股份有限公司不通过符合性审查，scores/rank为null但作为投标主体收录；广州竞远安全技术股份有限公司、广州华南检验检测中心有限公司两包均参与，按口径各包各一条。需视觉核验疑点：①两包单价同为750,000是否巧合；②折扣基数（各包预算）原文未见。独立复核（0924）：疑点①由两个独立附件文件各自明示'单价750,000/数量1(项)/总价750,000.00'直接确认；疑点②原文（含附件）确无预算基数，amount/total_amount保持null。复核修正：item_no由'1-1/2-1'改为'1-1-1/2-1-1'（附件为品目号+序号1，与同批次口径一致）。",
+  "project": {
+    "buyer": "广州市南沙区政务服务和数据管理局",
+    "project_name": "2026-2027年广州市南沙区全区信息化项目验收测评服务项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026-2027年广州市南沙区全区信息化项目验收测评服务项目（一）",
+        "winner": "广东南方信息安全研究院"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026-2027年广州市南沙区全区信息化项目验收测评服务项目（二）",
+        "winner": "广东中科实数科技有限公司(联合体成员：广州软件应用技术研究院)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "测试评估认证服务",
+      "item_name": "验收测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 750000.0,
+      "total_price": 750000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "测试评估认证服务",
+      "item_name": "验收测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 750000.0,
+      "total_price": 750000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东南方信息安全研究院",
+      "role": "winner",
+      "total_score": 90.29,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 71.69,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市网安计算机安全检测技术有限公司",
+      "role": "participant",
+      "total_score": 59.61,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州华南检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 52.46,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东中科实数科技有限公司(联合体成员：广州软件应用技术研究院)",
+      "role": "winner",
+      "total_score": 90.88,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州竞远安全技术股份有限公司",
+      "role": "participant",
+      "total_score": 67.87,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "深圳市博通智能技术有限公司",
+      "role": "participant",
+      "total_score": 46.36,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州华南检验检测中心有限公司",
+      "role": "participant",
+      "total_score": 37.33,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "金盾检测技术股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

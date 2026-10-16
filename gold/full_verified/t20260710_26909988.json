@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260710_26909988",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（深圳市深远数据技术有限公司）.pdf",
+  "note": "仅合同包1。5条明细取自附件报价明细表（与HTML主要标的信息表一致，HTML金额列为空）；附件有水印噪字混入（'定制软件升采级 府 服政务'等）已按语义修正，并与HTML表格2交叉核对。品目取HTML标的信息表品目名称列'其他运营服务'。合同包名称'系统运营服务'取自代理服务费表。附件单价/总价为'200,000'等未带单位文本，按元计。5条总价之和2,140,000元=中标金额214万元，单价×数量=总价，数学一致。需视觉核验：附件水印遮挡处（序号3服务名称'定制软件升级服务'、单价50,000）。",
+  "project": {
+    "buyer": "广东省粮食和物资储备局",
+    "project_name": "广东省粮食和应急物资综合管理信息平台及企业库点信息系统升级改造和运营（2025年）项目(三次)",
+    "total_amount": 2140000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "系统运营服务",
+        "winner": "深圳市深远数据技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他运营服务",
+      "item_name": "基础设施服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 200000.0,
+      "total_price": 200000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他运营服务",
+      "item_name": "定制软件租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 790000.0,
+      "total_price": 790000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他运营服务",
+      "item_name": "定制软件升级服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他运营服务",
+      "item_name": "国产化适配改造服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 950000.0,
+      "total_price": 950000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他运营服务",
+      "item_name": "系统业务运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市深远数据技术有限公司",
+      "role": "winner",
+      "total_score": 97.76,
+      "rank": 1,
+      "amount": 2140000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州智锐网络技术有限公司",
+      "role": "participant",
+      "total_score": 29.72,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州元生信息技术有限公司",
+      "role": "participant",
+      "total_score": 21.0,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州融赋数智技术服务有限公司",
+      "role": "participant",
+      "total_score": 19.73,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

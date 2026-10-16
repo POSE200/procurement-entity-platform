@@ -1,0 +1,272 @@
+{
+  "announcement_id": "t20260609_26715701",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三合同包。package_no=1/2/3 取自代理服务费表合同包号，package_name 照抄该表『合同包名称』列。品目概要列空，category 取标的信息表『品目名称』列=其他仪器仪表（全部12条）。各包分项单价×数量之和=包中标金额（2,770,000 / 1,340,000 / 4,676,000），三包之和=8,786,000=总中标金额878.6万，数学自洽。各包评审表（表格8/9/10）有综合得分与得分排名列，rank 按得分排名原文明示填写（推荐排名列另存在，非中标候选人记0，未采用）；participant 的 amount 取『最终报价』列。中标人amount取包中标金额（与最终报价一致）。 复核修正：2026-09-23独立复核通过。",
+  "project": {
+    "buyer": "黑龙江八一农垦大学",
+    "project_name": "2026年食品学院及国家杂粮工程技术中心智慧农业教学及科研能力提升设备更新采购项目",
+    "total_amount": 8786000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年食品学院及国家杂粮工程技术中心智慧农业教学及科研能力提升设备更新采购-合同包1",
+        "winner": "哈尔滨市颂忱科技服务有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年食品学院及国家杂粮工程技术中心智慧农业教学及科研能力提升设备更新采购-合同包2",
+        "winner": "哈尔滨市赛确科技服务有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "2026年食品学院及国家杂粮工程技术中心智慧农业教学及科研能力提升设备更新采购-合同包3",
+        "winner": "黑龙江衡翼智能装备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他仪器仪表",
+      "item_name": "1标段 全自动样品处理系统",
+      "brand": "珂睿",
+      "model": "Q1000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 580000.0,
+      "total_price": 580000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他仪器仪表",
+      "item_name": "1标段 不间断冷冻干燥系统",
+      "brand": "步琦",
+      "model": "L-300 Pro",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 730000.0,
+      "total_price": 2190000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他仪器仪表",
+      "item_name": "2标段 全自动脂肪测定仪",
+      "brand": "步琦",
+      "model": "E-800 Pro",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 590000.0,
+      "total_price": 590000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "其他仪器仪表",
+      "item_name": "2标段 平行快速溶剂萃取仪",
+      "brand": "步琦",
+      "model": "E-916",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 750000.0,
+      "total_price": 750000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 全自动电子舌",
+      "brand": "润泽",
+      "model": "RAS-100C",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 643000.0,
+      "total_price": 643000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 流变仪",
+      "brand": "赛默飞世尔",
+      "model": "MARS iQ Air",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 600000.0,
+      "total_price": 600000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 全自动电子鼻",
+      "brand": "润泽",
+      "model": "RAS-AIR3",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 550000.0,
+      "total_price": 550000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-4",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 微胶囊造粒仪",
+      "brand": "步琦",
+      "model": "B-390",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 643000.0,
+      "total_price": 643000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-5",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 喷雾干燥仪",
+      "brand": "步琦",
+      "model": "S-300 Essential",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 520000.0,
+      "total_price": 520000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-6",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 超高压力HPP设备",
+      "brand": "力德福",
+      "model": "UHPP 600/5 C L 125",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 600000.0,
+      "total_price": 600000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-7",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 超灵敏多功能成像仪",
+      "brand": "天能",
+      "model": "Tanon Chemi Dog Ultra",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 600000.0,
+      "total_price": 600000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-8",
+      "category": "其他仪器仪表",
+      "item_name": "3标段 冷冻干燥系统",
+      "brand": "步琦",
+      "model": "L-250 Pro",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 520000.0,
+      "total_price": 520000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "哈尔滨市颂忱科技服务有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 2770000.0
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨市辉茂科技服务有限公司",
+      "role": "participant",
+      "total_score": 99.14,
+      "rank": 2,
+      "amount": 2840000.0
+    },
+    {
+      "package_no": "1",
+      "name": "希仪科技（上海）有限公司",
+      "role": "participant",
+      "total_score": 94.76,
+      "rank": 3,
+      "amount": 2789000.0
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江鹏正科技开发有限公司",
+      "role": "participant",
+      "total_score": 94.59,
+      "rank": 4,
+      "amount": 2803000.0
+    },
+    {
+      "package_no": "2",
+      "name": "哈尔滨市赛确科技服务有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 1340000.0
+    },
+    {
+      "package_no": "2",
+      "name": "长春市滴石仪器有限公司",
+      "role": "participant",
+      "total_score": 98.87,
+      "rank": 2,
+      "amount": 1345000.0
+    },
+    {
+      "package_no": "2",
+      "name": "哈尔滨凯美斯科技有限公司",
+      "role": "participant",
+      "total_score": 98.46,
+      "rank": 3,
+      "amount": 1361000.0
+    },
+    {
+      "package_no": "2",
+      "name": "哈尔滨市天峰科技开发有限公司",
+      "role": "participant",
+      "total_score": 98.08,
+      "rank": 4,
+      "amount": 1376000.0
+    },
+    {
+      "package_no": "3",
+      "name": "黑龙江衡翼智能装备有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 4676000.0
+    },
+    {
+      "package_no": "3",
+      "name": "哈尔滨美厚科技发展有限公司",
+      "role": "participant",
+      "total_score": 96.44,
+      "rank": 2,
+      "amount": 4685500.0
+    },
+    {
+      "package_no": "3",
+      "name": "黑龙江善恩科技有限公司",
+      "role": "participant",
+      "total_score": 95.33,
+      "rank": 3,
+      "amount": 4680000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

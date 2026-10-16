@@ -1,0 +1,150 @@
+{
+  "announcement_id": "t20260509_26539716",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中标公告 ZYZB-2026-0269 文旅信息化技术支撑与综合咨询服务项目.docx",
+  "note": "5个包各1条服务标的：公告概要品目列为空，HTML标的信息表仅有『商品名称』列且为空，故category=null；数量1/单价/总价为HTML标的信息表原文明示（非推算），unit原文未给故null；各包金额之和220000+812000+518000+505000+398000=2453000元=总中标金额245.3万元，数学自查一致；原文未给排名，rank=null；附件仅前30页招标文件无投标人名单，bidders仅含5包成交供应商。",
+  "project": {
+    "buyer": "北京市文化和旅游局本级行政",
+    "project_name": "文旅信息化技术支撑与综合咨询服务项目",
+    "total_amount": 2453000.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "文旅信息化管理技术服务",
+        "winner": "国信国际工程咨询集团股份有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "文旅数据深化治理",
+        "winner": "北明软件有限公司"
+      },
+      {
+        "package_no": "03",
+        "package_name": "文旅重点区域、重大活动客流监测和游客行为分析",
+        "winner": "腾讯云计算（北京）有限责任公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "数据安全咨询服务项目",
+        "winner": "北京神州绿盟科技有限公司"
+      },
+      {
+        "package_no": "05",
+        "package_name": "信息化顶层设计编制咨询服务",
+        "winner": "北京北咨信息工程咨询有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "文旅信息化管理技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 220000.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "文旅数据深化治理",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 812000.0,
+      "total_price": 812000.0
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "文旅重点区域、重大活动客流监测和游客行为分析",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 518000.0,
+      "total_price": 518000.0
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据安全咨询服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 505000.0,
+      "total_price": 505000.0
+    },
+    {
+      "package_no": "05",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息化顶层设计编制咨询服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 398000.0,
+      "total_price": 398000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "国信国际工程咨询集团股份有限公司",
+      "role": "winner",
+      "total_score": 84.41,
+      "rank": null,
+      "amount": 220000.0
+    },
+    {
+      "package_no": "02",
+      "name": "北明软件有限公司",
+      "role": "winner",
+      "total_score": 86.78,
+      "rank": null,
+      "amount": 812000.0
+    },
+    {
+      "package_no": "03",
+      "name": "腾讯云计算（北京）有限责任公司",
+      "role": "winner",
+      "total_score": 84.21,
+      "rank": null,
+      "amount": 518000.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京神州绿盟科技有限公司",
+      "role": "winner",
+      "total_score": 90.47,
+      "rank": null,
+      "amount": 505000.0
+    },
+    {
+      "package_no": "05",
+      "name": "北京北咨信息工程咨询有限公司",
+      "role": "winner",
+      "total_score": 87.43,
+      "rank": null,
+      "amount": 398000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

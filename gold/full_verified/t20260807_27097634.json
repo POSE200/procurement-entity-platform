@@ -1,0 +1,130 @@
+{
+  "announcement_id": "t20260807_27097634",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf",
+  "note": "单包（标题「采购包1」、附件名「包(1)_」）。强制检查已完成：附件「报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf」解析完整，5行明细，单价×数量与响应报价逐行吻合，合计530000元=成交金额530,000.00元。LED灯单价146.6667×300=44000.01与响应报价44000差0.01元，为单价四舍五入所致（容差内）。HTML标的信息表「采购标的」列仅填项目名，item_name取附件货物名称（新一代纸电一体化管理平台/门禁闸机/人脸识别终端/防盗仪/LED灯）；item_no沿用HTML品目号1-1-1至1-1-5；category取HTML品目名称列「其他机房辅助设备」（概要品目列空）。得分排名列空，rank一律null。需视觉核验：LED灯单价146.6667元的小数位。复核：该单价在附件文本层明示「146.6667 元」，无OCR歧义；5行明细单价×数量、合计、5家bidder得分逐项核对无误。",
+  "project": {
+    "buyer": "山东工业职业学院",
+    "project_name": "山东工业职业学院图书借阅系统及闸机采购项目",
+    "total_amount": 530000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他机房辅助设备",
+      "item_name": "新一代纸电一体化管理平台",
+      "brand": "读秀",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 170000.0,
+      "total_price": 170000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他机房辅助设备",
+      "item_name": "门禁闸机",
+      "brand": "盛卡恩",
+      "model": "SKE800",
+      "quantity": 4,
+      "unit": "通道",
+      "unit_price": 50310.0,
+      "total_price": 201240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他机房辅助设备",
+      "item_name": "人脸识别终端",
+      "brand": "盛卡恩",
+      "model": "SKE-8",
+      "quantity": 16,
+      "unit": "台",
+      "unit_price": 4412.5,
+      "total_price": 70600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他机房辅助设备",
+      "item_name": "防盗仪",
+      "brand": "伍洋",
+      "model": "SJX-M",
+      "quantity": 8,
+      "unit": "通道",
+      "unit_price": 5520.0,
+      "total_price": 44160.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他机房辅助设备",
+      "item_name": "LED灯",
+      "brand": "汉言",
+      "model": "2012",
+      "quantity": 300,
+      "unit": "个",
+      "unit_price": 146.6667,
+      "total_price": 44000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 80.91,
+      "rank": null,
+      "amount": 530000.0
+    },
+    {
+      "package_no": "1",
+      "name": "江苏汇文软件有限公司",
+      "role": "participant",
+      "total_score": 78.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东缘郡文化传媒有限公司",
+      "role": "participant",
+      "total_score": 75.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东捷煊信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南新域伟网络科技有限公司",
+      "role": "participant",
+      "total_score": 67.55,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

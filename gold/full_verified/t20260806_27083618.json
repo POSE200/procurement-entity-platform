@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260806_27083618",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（数字广东网络建设有限公司）.pdf,合同包2：报价明细附件（广东粤数网络建设有限公司）.pdf",
+  "note": "两包：包号1/2取自代理服务费表及报价明细附件文件名。HTML标的表金额(元)列为空，两条明细的单价/数量/总价取自报价明细附件（zip被标'跳过压缩/复合容器'但解包后的PDF文本在附件内容中可见），单价=总价、数量1(项)均为附件明示值而非推算。两包金额1,390,000+1,182,300=2,572,300元=总成交金额￥257.230000万元。包1得分排名列第4名（广东东方思维）推荐排名为'/'，rank按得分排名列填4。服务类brand/model无出处为null。附件正文受水印字符污染但不影响数值。",
+  "project": {
+    "buyer": "广东省人民政府国有资产监督管理委员会",
+    "project_name": "省国资委政务信息化运维类（2026年）项目",
+    "total_amount": 2572300.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "基础设施运维及软硬件租赁服务",
+        "winner": "数字广东网络建设有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "软件系统运行维护服务",
+        "winner": "广东粤数网络建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "基础设施运维及软硬件租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1390000.0,
+      "total_price": 1390000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "软件运维服务",
+      "item_name": "软件系统运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1182300.0,
+      "total_price": 1182300.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "数字广东网络建设有限公司",
+      "role": "winner",
+      "total_score": 97.78,
+      "rank": 1,
+      "amount": 1390000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 79.77,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": 55.33,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东东方思维科技有限公司",
+      "role": "participant",
+      "total_score": 41.63,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东粤数网络建设有限公司",
+      "role": "winner",
+      "total_score": 97.94,
+      "rank": 1,
+      "amount": 1182300.0
+    },
+    {
+      "package_no": "2",
+      "name": "广州市齐明软件科技有限公司",
+      "role": "participant",
+      "total_score": 82.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东翼迅信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.93,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

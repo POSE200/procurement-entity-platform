@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115576",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包1货物项目。概要品目列为空，category取HTML标的信息表『品目名称』列。单价1300000元×1套=1300000元来自中标人报价明细表附件（最高限价2000000元，响应报价=合计=中标金额1,300,000.00元，一致）。原文规格型号列为『/』（未填写），model=null。package_name『超宽带雷达』取自报价明细表『采购包』栏。评分表『得分排名/推荐排名』列空，rank=null。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）超宽带雷达采购项目",
+    "total_amount": 1300000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "超宽带雷达",
+        "winner": "济南星达通信科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "超宽带雷达",
+      "brand": "星达通信",
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1300000.0,
+      "total_price": 1300000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南星达通信科技有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 1300000.0
+    },
+    {
+      "package_no": "1",
+      "name": "河南新十信息科技有限公司",
+      "role": "participant",
+      "total_score": 87.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东兴事达电子有限公司",
+      "role": "participant",
+      "total_score": 84.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "齐鲁空天信息研究院",
+      "role": "participant",
+      "total_score": 79.5,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

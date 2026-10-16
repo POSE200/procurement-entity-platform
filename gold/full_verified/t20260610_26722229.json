@@ -1,0 +1,200 @@
+{
+  "announcement_id": "t20260610_26722229",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本公告覆盖01/02/04/05/06/07/08共7个包（包3业务系统维护不含在内），7条中标记录未标注包号：按各包最高限价排除法唯一可配对——04包=国金源富43.2万（限价43.2750）、07包=安信天行147.5万（限价147.76）、08包=丰沃创新76.18675万（限价78.95）、05/06包均为国金源富28.1万（两条记录、限价均28.16，公司归属确定但85.41/85.81两个得分无法对应到具体包，total_score留null）；01/02包中标人为广东正力98.14万（89.7分）与深圳亚美达98万（88.77分）但两包对应关系原文未明示，其packages.winner与bidders/items的package_no填null并在note声明；七包中标金额之和761867.5+1475000+432000+281000+281000+981400+980000=5,192,267.5元与总中标金额￥519.22675万一致；得分排名未明示，rank一律null；主要标的信息表数量列为明示的1，商品名称列为空，item_name取招标文件/表格3标的名称（01/02两条因包归属不明留null）；category无出处（概要品目列空、无品目列）全null；附件招标文件仅前30页无更多结果信息。复核修正：total_amount原稿误写5,192,675.0（数字错位），￥519.226750万元应为5,192,267.5元，已改正；各包限价数字已在招标文件节选（表格行79-88）核实。",
+  "project": {
+    "buyer": "北京市城市照明管理中心",
+    "project_name": "中心2026年信息系统维护非核心业务采购",
+    "total_amount": 5192267.5,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "道路照明监控系统维护",
+        "winner": null
+      },
+      {
+        "package_no": "2",
+        "package_name": "道路照明及夜景照明监控系统维护",
+        "winner": null
+      },
+      {
+        "package_no": "4",
+        "package_name": "运维管理系统及地理信息系统维护（含备品备件）",
+        "winner": "北京国金源富科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": "变压器管理系统维护",
+        "winner": "北京国金源富科技有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": "箱变防盗及溢水报警系统维护",
+        "winner": "北京国金源富科技有限公司"
+      },
+      {
+        "package_no": "7",
+        "package_name": "信息系统安全防护",
+        "winner": "北京安信天行科技有限公司"
+      },
+      {
+        "package_no": "8",
+        "package_name": "信息设备运维及安全加固",
+        "winner": "丰沃创新（北京）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "4",
+      "item_no": null,
+      "category": null,
+      "item_name": "运维管理系统及地理信息系统维护（含备品备件）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 432000.0,
+      "total_price": 432000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": null,
+      "category": null,
+      "item_name": "变压器管理系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 281000.0,
+      "total_price": 281000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": null,
+      "category": null,
+      "item_name": "箱变防盗及溢水报警系统维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 281000.0,
+      "total_price": 281000.0
+    },
+    {
+      "package_no": "7",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息系统安全防护",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1475000.0,
+      "total_price": 1475000.0
+    },
+    {
+      "package_no": "8",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息设备运维及安全加固",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 761867.5,
+      "total_price": 761867.5
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 981400.0,
+      "total_price": 981400.0
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 980000.0,
+      "total_price": 980000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "4",
+      "name": "北京国金源富科技有限公司",
+      "role": "winner",
+      "total_score": 87.61,
+      "rank": null,
+      "amount": 432000.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京国金源富科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 281000.0
+    },
+    {
+      "package_no": "6",
+      "name": "北京国金源富科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 281000.0
+    },
+    {
+      "package_no": "7",
+      "name": "北京安信天行科技有限公司",
+      "role": "winner",
+      "total_score": 86.8,
+      "rank": null,
+      "amount": 1475000.0
+    },
+    {
+      "package_no": "8",
+      "name": "丰沃创新（北京）科技有限公司",
+      "role": "winner",
+      "total_score": 87.4,
+      "rank": null,
+      "amount": 761867.5
+    },
+    {
+      "package_no": null,
+      "name": "广东正力通用电气有限公司",
+      "role": "winner",
+      "total_score": 89.7,
+      "rank": null,
+      "amount": 981400.0
+    },
+    {
+      "package_no": null,
+      "name": "深圳市亚美达通讯设备有限公司",
+      "role": "winner",
+      "total_score": 88.77,
+      "rank": null,
+      "amount": 980000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

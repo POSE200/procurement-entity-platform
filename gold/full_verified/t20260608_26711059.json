@@ -1,0 +1,164 @@
+{
+  "announcement_id": "t20260608_26711059",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东新潮信息技术有限公司).pdf,报价明细表(第1轮-联通数字科技有限公司山东省分公司).pdf,报价明细表(第1轮-高维密码测评技术（山东）有限公司).pdf",
+  "note": "三包三中标：包1等级保护测评服务（新潮249,000元）、包2等级保护测评服务（联通山东省分公司290,000元）、包3密码应用安全性评估服务（高维密码355,000元），合计894,000元与总中标金额（￥89.4万）一致；各包单价明细见中标人报价明细表（最高限价252,000/290,000/368,000，未采用）。三张评审表的技术/商务/价格分及得分排名、推荐排名列全空，仅综合得分有值，故全部bidders的rank=null（禁止推定）。需视觉核验疑点：包2评审表中山东新潮信息技术有限公司综合得分90.98高于中标人联通86.64却未中标，原因原文未说明（可能为响应无效或表格错位），值照抄。未中标供应商的投标报价原文不可见，amount填null。复核：包2新潮90.98>中标人86.64系原文清晰印刷（两列数字均无OCR疑义），照抄不改；得分排名/推荐排名两列在表格7-9中确实全空，rank=null正确。本篇复核通过。",
+  "project": {
+    "buyer": "山东省药品监督管理局机关",
+    "project_name": "2026年度山东省药品监督管理局信息系统等级保护测评和密码应用安全性评估服务项目",
+    "total_amount": 894000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东新潮信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "联通数字科技有限公司山东省分公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "高维密码测评技术（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "测试评估认证服务",
+      "item_name": "等级保护测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 249000.0,
+      "total_price": 249000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "等级保护测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 290000.0,
+      "total_price": 290000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "测试评估认证服务",
+      "item_name": "密码应用安全性评估服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 355000.0,
+      "total_price": 355000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东新潮信息技术有限公司",
+      "role": "winner",
+      "total_score": 90.94,
+      "rank": null,
+      "amount": 249000.0
+    },
+    {
+      "package_no": "1",
+      "name": "联通数字科技有限公司山东省分公司",
+      "role": "participant",
+      "total_score": 87.02,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 68.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "联通数字科技有限公司山东省分公司",
+      "role": "winner",
+      "total_score": 86.64,
+      "rank": null,
+      "amount": 290000.0
+    },
+    {
+      "package_no": "2",
+      "name": "济南三泽信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 68.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 90.98,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "高维密码测评技术（山东）有限公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 355000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中科安永科技有限公司",
+      "role": "participant",
+      "total_score": 62.53,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

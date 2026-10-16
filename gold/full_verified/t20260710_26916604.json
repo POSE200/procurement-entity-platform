@@ -1,0 +1,123 @@
+{
+  "announcement_id": "t20260710_26916604",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东人才发展集团信息技术有限公司).pdf,报价明细表(第1轮-山东维平信息安全测评技术有限公司).pdf",
+  "note": "两个服务包，各1条标的；品目取自HTML主要标的信息表品目名称列（行业应用软件开发服务），公告概要品目列为空；单价/数量/单位来自报价明细附件（zip解包），单价109000元×1项=109000元、135000元×1项=135000元，附件明示非推算；包1+包2金额之和244000元=总中标金额24.4万元，核对一致；包号1/2有出处（公告标题'采购包1、2'、附件'包(1)/包(2)'及'包1：/包2：'声明函）；文件集内'包(1)_开标（报价）一览表.pdf''包(1)_投标（响应）报价明细表.pdf'及包(2)同名文件仅解析出表头无数据行（疑文字层重影），不影响标注；服务类无品牌/规格型号，均null。",
+  "project": {
+    "buyer": "中国共产党山东省委员会老干部局",
+    "project_name": "2026年全省离退休干部数据治理系统",
+    "total_amount": 244000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "全省离退休干部数据治理系统",
+        "winner": "山东人才发展集团信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "平台三级等保测评、平台商用密码安全评估",
+        "winner": "山东维平信息安全测评技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "全省离退休干部数据治理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 109000.0,
+      "total_price": 109000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "平台三级等保测评、平台商用密码安全评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 135000.0,
+      "total_price": 135000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东人才发展集团信息技术有限公司",
+      "role": "winner",
+      "total_score": 90.83,
+      "rank": null,
+      "amount": 109000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东巧思智能科技有限公司",
+      "role": "participant",
+      "total_score": 80.29,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东云企易联管理咨询有限公司",
+      "role": "participant",
+      "total_score": 76.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东维平信息安全测评技术有限公司",
+      "role": "winner",
+      "total_score": 87.36,
+      "rank": null,
+      "amount": 135000.0
+    },
+    {
+      "package_no": "2",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 83.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南时代确信信息安全测评有限公司",
+      "role": "participant",
+      "total_score": 78.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东新潮信息技术有限公司",
+      "role": "participant",
+      "total_score": 73.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "信元网络技术股份有限公司",
+      "role": "participant",
+      "total_score": 69.9,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

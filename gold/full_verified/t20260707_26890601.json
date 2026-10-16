@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260707_26890601",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(最后报价-济南艾尔贝特实验设备有限公司).pdf",
+  "note": "单包（附件目录'合同包1'明示包号1）；品目category取HTML主要标的信息表'品目名称'列（其他仪器仪表），品牌/规格型号HTML表2与报价明细表附件一致，单价/总价取自附件最后报价明细表；HTML品目号1-1-1~1-1-4与附件明细1~4按顺序对应；4条明细合计216000+160000+136000+58000=570000元与总中标金额一致；评分表中浦环境科技（南京）有限公司与青岛盛源国际实验室系统工程有限公司综合得分同为92.69，但'得分排名/推荐排名'列空，rank一律null。",
+  "project": {
+    "buyer": "青岛农业大学",
+    "project_name": "青岛农业大学超净实验室空气净化系统采购项目（26037-A010）",
+    "total_amount": 570000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南艾尔贝特实验设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他仪器仪表",
+      "item_name": "BSL-2级洁净细胞及感染细胞实验室空气净化系统",
+      "brand": "哈东联",
+      "model": "DLJH-6J-60P2",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 216000.0,
+      "total_price": 216000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他仪器仪表",
+      "item_name": "超净无菌实验室空气净化系统",
+      "brand": "哈东联",
+      "model": "DLJH-6J-50WJ",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 160000.0,
+      "total_price": 160000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他仪器仪表",
+      "item_name": "超净细胞实验室空气净化系统",
+      "brand": "哈东联",
+      "model": "DLJH-6J-60CJ",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 136000.0,
+      "total_price": 136000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他仪器仪表",
+      "item_name": "负压药品存储洁净室空气净化系统",
+      "brand": "哈东联",
+      "model": "DLJH-8J-30C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 58000.0,
+      "total_price": 58000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南艾尔贝特实验设备有限公司",
+      "role": "winner",
+      "total_score": 98.67,
+      "rank": null,
+      "amount": 570000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛盛源国际实验室系统工程有限公司",
+      "role": "participant",
+      "total_score": 92.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中浦环境科技（南京）有限公司",
+      "role": "participant",
+      "total_score": 92.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "无锡市天豪实验装备有限公司",
+      "role": "participant",
+      "total_score": 88.16,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

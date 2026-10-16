@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260609_26715797",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:0514-定稿-“交通物流数智多元融合创新实验平台建设”-招标文件.docx",
+  "note": "三包项目。公告未公布各包中标金额、评审得分与排名（无评分表），bidders.amount/total_score/rank 全 null。包号与中标人对应关系为推断并经交叉印证：HTML 标的表 3 行序号 + 招标文件『包1核心产品=智能装备创新平台/包2=港口装备强度测试分析实验系统/包3=智慧港航枢纽运营实验平台』+ 三份中小企业声明函（声明函2页眉明示『包2/武汉伯努利』，声明函1/3 盖章供应商所列标的与包1/包3 分项清单一致）。items 仅 3 条为公告标的表公布的核心产品成交价（货物名称带『等』字，非核心产品成交单价未公布）；招标文件分项清单（20+条）金额为预算价而非成交价，未据此填单价。总价由单价×数量唯一互推（69900×7、26500×7、204000×1）。品牌列含产地后缀（如『北京智科特机器人科技有限公司/中国北京』）照抄未拆分。概要品目列有完整路径，category 原样保留。需视觉核验：①总中标金额 243.56 万与三包分项成交价的对应关系（公告未给分包金额）；②声明函1 中『武汉帕思卡电子有限公司』OCR 可靠性。 复核修正：2026-09-23独立复核——包-中标人映射经标的表序号+招标文件核心产品条款+三份声明函三重印证（声明函2页眉明示包2/武汉伯努利）；总中标金额243.56万为概要原文（未公布分包金额，无矛盾对象）；声明函1的帕思卡电子为制造商名、不参与任何gold取值，原“需视觉核验”疑点均消除。",
+  "project": {
+    "buyer": "武汉理工大学",
+    "project_name": "交通物流数智多元融合创新实验平台建设",
+    "total_amount": 2435600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "水路交通机械设备教学认知与测试训练平台",
+        "winner": "湖北正源翔科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "交通设施与装备综合测试实验教学系统",
+        "winner": "武汉伯努利教育科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "交通运输规划与运营实验教学平台",
+        "winner": "大连博奇科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "货物/设备/仪器仪表/试验仪器及装置/其他试验仪器及装置",
+      "item_name": "智能装备创新平台（核心产品）等",
+      "brand": "北京智科特机器人科技有限公司/中国北京",
+      "model": "IQR-manipulation",
+      "quantity": 7,
+      "unit": "套",
+      "unit_price": 69900.0,
+      "total_price": 489300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "货物/设备/仪器仪表/试验仪器及装置/其他试验仪器及装置",
+      "item_name": "港口装备强度测试分析实验系统（核心产品）等",
+      "brand": "江苏东华测试技术股份有限公司/中国",
+      "model": "DH5908N",
+      "quantity": 7,
+      "unit": "套",
+      "unit_price": 26500.0,
+      "total_price": 185500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": "货物/设备/仪器仪表/试验仪器及装置/其他试验仪器及装置",
+      "item_name": "智慧港航枢纽运营实验平台（核心产品）等",
+      "brand": "大连博奇科技有限公司/中国（大连）",
+      "model": "定制制作",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 204000.0,
+      "total_price": 204000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖北正源翔科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "武汉伯努利教育科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "大连博奇科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260408_26372869",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "2个采购包：采购包1（标段一：软件）、采购包2（标段二：配套基础设施），包号/包名由附件采购文件明示（包1预算328.04万、包2预算313.88万）。包-供应商映射：HTML两张结果表无包号，按表格顺序对应包1/包2，并经预算交叉验证唯一确定——中电鸿信3,269,800元≤包1预算328.04万、江苏移动3,098,530元≤包2预算313.88万；若互换则中电鸿信326.98万超包2预算313.88万（报价不得超预算），故中电鸿信=包1、江苏移动=包2。两包之和6,368,330元=总中标金额￥636.833万元，一致。概要品目列给「行业应用软件开发服务,服务器」两项，按标的信息表包顺序对应：包一（软件）→行业应用软件开发服务、包二（配套基础设施）→服务器。表格3主要标的信息文本被压扁：包1标的「医疗设备质控管理系统」无金额列→total_price留null；包2标的「备份一体机」品牌栏压扁为「英方高级备份一体机规格型号：i2BOXDP」，按语义拆为品牌=英方、型号=i2BOXDP，数量1台、单价270,000元，total_price=270,000元系单价×数量唯一互推。注意：包2标的表仅公布备份一体机27万，与包2中标金额3,098,530元不一致，系标的表仅公布部分明细；附件为采购文件，分项报价表仅给定格式无实际报价，标段内其余明细不可得。得分「89.52（均分制）」非排名，rank=null。",
+  "project": {
+    "buyer": "无锡市第二人民医院",
+    "project_name": "2024年度院内信息化综合提升改造",
+    "total_amount": 6368330.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2024年度院内信息化综合提升改造（标段一：软件）",
+        "winner": "中电鸿信信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2024年度院内信息化综合提升改造（标段二：配套基础设施）",
+        "winner": "江苏移动信息系统集成有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "行业应用软件开发服务",
+      "item_name": "医疗设备质控管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "服务器",
+      "item_name": "备份一体机",
+      "brand": "英方",
+      "model": "i2BOXDP",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 270000.0,
+      "total_price": 270000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中电鸿信信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.52,
+      "rank": null,
+      "amount": 3269800.0
+    },
+    {
+      "package_no": "2",
+      "name": "江苏移动信息系统集成有限公司",
+      "role": "winner",
+      "total_score": 89.13,
+      "rank": null,
+      "amount": 3098530.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

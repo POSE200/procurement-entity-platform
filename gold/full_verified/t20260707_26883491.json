@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260707_26883491",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要总中标金额栏为￥0.000000万占位值，total_amount 按口径填 null；中标人实际中标金额 10,010,010.00 元已记入 bidders.amount。本公告无附件且无标的信息表，items 为总称空记录（值全 null）。中标人排名未在原文明示（未中标表序号自 2 起），按口径不推定第 1，rank=null；未中标人 rank/得分/最后报价取自未中标投标人表。",
+  "project": {
+    "buyer": "东营市胜利第二中学",
+    "project_name": "东营市胜利第二中学改扩建工程信息化建设项目（数据中心、多功能厅及教学环境）",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "山东合能科技有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": null,
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东合能科技有限责任公司",
+      "role": "winner",
+      "total_score": 86.16,
+      "rank": null,
+      "amount": 10010010.0
+    },
+    {
+      "package_no": null,
+      "name": "山东胜软科技股份有限公司",
+      "role": "participant",
+      "total_score": 83.77,
+      "rank": 2,
+      "amount": 8501101.0
+    },
+    {
+      "package_no": null,
+      "name": "中国广电山东网络有限公司",
+      "role": "participant",
+      "total_score": 83.56,
+      "rank": 3,
+      "amount": 8557000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东海明威智能科技有限公司",
+      "role": "participant",
+      "total_score": 79.81,
+      "rank": 4,
+      "amount": 8496000.0
+    },
+    {
+      "package_no": null,
+      "name": "河南省大禹通信技术有限公司",
+      "role": "participant",
+      "total_score": 77.02,
+      "rank": 5,
+      "amount": 5600000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东鹰格信息工程有限公司",
+      "role": "participant",
+      "total_score": 76.99,
+      "rank": 6,
+      "amount": 5000000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东卓智软件股份有限公司",
+      "role": "participant",
+      "total_score": 76.8,
+      "rank": 7,
+      "amount": 9152600.0
+    },
+    {
+      "package_no": null,
+      "name": "中国电信集团有限公司东营分公司",
+      "role": "participant",
+      "total_score": 72.9,
+      "rank": 8,
+      "amount": 10890000.0
+    },
+    {
+      "package_no": null,
+      "name": "智慧（东营）大数据有限公司",
+      "role": "participant",
+      "total_score": 71.85,
+      "rank": 9,
+      "amount": 10950000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东汉邦视讯科技有限公司",
+      "role": "participant",
+      "total_score": 71.14,
+      "rank": 10,
+      "amount": 9505167.0
+    },
+    {
+      "package_no": null,
+      "name": "中国移动通信集团山东有限公司东营分公司",
+      "role": "participant",
+      "total_score": 70.79,
+      "rank": 11,
+      "amount": 10220000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东融达智能工程有限公司",
+      "role": "participant",
+      "total_score": 68.34,
+      "rank": 12,
+      "amount": 10249830.6
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

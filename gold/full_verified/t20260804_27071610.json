@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260804_27071610",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "包号取自公告标题「（采购包1）」及附件「包(1)_开标（报价）一览表」文件名；概要品目列为空，category 取标的信息表「品目编号及品目名称」列「地质勘测服务」；数量/单价取自中标人投标（响应）报价明细表（1.0000项×5,434,000元，最高限价5,435,000元）；评审表仅给综合得分，得分排名/推荐排名列全部空白，按口径 rank 一律填 null（未中标人未中标原因仅为「综合得分较低」，不得推定名次）。复核修正：HTML为纯文本表格，评审得分明细列（技术/商务/诚信/价格/附加）及得分排名、推荐排名列原文即为空白，无需视觉核验；附件报价明细表明示单价5,434,000元/数量1.0000项/合计5434000元，与HTML一致。",
+  "project": {
+    "buyer": "济南市自然资源和规划局",
+    "project_name": "莱芜区南部岩溶塌陷易发区岩溶塌陷监测预警网络建设项目",
+    "total_amount": 5434000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "莱芜区南部岩溶塌陷易发区岩溶塌陷监测预警网络建设项目",
+        "winner": "山东省地矿工程勘察院（山东省地质矿产勘查开发局八〇一水文地质工程地质大队）"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "地质勘测服务",
+      "item_name": "莱芜区南部岩溶塌陷易发区岩溶塌陷监测预警网络建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 5434000.0,
+      "total_price": 5434000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东省地矿工程勘察院（山东省地质矿产勘查开发局八〇一水文地质工程地质大队）",
+      "role": "winner",
+      "total_score": 91.4,
+      "rank": null,
+      "amount": 5434000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东省鲁南地质工程勘察院（山东省地质矿产勘查开发局第二地质大队）",
+      "role": "participant",
+      "total_score": 87.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省地质矿产勘查开发局第五地质大队（山东省第五地质矿产勘查院）",
+      "role": "participant",
+      "total_score": 84.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省地矿工程集团有限公司",
+      "role": "participant",
+      "total_score": 80.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南市勘察测绘研究院",
+      "role": "participant",
+      "total_score": 76.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中化地质矿山总局山东地质勘查院",
+      "role": "participant",
+      "total_score": 74.2,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

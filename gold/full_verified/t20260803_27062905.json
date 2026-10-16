@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260803_27062905",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-同方知网数字科技有限公司).pdf,报价明细表(第1轮-重庆维普智图数据科技有限公司).pdf",
+  "note": "复核修正：表格1/2与包1/包3对应关系已复核确认，无需视觉核验——表格3品目号1-1'全文数据库'（服务范围'完全响应'）与同方知网明细表条目一致、表格4品目号3-1'科研知识服务平台'（服务范围'维普经纶知识服务平台'）与维普明细表条目逐字一致，且85.02/93.01分别为包1/包3评分表最高分、标题明示'采购包1、3'。本次结果仅涉及采购包1、包3（文件集中另有包(2)/包(4)模板但无中标信息）。两包各1条明细，单价/数量/总价取附件报价明细表（262800×1宗=262800元；99900×1宗=99900元，均为附件明示值），262800+99900=362700元=总中标金额36.27万元。概要品目列空，category取HTML标的表品目名称列'其他数据处理服务'。得分排名/推荐排名列原文为空、'综合得分低于第一名'为原因描述→rank=null。",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院2026年数据库购置项目",
+    "total_amount": 362700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "重庆维普智图数据科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他数据处理服务",
+      "item_name": "全文数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 262800.0,
+      "total_price": 262800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他数据处理服务",
+      "item_name": "科研知识服务平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 99900.0,
+      "total_price": 99900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": 85.02,
+      "rank": null,
+      "amount": 262800.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛海象天智文化科技有限公司",
+      "role": "participant",
+      "total_score": 80.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海万方数据有限公司",
+      "role": "participant",
+      "total_score": 70.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "重庆维普智图数据科技有限公司",
+      "role": "winner",
+      "total_score": 93.01,
+      "rank": null,
+      "amount": 99900.0
+    },
+    {
+      "package_no": "3",
+      "name": "武汉鼎森电子科技有限公司",
+      "role": "participant",
+      "total_score": 55.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "济南昂融信息技术有限公司",
+      "role": "participant",
+      "total_score": 49.67,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

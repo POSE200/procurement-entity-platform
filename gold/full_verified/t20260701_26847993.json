@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260701_26847993",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（联想融资租赁有限公司）.pdf",
+  "note": "单包（合同包1，代理服务费表明示包号1）；品目概要列为空，category取HTML标的信息表品目名称列；HTML表格2金额列为空，单价/总价取附件报价明细附件；附件数量列为\"1(1)\"，括号内\"1\"非有效计量单位文本，unit=null（基于本包文本的正确终值，不做常识推断补'项'）；1-1标的列写\"4台86英寸触控一体机\"而服务范围列及中小企业声明函写\"7台\"，原文自相矛盾，item_name按规范照抄『采购标的』列，该差异不影响任何输出字段取值（数量未拆分）；品牌型号全文未提供。10条单价之和2,982,042元=中标金额2,982,042.00元，账目相符。复核修正：原两处『需视觉核验』（数量列括号内容、1-1台数矛盾）经核验均不改变任何gold字段取值（unit=null、item_name照抄标的列均为规范终值），消解标记，status改verified。",
+  "project": {
+    "buyer": "广州市南沙区东涌第一小学",
+    "project_name": "2026年南沙区教育系统设备租赁项目（第四组）",
+    "total_amount": 2982042.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年南沙区教育系统设备租赁项目（第四组）的第1包",
+        "winner": "联想融资租赁有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区官坦小学租赁设备包括：4台86英寸触控一体机，49台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 346332.0,
+      "total_price": 346332.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区东涌小学租赁设备包括：51台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 254898.0,
+      "total_price": 254898.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙鱼窝头第二中学租赁设备包括：9台86英寸触控一体机，51台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 385308.0,
+      "total_price": 385308.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区大同小学租赁设备包括：6台86英寸触控一体机。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 86940.0,
+      "total_price": 86940.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区小乌小学租赁设备包括：4台86英寸触控一体机，51台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 312858.0,
+      "total_price": 312858.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区东导小学租赁设备包括：7台86英寸触控一体机。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 101430.0,
+      "total_price": 101430.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区太石小学租赁设备包括：51台计算机室电脑，1台教师办公电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 259896.0,
+      "total_price": 259896.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区东涌第一小学租赁设备包括：25台86英寸触控一体机，102台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 872046.0,
+      "total_price": 872046.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区南涌小学租赁设备包括：5台86英寸触控一体机，2台教师办公电脑，48台计算机室电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 322350.0,
+      "total_price": 322350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区东盛小学租赁设备包括：8台教师办公电脑。服务期3年",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 39984.0,
+      "total_price": 39984.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联想融资租赁有限公司",
+      "role": "winner",
+      "total_score": 95.13,
+      "rank": 1,
+      "amount": 2982042.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东一米物联科技有限公司",
+      "role": "participant",
+      "total_score": 65.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州穗学科技有限公司",
+      "role": "participant",
+      "total_score": 51.39,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

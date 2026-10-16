@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260206_26157725",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:第一包招标文件.pdf",
+  "note": "HTML未明示各中标人对应包号，按排除法唯一推定：包1预算359.07万与联通中标金额359.07万完全一致；移动218.0544万超过包3预算163.96万不可能投包3，电信163.8756万同理只能投包3（招标文件规定投标报价不得超过采购包预算）。三包标的名称/服务要求（互联网接入服务）取自招标文件采购需求表；HTML标的表商品名称列为空，品目概要与标的表均空故category=null。1638756+2180544+3590700=7410000与总中标金额741万相符。rank原文未给排名列，为null。",
+  "project": {
+    "buyer": "北京市顺义区经济和信息化局本级",
+    "project_name": "顺义区信息化统一运维互联网接入服务项目",
+    "total_amount": 7410000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国联合网络通信有限公司北京市分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中国移动通信集团北京有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "中国电信股份有限公司北京分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "互联网接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 3590700.0,
+      "total_price": 3590700.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "互联网接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2180544.0,
+      "total_price": 2180544.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "互联网接入服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1638756.0,
+      "total_price": 1638756.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司北京市分公司",
+      "role": "winner",
+      "total_score": 91.6,
+      "rank": null,
+      "amount": 3590700.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团北京有限公司",
+      "role": "winner",
+      "total_score": 87.4,
+      "rank": null,
+      "amount": 2180544.0
+    },
+    {
+      "package_no": "3",
+      "name": "中国电信股份有限公司北京分公司",
+      "role": "winner",
+      "total_score": 76.73,
+      "rank": null,
+      "amount": 1638756.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

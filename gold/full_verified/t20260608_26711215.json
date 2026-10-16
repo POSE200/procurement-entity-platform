@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260608_26711215",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表 (1).jpg,报价明细表 (2).jpg",
+  "note": "单包（采购包1）。HTML标的信息表无单价/总价列，单价取自附件报价明细表(OCR图片)：雷达1,410,000、光谱仪1,330,000、光度计690,000、运算系统960,000，四项之和=4,390,000与总中标金额数学互证。报价明细表OCR文字竖排碎片化，单价数字系逐组重组（如1,41|0,00|0.00→1,410,000.00），四项之和恰等于总中标金额4,390,000，复核确认无误。评审结果表的技术/商务/价格分及得分排名、推荐排名列全为空，仅综合得分有值，故全部bidders的rank=null（禁止推定）。招标文件标的金额表（1,650,000/1,350,000/700,000/1,020,000）为各标的最高限价（合计=预算472万），非成交价，未采用。品目取自HTML标的信息表“教学仪器”。 复核修正：2026-09-23独立复核通过，单价经OCR碎片重组与总额互证确认。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学(筹)地面机动测量实验分系统采购项目（二）",
+    "total_amount": 4390000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京星球空天信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "三维扫描颗粒物激光雷达",
+      "brand": "中科环光",
+      "model": "CASEO-MNPM-LIDAR",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1410000.0,
+      "total_price": 1410000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "教学仪器",
+      "item_name": "大气柱浓度观测光谱仪",
+      "brand": "星球空天",
+      "model": "FTNITR-SUN",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1330000.0,
+      "total_price": 1330000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "教学仪器",
+      "item_name": "太阳分光光度计",
+      "brand": "西迈威科",
+      "model": "XMWK-CE318-TP9",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 690000.0,
+      "total_price": 690000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "教学仪器",
+      "item_name": "大气观测数据现场快速处理与协同分析智能运算系统",
+      "brand": "星球空天",
+      "model": "MobAtmo V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 960000.0,
+      "total_price": 960000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京星球空天信息技术有限公司",
+      "role": "winner",
+      "total_score": 83.96,
+      "rank": null,
+      "amount": 4390000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东萱霖商贸有限公司",
+      "role": "participant",
+      "total_score": 72.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京大陆康腾科技股份有限公司",
+      "role": "participant",
+      "total_score": 62.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛神州衡测科技有限公司",
+      "role": "participant",
+      "total_score": 60.79,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

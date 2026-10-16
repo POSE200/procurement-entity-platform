@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260512_26552354",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（湖南新云医疗装备工业有限公司）.pdf",
+  "note": "HTML“总中标金额”显示￥0.000000万元且中标金额列为费率“氧气服务费：97.83%”，total_amount按附件报价明细总价取4547008.0元（与差额累进制代理费3.036324万元反推一致）；附件另有“氧气服务费(%)=97.83”列，JSON无对应字段，记于此；单价/数量（1项）取自附件；无品牌/型号线索。",
+  "project": {
+    "buyer": "中山大学附属第三医院粤东医院",
+    "project_name": "中山大学附属第三医院粤东医院智慧医气运营服务项目",
+    "total_amount": 4547008.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "中山大学附属第三医院粤东医院智慧医气运营服务项目",
+        "winner": "湖南新云医疗装备工业有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "医疗卫生类合作服务",
+      "item_name": "智慧医气运营服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4547008.0,
+      "total_price": 4547008.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖南新云医疗装备工业有限公司",
+      "role": "winner",
+      "total_score": 97.61,
+      "rank": 1,
+      "amount": 4547008.0
+    },
+    {
+      "package_no": "1",
+      "name": "化生医疗科技有限公司",
+      "role": "participant",
+      "total_score": 66.12,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "湖南复泰机电设备工程有限公司",
+      "role": "participant",
+      "total_score": 64.87,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "珠海奥吉赛医疗科技股份有限公司",
+      "role": "participant",
+      "total_score": 62.97,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

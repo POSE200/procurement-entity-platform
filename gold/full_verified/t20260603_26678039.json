@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260603_26678039",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（湖南频乐科技有限公司）.pdf",
+  "note": "三条标的来自HTML标的信息表并与附件报价明细互证（单价×数量=总价逐条相符，合计1210320=总中标金额）；品目取标的信息表品目名称列（概要品目列为空），注意1-3品目名称为『服务器』而采购标的为『渲染工作站』，照抄不改；附件声明函OCR噪声大但不影响数值；广州联强信息技术有限公司得分排名列明示4但推荐排名为空，rank按明示取4。复核：三条明细与HTML及报价明细附件逐项一致（4990×200/7780×19/64500×1），合计1210320元与总中标金额一致；全部字段核对无误。",
+  "project": {
+    "buyer": "江门市技师学院",
+    "project_name": "高水平技师学院创建单位补助项目—数字创意产训融合实践中心建设项目—电脑设备采购项目(二次)",
+    "total_amount": 1210320.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "高水平技师学院创建单位补助项目—数字创意产训融合实践中心建设项目-电脑设备采购项目",
+        "winner": "湖南频乐科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "台式计算机",
+      "item_name": "台式机套装",
+      "brand": "云之翼",
+      "model": "主机：YZY_MH3305 显示器：YD241Q 软件：云之翼桌面虚拟化软件（旗舰版）V5.0、云之翼电子教学软件 V1.0",
+      "quantity": 200,
+      "unit": "台",
+      "unit_price": 4990.0,
+      "total_price": 998000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "图形工作站",
+      "item_name": "图形工作站",
+      "brand": "云之翼",
+      "model": "主机：YZY_MH3328G 显示器：YD276H 软件：云之翼桌面虚拟化软件（旗舰版）V5.0、云之翼电子教学软件 V1.0",
+      "quantity": 19,
+      "unit": "台",
+      "unit_price": 7780.0,
+      "total_price": 147820.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "服务器",
+      "item_name": "渲染工作站",
+      "brand": "云之翼",
+      "model": "主机：YZY_MH3344G 显示器：YD276H 软件：云之翼桌面虚拟化软件（旗舰版）V5.0、云之翼电子教学软件 V1.0",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 64500.0,
+      "total_price": 64500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "湖南频乐科技有限公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 1210320.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东中彦教育科技有限公司",
+      "role": "participant",
+      "total_score": 74.26,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江门一易科技有限公司",
+      "role": "participant",
+      "total_score": 69.19,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州联强信息技术有限公司",
+      "role": "participant",
+      "total_score": 53.04,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

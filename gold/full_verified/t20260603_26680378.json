@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260603_26680378",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本项目为「三标段：地理信息数据内网安全防护」单独发中标公告。package_no=\"3\"取自附件中小企业声明函（OCR）中明示的「包3：地理信息数据内网安全防护」（HTML无标包编号）。概要品目列只给编码「A02010399,A02010399,A02010399」无名称，category退用HTML标的信息表品目名称列「其他信息安全设备」（3条相同）。3条明细之和135,000+300,000+150,000=585,000元，与总中标金额￥58.500000万元及表格1中标金额585,000.00元一致。品牌列与规格型号列原文均为「圆周率数据安全系统 V10.0」，照抄为同值。评分表（表格3）只有得分列无排名列，rank一律null。数量1、unit原文未给=null。需视觉核验：①中小企业声明函OCR中「包3」字样（同页项目名称OCR误作「建设项且」）；②本国化产品声明函PDF投标供应商名OCR作「武汉圆周率药|件科技有限公司」（应为武汉圆周率软件科技有限公司），不影响HTML取值。复核：'包3'字样与公告标题'三标段'及品目表相互印证；中标人名称以表格1原文为准（OCR签章名不影响）；7家供应商得分逐一核对无误，三明细之和585000元与中标金额一致；全部字段核对无误。",
+  "project": {
+    "buyer": "宁夏回族自治区自然资源信息中心",
+    "project_name": "宁夏回族自治区自然资源信息中心自然资源云基础支撑体系建设项目 （2026年）三标段：地理信息数据内网安全防护",
+    "total_amount": 585000.0,
+    "packages": [
+      {
+        "package_no": "3",
+        "package_name": "三标段：地理信息数据内网安全防护",
+        "winner": "武汉圆周率软件科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "其他信息安全设备",
+      "item_name": "数字水印卫士软件",
+      "brand": "圆周率数据安全系统 V10.0",
+      "model": "圆周率数据安全系统 V10.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 135000.0,
+      "total_price": 135000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "其他信息安全设备",
+      "item_name": "内网数据安全防护软件",
+      "brand": "圆周率数据安全系统 V10.0",
+      "model": "圆周率数据安全系统 V10.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": "其他信息安全设备",
+      "item_name": "文件智能锁安全控制软件",
+      "brand": "圆周率数据安全系统 V10.0",
+      "model": "圆周率数据安全系统 V10.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "3",
+      "name": "武汉圆周率软件科技有限公司",
+      "role": "winner",
+      "total_score": 89.2,
+      "rank": null,
+      "amount": 585000.0
+    },
+    {
+      "package_no": "3",
+      "name": "南京吉印信息科技有限公司",
+      "role": "participant",
+      "total_score": 86.59,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "江苏华高软件技术有限公司",
+      "role": "participant",
+      "total_score": 80.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "湖北金拓维信息技术有限公司",
+      "role": "participant",
+      "total_score": 78.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "武汉珈和科技有限公司",
+      "role": "participant",
+      "total_score": 77.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "西安众智空间智能科技有限公司",
+      "role": "participant",
+      "total_score": 78.39,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "新疆华恒聚安信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.99,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

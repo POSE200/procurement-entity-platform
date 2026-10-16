@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260402_26354618",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:01包中小企业声明函.pdf,02包中小企业声明函.pdf",
+  "note": "2个采购包。HTML中标表未标包号，包↔中标人对应关系依据附件中小企业声明函明示：01包承接企业为北京中环长青环境科技有限公司、02包承接企业为北京中环谱天环境监测中心（且包金额与招标文件包预算对应：01包预算299.37万vs中标296.814万，02包预算141.25万vs中标140.29万）。两包金额之和296.814+140.29=437.104万=总中标金额。品目：概要品目列空，HTML无品目名称列，category为null。items取自HTML『主要标的信息』表：商品名称列空，item_name采用附件招标文件明示的标的名称（…项目01包/02包）；数量列原文明示1（单价=总价并列给出，系原文明示而非推算），unit列未给为null。本项目无评分排名表，仅公告到两家中标人，rank为null（评审总得分取自中标表备注列）。01/02包招标文件均仅解析前30页，分包明细不可得。",
+  "project": {
+    "buyer": "北京市丰台区生态环境局（本级）",
+    "project_name": "2026年生态环境接诉即办工作精细化延伸数据支撑项目",
+    "total_amount": 4371040.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "2026年生态环境接诉即办工作精细化延伸数据支撑项目01包",
+        "winner": "北京中环长青环境科技有限公司"
+      },
+      {
+        "package_no": "02",
+        "package_name": "2026年生态环境接诉即办工作精细化延伸数据支撑项目02包",
+        "winner": "北京中环谱天环境监测中心"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年生态环境接诉即办工作精细化延伸数据支撑项目01包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2968140.0,
+      "total_price": 2968140.0
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年生态环境接诉即办工作精细化延伸数据支撑项目02包",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1402900.0,
+      "total_price": 1402900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京中环长青环境科技有限公司",
+      "role": "winner",
+      "total_score": 92.17,
+      "rank": null,
+      "amount": 2968140.0
+    },
+    {
+      "package_no": "02",
+      "name": "北京中环谱天环境监测中心",
+      "role": "winner",
+      "total_score": 89.6,
+      "rank": null,
+      "amount": 1402900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

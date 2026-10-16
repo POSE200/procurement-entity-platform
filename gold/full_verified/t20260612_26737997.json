@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260612_26737997",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三包A/B/C分别中标：A创业慧康科技股份有限公司59.5万元、B创业慧康科技股份有限公司23万元、C北京嘉和美康信息技术有限公司21.32万元，合计103.82万元=总中标金额。创业慧康中标两包，bidders按包各一条（G2）。服务类标的仅明示包名称与中标金额，无数量/单价/品牌/型号线索，quantity/unit/unit_price/brand/model=null，total_price取该包中标金额（原文直接给出，非推算）。概要品目列空且标的信息表（服务类）无品目列，category=null。全文无综合得分/排名信息，total_score与rank=null。无附件。",
+  "project": {
+    "buyer": "济南市第三人民医院",
+    "project_name": "济南市第三人民医院软件运维服务采购项目",
+    "total_amount": 1038200.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "济南市第三人民医院HIS系统维保项目",
+        "winner": "创业慧康科技股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "济南市第三人民医院HIS系统接口开发及改造服务",
+        "winner": "创业慧康科技股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "济南市第三人民医院集成平台维保服务",
+        "winner": "北京嘉和美康信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市第三人民医院HIS系统维保项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 595000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市第三人民医院HIS系统接口开发及改造服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 230000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "济南市第三人民医院集成平台维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 213200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "创业慧康科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 595000.0
+    },
+    {
+      "package_no": "B",
+      "name": "创业慧康科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 230000.0
+    },
+    {
+      "package_no": "C",
+      "name": "北京嘉和美康信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 213200.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

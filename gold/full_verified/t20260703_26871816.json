@@ -1,0 +1,175 @@
+{
+  "announcement_id": "t20260703_26871816",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-各供应商).pdf",
+  "note": "单一来源采购，6个采购包各仅1家供应商（山东世纪读秀信息科技有限公司同时中标包3'读秀知识库'64,900元与包4'移动图书馆'55,000元，bidders按每包各一条记录）；六包金额之和149,000+40,000+64,900+55,000+28,000+62,900=399,800元恰等于总中标金额39.98万元；概要品目列为空，category取标的信息表'品目名称'列'计算机设备和软件租赁服务'；单价/数量取自各供应商报价明细表（单价×1.0000项=响应报价=各包中标金额，逐包互证，其中读秀知识库最高限价65,000元、成交64,900元）；各包评审表仅有'最终报价'列无得分/排名列，total_score与rank=null。需视觉核验：无重大疑点。",
+  "project": {
+    "buyer": "山东外贸职业学院",
+    "project_name": "26年图书馆电子资源采购项目（双高）",
+    "total_amount": 399800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "同方知网数字科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中科软股教育科技（北京）股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": null,
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "5",
+        "package_name": null,
+        "winner": "北京布局未来科技发展有限公司"
+      },
+      {
+        "package_no": "6",
+        "package_name": null,
+        "winner": "青岛海象天智文化科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "知网",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 149000.0,
+      "total_price": 149000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "中科vip考试资源数据库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "读秀知识库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 64900.0,
+      "total_price": 64900.0
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "移动图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 55000.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "5",
+      "item_no": "5-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "新东方多媒体库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28000.0,
+      "total_price": 28000.0
+    },
+    {
+      "package_no": "6",
+      "item_no": "6-1",
+      "category": "计算机设备和软件租赁服务",
+      "item_name": "百度文库",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 62900.0,
+      "total_price": 62900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同方知网数字科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 149000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中科软股教育科技（北京）股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 40000.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 64900.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 55000.0
+    },
+    {
+      "package_no": "5",
+      "name": "北京布局未来科技发展有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 28000.0
+    },
+    {
+      "package_no": "6",
+      "name": "青岛海象天智文化科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 62900.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

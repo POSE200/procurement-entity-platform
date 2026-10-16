@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260202_26140551",
+  "annotated_at": "2026-09-22",
+  "gold_source": "html",
+  "note": "该公告无附件包，只用 HTML。单一来源服务类，标的物仅一条；无数量/单价列；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "中国电子口岸数据中心黄埔分中心",
+    "project_name": "2026年门户式辐射监测设备校准定点服务",
+    "total_amount": 349200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "广东中润检测技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "服务/其他服务",
+      "item_name": "2026年门户式辐射监测设备校准定点服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 349200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东中润检测技术有限公司",
+      "role": "winner",
+      "total_score": 92.04,
+      "rank": 1,
+      "amount": 349200.0
+    },
+    {
+      "package_no": "1",
+      "name": "长沙谱润仪器科技有限公司",
+      "role": "participant",
+      "total_score": 53.27,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东斯富特生态技术有限公司",
+      "role": "participant",
+      "total_score": 46.66,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

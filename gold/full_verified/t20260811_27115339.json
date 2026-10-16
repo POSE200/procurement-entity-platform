@@ -1,0 +1,114 @@
+{
+  "announcement_id": "t20260811_27115339",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-华鲁数智信息技术（北京）有限公司).pdf",
+  "note": "已强制核对报价明细表(第1轮-华鲁数智信息技术（北京）有限公司).pdf：1条服务明细单价188710元/数量1项/总价188710元（最高限价250000元），合计188710元=总中标金额188710.00元，数学成立；品目取自HTML标的信息表品目名称列（概要品目列空）→行业应用软件开发服务；brand/model来自报价明细表内明示文字'所投产品为安华金和应用系统安全审计系统AAS V3.2'，非独立品牌/型号列（复核已确认：OCR原文'所投产品为安华金和应用系统安全审计系统AAS V3.2'清晰完整，无需视觉核验）；HTML表格2金额(元)列空白，价格真值取自报价明细表；中标人得分排名列空白故rank=null（不推定第1），8家未中标人仅有'综合得分排序低'无明示排名",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）信息化配套业务综合服务（第二批）(二次)",
+    "total_amount": 188710.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "华鲁数智信息技术（北京）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "API风险监测系统",
+      "brand": "安华金和",
+      "model": "AAS V3.2",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 188710.0,
+      "total_price": 188710.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "winner",
+      "total_score": 85.53,
+      "rank": null,
+      "amount": 188710.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东华鲁科技发展股份有限公司",
+      "role": "participant",
+      "total_score": 79.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东联安信息科技有限责任公司",
+      "role": "participant",
+      "total_score": 79.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中地信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.61,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "天津合力数据科技有限公司",
+      "role": "participant",
+      "total_score": 72.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东盈满瑞信息科技有限公司",
+      "role": "participant",
+      "total_score": 70.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台海逸智能科技有限公司",
+      "role": "participant",
+      "total_score": 65.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东凯利电气股份有限公司",
+      "role": "participant",
+      "total_score": 65.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京远舢智能科技有限公司",
+      "role": "participant",
+      "total_score": 62.93,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

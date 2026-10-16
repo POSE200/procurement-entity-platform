@@ -1,0 +1,180 @@
+{
+  "announcement_id": "t20260402_26356734",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告结构为一个『三、中标信息 第1包：』加三组中标供应商表和三组排序表，按结构推断为3个包：包1=交科（169.96万）、包2=瑞智万达（90.96万）、包3=联信达（16万），除第1包外包号2/3为HTML结构推断（已在note声明）。三包中标金额之和169.96+90.96+16=276.92万元，与总中标金额一致。品目：概要品目列空，标的信息表（表格7-9）只有『类型=服务类』列（系类型列值，非品目，按规范不作品目填），category全部null。三张标的信息表未标明对应包号，item的package_no按保守口径填null（不做顺序对应推定）。标的信息表未给单价/数量/总价，相关字段null。各排序表的『评审报价（万元）』已换算成元填入participant的amount。",
+  "project": {
+    "buyer": "天津市道路运输调度服务中心",
+    "project_name": "天津市道路运输调度服务中心道路运输信息化系统运行维护项目",
+    "total_amount": 2769200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "交科（天津）智能交通发展有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "天津瑞智万达股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "天津联信达软件技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "信息化系统运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "基础设施安全运行维护保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "网络安全运行维护及系统等级测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "交科（天津）智能交通发展有限公司",
+      "role": "winner",
+      "total_score": 96.1843,
+      "rank": 1,
+      "amount": 1699600.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津正成软件科技有限公司",
+      "role": "participant",
+      "total_score": 92.3,
+      "rank": 2,
+      "amount": 1594950.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津高速新智科技有限公司",
+      "role": "participant",
+      "total_score": 78.3109,
+      "rank": 3,
+      "amount": 1713000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津瑞智万达股份有限公司",
+      "role": "winner",
+      "total_score": 98.971,
+      "rank": 1,
+      "amount": 909600.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津市康恒信息科技有限公司",
+      "role": "participant",
+      "total_score": 94.2,
+      "rank": 2,
+      "amount": 816000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津正成软件科技有限公司",
+      "role": "participant",
+      "total_score": 93.7563,
+      "rank": 3,
+      "amount": 862920.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津安力信通讯科技有限公司",
+      "role": "participant",
+      "total_score": 85.4474,
+      "rank": 4,
+      "amount": 912000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津天元信息技术有限公司",
+      "role": "participant",
+      "total_score": 85.3064,
+      "rank": 5,
+      "amount": 916200.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津四方智控科技发展有限公司",
+      "role": "participant",
+      "total_score": 69.5787,
+      "rank": 6,
+      "amount": 908820.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津联信达软件技术有限公司",
+      "role": "winner",
+      "total_score": 97.875,
+      "rank": 1,
+      "amount": 160000.0
+    },
+    {
+      "package_no": "3",
+      "name": "河北翎贺计算机信息技术有限公司",
+      "role": "participant",
+      "total_score": 96.0,
+      "rank": 2,
+      "amount": 150000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津顺时信息技术有限公司",
+      "role": "participant",
+      "total_score": 90.9227,
+      "rank": 3,
+      "amount": 176000.0
+    },
+    {
+      "package_no": "3",
+      "name": "宏信旺（天津）科技发展有限公司",
+      "role": "participant",
+      "total_score": 86.6418,
+      "rank": 4,
+      "amount": 182000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

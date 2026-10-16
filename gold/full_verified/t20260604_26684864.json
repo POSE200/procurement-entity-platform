@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260604_26684864",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件-考试院招考业务系统运维项目(二)01包.pdf,招标文件-考试院招考业务系统运维项目(二)04包.pdf,招标文件-考试院招考业务系统运维项目(二)05包.pdf",
+  "note": "本公告仅涉及01/04/05三个包。HTML表格1的中标人按金额与表格2的服务要求、招标文件各包标的及预算（01包成招办业务系统运维57万、04包北京市国家教育考试综合管理平台运维58.6万、05包考试院官网运维27万）一一对应：京控云智中01包、竞业达中04包、盛学成长中05包（推断声明）。quantity=1、unit=项来自招标文件包号表数量列；unit_price为表格2单价列（明示，万元已换算为元）。三包金额之和267000+584400+568500=1,419,900元与总中标金额141.99万一致。概要品目列空且无品目名称列，category=null。表格1仅给评审总得分无排名列，rank=null。复核：包号映射经三份招标文件包号表明示核实（01=成招办业务系统运维/04=综合管理平台运维/05=考试院官网运维，各1项），三包金额之和1,419,900元与总额一致，中标金额均低于对应包预算；确认verified。",
+  "project": {
+    "buyer": "北京教育考试院",
+    "project_name": "考试院招考业务系统运维项目（二）",
+    "total_amount": 1419900.0,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "成招办业务系统运维",
+        "winner": "北京京控云智科技有限公司"
+      },
+      {
+        "package_no": "04",
+        "package_name": "北京市国家教育考试综合管理平台运维",
+        "winner": "北京竞业达数字系统科技有限公司"
+      },
+      {
+        "package_no": "05",
+        "package_name": "考试院官网运维",
+        "winner": "北京盛学成长科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "成招办业务系统运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 568500.0,
+      "total_price": 568500.0
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "北京市国家教育考试综合管理平台运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 584400.0,
+      "total_price": 584400.0
+    },
+    {
+      "package_no": "05",
+      "item_no": null,
+      "category": null,
+      "item_name": "考试院官网运维",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 267000.0,
+      "total_price": 267000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "01",
+      "name": "北京京控云智科技有限公司",
+      "role": "winner",
+      "total_score": 89.2,
+      "rank": null,
+      "amount": 568500.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京竞业达数字系统科技有限公司",
+      "role": "winner",
+      "total_score": 91.6,
+      "rank": null,
+      "amount": 584400.0
+    },
+    {
+      "package_no": "05",
+      "name": "北京盛学成长科技有限公司",
+      "role": "winner",
+      "total_score": 88.6,
+      "rank": null,
+      "amount": 267000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

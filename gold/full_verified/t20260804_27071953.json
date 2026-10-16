@@ -1,0 +1,450 @@
+{
+  "announcement_id": "t20260804_27071953",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:_unpacked_附件\\附件\\分项报价表.pdf",
+  "note": "包号取附件文件名'包(1)_开标（报价）一览表'（HTML未明示包号，推断已在note声明）。中标人山东贝利特的分项报价表（附件）含31条明细，逐条单价×数量=合价核验通过，合计998800元与HTML中标金额998800元及主要标的信息表金额一致；品目category按HTML主要标的信息表品目编号及品目名称列'其他信息化设备'逐条沿用；品牌/规格型号取分项报价表（HTML该两列为'详见分项报价表'）。中标人投标（响应）报价明细表为整宗总报价（998800元/1宗/最高限价1000000元）。中建材信云智联科技有限公司、杭州聚林电子信息工程有限公司符合性审查未通过（表格5），无得分，total_score=null。评审表得分排名/推荐排名列空，rank=null。需视觉核验疑点：①第1条规格型号OCR'希沃华腾DH1538-3522 X30'断字②第15条空调型号'RFD-120LW/BSDN8Y-PA401(1)A'断字拼接③第28条计量单位OCR'平方'（疑为'平方米'截断，照抄原值）④第17/18条数量OCR'33 0'按数学关系（330×280=92400、330×120=39600）定为330。",
+  "project": {
+    "buyer": "济南工程职业技术学院",
+    "project_name": "济南工程职业技术学院智慧供应链物流AI融合实训室建设项目",
+    "total_amount": 998800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东贝利特信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "其他信息化设备",
+      "item_name": "教学终端",
+      "brand": "seewo",
+      "model": "希沃华腾DH1538-3522 X30",
+      "quantity": 94,
+      "unit": "台",
+      "unit_price": 6200.0,
+      "total_price": 582800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "其他信息化设备",
+      "item_name": "教师AI办公系统",
+      "brand": "seewo",
+      "model": "希沃电脑助手",
+      "quantity": 94,
+      "unit": "套",
+      "unit_price": 120.0,
+      "total_price": 11280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "其他信息化设备",
+      "item_name": "云桌面控制系统",
+      "brand": "seewo",
+      "model": "希沃云桌面系统",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "其他信息化设备",
+      "item_name": "千兆可管理交换机",
+      "brand": "H3C",
+      "model": "H3C S5024PV6-EI",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1800.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "其他信息化设备",
+      "item_name": "千兆可管理交换机",
+      "brand": "H3C",
+      "model": "H3C S5048PV6-EI",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 2800.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "其他信息化设备",
+      "item_name": "互动教学终端",
+      "brand": "seewo",
+      "model": "BH86EC",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 19700.0,
+      "total_price": 39400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "其他信息化设备",
+      "item_name": "互动教学软件",
+      "brand": "seewo",
+      "model": "品课2.0协作版",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 4000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "其他信息化设备",
+      "item_name": "讲桌",
+      "brand": "迈杰",
+      "model": "ELCP-CED21M",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 3500.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "其他信息化设备",
+      "item_name": "有源音响",
+      "brand": "林乔",
+      "model": "UY-2050A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1340.0,
+      "total_price": 1340.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": "其他信息化设备",
+      "item_name": "无线话筒",
+      "brand": "林乔",
+      "model": "G02",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 600.0,
+      "total_price": 600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": "其他信息化设备",
+      "item_name": "多媒体教学软件",
+      "brand": "极域",
+      "model": "极域课堂管理系统软件V6.0",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 6000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": "其他信息化设备",
+      "item_name": "机柜",
+      "brand": "图腾",
+      "model": "G26622",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 1500.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": "其他信息化设备",
+      "item_name": "实验台椅",
+      "brand": "贝利特",
+      "model": "定制",
+      "quantity": 24,
+      "unit": "套",
+      "unit_price": 1200.0,
+      "total_price": 28800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "14",
+      "category": "其他信息化设备",
+      "item_name": "综合布线",
+      "brand": "贝利特",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "15",
+      "category": "其他信息化设备",
+      "item_name": "空气调节器",
+      "brand": "美的",
+      "model": "RFD-120LW/BSDN8Y-PA401(1)A",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 8400.0,
+      "total_price": 16800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "16",
+      "category": "其他信息化设备",
+      "item_name": "终端安全运营管理系统",
+      "brand": "贝利特",
+      "model": "终端安全管理平台V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 4000.0,
+      "total_price": 4000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "17",
+      "category": "其他信息化设备",
+      "item_name": "硬盘",
+      "brand": "大华",
+      "model": "DH-SSD-C800S256G",
+      "quantity": 330,
+      "unit": "块",
+      "unit_price": 280.0,
+      "total_price": 92400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "18",
+      "category": "其他信息化设备",
+      "item_name": "机房管理软件",
+      "brand": "潜龙辉腾",
+      "model": "机房管理软件V10.0",
+      "quantity": 330,
+      "unit": "点",
+      "unit_price": 120.0,
+      "total_price": 39600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "19",
+      "category": "其他信息化设备",
+      "item_name": "技术服务",
+      "brand": "贝利特",
+      "model": "定制",
+      "quantity": 6,
+      "unit": "间",
+      "unit_price": 3280.0,
+      "total_price": 19680.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "20",
+      "category": "其他信息化设备",
+      "item_name": "常态化互动一体机",
+      "brand": "seewo",
+      "model": "SV15A",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 12000.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "21",
+      "category": "其他信息化设备",
+      "item_name": "常态化互动系统",
+      "brand": "seewo",
+      "model": "AI智能终端导播管理系统V4.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "22",
+      "category": "其他信息化设备",
+      "item_name": "智能行为分析管理平台",
+      "brand": "seewo",
+      "model": "AI教学评价系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 22000.0,
+      "total_price": 22000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "23",
+      "category": "其他信息化设备",
+      "item_name": "教师定位电子云镜",
+      "brand": "seewo",
+      "model": "VC13T",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3800.0,
+      "total_price": 3800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "24",
+      "category": "其他信息化设备",
+      "item_name": "学生定位电子云镜",
+      "brand": "seewo",
+      "model": "VC13S",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3600.0,
+      "total_price": 3600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "25",
+      "category": "其他信息化设备",
+      "item_name": "指向拾音话筒",
+      "brand": "seewo",
+      "model": "AC22M",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 1200.0,
+      "total_price": 2400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "26",
+      "category": "其他信息化设备",
+      "item_name": "电子班牌",
+      "brand": "seewo",
+      "model": "SK10A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 8000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "27",
+      "category": "其他信息化设备",
+      "item_name": "文化建设",
+      "brand": "贝利特",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "28",
+      "category": "其他信息化设备",
+      "item_name": "防静电地板",
+      "brand": "永好",
+      "model": "定制",
+      "quantity": 60,
+      "unit": "平方",
+      "unit_price": 260.0,
+      "total_price": 15600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "29",
+      "category": "其他信息化设备",
+      "item_name": "常态化互动功放",
+      "brand": "东玛克",
+      "model": "G6000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2300.0,
+      "total_price": 2300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "30",
+      "category": "其他信息化设备",
+      "item_name": "常态化互动音响",
+      "brand": "东玛克",
+      "model": "SP590",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 900.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "31",
+      "category": "其他信息化设备",
+      "item_name": "常态化互动麦克风",
+      "brand": "东玛克",
+      "model": "DM-907",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 600.0,
+      "total_price": 1200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东贝利特信息科技有限公司",
+      "role": "winner",
+      "total_score": 97.91,
+      "rank": null,
+      "amount": 998800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东深数信息科技有限公司",
+      "role": "participant",
+      "total_score": 91.18,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东亿方锦泽信息科技有限公司",
+      "role": "participant",
+      "total_score": 89.29,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东融道智启信息科技有限公司",
+      "role": "participant",
+      "total_score": 89.08,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中建材信云智联科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "杭州聚林电子信息工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

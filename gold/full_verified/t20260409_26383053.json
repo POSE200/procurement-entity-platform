@@ -1,0 +1,290 @@
+{
+  "announcement_id": "t20260409_26383053",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:1包中标清单.pdf",
+  "note": "单包（招标文件'本项目不分包'，附件文件名'1包'）。19条货物明细，品牌/产地/规格/数量/单价取自HTML中标清单并与附件1包中标清单.pdf一致（附件条目顺序不同，按HTML表格2顺序）。中标清单只有单价与数量两列，无总价列，total_price按单价×数量唯一互推（19条之和恰为2,733,000元=总中标金额273.3万元，互推经总额验证）。品目概要列为空、无品目名称列，category=null；中标清单无序号列，item_no=null。'●核心交换机'名称前符号●为原文标记，原样保留。评分表排序列1-4为明示排名，rank照抄；未中标供应商amount取开标记录（表格6）投标单价报价。复核：19条item与表格2/附件逐行核对一致，总价互推之和精确等于2,733,000；bidder得分/排名/金额与表格4/6一致；通过。",
+  "project": {
+    "buyer": "青岛市疾病预防控制中心",
+    "project_name": "青岛市公共卫生中心建设工程疾控内配物资项目（机房设备）",
+    "total_amount": 2733000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "青岛市公共卫生中心建设工程疾控内配物资项目（机房设备）",
+        "winner": "山东合力共创信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "超融合存储交换机",
+      "brand": "新华三",
+      "model": "S5590-28T8XC-EI",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 24000.0,
+      "total_price": 48000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "超融合业务交换机",
+      "brand": "新华三",
+      "model": "S5135S-48T4X-EI-Q",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 7500.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "扩展笼",
+      "brand": "慧与",
+      "model": "3PAR 8000 SFF(2.5in) Fld Int Drv Encl",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 45400.0,
+      "total_price": 45400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "硬盘",
+      "brand": "慧与",
+      "model": "3PAR 8000 1.2TB+SW 10K SFF HDD",
+      "quantity": 24,
+      "unit": "块",
+      "unit_price": 6460.0,
+      "total_price": 155040.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "连接线",
+      "brand": "慧与",
+      "model": "Ext 2.0m MiniSAS HD to MiniSAS HD Cbl",
+      "quantity": 2,
+      "unit": "根",
+      "unit_price": 465.0,
+      "total_price": 930.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "动态WAF防火墙",
+      "brand": "安恒",
+      "model": "WAF-A1500-HU",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 148100.0,
+      "total_price": 296200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "API安全",
+      "brand": "安恒",
+      "model": "DAS-ABL-AAS-G1500-HE",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 239260.0,
+      "total_price": 239260.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "态势感知",
+      "brand": "安恒",
+      "model": "DAS-ABL-AXDR1500",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 199100.0,
+      "total_price": 199100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "探针",
+      "brand": "安恒",
+      "model": "DAS-APT-SP-1000",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 59855.0,
+      "total_price": 119710.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "安全DNS系统",
+      "brand": "迪讯",
+      "model": "CNS-APP 1000",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 139650.0,
+      "total_price": 139650.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "网管软件",
+      "brand": "北塔",
+      "model": "BeCloud MC 105SP1",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 436700.0,
+      "total_price": 436700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "●核心交换机",
+      "brand": "华为",
+      "model": "S12700E-8",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 146700.0,
+      "total_price": 293400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "SD-WAN路由器",
+      "brand": "华为",
+      "model": "AR8140-12G10XG",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 67400.0,
+      "total_price": 134800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "SSL VPN",
+      "brand": "深信服",
+      "model": "aTrust-1000-B1030M-L9",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 88300.0,
+      "total_price": 176600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "网闸",
+      "brand": "中网云安",
+      "model": "X-GAP-FT",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 148700.0,
+      "total_price": 148700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "堡垒机",
+      "brand": "安恒",
+      "model": "DAS-USM500",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 124100.0,
+      "total_price": 124100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "核心交换机(安全监控)",
+      "brand": "新华三",
+      "model": "S7506X-G",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 94910.0,
+      "total_price": 94910.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "准入发现模块",
+      "brand": "联软",
+      "model": "内网主机监测V5.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 19862.0,
+      "total_price": 19862.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "准入设备升级",
+      "brand": "联软",
+      "model": "升级服务",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 45638.0,
+      "total_price": 45638.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东合力共创信息科技有限公司",
+      "role": "winner",
+      "total_score": 82.71,
+      "rank": 1,
+      "amount": 2733000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东世纪黄河电子工程有限公司",
+      "role": "participant",
+      "total_score": 69.67,
+      "rank": 2,
+      "amount": 2740350.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛必应信息技术有限公司",
+      "role": "participant",
+      "total_score": 58.0,
+      "rank": 3,
+      "amount": 1486272.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东迅维科技发展有限公司",
+      "role": "participant",
+      "total_score": 53.64,
+      "rank": 4,
+      "amount": 2745712.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

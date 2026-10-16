@@ -1,0 +1,195 @@
+{
+  "announcement_id": "t20260608_26703395",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个标段。品目：概要品目列只给了代码（C16060000×3、C19040000×3）无名称，按行序与标的信息表「品目名称」列一一对应（前3行=测试评估认证服务、后3行=测绘服务），category取品目名称列值，需视觉核验代码与名称对应关系。复核：①已解除——category直接取自标的信息表「品目名称」列逐行明示，无需代码-名称对应；②已解除——网信创安（三标段中标人）仅出现于表格4且得分最高、万天晟（六标段中标人）仅出现于表格3且得分最高，各标段得分表必含其中标人，对应关系可证。两张得分表与标段的对应为推断：表格3含六标段中标人万天晟且其得分79.63最高、表格4含三标段中标人网信创安且其得分80.49最高，故表格3=六标段、表格4=三标段（与公告表格顺序相反）。得分表无排名列，rank一律null（禁止中标即第1）。三标段3行与六标段3行的标的名称各自相同（原文即重名），照抄；六标段三行金额998000/918000/596000与招标文件最高限价细分（三维立体一张图100万/宁夏天地图92万/遥感影像60万）数值吻合但原文未明示各行的细分名称，item_name不拆分。三标段中标金额1260000=三行之和，六标段2512000=三行之和，包金额之和3772000=总中标金额￥377.200000万，数学自查通过。数量列仅数字1无单位，unit=null。声明函OCR存在错字（「尘型」疑为「微型」），未用于取值。",
+  "project": {
+    "buyer": "宁夏回族自治区自然资源信息中心",
+    "project_name": "宁夏回族自治区自然资源信息中心自然资源信息系统运维（2026年）三标段、六标段",
+    "total_amount": 3772000.0,
+    "packages": [
+      {
+        "package_no": "三标段",
+        "package_name": "自然资源信息系统运维（2026年）三标段：自然资源网络和数据安全测评服务",
+        "winner": "宁夏网信创安信息技术服务有限公司"
+      },
+      {
+        "package_no": "六标段",
+        "package_name": "自然资源信息系统运维（2026年）六标段：自然资源数据资源体系更新",
+        "winner": "宁夏万天晟科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "自然资源信息系统运维（2026年）三标段：自然资源网络和数据安全测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 495000.0,
+      "total_price": 495000.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "自然资源信息系统运维（2026年）三标段：自然资源网络和数据安全测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 340000.0,
+      "total_price": 340000.0
+    },
+    {
+      "package_no": "三标段",
+      "item_no": null,
+      "category": "测试评估认证服务",
+      "item_name": "自然资源信息系统运维（2026年）三标段：自然资源网络和数据安全测评服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 425000.0,
+      "total_price": 425000.0
+    },
+    {
+      "package_no": "六标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "自然资源信息系统运维（2026年）六标段：自然资源数据资源体系更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 998000.0,
+      "total_price": 998000.0
+    },
+    {
+      "package_no": "六标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "自然资源信息系统运维（2026年）六标段：自然资源数据资源体系更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 918000.0,
+      "total_price": 918000.0
+    },
+    {
+      "package_no": "六标段",
+      "item_no": null,
+      "category": "测绘服务",
+      "item_name": "自然资源信息系统运维（2026年）六标段：自然资源数据资源体系更新",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 596000.0,
+      "total_price": 596000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "六标段",
+      "name": "宁夏云盟技术发展有限公司",
+      "role": "participant",
+      "total_score": 68.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "六标段",
+      "name": "北京智源数创信息技术有限公司",
+      "role": "participant",
+      "total_score": 70.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "六标段",
+      "name": "宁夏万天晟科技有限公司",
+      "role": "winner",
+      "total_score": 79.63,
+      "rank": null,
+      "amount": 2512000.0
+    },
+    {
+      "package_no": "六标段",
+      "name": "中城航遥（北京）信息工程有限公司",
+      "role": "participant",
+      "total_score": 72.28,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "六标段",
+      "name": "陕西鑫雅图空间信息技术有限公司",
+      "role": "participant",
+      "total_score": 64.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "天津联信达软件技术有限公司",
+      "role": "participant",
+      "total_score": 64.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "成都卓越华安信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 65.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "宁夏网信创安信息技术服务有限公司",
+      "role": "winner",
+      "total_score": 80.49,
+      "rank": null,
+      "amount": 1260000.0
+    },
+    {
+      "package_no": "三标段",
+      "name": "北京中科卓信软件测评技术中心",
+      "role": "participant",
+      "total_score": 44.4,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "交通运输信息安全中心有限公司",
+      "role": "participant",
+      "total_score": 69.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "三标段",
+      "name": "北京卓识网安技术股份有限公司",
+      "role": "participant",
+      "total_score": 66.75,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

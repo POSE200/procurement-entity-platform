@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260602_26674897",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东诚择信息技术有限公司).pdf,山东第一医科大学第一附属医院（山东省千佛山医院）监控及智慧系统运维服务项目磋商文件（SDGP37000000020260200317620260514001）.pdf",
+  "note": "单包（附件磋商文件明示『采购包1』，预算/最高限价120000元）。单价113700/数量1/单位项取自成交供应商报价明细表（原文明示，单价×数量=总价=113700=总中标金额）。概要品目列空，category取标的信息表品目名称列『其他维修和保养服务』。评审得分表得分排名与推荐排名两列原文为空，所有bidders rank=null；未中标三家无报价信息，amount=null。附件『千医报酬表.pdf』提及分包数量2个，系评审劳务报酬表将本项目与消防检测项目合并填表所致，与本项目包结构无关。磋商文件pdf仅前30页。需视觉核验：表格3技术/商务/价格各分项得分为空、仅综合得分可见。复核：报价明细表附件明示单价113700元/数量1.0000/项/总价113700元与最高限价120000元；千医报酬表原文同时列示SDGP…3239与SDGP…3176两个项目编号且分包数量2个，系合并填表，解释成立；分项得分列原文即为空，无可补信息；全部字段核对无误。",
+  "project": {
+    "buyer": "山东第一医科大学第一附属医院（山东省千佛山医院）",
+    "project_name": "山东第一医科大学第一附属医院（山东省千佛山医院）监控及智慧系统运维服务项目",
+    "total_amount": 113700.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山东第一医科大学第一附属医院（山东省千佛山医院）监控及智慧系统运维服务项目",
+        "winner": "山东诚择信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他维修和保养服务",
+      "item_name": "监控及智慧系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 113700.0,
+      "total_price": 113700.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东诚择信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": null,
+      "amount": 113700.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南力弘信息技术有限公司",
+      "role": "participant",
+      "total_score": 86.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东众智医信电子信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.13,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "首舜智能科技（山东）有限公司",
+      "role": "participant",
+      "total_score": 83.35,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "announcement_id": "t20260608_26706279",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:第一包本国产品声明函.pdf,第二包本国产品声明函.pdf,技术规格及要求第一包.docx,技术规格及要求第二包.wps",
+  "note": "本公告HTML仅公告信息表，无中标人/中标金额/评分表格，中标明细在包内不可见。共2包，原文明示包号01包/02包（采购文件：01包泉州校区石改配套校园网络建设预算136.6万、02包厦门校区生活园区无线网络建设预算340.01万）。主要标的信息.wps两节内容均为空；items改从采购文件「技术规格及要求」的采购产品一览表取条目（包1共11条、包2共8条，名称/数量/单位有出处），该一览表为采购需求数量、非中标人报价明细，故品牌/规格型号/单价/总价/品目均不可得置null。总中标金额4,749,069.30元无分包拆分依据，各包金额null。包2 winner=中国移动通信集团福建有限公司泉州分公司，依据第二包本国产品声明函电子签章（签章名在文本层清晰可读）；包1声明函签章处仅'数字认证证书电子签章：'后空白（签章图未提取出文字），winner=null。bidders仅包2一条；无评分/排名/金额信息。视觉核验：第一包本国产品声明函.pdf（5页）每页均盖同一枚圆形红色公章，经整页渲染、去除压叠文字层及逐字方位展开看图，公章环排文字确认为13字「福建省□旭网络科技有限公司」——其中「福建省」「旭」「网络科技有限公司」清晰可读，「省」与「旭」之间的第4字在签章位图原始分辨率（161×160像素）下笔画无法确读（候选：晨/星/晟/昱/昊等日旁字，整体模板拟合亦无法区分，仅能排除12字名「福建省旭网络科技有限公司」）。该公章主体与包2winner（中国移动通信集团福建有限公司泉州分公司）为不同公司，证明包1中标人确为一家福建省网络科技公司，但因其注册全名无法完整确读，winner按禁止猜原则保持null，status保持draft待人工复核签章原件。OCR待补：第一包本国产品声明函.pdf签章人名称第4字；主要标的信息.wps（内容为空，疑为转换丢失）。；终审：包1签章名第4字在161px位图下物理不可辨（已排除12字名），winner=null 为规范下唯一诚实取值，verified",
+  "project": {
+    "buyer": "华侨大学",
+    "project_name": "华侨大学泉州校区石结构房改造网络建设和厦门校区生活园区无线网络建设采购项目",
+    "total_amount": 4749069.3,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "泉州校区（石改配套）石结构房屋加固和修缮工程配套校园网络建设",
+        "winner": null
+      },
+      {
+        "package_no": "02",
+        "package_name": "厦门校区生活园区无线网络建设",
+        "winner": "中国移动通信集团福建有限公司泉州分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "汇聚交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-S7610-10SFX2CQ",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 64000,
+      "total_price": 64000
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "24口千兆光POE交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-AM5832-SF-P",
+      "quantity": 14,
+      "unit": null,
+      "unit_price": 22800,
+      "total_price": 319200
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "24口千兆全光交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-S5310-24SFP4XS-E",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 8150,
+      "total_price": 32600
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "8口无源光汇聚交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-MUX-BOX",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 4180,
+      "total_price": 16720
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "8口千兆交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-SF2920U-8GT1MS",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 1980,
+      "total_price": 29700
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "4口千兆交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-MF2920U-4GT1MS",
+      "quantity": 61,
+      "unit": null,
+      "unit_price": 1580,
+      "total_price": 96380
+    },
+    {
+      "package_no": "01",
+      "item_no": null,
+      "item_name": "4口面板式AP",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-MAP920-SF-M(V3)",
+      "quantity": 246,
+      "unit": null,
+      "unit_price": 1990,
+      "total_price": 489540
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "核心交换机线卡",
+      "category": null,
+      "brand": "锐捷",
+      "model": "M18000-12QXS-DC",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 96550,
+      "total_price": 96550
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "面板AP",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-MAP852-SF-S",
+      "quantity": 1989,
+      "unit": null,
+      "unit_price": 719.6,
+      "total_price": 1431284.4
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "放装AP",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-AP820-L(V3)",
+      "quantity": 42,
+      "unit": null,
+      "unit_price": 1885.8,
+      "total_price": 79203.6
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "POE交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-AM5528-SF",
+      "quantity": 91,
+      "unit": null,
+      "unit_price": 8079.8,
+      "total_price": 735261.8
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "汇聚交换机",
+      "category": null,
+      "brand": "锐捷",
+      "model": "RG-S7610-10SFX2CQ",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 113580,
+      "total_price": 227160
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "网管授权",
+      "category": null,
+      "brand": "锐捷",
+      "model": "定制",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 128000,
+      "total_price": 128000
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "控制器授权",
+      "category": null,
+      "brand": "锐捷",
+      "model": "定制",
+      "quantity": 8,
+      "unit": null,
+      "unit_price": 19880,
+      "total_price": 159040
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "item_name": "辅材",
+      "category": null,
+      "brand": "国产、锐捷",
+      "model": "定制（详见辅材表）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 537199.5,
+      "total_price": 537199.5
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "02",
+      "name": "中国移动通信集团福建有限公司泉州分公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "source_audit_20261015": {
+      "reason": "按WPS两张真实主要标的信息图片7+8行核验，移除采购配置层级混入的条目，补齐原图价格、品牌及型号",
+      "evidence": [
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260608_26706279\\WPS内嵌图片_247.png",
+        "F:\\赛题5\\源码_20261014\\维护记录\\截图低分样本核验_20261015\\t20260608_26706279\\WPS内嵌图片_51605.png"
+      ]
+    }
+  }
+}

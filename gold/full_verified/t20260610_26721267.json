@@ -1,0 +1,280 @@
+{
+  "announcement_id": "t20260610_26721267",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1附件.pdf,包2附件.pdf,包3附件.pdf,包2声明函.pdf,包3声明函(1).pdf",
+  "note": "三包项目，包1/2/3报价合计1,119,300+358,800+776,800=2,254,900与总中标金额￥225.49万一致；HTML中标情况表仅列出包1（河南久晤，1,119,300元，评审总得分95.8分），包2/包3中标人HTML未列出，按附件投标分项报价表归属（包2附件+包2声明函=郑州达航科技有限公司，包3附件+包3声明函/承诺书=武汉昊衡科技有限公司）推断并声明，已视觉核验；主要标的信息表无品目列、概要品目列空，category全null；包1报价明细为OCR扫描件：动力电池测试系统2（数量4）与生化培养箱（数量14）两行单价/合价OCR碎片与合计矛盾且存在两组均能凑平总额的候选读法（系统2单价60,000×4=240,000+生化42,750×14=598,500，或系统2178,125×4=712,500+生化9,000×14=126,000），两行价格经视觉核验后填入（见末尾结论）；其余6项可读明细之和280,800元；包3配套电行OCR截断（'12000'疑似'120日历天'碎片），其单价/合价按原文0.00填0；包3多条0元赠送项照列；视觉核验清单（已逐项完成，结论见末尾）：包1附件.pdf中系统2/生化培养箱两行单价、包1附件.pdf辊压机型号是否为'MSK-HRP-04 UL'（OCR碎片'MSK-HRP'+'-04 UL'分属两行）、包2附件.pdf型号WTH8050WS-s及规格'房2000*深2000mm'碎片、包3附件.pdf'配套电'全名及'10701816'归属。复核修正：item_name/model中的OCR注释文字移入note，包1两行矛盾OCR单价经视觉核验定值（见下）。视觉核验（fitz渲染包1/2/3附件.pdf，DPI250-1200，存tmp/vision_check/26721267/，逐格看图核对）：包1第5行动力电池测试系统2单价60000、合价240000（60,000×4行内自洽），第7行生化培养箱单价9000、合价126000（9,000×14行内自洽，型号实为LRH-250F），两行读数均不属此前两组凑平候选（生化42,750、系统2 178,125均被像素否定）；8行明细之和646,800与原表合计行'￥1119300/壹佰壹拾壹万玖仟叁佰元整'（亦=HTML包1中标金额1,119,300）相差472,500，系原文档自身前后矛盾（各行单价×数量自洽但明细列加总≠合计行），两行单价/总价按像素原文照抄填入，合计与包1中标金额维持1,119,300；辊压机型号确认为'MSK-HRP-04 UL'（单元格内换行'MSK-HRP'/'-04 UL'）；包2型号去印章红迹后核对为'WTH8050WS'（尾部'-s'系印章圈压S的OCR误读，已删），规格实际为'宽2000*高2000*深2000mm'（OCR'房2000'系'宽2000'误读，gold无规格字段仅此备注）；包3'配套电'全名为'配套电源'，数据线型号'Type-C'，光纤清洁器型号'QJ'（原null补入），'2010701816…'系印章编号非字段值。数学自查：包1明细和646,800≠包1金额1,119,300（差472,500，原文档矛盾如上，非抄录错误）；包2明细和=358,800、包3明细和（720,000+56,800）=776,800，均与各包金额一致。",
+  "project": {
+    "buyer": "郑州大学",
+    "project_name": "郑州大学电气与信息工程学院储能安全实验室建设项目",
+    "total_amount": 2254900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "河南久晤仪器设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "郑州达航科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "武汉昊衡科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "磁控溅射仪",
+      "brand": "中科仪",
+      "model": "PVD500",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 38500.0,
+      "total_price": 38500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "手套箱",
+      "brand": "米开罗那",
+      "model": "Universal(2440/750/900)",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 14000.0,
+      "total_price": 14000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "辊压机",
+      "brand": "合肥科晶",
+      "model": "MSK-HRP-04 UL",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 56000.0,
+      "total_price": 56000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "动力电池测试系统1",
+      "brand": "东莞新威",
+      "model": "CE-6016n-5V300A-H",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 85000.0,
+      "total_price": 85000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "动力电池测试系统2",
+      "brand": "东莞新威",
+      "model": "CE-6008A-5V300A-H",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 240000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "电池测试系统",
+      "brand": "湖北蓝博",
+      "model": "BT2018E/60V/300A",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 79000.0,
+      "total_price": 79000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "生化培养箱",
+      "brand": "上海慧泰",
+      "model": "LRH-250F",
+      "quantity": 14,
+      "unit": "台",
+      "unit_price": 9000.0,
+      "total_price": 126000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "超声波处理器",
+      "brand": "上海生析",
+      "model": "FS-450N",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 8300.0,
+      "total_price": 8300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "步入式高低温湿热试验室",
+      "brand": null,
+      "model": "WTH8050WS",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 358800.0,
+      "total_price": 358800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光频域反射仪",
+      "brand": "Megasense",
+      "model": "OSI-D",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 720000.0,
+      "total_price": 720000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "配套电源",
+      "brand": "Megasense",
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "系统控制器",
+      "brand": "Megasense",
+      "model": "控制OSI-D主机",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 56800.0,
+      "total_price": 56800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "数据线",
+      "brand": "Megasense",
+      "model": "Type-C",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光纤清洁器",
+      "brand": "Megasense",
+      "model": "QJ",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "光纤跳线",
+      "brand": "Megasense",
+      "model": "SC-FC-1m",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "法兰",
+      "brand": "Megasense",
+      "model": "FC",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他（U盘、出厂检验单、装箱单）",
+      "brand": "Megasense",
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "伴随服务（供货、运输、保险、装卸、安装、检测、调试、试运行、验收交付、培训、技术支持、软件升级、售后保修）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": 0.0,
+      "total_price": 0.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "河南久晤仪器设备有限公司",
+      "role": "winner",
+      "total_score": 95.8,
+      "rank": null,
+      "amount": 1119300.0
+    },
+    {
+      "package_no": "2",
+      "name": "郑州达航科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 358800.0
+    },
+    {
+      "package_no": "3",
+      "name": "武汉昊衡科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 776800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

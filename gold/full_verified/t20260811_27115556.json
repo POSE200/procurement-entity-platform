@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27115556",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东耕创信息科技有限公司).pdf",
+  "note": "单包1服务项目。概要品目列为空，category取HTML标的信息表『品目名称』列。单价947900元×1项=947900元来自中标人第1轮报价明细表附件（响应报价=合计=中标金额947,900.00元，一致）。注意：文件集内第1版《投标（响应）报价明细表》单价为949000元（初轮报价），与第1轮终报价947900不同，本标注以第1轮为准。HTML标的表『金额(元)』列本身为空，金额以附件为准。评分表『得分排名/推荐排名』列空，rank=null。复核修正：第1轮报价明细表栏位已逐列确认（最高限价949577.13元｜单价947900元｜数量1.0000｜项｜响应报价947900元｜合计947900元），与中标金额947,900.00元一致，原'OCR对位需视觉核验'待办已消除。",
+  "project": {
+    "buyer": "山东省公安厅机关",
+    "project_name": "交管总队济青南北两线传输网络运维",
+    "total_amount": 947900.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东耕创信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他运行维护服务",
+      "item_name": "山东省公安厅交管总队济青高速南北两线传输网络运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 947900.0,
+      "total_price": 947900.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东耕创信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.34,
+      "rank": null,
+      "amount": 947900.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津同创云科技术股份有限公司",
+      "role": "participant",
+      "total_score": 84.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东万拓通信工程有限公司",
+      "role": "participant",
+      "total_score": 81.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东欧运信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.99,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260304_26217439",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要「品目」列为空；明细表为「服务类」分节标题（按规范不得当品目），故 category 全为 null。中标结果仅A、B两包（794600+616220=1410820=总中标金额），招标文件载明项目预算2363350元含C包952530元，但本中标公告未列C包结果（疑未成交/另行公告）。公告与附件均无分项报价表、开标记录或评分表，items 只能给到包级总金额，quantity/unit/unit_price 无来源一律 null（招标文件车型表仅有日租金最高限价：越野、皮卡380元/天/辆、越野车234元/天/辆、越野车160元/天/辆，属最高限价而非成交单价，不得填入）。bidders 仅有2家中标人，无综合得分与排名可填。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "河北省地质矿产勘查开发局第六地质大队（河北省地质矿产勘查开发局航空测量应用中心）",
+    "project_name": "车辆租赁项目第二批",
+    "total_amount": 1410820.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "车辆租赁项目第二批A包",
+        "winner": "河北淼程汽车服务有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "车辆租赁项目第二批B包",
+        "winner": "石家庄嘉勋汽车租赁有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "车辆租赁项目第二批A包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 794600.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "车辆租赁项目第二批B包",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 616220.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "河北淼程汽车服务有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 794600.0
+    },
+    {
+      "package_no": "B",
+      "name": "石家庄嘉勋汽车租赁有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 616220.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

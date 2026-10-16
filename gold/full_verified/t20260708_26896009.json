@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260708_26896009",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广东省环境科学研究院）.pdf",
+  "note": "单包项目（合同包1）。概要品目列空，category取HTML主要标的信息表「品目名称」列=其他数据处理服务。附件报价明细表仅1条：单价3,264,200、数量1(项)、总价3,264,200.00，与中标金额3,264,200.00元（总中标金额￥326.420000万）一致。声明函OCR水印干扰严重，其中提及承接（制造商）企业为广州长弓软件有限公司，属中小企业声明内容，与中标供应商（广东省环境科学研究院）不同，未作字段使用。中国移动/易宝/翼迅三家的报价原文未给，amount=null；中国电信股份有限公司广东分公司资格性审查不通过（本项目专门面向中小企业），得分排名金额均null。综合得分与排名取自评分表得分排名列（明示1-4）。独立复核（0924）：全部字段逐项核对无误；复核修正：item_no由'1-1'改为'1-1-1'（附件为品目号1-1+序号1，与同批次口径一致）。",
+  "project": {
+    "buyer": "广东省生态环境监测中心（省中心本部）",
+    "project_name": "省生态环境厅生态环境数据处理运营（2026年）项目",
+    "total_amount": 3264200.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "省生态环境厅生态环境数据处理运营（2026年）项目",
+        "winner": "广东省环境科学研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他数据处理服务",
+      "item_name": "省生态环境厅生态环境数据处理运营（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 3264200.0,
+      "total_price": 3264200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东省环境科学研究院",
+      "role": "winner",
+      "total_score": 96.74,
+      "rank": 1,
+      "amount": 3264200.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 82.14,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州易宝信息技术有限公司",
+      "role": "participant",
+      "total_score": 66.9,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东翼迅信息科技有限公司",
+      "role": "participant",
+      "total_score": 59.84,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

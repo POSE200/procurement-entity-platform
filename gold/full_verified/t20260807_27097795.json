@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260807_27097795",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包项目，包号取附件'包(1)_开标（报价）一览表'等明示的包(1)；package_name取中标人报价明细表表头'采购包：机上实时任务规划及作业管理软件开发服务'。概要品目列空，category取HTML标的信息表'品目名称'列=行业应用软件开发服务。明细1条（中标人智人开源）：机上实时任务规划及作业管理软件开发服务，最高限价1500000元，单价1450000元×数量1.0000套=响应报价1450000元=总中标金额￥145.0000万，数学一致。OCR疑点需视觉核验：报价明细表列值断行交错（'1,450, 000.0 000 元 / 1.000 套 0'），已按最高限价1500000/单价1450000/数量1套重排，单价与响应报价数值相同。得分表'得分排名'列空，rank=null（含中标人）；'包(1)_开标（报价）一览表'OCR仅表头无数据，未中标供应商报价不可得，participant.amount=null。复核：OCR断行重排已由合计1450000、大写壹佰肆拾伍万元整、成交金额1,450,000.00三重互证成立；逐字段核对无误，无未决疑点。",
+  "project": {
+    "buyer": "空天信息大学(筹)",
+    "project_name": "空天信息大学（筹）机上实时任务规划及作业管理软件开发服务项目",
+    "total_amount": 1450000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "机上实时任务规划及作业管理软件开发服务",
+        "winner": "智人开源（北京）科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "机上实时任务规划及作业管理软件开发服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 1450000.0,
+      "total_price": 1450000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "智人开源（北京）科技有限公司",
+      "role": "winner",
+      "total_score": 86.75,
+      "rank": null,
+      "amount": 1450000.0
+    },
+    {
+      "package_no": "1",
+      "name": "龙存科技（北京）股份有限公司",
+      "role": "participant",
+      "total_score": 81.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东云智汇信息科技服务有限公司",
+      "role": "participant",
+      "total_score": 80.16,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

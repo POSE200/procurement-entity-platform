@@ -1,0 +1,226 @@
+{
+  "announcement_id": "t20260701_26849565",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:分项报价表.pdf",
+  "note": "单包但全文无采购包号（品目号前缀\"1-\"或为包号线索，不足以确证），package_no=null；品目取公告概要品目列完整路径（3条路径按末级名与标的信息表品目名称一一对应：其他信息安全设备→货物/设备/信息化设备/信息安全设备/其他信息安全设备，其他计算机软件→货物/无形资产/信息数据类无形资产/计算机软件/其他计算机软件，计算机设备和软件租赁服务→服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务）；货物类item的规格型号列原文为\"完全响应并满足招标文件要求\"（非真实型号），照抄；服务商1-11~1-13原文无品牌/规格型号列→null，其数量/单价取附件分项报价表（HTML表格3仅给金额）；附件OCR有水印字符串扰但单价/数量/总价清晰可读；13条之和6,980,000元与总中标金额698万一致。",
+  "project": {
+    "buyer": "广东省气象局",
+    "project_name": "广东“平安海洋”气象保障工程项目-信息安全体系建设（三期）",
+    "total_amount": 6980000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1-1",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "下一代安全网关",
+      "brand": "迪普",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 13,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 780000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-2",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "数据库安全防护系统",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-3",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "数据脱敏系统（静态）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-4",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "数据脱敏系统（动态）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 500000.0,
+      "total_price": 500000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-5",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "网络流量采集分发设备",
+      "brand": "迪普",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 300000.0,
+      "total_price": 300000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-6",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "网络准入管控系统",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-7",
+      "category": "货物/无形资产/信息数据类无形资产/计算机软件/其他计算机软件",
+      "item_name": "安全集中管控平台（一）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 900000.0,
+      "total_price": 900000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-8",
+      "category": "货物/无形资产/信息数据类无形资产/计算机软件/其他计算机软件",
+      "item_name": "安全集中管控平台（二）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 700000.0,
+      "total_price": 700000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-9",
+      "category": "货物/无形资产/信息数据类无形资产/计算机软件/其他计算机软件",
+      "item_name": "安全集中管控平台（三）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 640000.0,
+      "total_price": 640000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-10",
+      "category": "货物/设备/信息化设备/信息安全设备/其他信息安全设备",
+      "item_name": "安全集中管控平台（四）",
+      "brand": "观安",
+      "model": "完全响应并满足招标文件要求",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 460000.0,
+      "total_price": 460000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-11",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "虚拟化安全防护系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 400000.0,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-12",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "网络安全生命周期管理系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 350000.0,
+      "total_price": 350000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "1-13",
+      "category": "服务/商务服务/租赁服务（不带操作员）/计算机设备和软件租赁服务",
+      "item_name": "防病毒检测系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 850000.0,
+      "total_price": 850000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 87.3,
+      "rank": 1,
+      "amount": 6980000.0
+    },
+    {
+      "package_no": null,
+      "name": "广州广宽科技有限公司",
+      "role": "participant",
+      "total_score": 83.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广州云峰信息科技有限公司",
+      "role": "participant",
+      "total_score": 71.71,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广州领慧信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.62,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "广州粤通通信网络技术有限公司",
+      "role": "participant",
+      "total_score": 58.25,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

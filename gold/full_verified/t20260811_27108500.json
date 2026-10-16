@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260811_27108500",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司东莞分公司）.pdf",
+  "note": "附件报价明细OCR的单价/总价为1,849,266.97，与HTML不一致；HTML两处（总成交金额￥184.7267万、中标金额1,847,266.97元）相互印证且与万元换算舍入自洽（184.726697万→184.7267万），判定附件OCR为8/7单字错讹，item金额采用HTML值1,847,266.97（复核确认，原需视觉核验疑点据此定案）。quantity=1、unit=项来自附件『1 (项)』。",
+  "project": {
+    "buyer": "东莞市公安局厚街分局",
+    "project_name": "2026年厚街二期科技护城墙及零星监控工程维护项目",
+    "total_amount": 1847266.97,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年厚街二期科技护城墙及零星监控工程维护项目",
+        "winner": "中国移动通信集团广东有限公司东莞分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术服务",
+      "item_name": "2026年厚街二期科技护城墙及零星监控工程维护项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1847266.97,
+      "total_price": 1847266.97
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司东莞分公司",
+      "role": "winner",
+      "total_score": 91.69,
+      "rank": 1,
+      "amount": 1847266.97
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司东莞分公司",
+      "role": "participant",
+      "total_score": 58.29,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市北邮信息科技有限公司",
+      "role": "participant",
+      "total_score": 34.65,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "东莞市赛德网络科技有限公司",
+      "role": "participant",
+      "total_score": 33.5,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

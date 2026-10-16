@@ -1,0 +1,411 @@
+{
+  "announcement_id": "t20260508_26530948",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:关于符合本国产品标准的声明函_2.pdf",
+  "note": "两包。概要品目列空，HTML标的表无品目名称列，category=null。HTML标的表只给数量和单价，total_price由单价×数量推得；包一13项之和=1,297,000元、包二17项之和=882,796元，与表格1两包中标报价完全一致，两包之和2,179,796元=总中标金额￥217.979600万元。包1/包2中标人按表格1序号顺序与标的表「（包一）/（包二）」标项对应（推断已在note声明）。序号15标的名称HTML为「电动固定翼装TJ学套装」（OCR噪声），按附件声明函更正为「电动固定翼装调教学套装」。序号25师资研修班规格型号列原文即「5天」，原样照抄。评审表无排名列，rank=null。",
+  "project": {
+    "buyer": "昆玉职业技术学院",
+    "project_name": "昆玉职业技术学院智慧水利工程应用实训基地设备采购项目",
+    "total_amount": 2179796.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "昆玉职业技术学院智慧水利工程应用实训基地设备采购项目（包一）",
+        "winner": "新疆迅腾科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "昆玉职业技术学院智慧水利工程应用实训基地设备采购项目（包二）",
+        "winner": "天津远洋电子集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "BIM 设计终端",
+      "brand": "慧天",
+      "model": "慧天 M5-A098",
+      "quantity": 51,
+      "unit": "套",
+      "unit_price": 9000.0,
+      "total_price": 459000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "双人学生桌椅",
+      "brand": "和瑞丰",
+      "model": "定制",
+      "quantity": 25,
+      "unit": "套",
+      "unit_price": 1000.0,
+      "total_price": 25000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "静音机柜",
+      "brand": "辉腾",
+      "model": "H3.6022",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "3D打印机",
+      "brand": "创想三维",
+      "model": "GS-01",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 15000.0,
+      "total_price": 15000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": null,
+      "item_name": "交换机",
+      "brand": "华为",
+      "model": "S5735-L48T4X-A1",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 4000.0,
+      "total_price": 8000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": null,
+      "item_name": "BIM模型创建与深化设计",
+      "brand": "品茗",
+      "model": "V3.3",
+      "quantity": 15,
+      "unit": "节点",
+      "unit_price": 6400.0,
+      "total_price": 96000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": null,
+      "item_name": "BIM施工场地布置软件",
+      "brand": "品茗",
+      "model": "V3.3",
+      "quantity": 20,
+      "unit": "节点",
+      "unit_price": 3400.0,
+      "total_price": 68000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": null,
+      "item_name": "水利工程BIM建模软件",
+      "brand": "蓝山",
+      "model": "V1.0",
+      "quantity": 5,
+      "unit": "节点",
+      "unit_price": 9800.0,
+      "total_price": 49000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": null,
+      "item_name": "激光点云综合处理软件（25 节点）",
+      "brand": "南方测绘",
+      "model": "SouthLidarProV2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "10",
+      "category": null,
+      "item_name": "航测一体化 处理软件（25 节点）",
+      "brand": "南方测绘",
+      "model": "SouthUAVV2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 178000.0,
+      "total_price": 178000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "11",
+      "category": null,
+      "item_name": "装配式建筑构件生产流水线沙盘（动态-带施工现场）",
+      "brand": "慕竹",
+      "model": "M005",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "12",
+      "category": null,
+      "item_name": "施工节点构造模型（36个）",
+      "brand": "慕竹",
+      "model": "M105",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 126000.0,
+      "total_price": 126000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "13",
+      "category": null,
+      "item_name": "六边桌椅",
+      "brand": "和瑞丰",
+      "model": "定制",
+      "quantity": 8,
+      "unit": "套",
+      "unit_price": 2500.0,
+      "total_price": 20000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "14",
+      "category": null,
+      "item_name": "无人机装调实训库",
+      "brand": "远洋航空",
+      "model": "ZT-EM330",
+      "quantity": 12,
+      "unit": "套",
+      "unit_price": 18800.0,
+      "total_price": 225600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "15",
+      "category": null,
+      "item_name": "电动固定翼装调教学套装",
+      "brand": "远洋航空",
+      "model": "ZT-A5",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 3860.0,
+      "total_price": 7720.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "16",
+      "category": null,
+      "item_name": "电动固定翼飞行教学套装",
+      "brand": "MS",
+      "model": "翠鸟",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 4050.0,
+      "total_price": 8100.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "17",
+      "category": null,
+      "item_name": "直升机教学实训套装",
+      "brand": "FIYWING",
+      "model": "FW450L",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 10800.0,
+      "total_price": 21600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "18",
+      "category": null,
+      "item_name": "竞速穿越机",
+      "brand": "BETAFPV",
+      "model": "Aquila 20",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2600.0,
+      "total_price": 10400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "19",
+      "category": null,
+      "item_name": "UAV多功能故障诊断平台",
+      "brand": "远洋航空",
+      "model": "ZT-MFD01",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 29800.0,
+      "total_price": 119200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "20",
+      "category": null,
+      "item_name": "无人机嵌入式编程开发实验 箱",
+      "brand": "远洋航空",
+      "model": "ZT-KF1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 36800.0,
+      "total_price": 36800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "21",
+      "category": null,
+      "item_name": "高性能充电器",
+      "brand": "HOTA",
+      "model": "F6 Ultra",
+      "quantity": 4,
+      "unit": "套",
+      "unit_price": 2500.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "22",
+      "category": null,
+      "item_name": "专业电池防爆箱",
+      "brand": "远洋航空",
+      "model": "大号",
+      "quantity": 2,
+      "unit": "个",
+      "unit_price": 500.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "23",
+      "category": null,
+      "item_name": "飞行训练套装",
+      "brand": "远洋航空",
+      "model": "ZT-EM2000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 45000.0,
+      "total_price": 45000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "24",
+      "category": null,
+      "item_name": "多功能飞行平台围栏",
+      "brand": "远洋航空",
+      "model": "ZT-EMF",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 41600.0,
+      "total_price": 41600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "25",
+      "category": null,
+      "item_name": "师资研修班",
+      "brand": "远洋航空",
+      "model": "5天",
+      "quantity": 2,
+      "unit": "人",
+      "unit_price": 3500.0,
+      "total_price": 7000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "26",
+      "category": null,
+      "item_name": "无人机全产业链虚拟仿真教学系统",
+      "brand": "远洋航空",
+      "model": "ZT-VS 2.0",
+      "quantity": 1,
+      "unit": "点位",
+      "unit_price": 57800.0,
+      "total_price": 57800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "27",
+      "category": null,
+      "item_name": "无人机全产业链虚拟仿真教学系统（航拍测绘系统）",
+      "brand": "远洋航空",
+      "model": "ZT-VS 2.0",
+      "quantity": 25,
+      "unit": "点位",
+      "unit_price": 8800.0,
+      "total_price": 220000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "28",
+      "category": null,
+      "item_name": "航拍无人机",
+      "brand": "DJI",
+      "model": "Mavic4Pro畅飞套装",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 17888.0,
+      "total_price": 17888.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "29",
+      "category": null,
+      "item_name": "小型航拍无人机",
+      "brand": "DJI",
+      "model": "Air3S畅飞套装（带屏遥控器）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 9988.0,
+      "total_price": 9988.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "30",
+      "category": null,
+      "item_name": "巡检无人机",
+      "brand": "DJI",
+      "model": "Matrice 4T旗舰套装",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 43100.0,
+      "total_price": 43100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "新疆迅腾科技有限公司",
+      "role": "winner",
+      "total_score": 98.23,
+      "rank": null,
+      "amount": 1297000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津远洋电子集团有限公司",
+      "role": "winner",
+      "total_score": 92.29,
+      "rank": null,
+      "amount": 882796.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260701_26854918",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空，category 取 null。3 个标包金额合计 9,869,000 元与总中标金额 ￥986.9 万一致。附件为中小企业声明函、业绩类材料（5 个无文本层待OCR、1 个 zip 跳过、业绩PDF仅前30页），未见分项报价明细，服务类标的不填数量/单价。bidders 仅含 3 家中标人，HTML 无评分表/开标记录表，得分与排名不可得。复核修正：bidders 补 package_no 字段。",
+  "project": {
+    "buyer": "德州市大数据局",
+    "project_name": "2026年度德州市电子政务云平台服务采购项目",
+    "total_amount": 9869000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "德州国鑫数字产业发展集团有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "中电云计算技术有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "德州易泰数据湖信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度德州市电子政务云平台服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2590000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度德州市电子政务云平台服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6489000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度德州市电子政务云平台服务采购项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 790000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "德州国鑫数字产业发展集团有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2590000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中电云计算技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 6489000.0
+    },
+    {
+      "package_no": "3",
+      "name": "德州易泰数据湖信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 790000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

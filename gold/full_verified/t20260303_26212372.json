@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260303_26212372",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列与标的信息表均无品目列，category=null；标的信息表仅给标的名称与服务要求，无单价/数量/总价线索，金额字段留null；package_no 由HTML评分表标项号/序号推断（原文无明示包号）；招标文件.doc为压缩容器被跳过未解析。",
+  "project": {
+    "buyer": "大连市高中等学校招生考试委员会办公室",
+    "project_name": "2026年大连市标准化考点及部分信息化设备维修服务项目",
+    "total_amount": 2910000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "大连国讯科技发展有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "大连市标准化考点设备维修服务部分",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "大连市部分信息化设备维修服务部分",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "大连国讯科技发展有限公司",
+      "role": "winner",
+      "total_score": 94.6,
+      "rank": 1,
+      "amount": 2910000.0
+    },
+    {
+      "package_no": "1",
+      "name": "遇见未来（大连）数字科技有限公司",
+      "role": "participant",
+      "total_score": 86.48,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "辽宁五德现代供应链有限公司",
+      "role": "participant",
+      "total_score": 67.12,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "大连东维电子有限公司",
+      "role": "participant",
+      "total_score": 62.61,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

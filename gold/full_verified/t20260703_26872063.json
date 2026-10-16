@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260703_26872063",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列为空，标的信息表亦无品目名称列，category=null；无明细报价附件，items 仅能从HTML标的信息表取标的名称，数量/单价/总价无出处填null；两包中标金额之和696800+899000=1595800与总中标金额159.58万元一致；无投标（未中标）主体信息，bidders仅中标人。",
+  "project": {
+    "buyer": "临沂市人民政府办公室",
+    "project_name": "热线信息化系统智能化升级项目",
+    "total_amount": 1595800.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "热线信息化系统智能化升级",
+        "winner": "山东亚微软件股份有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "热线信息化系统智能化升级",
+        "winner": "浪潮云信息技术股份公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "热线信息化系统智能化升级",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "热线信息化系统智能化升级",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东亚微软件股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 696800.0
+    },
+    {
+      "package_no": "B",
+      "name": "浪潮云信息技术股份公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 899000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

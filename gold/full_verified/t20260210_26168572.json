@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260210_26168572",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个标段，包号以中文『一标段/七标段』明示（package_no 取『一』『七』）。总中标金额 50.85 万元 = 一标段 480,000 + 七标段 28,500，一致。品目概要列仅给两个品目代码（C16070300,C16070200），无法与两行标的逐行对应，category 退用标的信息表『品目名称』列（软件运维服务/硬件运维服务）；两个代码与品目名称的对应关系需视觉核验。表格3/表格4 为分包评审结果（表格3=七标段、表格4=一标段，按表内含各标段中标人推断）；『备注』列数值（1/2/3）为排名，明示故填 rank；数量列原文为 1，单价=总价=包中标金额。标的信息行与标段按金额一一对应确定 package_no。OCR 声明函中『北京数字冰信息技术』缺『雹』字，系 OCR 错字，以 HTML 全称为准。附件为招标文件正文与声明函，未提供额外字段值。",
+  "project": {
+    "buyer": "银川市智慧城市运营管理指挥中心",
+    "project_name": "银川市智慧城市运营管理指挥中心2026年度运维保障项目（一、七标段）",
+    "total_amount": 508500.0,
+    "packages": [
+      {
+        "package_no": "一",
+        "package_name": "银川市综合信息集成管理平台建设项目（第一批）运维保障",
+        "winner": "北京数字冰雹信息技术股份有限公司"
+      },
+      {
+        "package_no": "七",
+        "package_name": "城运中心空调制冷设备运维服务项目",
+        "winner": "宁夏华鑫阳光科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一",
+      "item_no": null,
+      "category": "软件运维服务",
+      "item_name": "银川市综合信息集成管理平台建设项目（第一批）运维保障",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 480000.0,
+      "total_price": 480000.0
+    },
+    {
+      "package_no": "七",
+      "item_no": null,
+      "category": "硬件运维服务",
+      "item_name": "城运中心空调制冷设备运维服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 28500.0,
+      "total_price": 28500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一",
+      "name": "北京数字冰雹信息技术股份有限公司",
+      "role": "winner",
+      "total_score": 75.6,
+      "rank": 1,
+      "amount": 480000.0
+    },
+    {
+      "package_no": "一",
+      "name": "宁夏杰赛科技有限公司",
+      "role": "participant",
+      "total_score": 46.14,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "一",
+      "name": "宁夏蜃景未来信息科技有限公司",
+      "role": "participant",
+      "total_score": 32.5,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "七",
+      "name": "宁夏华鑫阳光科技有限公司",
+      "role": "winner",
+      "total_score": 76.8,
+      "rank": 1,
+      "amount": 28500.0
+    },
+    {
+      "package_no": "七",
+      "name": "银川浴洋隆制冷设备有限公司",
+      "role": "participant",
+      "total_score": 44.56,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "七",
+      "name": "石嘴山市星网联科技有限公司",
+      "role": "participant",
+      "total_score": 44.46,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

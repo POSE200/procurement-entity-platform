@@ -1,0 +1,251 @@
+{
+  "announcement_id": "t20260803_27062795",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东世纪读秀信息科技有限公司).pdf,报价明细表(第1轮-上海卓越睿新网络科技有限公司).pdf",
+  "note": "复核修正：两包对应关系已复核确认，无需视觉核验——表格1世纪读秀98.68万=评审支付表A包成交金额98.68万元且其报价明细附件服务范围为'采购项目1'、包1中小企业声明函承接企业为世纪读秀；表格2卓越睿新38.9万=评审支付表B包成交金额38.9万元且评分表（表格6）最高分79.66匹配。两包中标明细来自两家中标人报价明细表（第1轮）：包1三项855000+120000+11800=986800元、包2三项192000+183800+13200=389000元，合计1375800元=总中标金额137.58万元，单价×数量均一致。概要品目列空，category取HTML主要标的信息表（表格3/4）品目名称列'教育课程研究与开发服务'。评分表得分排名/推荐排名列原文即为空→rank=null（禁止按行序推排名）；未中标原因表序号为列举顺序非排名。附件计量单位OCR作'⻔'，按'门'转写。开标（报价）一览表为空白模板，未中标供应商报价不可得→amount=null。",
+  "project": {
+    "buyer": "山东劳动职业技术学院",
+    "project_name": "山东劳动职业技术学院2026年度智慧课程建设服务采购项目",
+    "total_amount": 1375800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年度智慧课程建设服务采购项目1",
+        "winner": "山东世纪读秀信息科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年度智慧课程建设服务采购项目2",
+        "winner": "上海卓越睿新网络科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "智慧课程建设",
+      "brand": null,
+      "model": null,
+      "quantity": 19,
+      "unit": "门",
+      "unit_price": 45000.0,
+      "total_price": 855000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教育课程研究与开发服务",
+      "item_name": "工学一体化课堂实录",
+      "brand": null,
+      "model": null,
+      "quantity": 3,
+      "unit": "门",
+      "unit_price": 40000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教育课程研究与开发服务",
+      "item_name": "课程建设培训",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 11800.0,
+      "total_price": 11800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "教育课程研究与开发服务",
+      "item_name": "在线精品课程资源建设",
+      "brand": null,
+      "model": null,
+      "quantity": 8,
+      "unit": "门",
+      "unit_price": 24000.0,
+      "total_price": 192000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "教育课程研究与开发服务",
+      "item_name": "智慧课程建设",
+      "brand": null,
+      "model": null,
+      "quantity": 8,
+      "unit": "门",
+      "unit_price": 22975.0,
+      "total_price": 183800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": "教育课程研究与开发服务",
+      "item_name": "课程建设培训",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 13200.0,
+      "total_price": 13200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东世纪读秀信息科技有限公司",
+      "role": "winner",
+      "total_score": 82.03,
+      "rank": null,
+      "amount": 986800.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东智慧粒子教育科技有限公司",
+      "role": "participant",
+      "total_score": 79.51,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "厦门网中网软件有限公司",
+      "role": "participant",
+      "total_score": 78.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 75.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京慕华信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "上海卓越睿新网络科技有限公司",
+      "role": "participant",
+      "total_score": 72.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东千禧电器有限公司",
+      "role": "participant",
+      "total_score": 69.23,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东学而赛教育咨询有限公司",
+      "role": "participant",
+      "total_score": 62.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东星火启智信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "上海卓越睿新网络科技有限公司",
+      "role": "winner",
+      "total_score": 79.66,
+      "rank": null,
+      "amount": 389000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东智慧粒子教育科技有限公司",
+      "role": "participant",
+      "total_score": 78.89,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "厦门网中网软件有限公司",
+      "role": "participant",
+      "total_score": 76.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京华视风行集团股份有限公司",
+      "role": "participant",
+      "total_score": 76.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京慕华信息科技有限公司",
+      "role": "participant",
+      "total_score": 73.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东同正信息技术有限公司",
+      "role": "participant",
+      "total_score": 67.11,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东星火启智信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南博育电子信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东千浪信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

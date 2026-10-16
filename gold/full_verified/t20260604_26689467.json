@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260604_26689467",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两包各一家中标、各3家候选人（排序列明示rank，participant的amount取评审报价）；第二张中标表在HTML中未带『第2包』字样，包号1/2由HTML中标信息与候选人排序表的对应关系推断（每包中标人得分与排序表第1名一致）；概要品目列与标的信息表均无品目列，category=null，标的信息表『服务类』为分节标题不计品目；每包仅一条服务标的且只有包级中标金额，按口径不填quantity=1/unit_price=总价，quantity/unit/unit_price=null，total_price=该包中标金额；附件（中小企业声明函.jpg、招标文件.docx）均跳过未解析，无额外明细；总中标金额￥255.468万与两包之和2,554,680元一致。复核：第2包映射经表格4排序1与表格2中标人（联通数字95.8771分）互证；participant的amount取评审报价成立——本篇两包中标人的评审报价与中标金额完全相等（138.95/116.518万），说明该列即投标报价、无扣除；排序列1/2/3为明示；确认verified。",
+  "project": {
+    "buyer": "天津市公安局东丽分局机关",
+    "project_name": "2026年天津市公安局东丽分局视频监控网设备运维项目",
+    "total_amount": 2554680.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津市中环系统工程有限责任公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "联通数字科技有限公司天津市分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "1022根视频监控杆体及相关软硬件设备运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1389500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "1014根视频监控杆体及相关软硬件设备运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1165180.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津市中环系统工程有限责任公司",
+      "role": "winner",
+      "total_score": 98.8,
+      "rank": 1,
+      "amount": 1389500.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津星光神州数码科技发展有限公司",
+      "role": "participant",
+      "total_score": 78.4967,
+      "rank": 2,
+      "amount": 1404000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中际（天津）科技发展有限公司",
+      "role": "participant",
+      "total_score": 71.125,
+      "rank": 3,
+      "amount": 1400000.0
+    },
+    {
+      "package_no": "2",
+      "name": "联通数字科技有限公司天津市分公司",
+      "role": "winner",
+      "total_score": 95.8771,
+      "rank": 1,
+      "amount": 1165180.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国铁塔股份有限公司天津市分公司",
+      "role": "participant",
+      "total_score": 78.6615,
+      "rank": 2,
+      "amount": 1168000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津广拓工程咨询服务有限公司",
+      "role": "participant",
+      "total_score": 71.6,
+      "rank": 3,
+      "amount": 754702.4
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

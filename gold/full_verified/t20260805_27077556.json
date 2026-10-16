@@ -1,0 +1,186 @@
+{
+  "announcement_id": "t20260805_27077556",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "概要品目列空，品目逐条取HTML品目名称列（1-1基础环境集成实施服务，1-2至1-9信息安全设备、其中1-6为信息化设备）。items按报价明细附件9条（服务项1-1单价8,446,425元×1项，货物项1-2至1-9与HTML表2一致）；9条总价之和=10,973,375.00元，与总中标金额￥1097.337500万元及表1一致。复核说明：附件声明函内含1-1服务项的3行细分（软件开发服务/数据融合中心4,185,295元、服务器设备3,963,840元、网络接入服务297,290元，合计恰为8,446,425元），该表出自中小企业声明函的组件构成表而非报价明细表，gold按报价明细附件口径输出9条未再拆分。winner为联合体，名称按HTML原样保留。bidders的rank取得分排名列，第3-6名推荐排名空。",
+  "project": {
+    "buyer": "广东省广州市中级人民法院",
+    "project_name": "广东省广州市中级人民法院2026年信息化建设项目—主体实施部分",
+    "total_amount": 10973375.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省广州市中级人民法院2026年信息化建设项目—主体实施部分",
+        "winner": "中国移动通信集团广东有限公司(联合体成员：广州数据集团有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境集成实施服务",
+      "item_name": "2026年信息化建设项目主体实施部分",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8446425.0,
+      "total_price": 8446425.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——万兆防火墙（万兆IPS（带防毒））",
+      "brand": "华为",
+      "model": "USG6685F",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 198190.0,
+      "total_price": 396380.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——数据安全交换前后置机设备",
+      "brand": "奇安信网神",
+      "model": "奇安信网神数据安全交换平台 V1.0 DSE-Z8000-FT10M-PA",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": 227922.5,
+      "total_price": 455845.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——日志审计设备",
+      "brand": "奇安信网神",
+      "model": "奇安信网神 SecFox 日志收集与分析系统 V5.0 LAS-PKO3M-PA",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 138735.0,
+      "total_price": 138735.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——数据库审计设备",
+      "brand": "奇安信网神",
+      "model": "奇安信网神数据库审计与防护系统 V6.0 DAS3500-HG-XC20-PA",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 128820.0,
+      "total_price": 128820.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "信息化设备",
+      "item_name": "信息化设备——漏洞扫描设备",
+      "brand": "绿盟",
+      "model": "绿盟网络安全漏洞扫描系统RSAS（RSASNX3-HFD）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 128820.0,
+      "total_price": 128820.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——WAF设备",
+      "brand": "绿盟",
+      "model": "绿盟WEB应用防护系统WAF（WAFNX5-HH4000）",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 168465.0,
+      "total_price": 336930.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——威胁监测分析系统",
+      "brand": "奇安信网神",
+      "model": "奇安信网神威胁监测与分析系统 V4.0，平台型号为 TY-TSS10000-A92G-CJ-PA，探针型号为 TY-TSS10000-S91G-MP-PA",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 346840.0,
+      "total_price": 346840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "信息安全设备",
+      "item_name": "信息安全设备——安全卫士设备（基于人工智能技术防护）",
+      "brand": "奇安信网神",
+      "model": "奇安信 AI 安全运营一体机 S120M6",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 594580.0,
+      "total_price": 594580.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司(联合体成员：广州数据集团有限公司)",
+      "role": "winner",
+      "total_score": 85.77,
+      "rank": 1,
+      "amount": 10973375.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市网迅信息技术有限公司",
+      "role": "participant",
+      "total_score": 37.28,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州知行空间智能科技有限公司",
+      "role": "participant",
+      "total_score": 30.26,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州科汇信息技术有限公司",
+      "role": "participant",
+      "total_score": 27.99,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东致盛信息科技有限公司",
+      "role": "participant",
+      "total_score": 23.68,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州沃龙信息技术有限公司",
+      "role": "participant",
+      "total_score": 20.67,
+      "rank": 6,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

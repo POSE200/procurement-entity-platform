@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260708_26896542",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两标项项目：标项1「国家企业信用信息公示系统（五期）项目」中标浙江汇信科技有限公司1,538,800元，标项2「国家企业信用信息公示系统（五期）项目监理」中标杭州众诚咨询监理有限公司38,800元，两标项之和1,577,600元=总中标金额￥157.760000万，一致。package_no按表格1序号1/2推断（原文为标项序号，非明示合同包号）。附件仅中小企业声明函、本国产品标准声明函与招标文件发布稿，无分项报价内容，单价/数量/品牌/型号原文均未给出，且为服务类总价标的，按口径不填quantity=1、unit_price=总价，仅填total_price；category=null（概要品目列空，表格2无品目名称列）。未中标投标人信息原文未公布，bidders仅两名中标人。综合得分/排名原文未给，null（禁止中标即第1推定）。独立复核（0924）：全部字段逐项核对无误。",
+  "project": {
+    "buyer": "浙江省市场监督管理局（本级）",
+    "project_name": "国家企业信用信息公示系统（五期）项目",
+    "total_amount": 1577600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "国家企业信用信息公示系统（五期）项目",
+        "winner": "浙江汇信科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "国家企业信用信息公示系统（五期）项目监理",
+        "winner": "杭州众诚咨询监理有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "国家企业信用信息公示系统（五期）项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1538800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "国家企业信用信息公示系统（五期）项目监理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 38800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浙江汇信科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1538800.0
+    },
+    {
+      "package_no": "2",
+      "name": "杭州众诚咨询监理有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 38800.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "announcement_id": "t20260804_27070085",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf",
+  "note": "概要品目列为空，category 取标的信息表品目名称列「平台运营服务」（22条明细均同，品目号均为1-1）；item_name 照抄采购标的列（考务线路租赁服务/云资源和智能服务器租赁服务/运行维护服务/运营支撑保障服务），每条明细的更细名称（如云主机CPU、高考保密室专线）在服务要求列，无对应schema字段故未单列；数量/单位/单价/总价取自报价明细附件；22条明细合计6,537,694元=总额，数学自查通过（每条单价×数量=总价均核验一致）；评审表得分排名列明示，rank 据此填写。",
+  "project": {
+    "buyer": "广东省教育考试院",
+    "project_name": "广东省教育考试考务综合管理平台运维运营服务（2026-2027年）项目",
+    "total_amount": 6537694.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省教育考试考务综合管理平台运维运营服务（2026-2027年）项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 360,
+      "unit": "核",
+      "unit_price": 756.0,
+      "total_price": 272160.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 880,
+      "unit": "G",
+      "unit_price": 96.0,
+      "total_price": 84480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 15050,
+      "unit": "G",
+      "unit_price": 3.0,
+      "total_price": 45150.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 400,
+      "unit": "T",
+      "unit_price": 160.0,
+      "total_price": 64000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 42960.0,
+      "total_price": 42960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 36600.0,
+      "total_price": 36600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 198000.0,
+      "total_price": 198000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "云资源和智能服务器租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 200,
+      "unit": "路",
+      "unit_price": 960.0,
+      "total_price": 192000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 543,
+      "unit": "条",
+      "unit_price": 4224.0,
+      "total_price": 2293632.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 126,
+      "unit": "条",
+      "unit_price": 4224.0,
+      "total_price": 532224.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "条",
+      "unit_price": 108000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 2,
+      "unit": "条",
+      "unit_price": 6336.0,
+      "total_price": 12672.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 21,
+      "unit": "条",
+      "unit_price": 6336.0,
+      "total_price": 133056.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "条",
+      "unit_price": 18960.0,
+      "total_price": 18960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "条",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "考务线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 106,
+      "unit": "张",
+      "unit_price": 990.0,
+      "total_price": 104940.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运行维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 440700.0,
+      "total_price": 440700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运营支撑保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 98400.0,
+      "total_price": 98400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运营支撑保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 701000.0,
+      "total_price": 701000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运营支撑保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 983260.0,
+      "total_price": 983260.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运营支撑保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 83000.0,
+      "total_price": 83000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "平台运营服务",
+      "item_name": "运营支撑保障服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 68500.0,
+      "total_price": 68500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 95.72,
+      "rank": 1,
+      "amount": 6537694.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 79.33,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州像素数据技术股份有限公司",
+      "role": "participant",
+      "total_score": 50.7,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州云积软件技术有限公司",
+      "role": "participant",
+      "total_score": 46.72,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州浩传网络科技有限公司",
+      "role": "participant",
+      "total_score": 31.62,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

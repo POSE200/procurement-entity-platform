@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260302_26210487",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "公告概要品目列为空，category=null；唯一附件为招标文件（2.5发布稿---地下水环境监测招标文件.docx），其中分项报价表仅为空白投标文件格式模板（无实际品牌/型号/数量/单价数据），故分项字段全部置空，无OCR待补情形；两个标项（包1、包2）各一条item，item级total_price取结果公告表格1该包中标金额（原文标注为'报价'），包1报价10,150,000元+包2报价1,758,000元=11,908,000元，与总中标金额￥1190.80万一致；服务类标的无数量/单价，按口径不填quantity=1、unit_price=总价；bidders仅有两家中标人（附件为招标文件，无未中标主体名单，HTML废标表为空）。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "山西省生态环境监测和应急保障中心(山西省生态环境科学研究院）",
+    "project_name": "山西省地下水环境监测网络体系与监测能力建设项目",
+    "total_amount": 11908000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "山西省地下水环境监测网络体系与监测能力建设项目",
+        "winner": "山西低碳环保产业集团有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "山西省地下水环境监测网络体系与监测能力建设质量控制项目",
+        "winner": "山西省生态环境规划和技术研究院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "山西省地下水环境监测网络体系与监测能力建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 10150000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "山西省地下水环境监测网络体系与监测能力建设质量控制项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1758000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西低碳环保产业集团有限公司",
+      "role": "winner",
+      "total_score": 93.44,
+      "rank": null,
+      "amount": 10150000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山西省生态环境规划和技术研究院",
+      "role": "winner",
+      "total_score": 86.39,
+      "rank": null,
+      "amount": 1758000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

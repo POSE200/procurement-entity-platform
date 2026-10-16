@@ -1,0 +1,138 @@
+{
+  "announcement_id": "t20260303_26213769",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf",
+  "note": "单包（附件名明示包1）；概要品目列为空，category取标的信息表品目名称列原文『A02061504 不间断电源』（含编号前缀，照抄）；明细7行的『响应报价』列被网页模板代码污染不可读，各item总价按单价×数量唯一互推（7200+24000+249600+6300+10900+47100+14890=359990元，与总中标金额及中标人评审价格合计359,990.00元完全一致）；技术服务行型号原文为『/』，记null；明细行原文无序号，item_no=null；评审情况表PDF文字为叠字OCR（序序号号），按语义解读；第一/二/三中标候选人明示排名1/2/3；中标人得分未见，total_score=null。",
+  "project": {
+    "buyer": "四川省成都市人民检察院",
+    "project_name": "成都市人民检察院中心机房和安防系统UPS设备维修及电池更换采购项目",
+    "total_amount": 359990.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "四川尚嘉阳科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "监控模块",
+      "brand": "易事特",
+      "model": "EA66-MM",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 7200.0,
+      "total_price": 7200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "功率模块",
+      "brand": "易事特",
+      "model": "EA66PM25",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 24000.0,
+      "total_price": 24000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "通信用阀控式密封铅酸蓄电池1",
+      "brand": "易事特",
+      "model": "GM300-2",
+      "quantity": 480,
+      "unit": "个",
+      "unit_price": 520.0,
+      "total_price": 249600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "配电柜",
+      "brand": "正禹",
+      "model": "XL-21",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 6300.0,
+      "total_price": 6300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "电线",
+      "brand": "美河",
+      "model": "BVR-120mm²",
+      "quantity": 100,
+      "unit": "米",
+      "unit_price": 109.0,
+      "total_price": 10900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "通信用阀控式密封铅酸蓄电池2",
+      "brand": "易事特",
+      "model": "NP100-12",
+      "quantity": 60,
+      "unit": "个",
+      "unit_price": 785.0,
+      "total_price": 47100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "A02061504 不间断电源",
+      "item_name": "技术服务",
+      "brand": "尚嘉阳",
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 14890.0,
+      "total_price": 14890.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川尚嘉阳科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": 1,
+      "amount": 359990.0
+    },
+    {
+      "package_no": "1",
+      "name": "四川锦邦众治照明科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 2,
+      "amount": 362500.2
+    },
+    {
+      "package_no": "1",
+      "name": "四川省频兰科技发展有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": 3,
+      "amount": 363300.8
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "announcement_id": "t20260511_26545827",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:招标文件13-20包.7z",
+  "note": "包号-中标人映射依据附件各包招标文件分包标的表及中小企业/本国产品声明函（13包=航天航宇、14包=思维科、15包=森信、16包=经纬致用、17包=浩宇、18包=广联达、20包=万测）；19包招标文件因超长被丢弃，19包=新道科技系依据其预算80万元与唯一剩余中标人推断；公告概要品目为空且HTML无品目列，category全null；数量列原文未给单位，unit=null；各包明细合计与中标金额相符，八包合计1672.28万元=总中标金额。",
+  "project": {
+    "buyer": "北京建筑大学",
+    "project_name": "2512-110115-04-03-617537韧性城市建设创新平台集群设备更新项目",
+    "total_amount": 16722800.0,
+    "packages": [
+      {
+        "package_no": "13",
+        "package_name": null,
+        "winner": "北京航天航宇实验设备科技有限公司"
+      },
+      {
+        "package_no": "14",
+        "package_name": null,
+        "winner": "北京思维科系统科技有限公司"
+      },
+      {
+        "package_no": "15",
+        "package_name": null,
+        "winner": "西安森信科技有限公司"
+      },
+      {
+        "package_no": "16",
+        "package_name": null,
+        "winner": "北京经纬致用科技有限公司"
+      },
+      {
+        "package_no": "17",
+        "package_name": null,
+        "winner": "北京浩宇天地测绘科技发展有限公司"
+      },
+      {
+        "package_no": "18",
+        "package_name": null,
+        "winner": "广联达科技股份有限公司"
+      },
+      {
+        "package_no": "19",
+        "package_name": null,
+        "winner": "新道科技股份有限公司"
+      },
+      {
+        "package_no": "20",
+        "package_name": null,
+        "winner": "深圳万测试验设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "13",
+      "item_no": null,
+      "category": null,
+      "item_name": "泡沫沥青跨尺度数据采集与性能试验机",
+      "brand": null,
+      "model": "HY-LS90",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1820000.0,
+      "total_price": 1820000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": null,
+      "category": null,
+      "item_name": "高分子有机材料同步热分析仪",
+      "brand": null,
+      "model": "HY-TSS",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1856000.0,
+      "total_price": 1856000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": null,
+      "category": null,
+      "item_name": "高分子有机材料元素红外光谱仪",
+      "brand": null,
+      "model": "HY-EAS",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1383000.0,
+      "total_price": 1383000.0
+    },
+    {
+      "package_no": "13",
+      "item_no": null,
+      "category": null,
+      "item_name": "集成数字孪生功能的建筑垃圾再生沥青水敏感测试仪",
+      "brand": null,
+      "model": "HY-LNMR",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 621000.0,
+      "total_price": 621000.0
+    },
+    {
+      "package_no": "14",
+      "item_no": null,
+      "category": null,
+      "item_name": "交通枢纽智能决策动态沙盘创新教学平台",
+      "brand": null,
+      "model": "AR-Table V2.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 595000.0,
+      "total_price": 595000.0
+    },
+    {
+      "package_no": "14",
+      "item_no": null,
+      "category": null,
+      "item_name": "多通道交通枢纽虚拟现实与数字孪生调控系统装备",
+      "brand": null,
+      "model": "V2.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 595000.0,
+      "total_price": 595000.0
+    },
+    {
+      "package_no": "14",
+      "item_no": null,
+      "category": null,
+      "item_name": "自动驾驶多源感知智能调控设备",
+      "brand": null,
+      "model": "DZ",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 990000.0,
+      "total_price": 990000.0
+    },
+    {
+      "package_no": "15",
+      "item_no": null,
+      "category": null,
+      "item_name": "超景深三维材料微区形貌分析仪",
+      "brand": null,
+      "model": "Flex SEM 1000 II",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1383000.0,
+      "total_price": 1383000.0
+    },
+    {
+      "package_no": "15",
+      "item_no": null,
+      "category": null,
+      "item_name": "水泥水化热测定仪",
+      "brand": null,
+      "model": "CHH-CAL8070",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 387000.0,
+      "total_price": 387000.0
+    },
+    {
+      "package_no": "16",
+      "item_no": null,
+      "category": null,
+      "item_name": "CORS参考站",
+      "brand": null,
+      "model": "JW-P5",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 480000.0,
+      "total_price": 480000.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "红外热成像仪",
+      "brand": null,
+      "model": "PT870S（支持超分辨率成像技术，超分后分辨率2560×2048）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 546200.0,
+      "total_price": 546200.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "受限空间无人机采集系统",
+      "brand": null,
+      "model": "Molite（具有撞击保护功能：配有防护笼）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 449300.0,
+      "total_price": 449300.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "便携式位惯组合定位系统",
+      "brand": null,
+      "model": "i87Air（支持星基差分定位）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 238400.0,
+      "total_price": 238400.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "手持实时定位系统",
+      "brand": null,
+      "model": "iRTK5X",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 223500.0,
+      "total_price": 223500.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "智测虚实测图平台",
+      "brand": null,
+      "model": "NTS-562R15（免棱镜测程（90%反射率）1500m）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 585890.0,
+      "total_price": 585890.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "激光扫描器及建模",
+      "brand": null,
+      "model": "灵光L2Pro（内置存储容量1TB，工作温度-20℃—50℃，不间断持续采集时间长1.5h（90min））",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 315110.0,
+      "total_price": 315110.0
+    },
+    {
+      "package_no": "17",
+      "item_no": null,
+      "category": null,
+      "item_name": "空间教学移动实景复制采集系统",
+      "brand": null,
+      "model": "R8+（激光雷达扫描距离：120米）",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 486600.0,
+      "total_price": 486600.0
+    },
+    {
+      "package_no": "18",
+      "item_no": null,
+      "category": null,
+      "item_name": "绿色高效零碳建筑AR交互台",
+      "brand": null,
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 548000.0,
+      "total_price": 548000.0
+    },
+    {
+      "package_no": "18",
+      "item_no": null,
+      "category": null,
+      "item_name": "碳排放与决策分析推演模拟交互台",
+      "brand": null,
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 798750.0,
+      "total_price": 798750.0
+    },
+    {
+      "package_no": "18",
+      "item_no": null,
+      "category": null,
+      "item_name": "工程项目智能建造与管理AI智能体一体机",
+      "brand": null,
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 498450.0,
+      "total_price": 498450.0
+    },
+    {
+      "package_no": "18",
+      "item_no": null,
+      "category": null,
+      "item_name": "全过程造价管理AR交互台",
+      "brand": null,
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 739800.0,
+      "total_price": 739800.0
+    },
+    {
+      "package_no": "19",
+      "item_no": null,
+      "category": null,
+      "item_name": "数智供应链管理及运营感知交互设备",
+      "brand": null,
+      "model": "旗舰版、SDT001",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 399400.0,
+      "total_price": 399400.0
+    },
+    {
+      "package_no": "19",
+      "item_no": null,
+      "category": null,
+      "item_name": "管理决策与分析交互设备",
+      "brand": null,
+      "model": "旗舰版、S-SXT001",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 399400.0,
+      "total_price": 399400.0
+    },
+    {
+      "package_no": "20",
+      "item_no": null,
+      "category": null,
+      "item_name": "电液伺服万能试验机",
+      "brand": null,
+      "model": "1000kN、HUT106A",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 192000.0,
+      "total_price": 384000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "13",
+      "name": "北京航天航宇实验设备科技有限公司",
+      "role": "winner",
+      "total_score": 94.71,
+      "rank": null,
+      "amount": 5680000.0
+    },
+    {
+      "package_no": "14",
+      "name": "北京思维科系统科技有限公司",
+      "role": "winner",
+      "total_score": 98.57,
+      "rank": null,
+      "amount": 2180000.0
+    },
+    {
+      "package_no": "15",
+      "name": "西安森信科技有限公司",
+      "role": "winner",
+      "total_score": 97.57,
+      "rank": null,
+      "amount": 1770000.0
+    },
+    {
+      "package_no": "16",
+      "name": "北京经纬致用科技有限公司",
+      "role": "winner",
+      "total_score": 91.86,
+      "rank": null,
+      "amount": 480000.0
+    },
+    {
+      "package_no": "17",
+      "name": "北京浩宇天地测绘科技发展有限公司",
+      "role": "winner",
+      "total_score": 95.29,
+      "rank": null,
+      "amount": 2845000.0
+    },
+    {
+      "package_no": "18",
+      "name": "广联达科技股份有限公司",
+      "role": "winner",
+      "total_score": 93.1,
+      "rank": null,
+      "amount": 2585000.0
+    },
+    {
+      "package_no": "19",
+      "name": "新道科技股份有限公司",
+      "role": "winner",
+      "total_score": 93.48,
+      "rank": null,
+      "amount": 798800.0
+    },
+    {
+      "package_no": "20",
+      "name": "深圳万测试验设备有限公司",
+      "role": "winner",
+      "total_score": 90.86,
+      "rank": null,
+      "amount": 384000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

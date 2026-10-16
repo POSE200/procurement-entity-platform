@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260603_26681121",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本项目为多标段项目的「二标段」单发中标公告，package_no=\"2\"由公告标题及预算行中的「二标段」得出（HTML无独立标包编号列，属文字标段号的数字化，需视觉核验）。概要品目列只给编码「C17010200」无名称，category退用HTML标的信息表品目名称列「网络接入服务」。复核修正：概要品目列非空（C17010200），按规范G1首选概要列原样照抄，category已由「网络接入服务」改为「C17010200」；package_no=\"2\"由标题与项目名称明示「二标段」直接数字化，无歧义；数量1/单价399200/总价399200均为原文明示，全部字段核对无误。单条服务标的：数量1、单价399,200.00、总价399,200.00（原文同时给出单价与总价且399200×1=399200成立，非互推），与总中标金额￥39.920000万元及表格1中标金额399,200.00元一致。序号列空，item_no=null；unit原文未给=null；「服务类」为分节标题未当品目。评分表（表格3）只有得分列无排名列，rank一律null。附件招标文件正文.pdf仅前30页为通用条款，无可提取明细。",
+  "project": {
+    "buyer": "宁夏大学",
+    "project_name": "宁夏大学2026年度运营商网络出口带宽服务项目（二标段）",
+    "total_amount": 399200.0,
+    "packages": [
+      {
+        "package_no": "2",
+        "package_name": "二标段",
+        "winner": "中国电信股份有限公司银川分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17010200",
+      "item_name": "宁夏大学2026年度运营商网络出口带宽服务项目（二标段）",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 399200.0,
+      "total_price": 399200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司银川分公司",
+      "role": "winner",
+      "total_score": 82.92,
+      "rank": null,
+      "amount": 399200.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团宁夏有限公司",
+      "role": "participant",
+      "total_score": 79.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国广电宁夏网络有限公司",
+      "role": "participant",
+      "total_score": 71.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司宁夏回族自治区分公司",
+      "role": "participant",
+      "total_score": 78.4,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

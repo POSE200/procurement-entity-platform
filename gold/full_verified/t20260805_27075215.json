@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260805_27075215",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州天测信息技术有限公司）.pdf",
+  "note": "概要品目列空，品目逐条取HTML品目名称列（1-1其他航空器及其配套设备、1-2无人机）。items按附件报价明细9条（品目号1-1含8条、1-2含1条）；9条总价之和=2,310,000.00元，与总中标金额￥231.000000万元及表1一致。广东石鼓航空技术有限公司资格性审查不通过、无得分排名，role=participant且得分/排名/金额均null。",
+  "project": {
+    "buyer": "嘉应学院",
+    "project_name": "嘉应学院无人机应用创新平台建设项目",
+    "total_amount": 2310000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "嘉应学院无人机应用创新平台建设",
+        "winner": "广州天测信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "智能航测多旋翼无人机",
+      "brand": "飞马机器人",
+      "model": "D500",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 195000.0,
+      "total_price": 195000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "双光热红外视频遥感模块",
+      "brand": "飞马机器人",
+      "model": "D-TIRV1100",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 79500.0,
+      "total_price": 79500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "多光谱遥感模块",
+      "brand": "飞马机器人",
+      "model": "D-MSPC2000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 166000.0,
+      "total_price": 166000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "长程机载激光雷达",
+      "brand": "飞马机器人",
+      "model": "D-LiDAR800",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 305500.0,
+      "total_price": 305500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "倾斜摄影五镜头",
+      "brand": "飞马机器人",
+      "model": "D-OP5000",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 86000.0,
+      "total_price": 86000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "教学训练无人机",
+      "brand": "振曜",
+      "model": "YLA-6SH",
+      "quantity": 5,
+      "unit": "套",
+      "unit_price": 43400.0,
+      "total_price": 217000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "便携式地物光谱仪",
+      "brand": "莱森光学",
+      "model": "iSpecField-WNIR-HRs",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 673000.0,
+      "total_price": 673000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他航空器及其配套设备",
+      "item_name": "植物冠层图像分析仪",
+      "brand": "北京雅欣理仪",
+      "model": "Yaxin-1201",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 78000.0,
+      "total_price": 78000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "无人机",
+      "item_name": "长航时垂直起降固定翼无人机",
+      "brand": "飞马机器人",
+      "model": "V600",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 510000.0,
+      "total_price": 510000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州天测信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.8,
+      "rank": 1,
+      "amount": 2310000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州市徕亚仪器有限公司",
+      "role": "participant",
+      "total_score": 77.74,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳智瑞合科技有限公司",
+      "role": "participant",
+      "total_score": 74.26,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东石鼓航空技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

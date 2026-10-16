@@ -1,0 +1,246 @@
+{
+  "announcement_id": "t20260707_26888286",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（合肥六角星仪器科技有限公司）.pdf",
+  "note": "概要品目列空，category 取 HTML 主要标的信息表品目名称列（全部为其他仪器仪表）；品牌列含「或同等」写法（霍桐或同等/冠特或同等/熊川或同等）按原文照抄，附件制造商名称列另列制造商全称未单设字段故不入 brand；item_no 采用附件品目号-序号格式，附件与 HTML 表内同一品目下的行序略有不同，以附件序号为准；16 条明细单价×数量=总价均核验一致，合计 1,299,000=总中标金额；附件 OCR 有水印噪字，金额与数量数字清晰无歧义，无需视觉核验。",
+  "project": {
+    "buyer": "广东省科学院测试分析研究所（中国广州分析测试中心）",
+    "project_name": "广东省科学院测试分析研究所（中国广州分析测试中心）窄聚物连续可控合成微反应系统采购项目",
+    "total_amount": 1299000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "窄聚物连续可控合成微反应系统",
+        "winner": "合肥六角星仪器科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "其他仪器仪表",
+      "item_name": "高压恒流输液泵",
+      "brand": "精进",
+      "model": "泵体材料S31603；流量范围0.01~10.00mL/min；流量精度0.01mL/min；系统耐压≤6MPa",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 30000.0,
+      "total_price": 30000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "其他仪器仪表",
+      "item_name": "定制微反应器",
+      "brand": "霍桐",
+      "model": "专用定制材质S31603及合金及膜管反应器各三套；加热套温度室温~200℃。",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "其他仪器仪表",
+      "item_name": "连续气液分离器",
+      "brand": "霍桐",
+      "model": "主体材质S31603及合金；工作压力≤4MPa；适配反应体系分离需求，几种不同形式及结构。",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "其他仪器仪表",
+      "item_name": "仪表一批",
+      "brand": "霍桐或同等",
+      "model": "自动化阀件及自动取样装置",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "其他仪器仪表",
+      "item_name": "定制钣金框架",
+      "brand": "霍桐",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 18000.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "其他仪器仪表",
+      "item_name": "加热装置",
+      "brand": "冠特或同等",
+      "model": "控温精度≤±0.5℃，含程序升温",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "其他仪器仪表",
+      "item_name": "自动化控制系统",
+      "brand": "霍桐",
+      "model": "数据实时监控，连锁报警，配备自动化视频讲解，可用于教学展示",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 120000.0,
+      "total_price": 120000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "其他仪器仪表",
+      "item_name": "减压阀（气路进口）",
+      "brand": "熊川或同等",
+      "model": "最大输入压力≥41MPa；输出压力0~6MPa；介质H2、N2；材质S31603",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 18000.0,
+      "total_price": 18000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "其他仪器仪表",
+      "item_name": "气体质量流量控制器",
+      "brand": "霍桐",
+      "model": "流量范围0~100mL/min；准确度±1%F.S.；重复性±0.2%F.S.；最大工作压力≥10MPa；介质H2、N2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 38000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-1",
+      "category": "其他仪器仪表",
+      "item_name": "智能气体质量流量计",
+      "brand": "霍桐",
+      "model": "4路独立；单路量程0～500sccm可调；控制精度≤±1.5%；阀体接触材质S31603",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 12500.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-2",
+      "category": "其他仪器仪表",
+      "item_name": "高精度恒温换热系统",
+      "brand": "霍桐",
+      "model": "四通道共用，各通道独立均衡控温；控温精度≤±0.3℃；满足多组配方同步对照实验",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-3",
+      "category": "其他仪器仪表",
+      "item_name": "PLC控制系统+触摸屏",
+      "brand": "霍桐",
+      "model": "液泵流量、气体流量计参数统一控制；可保存多组工艺配方；具备超温、超压、断料、堵料、泄漏自动停机+声光报警",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 140000.0,
+      "total_price": 140000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-4",
+      "category": "其他仪器仪表",
+      "item_name": "仪表及阀门钣金框架",
+      "brand": "霍桐",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 10000.0,
+      "total_price": 10000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-5",
+      "category": "其他仪器仪表",
+      "item_name": "反应器及混合器部分",
+      "brand": "霍桐",
+      "model": "316L及哈氏合金及膜管反应器各四套",
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 190000.0,
+      "total_price": 190000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-6",
+      "category": "其他仪器仪表",
+      "item_name": "并行聚合反应通道",
+      "brand": "霍桐",
+      "model": "并行聚合反应通道数≥4，四通道独立并行微反应过程；操作温度室温~200℃；操作压力0-6MPa",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2-7",
+      "category": "其他仪器仪表",
+      "item_name": "高精度防腐平流泵",
+      "brand": "精进",
+      "model": "4路独立主进料泵+4路备用进料泵；单路流量0.1mL/min～10mL/min；控制精度≤±0.3%FS；过流部件材质红宝石、陶瓷、PTFE复合材质",
+      "quantity": 8,
+      "unit": "台",
+      "unit_price": 20000.0,
+      "total_price": 160000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "合肥六角星仪器科技有限公司",
+      "role": "winner",
+      "total_score": 84.44,
+      "rank": 1,
+      "amount": 1299000.0
+    },
+    {
+      "package_no": "1",
+      "name": "北京中研环科科技有限公司",
+      "role": "participant",
+      "total_score": 70.88,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "西安势也锐科研设备有限公司",
+      "role": "participant",
+      "total_score": 64.24,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

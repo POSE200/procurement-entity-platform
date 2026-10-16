@@ -1,0 +1,329 @@
+{
+  "announcement_id": "t20260708_26899038",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "4个采购包。各包中标金额3,287,500+2,562,800+1,653,140+2,268,900=9,772,340元，与总中标金额￥977.234万元一致。HTML标的信息表（表格5-8）无单价/总价列；附件中各包「投标（响应）报价明细表.pdf」为空模板（仅表头），招标文件里的标的金额/最高限价表是预算值（包1合计3,300,000=预算，包3合计1,665,900=预算，包4合计2,275,800=预算），不是中标价，故各明细item的unit_price/total_price=null（需视觉核验：报价明细表是否真为空表）。仅包1、包2为单一标的包，total_price取该包中标金额，unit_price由总价÷数量唯一互推（数量1，note声明）；包3（6条）、包4（5条）无法分摊，价格全null。品目列（公告概要）为空，category逐条取标的信息表「品目名称」列（均为教学仪器）。评审结果表（表格9-12）「得分排名」列为空，故所有rank=null（禁止中标即第1）。包1/2/4的package_name取自附件目录名（包1(全光谱稀土发光材料显微分析平台)/包2(电感耦合等离子体串联质谱仪)/包4(激光切割机等设备)），包3无对应目录名为null；表格9-12按序对应包1-4（由各表首行与包中标人一致推断，需视觉核验）。包3品牌「OXFOFD」疑为OXFORD的OCR错字，按原文照抄，需视觉核验。独立复核（0924）：四份报价明细表确为空模板（仅表头，已逐一查看）；招标文件标的金额为预算值确认；表格9-12与包1-4的对应由各表首行中标人与结果表1-4逐一吻合确认，非纯顺序推断；金额勾稽一致；其余字段核对无误。",
+  "project": {
+    "buyer": "济宁学院",
+    "project_name": "济宁学院应用型重点学科群平台设备更新项目（三）",
+    "total_amount": 9772340.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "全光谱稀土发光材料显微分析平台",
+        "winner": "山东信则立实验设备有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "电感耦合等离子体串联质谱仪",
+        "winner": "山东百韧智能科技有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "山东思睿教育科技有限公司"
+      },
+      {
+        "package_no": "4",
+        "package_name": "激光切割机等设备",
+        "winner": "青岛光线电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "教学仪器",
+      "item_name": "全光谱稀土发光材料显微分析平台",
+      "brand": "天美",
+      "model": "FLS1000C",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3287500.0,
+      "total_price": 3287500.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "教学仪器",
+      "item_name": "电感耦合等离子体串联质谱仪",
+      "brand": "Agilent",
+      "model": "8900",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 2562800.0,
+      "total_price": 2562800.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "教学仪器",
+      "item_name": "电解水测试台",
+      "brand": "武汉电弛",
+      "model": "DC 780-AEM",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-2",
+      "category": "教学仪器",
+      "item_name": "数字型旋转圆盘圆环电极",
+      "brand": "武汉电弛",
+      "model": "DC DSR",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-3",
+      "category": "教学仪器",
+      "item_name": "纳米浆料超声喷涂仪",
+      "brand": "武汉电弛",
+      "model": "DC IS-300",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-4",
+      "category": "教学仪器",
+      "item_name": "能谱仪",
+      "brand": "OXFOFD",
+      "model": "Xplore 65",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-5",
+      "category": "教学仪器",
+      "item_name": "离子溅射仪",
+      "brand": "科仪光电",
+      "model": "SBC-12",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-6",
+      "category": "教学仪器",
+      "item_name": "高性能全自动气体蒸汽吸附及微孔分析仪",
+      "brand": "贝士德仪器",
+      "model": "BSD-660MV（A3MV）",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-1",
+      "category": "教学仪器",
+      "item_name": "激光切割机",
+      "brand": "大族激光",
+      "model": "G3015-K 12000W",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-2",
+      "category": "教学仪器",
+      "item_name": "油雾分离器",
+      "brand": "博迪",
+      "model": "HCY-400LGM",
+      "quantity": 2,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-3",
+      "category": "教学仪器",
+      "item_name": "切削力检查系统",
+      "brand": "东华测试",
+      "model": "DH5922D",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-4",
+      "category": "教学仪器",
+      "item_name": "高频感应加热机",
+      "brand": "永达高频",
+      "model": "GP25KW",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "4",
+      "item_no": "4-5",
+      "category": "教学仪器",
+      "item_name": "三坐标测量仪",
+      "brand": "蔡司",
+      "model": "CMM SPECTRUM 7/10/6 verity",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东信则立实验设备有限公司",
+      "role": "winner",
+      "total_score": 94.92,
+      "rank": null,
+      "amount": 3287500.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛凯戈尔机电设备有限公司",
+      "role": "participant",
+      "total_score": 85.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南耀洁实验设备有限公司",
+      "role": "participant",
+      "total_score": 83.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省诺维森生物医学有限公司",
+      "role": "participant",
+      "total_score": 82.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东百韧智能科技有限公司",
+      "role": "winner",
+      "total_score": 96.6,
+      "rank": null,
+      "amount": 2562800.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东雷音电子科技有限公司",
+      "role": "participant",
+      "total_score": 75.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南展云信息科技有限公司",
+      "role": "participant",
+      "total_score": 72.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东思睿教育科技有限公司",
+      "role": "participant",
+      "total_score": 71.46,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东思睿教育科技有限公司",
+      "role": "winner",
+      "total_score": 92.8,
+      "rank": null,
+      "amount": 1653140.0
+    },
+    {
+      "package_no": "3",
+      "name": "山东昶雅信息科技有限公司",
+      "role": "participant",
+      "total_score": 84.8,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "智点未来（山东）信息技术有限公司",
+      "role": "participant",
+      "total_score": 84.04,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东恒东信息科技有限公司",
+      "role": "participant",
+      "total_score": 81.13,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "青岛光线电子科技有限公司",
+      "role": "winner",
+      "total_score": 89.82,
+      "rank": null,
+      "amount": 2268900.0
+    },
+    {
+      "package_no": "4",
+      "name": "山东太阳风教育设备有限公司",
+      "role": "participant",
+      "total_score": 84.7,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "青岛青芯顺智能科技有限公司",
+      "role": "participant",
+      "total_score": 77.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "4",
+      "name": "青岛梓祥信息科技有限公司",
+      "role": "participant",
+      "total_score": 77.11,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260706_26881857",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南读杰贸易有限公司).pdf",
+  "note": "标题明示采购包1，package_no=1。品目取 HTML 标的信息表品目名称列（造纸和印刷机械/应用软件，概要品目列空）。中标人3条明细单价/总价来自附件报价明细表(第1轮-济南读杰贸易有限公司).pdf，510000+84000+145000=739000 与成交金额一致；排版软件 单价28000×3套=84000。中标人响应文件包(1)_投标（响应）报价明细表.pdf 仅解析出生产流程软件行且列值残缺（210000为最高限价），不采用。评分表'得分排名'列空白，所有 bidders 的 rank 均为 null；未中标 3 家报价不可见，amount=null。7.3排版软件附件.pdf 为案例一览表，不提供标注字段。",
+  "project": {
+    "buyer": "山东省公安厅证件制作中心",
+    "project_name": "山东省公安厅证件制作中心2026年度制版设备与排版软件采购项目",
+    "total_amount": 739000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南读杰贸易有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "造纸和印刷机械",
+      "item_name": "CTP制版机",
+      "brand": "爱司凯",
+      "model": "amskyT864",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 510000.0,
+      "total_price": 510000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "应用软件",
+      "item_name": "排版软件",
+      "brand": "方正飞翔",
+      "model": "方正飞翔9.0",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 28000.0,
+      "total_price": 84000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "应用软件",
+      "item_name": "生产流程软件",
+      "brand": "方正畅流",
+      "model": "方正畅流6.5",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 145000.0,
+      "total_price": 145000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南读杰贸易有限公司",
+      "role": "winner",
+      "total_score": 94.67,
+      "rank": null,
+      "amount": 739000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南腾冠贸易有限公司",
+      "role": "participant",
+      "total_score": 85.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京大祥机械国际有限公司",
+      "role": "participant",
+      "total_score": 77.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南书来书往印刷有限公司",
+      "role": "participant",
+      "total_score": 77.63,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "announcement_id": "t20260811_27115249",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-青岛众诚三兄弟环境工程有限公司).pdf",
+  "note": "单包（公告标题明示采购包1）。品目取HTML品目名称列：26条货物为「电气设备」（品目号1-1-1～1-1-26，与附件报价明细序号1-26逐行对应），1条服务为「其他维修和保养服务」（品目号1-2）。item_name/品牌/型号/单价/数量/单位取附件报价明细表（比HTML表格2的统一采购标的名更细）；HTML规格型号列「?」为OCR连字符缺失，按附件写作「-」。货物小计267,645元+服务262,355元=530,000元=中标金额530,000.00元，各行单价×数量=响应报价均一致。服务行单价=总价=262,355（1宗）为原文原值。品牌列OCR空格噪声（奥 众/兴 ⻰等）已按语义还原。bidders 5家：综合得分有值但得分排名、推荐排名列全空，rank一律null；附件「包(1)_开标（报价）一览表.pdf」仅解析出表头无数据行，未中标人报价不可得，amount仅中标人填写。型号写法（F4-72-5A/F4-72-6#等）与Φ皮带轮尺寸在附件解析文本中清晰可读，且与HTML表格2的品牌/型号/数量列逐行互证，无需视觉核验。",
+  "project": {
+    "buyer": "青岛科技大学",
+    "project_name": "青岛科技大学CCE楼部分设备系统配件采购与维修项目",
+    "total_amount": 530000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "青岛众诚三兄弟环境工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "电气设备",
+      "item_name": "4KW风机电机",
+      "brand": "奥众",
+      "model": "4KW",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2050.0,
+      "total_price": 2050.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "电气设备",
+      "item_name": "5.5KW风机电机",
+      "brand": "奥众",
+      "model": "5.5KW",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 3000.0,
+      "total_price": 3000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "电气设备",
+      "item_name": "7.5KW风机电机",
+      "brand": "奥众",
+      "model": "7.5KW",
+      "quantity": 21,
+      "unit": "台",
+      "unit_price": 4680.0,
+      "total_price": 98280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "电气设备",
+      "item_name": "4KW变频器",
+      "brand": "科润",
+      "model": "KR-4KW",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 1700.0,
+      "total_price": 1700.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "电气设备",
+      "item_name": "5.5KW变频器",
+      "brand": "科润",
+      "model": "KR-5.5KW",
+      "quantity": 19,
+      "unit": "台",
+      "unit_price": 2000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "电气设备",
+      "item_name": "7.5KW变频器",
+      "brand": "科润",
+      "model": "KR-7.5KW",
+      "quantity": 17,
+      "unit": "台",
+      "unit_price": 3200.0,
+      "total_price": 54400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "电气设备",
+      "item_name": "4KW玻璃钢风机叶轮",
+      "brand": "润特",
+      "model": "F4-72-5A",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1000.0,
+      "total_price": 1000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "电气设备",
+      "item_name": "5.5KW厢式风机叶轮",
+      "brand": "润特",
+      "model": "F4-72-6C",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 1250.0,
+      "total_price": 1250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "电气设备",
+      "item_name": "7.5KW玻璃钢风机叶轮",
+      "brand": "润特",
+      "model": "F4-72-7C",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 2200.0,
+      "total_price": 8800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "电气设备",
+      "item_name": "7.5KW厢式风机叶轮",
+      "brand": "润特",
+      "model": "F4-72-6#",
+      "quantity": 13,
+      "unit": "个",
+      "unit_price": 2100.0,
+      "total_price": 27300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "电气设备",
+      "item_name": "4KW玻璃钢风机轴承",
+      "brand": "柱威",
+      "model": "6308-2RS",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 220.0,
+      "total_price": 220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "电气设备",
+      "item_name": "5.5KW厢式风机轴承",
+      "brand": "柱威",
+      "model": "22209K",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 250.0,
+      "total_price": 250.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "电气设备",
+      "item_name": "7.5KW玻璃钢风机轴承",
+      "brand": "柱威",
+      "model": "22209K",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 300.0,
+      "total_price": 300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "电气设备",
+      "item_name": "7.5KW厢式风机轴承",
+      "brand": "柱威",
+      "model": "22210K",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 320.0,
+      "total_price": 1280.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-15",
+      "category": "电气设备",
+      "item_name": "4KW玻璃钢风机皮带",
+      "brand": "兴龙",
+      "model": "B-2240（B88）",
+      "quantity": 16,
+      "unit": "个",
+      "unit_price": 75.0,
+      "total_price": 1200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-16",
+      "category": "电气设备",
+      "item_name": "5.5KW厢式风机皮带",
+      "brand": "兴龙",
+      "model": "B-2413（B95）",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 95.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-17",
+      "category": "电气设备",
+      "item_name": "7.5KW玻璃钢风机皮带",
+      "brand": "兴龙",
+      "model": "B-2413（B95）",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 100.0,
+      "total_price": 100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-18",
+      "category": "电气设备",
+      "item_name": "7.5KW厢式风机皮带",
+      "brand": "兴龙",
+      "model": "B-2413（B95）",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 95.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-19",
+      "category": "电气设备",
+      "item_name": "7.5KW碳钢风机叶轮",
+      "brand": "润特",
+      "model": "6# 碳钢叶轮",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 1500.0,
+      "total_price": 6000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-20",
+      "category": "电气设备",
+      "item_name": "7.5KW碳钢风机轴承",
+      "brand": "柱威",
+      "model": "22210K",
+      "quantity": 16,
+      "unit": "个",
+      "unit_price": 350.0,
+      "total_price": 5600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-21",
+      "category": "电气设备",
+      "item_name": "7.5KW碳钢风机皮带",
+      "brand": "兴龙",
+      "model": "B-2413",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 95.0,
+      "total_price": 95.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-22",
+      "category": "电气设备",
+      "item_name": "4KW玻璃钢风机皮带轮",
+      "brand": "润特",
+      "model": "Φ300 ×Φ40",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 340.0,
+      "total_price": 340.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-23",
+      "category": "电气设备",
+      "item_name": "5.5KW厢式风机皮带轮",
+      "brand": "润特",
+      "model": "Φ310 ×Φ45",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 450.0,
+      "total_price": 450.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-24",
+      "category": "电气设备",
+      "item_name": "7.5KW玻璃钢风机皮带轮",
+      "brand": "润特",
+      "model": "Φ310 ×Φ45",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 620.0,
+      "total_price": 2480.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-25",
+      "category": "电气设备",
+      "item_name": "7.5KW厢式风机皮带轮",
+      "brand": "润特",
+      "model": "Φ330 ×Φ50",
+      "quantity": 16,
+      "unit": "个",
+      "unit_price": 800.0,
+      "total_price": 12800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-26",
+      "category": "电气设备",
+      "item_name": "7.5KW碳钢风机皮带轮",
+      "brand": "润特",
+      "model": "Φ330 ×Φ50",
+      "quantity": 1,
+      "unit": "个",
+      "unit_price": 560.0,
+      "total_price": 560.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他维修和保养服务",
+      "item_name": "实验室通风系统维修服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 262355.0,
+      "total_price": 262355.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "青岛众诚三兄弟环境工程有限公司",
+      "role": "winner",
+      "total_score": 84.37,
+      "rank": null,
+      "amount": 530000.0
+    },
+    {
+      "package_no": "1",
+      "name": "青岛中科晟创信息技术有限公司",
+      "role": "participant",
+      "total_score": 81.34,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛金泰来实验室设备有限公司",
+      "role": "participant",
+      "total_score": 78.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛拓邦化工技术有限公司",
+      "role": "participant",
+      "total_score": 64.58,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东迅达金信息科技有限公司",
+      "role": "participant",
+      "total_score": 63.03,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

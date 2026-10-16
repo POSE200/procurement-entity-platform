@@ -1,0 +1,275 @@
+{
+  "announcement_id": "t20260702_26862994",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表([1]).pdf,投标（响应）报价明细表([2]).pdf",
+  "note": "附件报价明细表([1])签章为浪潮云洲（包1中标人）、合计392,520元，([2])签章为山东信息职业技术学院（包2中标人）、合计393,300元，均与HTML中标金额一致，items按附件费用分项14条最细粒度输出（单价×数量=总价，包内合计=包中标金额）；品目取HTML标的信息表品目名称列'培训服务'（概要品目列为空）；HTML品目号1-1-1~1-1-7/2-1-1~2-1-7各行与服务要求描述与附件费用分项非一一对应，item_no采用附件明细表序号；两包评分表得分排名/推荐排名列均为空，rank一律null（禁止中标即第1）；未中标供应商报价不可得（开标一览表为空白模板），amount=null；需视觉核验：附件[1]第3-4行（伙食费/培训场地费）服务要求列内容与住宿费行重复，疑原PDF表格错位。复核：两包各7条分项、合计与评分表已独立核对无误（分项名称与单价清晰可读，表格错位仅影响服务要求描述列，不影响标注值），确认通过。",
+  "project": {
+    "buyer": "山东省工业和信息化厅机关",
+    "project_name": "工业互联网培训项目",
+    "total_amount": 785820.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "浪潮云洲工业互联网有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "山东信息职业技术学院"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "培训服务",
+      "item_name": "师资费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 40000.0,
+      "total_price": 40000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "培训服务",
+      "item_name": "住宿费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 156600.0,
+      "total_price": 156600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "培训服务",
+      "item_name": "伙食费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 86400.0,
+      "total_price": 86400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "培训服务",
+      "item_name": "培训场地费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 50000.0,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "培训服务",
+      "item_name": "培训资料费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 21600.0,
+      "total_price": 21600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "培训服务",
+      "item_name": "交通费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 19200.0,
+      "total_price": 19200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "培训服务",
+      "item_name": "其他费用",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 18720.0,
+      "total_price": 18720.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "1",
+      "category": "培训服务",
+      "item_name": "师资费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 81000.0,
+      "total_price": 81000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": "培训服务",
+      "item_name": "住宿费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 117000.0,
+      "total_price": 117000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "3",
+      "category": "培训服务",
+      "item_name": "伙食费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 105300.0,
+      "total_price": 105300.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "4",
+      "category": "培训服务",
+      "item_name": "培训场地费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 37800.0,
+      "total_price": 37800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "5",
+      "category": "培训服务",
+      "item_name": "培训资料费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 14400.0,
+      "total_price": 14400.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "6",
+      "category": "培训服务",
+      "item_name": "交通费",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 12240.0,
+      "total_price": 12240.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "7",
+      "category": "培训服务",
+      "item_name": "其他费用",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 25560.0,
+      "total_price": 25560.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浪潮云洲工业互联网有限公司",
+      "role": "winner",
+      "total_score": 84.09,
+      "rank": null,
+      "amount": 392520.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南先投人才发展集团有限公司",
+      "role": "participant",
+      "total_score": 82.6,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "哈尔滨工业大学（威海）",
+      "role": "participant",
+      "total_score": 75.14,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "青岛兰德经济管理培训学校",
+      "role": "participant",
+      "total_score": 75.02,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东元慧智能科技有限公司",
+      "role": "participant",
+      "total_score": 64.27,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "融智控股（山东）有限公司",
+      "role": "participant",
+      "total_score": 64.19,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东信息职业技术学院",
+      "role": "winner",
+      "total_score": 86.04,
+      "rank": null,
+      "amount": 393300.0
+    },
+    {
+      "package_no": "2",
+      "name": "哈尔滨工业大学（威海）",
+      "role": "participant",
+      "total_score": 71.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "青岛兰德经济管理培训学校",
+      "role": "participant",
+      "total_score": 71.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

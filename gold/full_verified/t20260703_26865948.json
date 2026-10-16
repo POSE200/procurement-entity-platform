@@ -1,0 +1,174 @@
+{
+  "announcement_id": "t20260703_26865948",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "单包项目（合同包1，附件明示包号）。概要品目列空，category 取自 HTML 品目名称列（1-10 系统集成为其他服务，其余为其他信息化设备）。1-10 系统集成在 HTML 表3 金额栏为空，单价/总价取自附件报价明细表（411,770元）。10 条明细之和=7,690,000元，与总中标金额￥769万一致。1-2/1-3/1-4/1-6/1-7/1-8/1-9 的品牌、规格型号原文均为「详细见投标文件」（附件同样写法），投标文件未随包提供，按口径填 null。需视觉核验：无重大疑点。复核：10条明细、合计与评分表已独立核对，确认通过。",
+  "project": {
+    "buyer": "博罗中等专业学校",
+    "project_name": "博罗中等专业学校新校区续建扩建工程项目（智慧校园建设项目）三",
+    "total_amount": 7690000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "博罗中等专业学校新校区续建扩建工程项目（智慧校园建设项目）三",
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "周界分析服务器（核心产品）",
+      "brand": "海康威视",
+      "model": "iDS-8664NX-I9/S-AT(标配)/大模型（8*8T盘）",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 19800.0,
+      "total_price": 19800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "校园监控系统：其他产品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2826130.0,
+      "total_price": 2826130.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他信息化设备",
+      "item_name": "中心机房建设",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 854900.0,
+      "total_price": 854900.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他信息化设备",
+      "item_name": "室外LED显示屏系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 264500.0,
+      "total_price": 264500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他信息化设备",
+      "item_name": "考生身份采集验证终端（核心产品）",
+      "brand": "像素",
+      "model": "PID388",
+      "quantity": 20,
+      "unit": "台",
+      "unit_price": 3540.0,
+      "total_price": 70800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他信息化设备",
+      "item_name": "标准化考场系统：其他产品",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 920000.0,
+      "total_price": 920000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他信息化设备",
+      "item_name": "宿管系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 617490.0,
+      "total_price": 617490.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他信息化设备",
+      "item_name": "智慧图书馆",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 369110.0,
+      "total_price": 369110.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他信息化设备",
+      "item_name": "低空飞行虚拟仿真实训室",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1335500.0,
+      "total_price": 1335500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他服务",
+      "item_name": "系统集成",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 411770.0,
+      "total_price": 411770.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 95.06,
+      "rank": 1,
+      "amount": 7690000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东华威科智能技术有限公司",
+      "role": "participant",
+      "total_score": 39.6,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇京建设有限公司",
+      "role": "participant",
+      "total_score": 29.97,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

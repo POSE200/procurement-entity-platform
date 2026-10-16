@@ -1,0 +1,218 @@
+{
+  "announcement_id": "t20260601_26665512",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州中长康达信息技术有限公司）.pdf",
+  "note": "单包项目；13条明细全部来自附件报价明细表（服务项1-1/1-10/1-12/1-13的金额HTML为空、由附件补出）；13条合计1,593,550元与总中标金额一致；品目取HTML品目名称列；附件文字层有水印乱码但数值清晰。",
+  "project": {
+    "buyer": "广州市艺术中学",
+    "project_name": "广州市艺术中学2026年网络优化及安全加固项目",
+    "total_amount": 1593550.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市艺术中学2026年网络优化及安全加固项目",
+        "winner": "广州中长康达信息技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础环境集成实施服务",
+      "item_name": "网络设备安全监管管理平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 310300.0,
+      "total_price": 310300.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "无线控制器",
+      "brand": "锐捷",
+      "model": "RG-WS7110",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 41360.0,
+      "total_price": 41360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他网络设备",
+      "item_name": "高密AP",
+      "brand": "锐捷",
+      "model": "RG-AP9520-RDX",
+      "quantity": 56,
+      "unit": "台",
+      "unit_price": 3320.0,
+      "total_price": 185920.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "入侵检测设备",
+      "item_name": "入侵检测系统",
+      "brand": "启明星辰",
+      "model": "天清NGIPS5000-E-M",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 211350.0,
+      "total_price": 211350.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他网络设备",
+      "item_name": "核心交换机扩容业务板",
+      "brand": "锐捷",
+      "model": "M7800C-24SFP/12GT4XS-EA",
+      "quantity": 2,
+      "unit": "块",
+      "unit_price": 16000.0,
+      "total_price": 32000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他网络设备",
+      "item_name": "室外定向AP",
+      "brand": "锐捷",
+      "model": "RG-AP680-CD(V3)",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 4900.0,
+      "total_price": 19600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他网络设备",
+      "item_name": "放装AP",
+      "brand": "锐捷",
+      "model": "RG-AP820-L(V3)",
+      "quantity": 41,
+      "unit": "台",
+      "unit_price": 1760.0,
+      "total_price": 72160.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他网络设备",
+      "item_name": "网络认证系统",
+      "brand": "锐捷",
+      "model": "RG-ESS 1000",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 127200.0,
+      "total_price": 254400.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他网络设备",
+      "item_name": "千兆光模块",
+      "brand": "锐捷",
+      "model": "MINI-GBIC-LX-SM1310",
+      "quantity": 18,
+      "unit": "块",
+      "unit_price": 290.0,
+      "total_price": 5220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "基础环境集成实施服务",
+      "item_name": "实施部署服务及各系统联调服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 108000.0,
+      "total_price": 108000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "其他网络设备",
+      "item_name": "本国化千兆POE交换机",
+      "brand": "锐捷",
+      "model": "RG-S5300-24GT2SFP2XS-P-E",
+      "quantity": 9,
+      "unit": "台",
+      "unit_price": 6860.0,
+      "total_price": 61740.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "基础环境集成实施服务",
+      "item_name": "运维管理平台扩容",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 110000.0,
+      "total_price": 110000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "基础环境集成实施服务",
+      "item_name": "日志审计平台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 181500.0,
+      "total_price": 181500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州中长康达信息技术有限公司",
+      "role": "winner",
+      "total_score": 91.49,
+      "rank": 1,
+      "amount": 1593550.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省信息工程有限公司",
+      "role": "participant",
+      "total_score": 81.2,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东力昂电子科技有限公司",
+      "role": "participant",
+      "total_score": 58.75,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "国鸿科技股份有限公司",
+      "role": "participant",
+      "total_score": 47.59,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

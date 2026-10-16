@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260702_26861468",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "概要品目列给出'服务/其他服务'，两个包的item原样照抄；HTML序号1/2对应'包组一/包组二'，package_no按序号填1/2；总分中标金额156.18万元未按包拆分，两包中标金额及items的数量/单价/总价均无出处填null；附件仅为中小企业声明函，不提供字段值。附件OCR有错字（如'2028年07万01日'）但不影响标注字段。复核：表格1两行、包组名、金额缺失情形已独立核对，确认通过。",
+  "project": {
+    "buyer": "中山大学",
+    "project_name": "中山大学2026年校园网运维及电话坐席服务外包项目",
+    "total_amount": 1561800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "包组一（校园无线网运维服务）",
+        "winner": "广东悦学科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "包组二（校园网一线现场服务和电话坐席服务)",
+        "winner": "广州市点易资讯科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "服务/其他服务",
+      "item_name": "包组一（校园无线网运维服务）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "服务/其他服务",
+      "item_name": "包组二（校园网一线现场服务和电话坐席服务)",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广东悦学科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州市点易资讯科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

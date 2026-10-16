@@ -1,0 +1,125 @@
+{
+  "announcement_id": "t20260409_26377305",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "无附件；品目列空、标的信息表名称均为'其他服务'故 category=null；A/B/C/D 四包服务类标的仅有各包成交金额，无单价数量线索，按规范不填 quantity=1/unit_price=总价；四包金额之和 258.5+3.5+9.39+6.32=277.71 万元与总中标金额一致；无评分排名信息。",
+  "project": {
+    "buyer": "尼山世界儒学中心(中国孔子基金会秘书处)机关",
+    "project_name": "2026年尼山世界儒学中心“数智尼山”平台一期新建项目采购",
+    "total_amount": 2777100.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "浪潮软件科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": null,
+        "winner": "山东正中信息技术股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": null,
+        "winner": "道普信息技术有限公司"
+      },
+      {
+        "package_no": "D",
+        "package_name": null,
+        "winner": "高维密码测评技术（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 2585000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 93900.0
+    },
+    {
+      "package_no": "D",
+      "item_no": null,
+      "category": null,
+      "item_name": "其他服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 63200.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "浪潮软件科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2585000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 35000.0
+    },
+    {
+      "package_no": "C",
+      "name": "道普信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 93900.0
+    },
+    {
+      "package_no": "D",
+      "name": "高维密码测评技术（山东）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 63200.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260811_27115470",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf,附件.pdf",
+  "note": "items按附件.pdf（OCR）中《关于符合本国产品标准的声明函》设备明细表拆为4条（500000+80000+80000+31000=691000，与包中标金额一致）；第4条原文OCR为\"他配套设备设施\"，系行首漏\"其\"字，已修复为\"其他配套设备设施\"（复核确认：OCR断行丢字，语义唯一，且与同批27115386同类明细表表述一致）；型号RE258-ECSX/接入与建模V2.0/工业标识解析实训系统V1.0取自附件.pdf（复核确认：OCR文字清晰完整）；HTML标的信息表规格型号列为\"详见报价分册声明函和报价表等\"，实际型号取自附件.pdf；品牌\"赛育达\"与HTML表格2品牌列互证一致；品目沿用HTML品目号1-1\"教学仪器\"覆盖整个包；HTML得分排名列空白，所有rank=null；包号1来自公告标题。附件报价明细表：最高限价700000元、单价691000.0000元、数量1宗、合计691000元（与明细表4条之和互证一致）。",
+  "project": {
+    "buyer": "山东科技职业学院",
+    "project_name": "山东科技职业学院工业互联网标识解析实训台项目",
+    "total_amount": 691000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京赛育达科教有限责任公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "教学仪器",
+      "item_name": "工业互联网标识解析实训台",
+      "brand": "赛育达",
+      "model": "RE258-ECSX",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 500000.0,
+      "total_price": 500000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "教学仪器",
+      "item_name": "工业接入与建模",
+      "brand": "赛育达",
+      "model": "接入与建模V2.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "教学仪器",
+      "item_name": "工业标识溯源应用系统",
+      "brand": "赛育达",
+      "model": "工业标识解析实训系统V1.0",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 80000.0,
+      "total_price": 80000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "教学仪器",
+      "item_name": "其他配套设备设施",
+      "brand": "赛育达",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 31000.0,
+      "total_price": 31000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京赛育达科教有限责任公司",
+      "role": "winner",
+      "total_score": 92.65,
+      "rank": null,
+      "amount": 691000.0
+    },
+    {
+      "package_no": "1",
+      "name": "无锡芃禾智能科技有限公司",
+      "role": "participant",
+      "total_score": 83.92,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中科讯（青岛）智能科技有限公司",
+      "role": "participant",
+      "total_score": 77.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "江苏优埃唯智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.6,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

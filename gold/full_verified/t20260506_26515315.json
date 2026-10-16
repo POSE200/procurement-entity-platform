@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260506_26515315",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包（第1包），中标金额103.655576万元=1036555.76元与总中标金额一致。附件（招标文件PDF、中小企业声明函PDF）均为unknown类型跳过不可见，但中标公告HTML信息完整，明细不受影响。品目列空且标的信息表无『品目名称』列，category=null；单条服务标的仅包级中标金额，quantity/unit/unit_price=null。排序表（排序列明示1~3）给出排名，照抄；participant的amount不取『评审报价』，填null。评审得分93.9975来自中标信息表与排序表（两处一致）。 复核修正：排序表'评审报价（万元）'列原文明示投标报价，participant 的 amount 由 null 改为按原文填入（优成1036300.0/东研润泽1036500.0元，万元换算）。",
+  "project": {
+    "buyer": "天津中德应用技术大学机关",
+    "project_name": "2026年度天津中德应用技术大学服务外包采购项目",
+    "total_amount": 1036555.76,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津人力资源开发服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度天津中德应用技术大学服务外包采购",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1036555.76
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津人力资源开发服务有限公司",
+      "role": "winner",
+      "total_score": 93.9975,
+      "rank": 1,
+      "amount": 1036555.76
+    },
+    {
+      "package_no": "1",
+      "name": "天津优成人力资源服务有限公司",
+      "role": "participant",
+      "total_score": 68.0,
+      "rank": 2,
+      "amount": 1036300.0
+    },
+    {
+      "package_no": "1",
+      "name": "天津东研润泽科技股份有限公司",
+      "role": "participant",
+      "total_score": 67.3981,
+      "rank": 3,
+      "amount": 1036500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

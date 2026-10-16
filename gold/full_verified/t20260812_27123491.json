@@ -1,0 +1,50 @@
+{
+  "announcement_id": "t20260812_27123491",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "本篇无附件（附件目录为空），HTML 也无主要标的信息表，仅公告信息表+中标信息表；items 仅能写一条总称记录（标的名称取标包名称），数量/单价/总价等明细不可得填 null。总中标金额￥223.200000万元=2232000元，与中标信息表中标金额2232000.00元一致。标包号取公告『标包：A』。无投标供应商名单（无评分表、无未中标名单），bidders 仅中标人一条；rank 原文未给填 null。",
+  "project": {
+    "buyer": "临沂职业学院",
+    "project_name": "工业智联教学实训设备",
+    "total_amount": 2232000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "工业智联教学实训设备项目",
+        "winner": "南京中科煜宸激光技术有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "工业智联教学实训设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "南京中科煜宸激光技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2232000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

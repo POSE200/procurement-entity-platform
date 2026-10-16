@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260603_26675552",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目-招标文件 - 5.12.doc",
+  "note": "3个包各1条服务标的。公告HTML未明示各中标人所属包：中标人序号1/2/3与包1/2/3按行序对应，且与附件招标文件所载各包最高限价唯一吻合（水碧山清5970000<包1限价6040274、蓝盾6424992<包2限价6676992、鑫华翔3719100<包3限价3734234），推断分配包号，需视觉核验。概要品目列与标的信息表均无品目，category=null；标的表无数量/单价栏，quantity/unit/unit_price=null，total_price取各包中标金额；三包之和16114092=总中标金额1611.41万；rank原文未给一律null。复核：包号分配经限价唯一性论证成立——蓝盾6424992仅低于包2限价6676992（超包1限价6040274），水碧山清5970000超包3限价3734234只能为包1，鑫华翔3719100归包3，映射唯一且与序号行序一致，需视觉核验一项解除；三包之和16114092元核对无误。",
+  "project": {
+    "buyer": "忻州市生态环境局",
+    "project_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目",
+    "total_amount": 16114092.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包1",
+        "winner": "山西水碧山清环保工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包2",
+        "winner": "安徽蓝盾光电子股份有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包3",
+        "winner": "山西鑫华翔科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包1",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 5970000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包2",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 6424992.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3",
+      "category": null,
+      "item_name": "忻州市市级空气监测站、乡镇空气监测站、交通空气监测站运维项目包3",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3719100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山西水碧山清环保工程有限公司",
+      "role": "winner",
+      "total_score": 91.0,
+      "rank": null,
+      "amount": 5970000.0
+    },
+    {
+      "package_no": "2",
+      "name": "安徽蓝盾光电子股份有限公司",
+      "role": "winner",
+      "total_score": 88.28,
+      "rank": null,
+      "amount": 6424992.0
+    },
+    {
+      "package_no": "3",
+      "name": "山西鑫华翔科技股份有限公司",
+      "role": "winner",
+      "total_score": 86.82,
+      "rank": null,
+      "amount": 3719100.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

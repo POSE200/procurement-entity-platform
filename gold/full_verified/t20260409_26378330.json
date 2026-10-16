@@ -1,0 +1,244 @@
+{
+  "announcement_id": "t20260409_26378330",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（同略科技有限公司）.pdf,合同包2：报价明细附件（中山众忻城市服务发展有限公司）.pdf,合同包3：报价明细附件（广东汉普人力资源有限公司）.pdf",
+  "note": "3个合同包各1条服务明细，单价/数量(1项)/总价取自zip解包的报价明细附件PDF。品目概要列为空，category取HTML标的信息表品目名称列'其他服务'。三包金额之和23,682,038.30元，与总中标金额2368.2038万元(23,682,038.0元)差0.30元，为万元换算舍入所致，不改原文。评分表同时含'得分排名'与'推荐排名'两列，rank取与综合得分对应的'得分排名'（该列为全体投标人得分序，故包2/包3中标人rank非1；推荐排名列仅前三名有值）。包号1/2/3来自HTML代理费表合同包号及标的信息品目号前缀，非推断。复核：21条bidder与评分表8/9/10逐行核对一致，item金额与附件报价明细一致，通过。",
+  "project": {
+    "buyer": "中山市自然资源局",
+    "project_name": "数据辅助处理、调查监测和窗口咨询",
+    "total_amount": 23682038.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "第二分局、小榄分局数据辅助处理、调查监测和窗口咨询",
+        "winner": "同略科技有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "第三分局、第四分局数据辅助处理、调查监测和窗口咨询",
+        "winner": "中山众忻城市服务发展有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "局机关、第一分局、翠亨新区分局数据辅助处理、调查监测和窗口咨询",
+        "winner": "广东汉普人力资源有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "第二分局、小榄分局数据辅助处理、调查监测和窗口咨询",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8253952.0,
+      "total_price": 8253952.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他服务",
+      "item_name": "第三分局、第四分局数据辅助处理、调查监测和窗口咨询",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 8278500.0,
+      "total_price": 8278500.0
+    },
+    {
+      "package_no": "3",
+      "item_no": "3-1",
+      "category": "其他服务",
+      "item_name": "局机关、第一分局、翠亨新区分局数据辅助处理、调查监测和窗口咨询",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 7149586.3,
+      "total_price": 7149586.3
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "同略科技有限公司",
+      "role": "winner",
+      "total_score": 91.86,
+      "rank": 1,
+      "amount": 8253952.0
+    },
+    {
+      "package_no": "1",
+      "name": "中山众忻城市服务发展有限公司",
+      "role": "participant",
+      "total_score": 88.26,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汉普人力资源有限公司",
+      "role": "participant",
+      "total_score": 81.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东创业科技有限公司",
+      "role": "participant",
+      "total_score": 81.14,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东省人才市场有限公司",
+      "role": "participant",
+      "total_score": 80.75,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中山市金信物业管理有限公司",
+      "role": "participant",
+      "total_score": 79.7,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东捷点城市服务发展有限公司",
+      "role": "participant",
+      "total_score": 74.49,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中山众忻城市服务发展有限公司",
+      "role": "winner",
+      "total_score": 90.4,
+      "rank": 2,
+      "amount": 8278500.0
+    },
+    {
+      "package_no": "2",
+      "name": "广东汉普人力资源有限公司",
+      "role": "participant",
+      "total_score": 81.97,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东创业科技有限公司",
+      "role": "participant",
+      "total_score": 81.16,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "同略科技有限公司",
+      "role": "participant",
+      "total_score": 91.86,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东省人才市场有限公司",
+      "role": "participant",
+      "total_score": 80.75,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中山市金信物业管理有限公司",
+      "role": "participant",
+      "total_score": 79.7,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东捷点城市服务发展有限公司",
+      "role": "participant",
+      "total_score": 75.35,
+      "rank": 7,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东汉普人力资源有限公司",
+      "role": "winner",
+      "total_score": 82.4,
+      "rank": 3,
+      "amount": 7149586.3
+    },
+    {
+      "package_no": "3",
+      "name": "广东创业科技有限公司",
+      "role": "participant",
+      "total_score": 81.15,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东省人才市场有限公司",
+      "role": "participant",
+      "total_score": 80.32,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "同略科技有限公司",
+      "role": "participant",
+      "total_score": 91.86,
+      "rank": 1,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中山众忻城市服务发展有限公司",
+      "role": "participant",
+      "total_score": 89.97,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "中山市金信物业管理有限公司",
+      "role": "participant",
+      "total_score": 79.69,
+      "rank": 6,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "广东捷点城市服务发展有限公司",
+      "role": "participant",
+      "total_score": 75.33,
+      "rank": 7,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

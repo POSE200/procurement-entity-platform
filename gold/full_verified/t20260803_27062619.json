@@ -1,0 +1,82 @@
+{
+  "announcement_id": "t20260803_27062619",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东百瑞同创建设有限公司).pdf",
+  "note": "单包工程类项目，包号1及包名取自中标公示附件docx的包号表；item单价/数量/总价取自报价明细表（响应报价1358000元，与中标金额一致，虽文件名标注'第1轮'但金额与最后报价相符）；概要品目列为空，category取HTML标的信息表品目名称列（房屋修缮）；评分表得分排名列为空，rank全null；西安圣诺克医疗科技有限公司、居里医疗产业发展（河北）有限公司符合性审查未通过，得分/金额null；01中标公示附件.rar已解包解析。",
+  "project": {
+    "buyer": "青岛大学附属医院",
+    "project_name": "青岛大学附属医院西海岸院区放射机房防护改造项目",
+    "total_amount": 1358000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "西海岸院区放射机房防护改造项目",
+        "winner": "山东百瑞同创建设有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "房屋修缮",
+      "item_name": "西海岸院区放射机房防护改造项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1358000.0,
+      "total_price": 1358000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东百瑞同创建设有限公司",
+      "role": "winner",
+      "total_score": 85.19,
+      "rank": null,
+      "amount": 1358000.0
+    },
+    {
+      "package_no": "1",
+      "name": "黑龙江省春晟建筑安装工程有限公司",
+      "role": "participant",
+      "total_score": 74.44,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "沈阳天航伟业机电设备安装工程有限公司",
+      "role": "participant",
+      "total_score": 74.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "西安圣诺克医疗科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "居里医疗产业发展（河北）有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

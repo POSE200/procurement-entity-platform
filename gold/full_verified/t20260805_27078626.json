@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27078626",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（四川三诚科教设备有限公司）.pdf",
+  "note": "总中标金额栏为『￥0.000000万元』占位值→total_amount=null；中标金额栏仅写『投标折扣：85.00%』未给成交金额。附件报价明细明确：单价2,000,000×数量1项=总价2,000,000.00（总价栏原文明示2,000,000.00，未按85%折扣折算，与折扣列存在口径矛盾，按原文照抄不改值）；bidders.amount取该投标总价（复核确认附件文本清晰可读，无需视觉核验）。概要品目列为空，category取HTML品目名称列『其他印刷服务』。",
+  "project": {
+    "buyer": "阳江市第一中学",
+    "project_name": "阳江市第一中学印刷服务和网络综合打印服务项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "阳江市第一中学印刷服务和网络综合打印服务项目",
+        "winner": "四川三诚科教设备有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他印刷服务",
+      "item_name": "阳江市第一中学购买印刷服务和网络综合打印服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2000000.0,
+      "total_price": 2000000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "四川三诚科教设备有限公司",
+      "role": "winner",
+      "total_score": 80.4,
+      "rank": 1,
+      "amount": 2000000.0
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市小秘书办公设备有限公司",
+      "role": "participant",
+      "total_score": 79.15,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市金迹科技有限公司",
+      "role": "participant",
+      "total_score": 54.88,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "阳江市江城区智胜印务服务中心",
+      "role": "participant",
+      "total_score": 36.0,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

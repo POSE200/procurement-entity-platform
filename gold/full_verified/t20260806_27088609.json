@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088609",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-聊城数点科技有限公司).pdf",
+  "note": "概要品目列空，category 取标的信息表'品目编号及品目名称'列'其他服务'；单价/数量/单位取自附件报价明细表(第1轮-聊城数点)（单价298000元×数量1项=响应报价298000元）；专家报酬表.jpg 中'中标成交金额'栏 OCR 残缺（数值缺失），金额以 HTML 298,000.00元 为准；其他资料.pdf OCR失败（为响应文件其他资料，未见价格明细）；package_no=1 取自附件'包(1)_'前缀及品目号1-1；得分排名列空白，rank 全 null。",
+  "project": {
+    "buyer": "聊城江北水城旅游度假区管理委员会办公室机关",
+    "project_name": "聊城江北水城旅游度假区管理委员会办公室购买网站平台维护服务项目",
+    "total_amount": 298000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "聊城数点科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "网站平台维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 298000.0,
+      "total_price": 298000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "聊城数点科技有限公司",
+      "role": "winner",
+      "total_score": 78.79,
+      "rank": null,
+      "amount": 298000.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南端维联构信息技术有限责任公司",
+      "role": "participant",
+      "total_score": 75.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "泰安数建科技有限公司",
+      "role": "participant",
+      "total_score": 74.85,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东子树信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.75,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

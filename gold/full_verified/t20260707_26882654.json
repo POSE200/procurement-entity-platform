@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260707_26882654",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（北京超图软件股份有限公司）.pdf",
+  "note": "品目取 HTML 标的信息表品目名称列'软件运维服务'（概要品目列为空）。明细来自附件报价明细表：1-1 单价140240×5项=701200、1-2 单价560800×1项=560800，均与原文自洽；但两明细合计 701200+560800=1262000，与总成交金额 1260800 相差 1200 元，为原文自身矛盾（附件文本层数字清晰可辨，非 OCR 问题），按口径未改原文值。附件 OCR 有水印字污染列名（如'服务要求包 购 采'）。得分排名列明示 1/2/3，三条 bidders 的 rank 据此填写。两未中标投标人无报价，amount=null。复核修正：note 原'疑 OCR 有误需视觉核验'改为确认原文数字自洽、差异为源文档本身矛盾。",
+  "project": {
+    "buyer": "湛江市自然资源局",
+    "project_name": "湛江市自然资源局不动产登记综合应用平台运维运营服务（2026年）项目",
+    "total_amount": 1260800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "湛江市自然资源局不动产登记综合应用平台运维运营服务（2026年）项目的第1包",
+        "winner": "北京超图软件股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "湛江市自然资源局不动产登记综合应用平台运维运营服务（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 5,
+      "unit": "项",
+      "unit_price": 140240.0,
+      "total_price": 701200.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "软件运维服务",
+      "item_name": "湛江市自然资源局不动产登记综合应用平台运维运营服务（2026年）项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 560800.0,
+      "total_price": 560800.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京超图软件股份有限公司",
+      "role": "winner",
+      "total_score": 96.36,
+      "rank": 1,
+      "amount": 1260800.0
+    },
+    {
+      "package_no": "1",
+      "name": "奥格科技股份有限公司",
+      "role": "participant",
+      "total_score": 64.99,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市仁洲信息技术有限公司",
+      "role": "participant",
+      "total_score": 45.67,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

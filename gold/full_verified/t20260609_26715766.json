@@ -1,0 +1,240 @@
+{
+  "announcement_id": "t20260609_26715766",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:成交公告.pdf,评审结果1标.pdf,评审结果2标.pdf,评审结果3标.pdf,3标附件.pdf",
+  "note": "三包竞争性磋商成交公告：包1/包2为工程包，采购内容已知但工程量明细在系统内未随包提供，items 各写一条总称记录（明细字段 null，总价填包成交金额）；包3 明细来自已OCR的 3标附件.pdf 分项报价一览表，该表列错位、水印污染严重（如耳鼻喉操作台行同时出现品牌『奥瑞电子』与厂家『徐州市昊瑞电子』、内热针治疗仪单价区乱码、碎石机厂家名残缺），品牌/型号取值需视觉核验。分项小计之和=965900.00（与大写『玖拾陆万伍仟玖佰元整』一致）但成交公告包3成交金额=965750.00，差150元，未改原文，需视觉核验。包3中标供应商名 3标附件OCR作『河南锦韦源医药有限公司』，成交公告与评审结果均作『河南锦伟源医药有限公司』，取后者。招标文件含第四标段（预算400000元，信息化系统）但本成交公告未公布其成交结果，未列入 packages/items。各包评审结果表有排名列，rank 为原文明示；participant 的 amount 取评审结果表的评审价格。OCR待视觉核验疑点：3标附件.pdf 报价表8行各列对位、内热针治疗仪金额、耳鼻喉操作台品牌归属。 复核修正：2026-09-23独立复核——包1/包2 item_name 改为成交公告采购内容原文照抄；3标8条item的序号列与单位列在3标附件.pdf OCR文本中不可见，item_no/unit 改为null（原1-8、台系位置推定，删除）；单价/数量经小计唯一互推复核（麻醉机2台、其余1台），各品牌列与生产厂家列对位可辨，原“需视觉核验”疑点消除。",
+  "project": {
+    "buyer": "邓州市汲滩镇卫生院",
+    "project_name": "邓州市汲滩镇卫生院县域医疗卫生次中心创建基础设施改造、设备更新购置、信息化升级项目",
+    "total_amount": 1710050.0,
+    "packages": [
+      {
+        "package_no": "邓财磋商采购-2026-4-1",
+        "package_name": "邓州市汲滩镇卫生院县域医疗卫生次中心创建基础设施改造、设备更新购置、信息化升级项目第一标段",
+        "winner": "河南宛工建设工程有限公司"
+      },
+      {
+        "package_no": "邓财磋商采购-2026-4-2",
+        "package_name": "邓州市汲滩镇卫生院县域医疗卫生次中心创建基础设施改造、设备更新购置、信息化升级项目第二标段",
+        "winner": "河南广得成建设工程有限公司"
+      },
+      {
+        "package_no": "邓财磋商采购-2026-4-3",
+        "package_name": "邓州市汲滩镇卫生院县域医疗卫生次中心创建基础设施改造、设备更新购置、信息化升级项目第三标段",
+        "winner": "河南锦伟源医药有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "邓财磋商采购-2026-4-1",
+      "item_no": null,
+      "category": null,
+      "item_name": "西侧储备用地围墙砌筑地面硬化、给排水设施、车位规划等附属设施建设（详见采购需求）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 274500.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-2",
+      "item_no": null,
+      "category": null,
+      "item_name": "病区集中供氧气建设（氧气、负压、设备带、病区呼叫系统）（详见采购需求）",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 469800.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "30度光学内镜",
+      "brand": "德国R.WOLF（狼牌）",
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 88000.0,
+      "total_price": 88000.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "C臂手术床",
+      "brand": "山东晟诚",
+      "model": "SC-D4",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 29800.0,
+      "total_price": 29800.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "耳鼻喉操作台",
+      "brand": "奥瑞电子",
+      "model": "AR-6001A",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 61100.0,
+      "total_price": 61100.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "麻醉机",
+      "brand": "瑞得伊格尔",
+      "model": "RE902-C7",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 55250.0,
+      "total_price": 110500.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "内热针治疗仪",
+      "brand": "山东前沿",
+      "model": "ZAMT-7240",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 148500.0,
+      "total_price": 148500.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "微创手术用气腹机",
+      "brand": "杭州保创",
+      "model": "BC-Q40",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 35000.0,
+      "total_price": 35000.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "碎石机",
+      "brand": "苏州普惠",
+      "model": "PH07-Y/D-B1",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 346000.0,
+      "total_price": 346000.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "item_no": null,
+      "category": null,
+      "item_name": "过氧化氢低温等离子体灭菌器",
+      "brand": "滑县红太阳",
+      "model": "HTYD-120LA",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 147000.0,
+      "total_price": 147000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "邓财磋商采购-2026-4-1",
+      "name": "河南宛工建设工程有限公司",
+      "role": "winner",
+      "total_score": 81.0,
+      "rank": 1,
+      "amount": 274500.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-1",
+      "name": "河南金隆桥建设工程有限公司",
+      "role": "participant",
+      "total_score": 72.55,
+      "rank": 2,
+      "amount": 275600.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-1",
+      "name": "河南豪瑞建设工程有限公司",
+      "role": "participant",
+      "total_score": 71.1,
+      "rank": 3,
+      "amount": 275200.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-2",
+      "name": "河南广得成建设工程有限公司",
+      "role": "winner",
+      "total_score": 81.33,
+      "rank": 1,
+      "amount": 469800.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-2",
+      "name": "河南龙楷建设工程有限公司",
+      "role": "participant",
+      "total_score": 75.56,
+      "rank": 2,
+      "amount": 471500.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-2",
+      "name": "河南高金建设工程有限公司",
+      "role": "participant",
+      "total_score": 72.86,
+      "rank": 3,
+      "amount": 472000.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-2",
+      "name": "南阳引丹建筑工程有限责任公司",
+      "role": "participant",
+      "total_score": 65.43,
+      "rank": 4,
+      "amount": 471000.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "name": "河南锦伟源医药有限公司",
+      "role": "winner",
+      "total_score": 88.5,
+      "rank": 1,
+      "amount": 965750.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "name": "南阳康德欣医疗科技有限公司",
+      "role": "participant",
+      "total_score": 83.48,
+      "rank": 2,
+      "amount": 966400.0
+    },
+    {
+      "package_no": "邓财磋商采购-2026-4-3",
+      "name": "南阳市健之秀医疗器械有限公司",
+      "role": "participant",
+      "total_score": 79.65,
+      "rank": 3,
+      "amount": 966300.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

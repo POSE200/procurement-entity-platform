@@ -1,0 +1,135 @@
+{
+  "announcement_id": "t20260609_26712626",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf,合同包2：报价明细附件（北京五一嘉峪科技有限公司）.pdf",
+  "note": "两包两中标人。包1金额1,540,000+包2金额1,776,000（1,480,000+296,000）=3,316,000与总中标金额一致。包2有两名未通过审查的投标人（广州佳简通信科技有限公司资格性审查不通过、三六零数字安全科技集团有限公司符合性审查不通过），无得分数据，按participant收录、字段null。品目取自HTML标的信息表。品目名称“测试评估认证服务”对应包2两条明细。 复核修正：2026-09-23独立复核通过。",
+  "project": {
+    "buyer": "中共广东省委网络安全和信息化委员会办公室",
+    "project_name": "2026年网络安全实战攻防能力建设项目",
+    "total_amount": 3316000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年网络安全实战信息汇聚",
+        "winner": "中国移动通信集团广东有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "2026年网络安全攻防演练",
+        "winner": "北京五一嘉峪科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术咨询服务",
+      "item_name": "2026年网络安全实战信息汇聚",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1540000.0,
+      "total_price": 1540000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "网络安全实网攻防演练服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1480000.0,
+      "total_price": 1480000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-2",
+      "category": "测试评估认证服务",
+      "item_name": "网络安全技战术模拟攻防演练服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 296000.0,
+      "total_price": 296000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 90.98,
+      "rank": 1,
+      "amount": 1540000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东亿迅科技有限公司",
+      "role": "participant",
+      "total_score": 90.06,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "联通（广东）产业互联网有限公司",
+      "role": "participant",
+      "total_score": 88.4,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州佳简通信科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "三六零数字安全科技集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "北京五一嘉峪科技有限公司",
+      "role": "winner",
+      "total_score": 93.22,
+      "rank": 1,
+      "amount": 1776000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京中金安服科技有限公司",
+      "role": "participant",
+      "total_score": 62.0,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广州安搏士信息科技有限公司",
+      "role": "participant",
+      "total_score": 60.53,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

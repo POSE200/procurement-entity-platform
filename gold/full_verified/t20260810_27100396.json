@@ -1,0 +1,166 @@
+{
+  "announcement_id": "t20260810_27100396",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司佛山分公司）.pdf",
+  "note": "单包（合同包1）；winner为联合体，名称原样保留'中国电信股份有限公司佛山分公司(联合体成员：中国移动通信集团广东有限公司佛山分公司)'；品目取自HTML标的表品目名称列（概要品目列空）；品牌/规格型号列均为'按招标文件要求、详见项目清单报价'，附件报价明细同，无实际品牌型号→null；8条分项总价之和=3,763,765.00元=中标金额，数学一致；评审表得分排名1-5为原文明示；代理服务费3.6321万元向中标供应商收取。",
+  "project": {
+    "buyer": "佛山市季华中学",
+    "project_name": "佛山市季华中学采购信息化设备及配套项目（分散）",
+    "total_amount": 3763765.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "佛山市季华中学采购信息化设备及配套项目（分散）",
+        "winner": "中国电信股份有限公司佛山分公司(联合体成员：中国移动通信集团广东有限公司佛山分公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（一）佛山市季华中学采购国家教育考试系统设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 110579.1,
+      "total_price": 110579.1
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（二）佛山市季华中学采购电教平台项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1196290.2,
+      "total_price": 1196290.2
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（三）佛山市季华中学采购综合楼录播室设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 106259.92,
+      "total_price": 106259.92
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（四）佛山市季华中学采购实验楼电脑室设备升级项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 521240.3,
+      "total_price": 521240.3
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（五）佛山市季华中学采购校园监控升级改造项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 58092.08,
+      "total_price": 58092.08
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（六）佛山市季华中学采购校园广播系统设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 565229.1,
+      "total_price": 565229.1
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（七）佛山市季华中学采购创客设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 897077.3,
+      "total_price": 897077.3
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "（八）佛山市季华中学采购户外显示屏设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 308997.0,
+      "total_price": 308997.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司佛山分公司(联合体成员：中国移动通信集团广东有限公司佛山分公司)",
+      "role": "winner",
+      "total_score": 93.79,
+      "rank": 1,
+      "amount": 3763765.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国铁塔股份有限公司佛山市分公司",
+      "role": "participant",
+      "total_score": 84.64,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东赛诺科技股份有限公司",
+      "role": "participant",
+      "total_score": 83.81,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东华志高科技术有限公司",
+      "role": "participant",
+      "total_score": 70.2,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "粤小微（东莞）文化科技有限公司",
+      "role": "participant",
+      "total_score": 41.34,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

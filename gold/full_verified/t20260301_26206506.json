@@ -1,0 +1,188 @@
+{
+  "announcement_id": "t20260301_26206506",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:服务明细表.pdf,公示数据.pdf",
+  "note": "三包（A系统研发/B监理服务/C测试评估认证服务）明细各1条，来自各包中标人'服务明细表.pdf'；总价由单价×数量唯一互推且与各包中标金额（505.9万/11.5万/7.5万，合计524.9万=总中标金额）一致。公示数据附件仅给5位专家各自评分（无综合得分、无排名列）→total_score/rank=null，禁止按出现顺序推排名。评委费用支付表'中标成交金额'栏同值重复3次（模板复制问题，如A包写5059000×3），以HTML结果表分包金额为准。品目列空、无品目名称表→category=null。服务明细表无计量单位→unit=null。需视觉核验：评委费用支付表金额栏、各包品目是否在招标文件中有品目分类。",
+  "project": {
+    "buyer": "山东省国土空间数据和遥感技术研究院",
+    "project_name": "2025年度山东省自然资源厅山东省国土空间用途管制监管系统（用地用林用草用海联动审批场景）新建项目",
+    "total_amount": 5249000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "系统研发",
+        "winner": "深圳市壹平台信息技术有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "监理服务",
+        "winner": "山东正中信息技术股份有限公司"
+      },
+      {
+        "package_no": "C",
+        "package_name": "测试评估认证服务",
+        "winner": "山东锐通信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2025年度山东省自然资源厅山东省国土空间用途管制监管系统（用地用林用草用海联动审批场景）新建项目系统研发",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 5059000.0,
+      "total_price": 5059000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2025年度山东省自然资源厅山东省国土空间用途管制监管系统（用地用林用草用海联动审批场景）新建项目监理服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 115000.0,
+      "total_price": 115000.0
+    },
+    {
+      "package_no": "C",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2025年度山东省自然资源厅山东省国土空间用途管制监管系统（用地用林用草用海联动审批场景）新建项目测试评估认证服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 75000.0,
+      "total_price": 75000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "深圳市壹平台信息技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 5059000.0
+    },
+    {
+      "package_no": "A",
+      "name": "中电信数智科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "长沙市规划信息服务中心",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "湖北金拓维信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "北京数慧时空信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "广东国地科技股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "山东正中信息技术股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 115000.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "北方实验室（沈阳）股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东锐通信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 75000.0
+    },
+    {
+      "package_no": "C",
+      "name": "山东省信息技术产业发展研究院（中国赛宝（山东）实验室）",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "山东卓朗检测股份有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "C",
+      "name": "河北方维网络技术有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

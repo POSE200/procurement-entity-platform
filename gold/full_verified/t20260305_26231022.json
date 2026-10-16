@@ -1,0 +1,122 @@
+{
+  "announcement_id": "t20260305_26231022",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包项目（合同包1，代理服务费表亦列合同包1）；品目概要列为空，category取标的信息表『品目名称』列『行业应用软件开发服务』；表格2为功能需求明细表共16行，均属品目号1-1，金额列全空且无数量/单价/品牌/型号信息，items按16行中5个不同『采购标的』（功能模块）归并输出，item_no均为1-1，价格字段全null（需视觉核验：报价明细附件为html类型被跳过，分项价格不可得）；4条item价格字段null使包金额与total_amount核对不适用；评分表含得分排名列，rank按原文填写。",
+  "project": {
+    "buyer": "东莞市应急管理局",
+    "project_name": "东莞市城市安全风险隐患管理系统项目",
+    "total_amount": 3260000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "东莞市城市安全风险隐患管理系统项目",
+        "winner": "深圳市城市公共安全技术研究院有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "（一）城市安全风险分级管控",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "（二）隐患排查治理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "（三）事故情报分析",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "（四）智能AI问答",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "（五）资源与标准管理",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "深圳市城市公共安全技术研究院有限公司",
+      "role": "winner",
+      "total_score": 91.15,
+      "rank": 1,
+      "amount": 3260000.0
+    },
+    {
+      "package_no": "1",
+      "name": "东莞中孚大数据有限公司",
+      "role": "participant",
+      "total_score": 42.77,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市亚软信息技术服务有限公司",
+      "role": "participant",
+      "total_score": 37.4,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "深圳亚赫科技有限公司",
+      "role": "participant",
+      "total_score": 21.54,
+      "rank": 4,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260508_26527153",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "公告概要品目列为项目级代码串（A05010599,A05010203,A02109900）无法逐条对应到item，category 取HTML标的信息表「品目名称」列（其他柜类/教学、实验用桌/其他仪器仪表）；金额异常：3条item总价之和118,860元≠总中标金额996,000元（差877,140元，原文如此未改），且item2「合作式学习桌、配套椅子」数量7×单价580≠总价24360（24360/580=42，疑数量列有误，原文如此）；项目不分包（招标文件无标包划分），package_no原文无出处为null；数量列无计量单位，unit=null；第2、3条item为捆绑标的（声明函显示第3条含11类机器人套盒/散件/耗材+环境改造等），原文即按1条报价，不拆分；评分表（表格3）只有得分列无排名列，rank全null；未中标3家无报价，amount=null。；单包项目原文未明示包号，按检查器口径补 package_no=1（推断，唯一包无歧义）；单包项目原文未明示包号，按检查器口径补 project.packages.package_no=1（推断，唯一包无歧义）",
+  "project": {
+    "buyer": "宁夏师范大学",
+    "project_name": "宁夏师范大学人工智能教育实验室建设项目",
+    "total_amount": 996000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "宁夏青青橄榄服务有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他柜类",
+      "item_name": "作品展示柜",
+      "brand": "天峰",
+      "model": "定制",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 900.0,
+      "total_price": 4500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "教学、实验用桌",
+      "item_name": "合作式学习桌、合作式学习桌配套椅子",
+      "brand": "诗敏",
+      "model": "WD-1412-B",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 580.0,
+      "total_price": 24360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "其他仪器仪表",
+      "item_name": "中小学人工智能基础教育实验套盒（含小学、初中、高中段）；跨学科项目式人工智能教育实验套盒；中小学人工智能创新实践套装；人工智能普及赛高级套装；人工智能普及赛高级套装配套场地；双足可编程机器人套装；双足智联机器人套装；双足具身智能机器人套装；人工智能创新实验散件；人工智能实验耗材工具套装；环境改造",
+      "brand": "DF",
+      "model": "EDU0162",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 90000.0,
+      "total_price": 90000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "宁夏青青橄榄服务有限公司",
+      "role": "winner",
+      "total_score": 93.61,
+      "rank": null,
+      "amount": 996000.0
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏艾瑞森美科技有限公司",
+      "role": "participant",
+      "total_score": 80.91,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "宁夏昱达通信息科技有限公司",
+      "role": "participant",
+      "total_score": 86.5,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "河南省如意胜源信息技术有限公司",
+      "role": "participant",
+      "total_score": 77.8,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

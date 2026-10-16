@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260805_27073774",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "单包公告（标题'采购包1'，中小企业声明函载包号(1)、包名称'应用软件'）；概要品目列空，category取HTML标的信息表品目名称列'应用软件'；附件'报价明细表(第1轮-厦门市规划数字技术研究中心).pdf'已核对，响应报价495000元与HTML一致；中小企业声明函中供应商名受水印污染（'厦门市规s划ig数nP字os技it术io研nI究d 中心'），按无水印的HTML表格取'厦门市规划数字技术研究中心'；评分表中得分排名/推荐排名列存在但值为空，rank按规范不推填，全部null。",
+  "project": {
+    "buyer": "聊城市自然资源和规划局",
+    "project_name": "聊城市产业发展“一张图”信息系统项目",
+    "total_amount": 495000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "应用软件",
+        "winner": "厦门市规划数字技术研究中心"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "聊城市产业发展“一张图”信息系统项目",
+      "brand": "厦门规划数字中心",
+      "model": "定制开发",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 495000.0,
+      "total_price": 495000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "厦门市规划数字技术研究中心",
+      "role": "winner",
+      "total_score": 88.9,
+      "rank": null,
+      "amount": 495000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东鲁邦地理信息工程有限公司",
+      "role": "participant",
+      "total_score": 77.81,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东数研信息科技有限公司",
+      "role": "participant",
+      "total_score": 74.24,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "announcement_id": "t20260812_27123752",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "本项目含C/D/E多包，本公告仅D包成交（评审劳务报酬支付表明示'D包：123.9万元'，HTML标的信息采购标的亦为'（二）D包'），package_no=D；投标（响应）报价明细表：844000+273000+122000=1239000元，与中标金额1239000元一致，3条明细的单价×1套均自洽；品目号2-1-1/2/3与品目名称'教学仪器'、品牌、型号照抄HTML标的信息表，item_name取报价明细表货物名称（HTML采购标的列为通用包名）；附件.pdf为OCR件，投标人名称OCR作'思春教育科技有限公司'，winner名称以HTML文本层'山东思睿教育科技有限公司'为准；劳务报酬表预算金额字段OCR（'D包：125万元；C包：29.75万元'）仅参考，不影响gold取值。复核：与原文逐字段核对一致，verified。",
+  "project": {
+    "buyer": "济宁学院",
+    "project_name": "济宁学院应用型重点学科群平台设备更新项目（二）",
+    "total_amount": 1239000.0,
+    "packages": [
+      {
+        "package_no": "D",
+        "package_name": null,
+        "winner": "山东思睿教育科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "D",
+      "item_no": "2-1-1",
+      "category": "教学仪器",
+      "item_name": "果蔬汁加工处理生产线",
+      "brand": "英都斯特",
+      "model": "MIH-S10",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 844000.0,
+      "total_price": 844000.0
+    },
+    {
+      "package_no": "D",
+      "item_no": "2-1-2",
+      "category": "教学仪器",
+      "item_name": "多功能啤酒灌装机",
+      "brand": "劲拓机械",
+      "model": "定制",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 273000.0,
+      "total_price": 273000.0
+    },
+    {
+      "package_no": "D",
+      "item_no": "2-1-3",
+      "category": "教学仪器",
+      "item_name": "全自动啤酒杀菌釜",
+      "brand": "万兴机械",
+      "model": "300公斤",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 122000.0,
+      "total_price": 122000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "D",
+      "name": "山东思睿教育科技有限公司",
+      "role": "winner",
+      "total_score": 90.76,
+      "rank": null,
+      "amount": 1239000.0
+    },
+    {
+      "package_no": "D",
+      "name": "智点未来（山东）信息技术有限公司",
+      "role": "participant",
+      "total_score": 83.9,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "D",
+      "name": "山东昶雅信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.53,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收",
+    "audit_updates": [
+      {
+        "kind": "source_verified_correction",
+        "evidence": [
+          {
+            "kind": "同一公告包号别名",
+            "groups": [
+              {
+                "canonical": "D",
+                "aliases": [
+                  "2"
+                ],
+                "evidence": [
+                  {
+                    "source": "原始公告HTML",
+                    "label": "结果表编号",
+                    "text": "用型重点学科群平台设备更新项目（二）(二次) 三、采购结果 采购包2: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东思睿教育科技有限公司 山东省济南市历下区奥体西路1222号力高国际花园6号楼1510 1,239,000.00元 90.76 四、主要标的信息 合同包2: 货物类（山东思睿教育科技有限公司） 品目号 品目名称 采购标的 品牌 规格型号 数量（单位） 2-1-1 教学仪器 应用型重点学科群平台设备更新项目（二）D包 英都斯特 MIH-S10 1(套) 2-1-2 教学仪器 应用"
+                  },
+                  {
+                    "source": "原始公告HTML",
+                    "label": "项目/采购标的中的包标识",
+                    "text": "主要标的信息 合同包2: 货物类（山东思睿教育科技有限公司） 品目号 品目名称 采购标的 品牌 规格型号 数量（单位） 2-1-1 教学仪器 应用型重点学科群平台设备更新项目（二）D包 英都斯特 MIH-S10 1(套) 2-1-2 教学仪器 应用型重点学科群平台设备更新项目（二）D包 劲拓机械 定制 1(套) 2-1-3 教学仪器 应用型重"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "source_package_aliases": [
+    {
+      "canonical": "D",
+      "aliases": [
+        "2"
+      ],
+      "evidence": [
+        {
+          "source": "原始公告HTML",
+          "label": "结果表编号",
+          "text": "用型重点学科群平台设备更新项目（二）(二次) 三、采购结果 采购包2: 供应商名称 供应商地址 中标（成交）金额 评审总得分 山东思睿教育科技有限公司 山东省济南市历下区奥体西路1222号力高国际花园6号楼1510 1,239,000.00元 90.76 四、主要标的信息 合同包2: 货物类（山东思睿教育科技有限公司） 品目号 品目名称 采购标的 品牌 规格型号 数量（单位） 2-1-1 教学仪器 应用型重点学科群平台设备更新项目（二）D包 英都斯特 MIH-S10 1(套) 2-1-2 教学仪器 应用"
+        },
+        {
+          "source": "原始公告HTML",
+          "label": "项目/采购标的中的包标识",
+          "text": "主要标的信息 合同包2: 货物类（山东思睿教育科技有限公司） 品目号 品目名称 采购标的 品牌 规格型号 数量（单位） 2-1-1 教学仪器 应用型重点学科群平台设备更新项目（二）D包 英都斯特 MIH-S10 1(套) 2-1-2 教学仪器 应用型重点学科群平台设备更新项目（二）D包 劲拓机械 定制 1(套) 2-1-3 教学仪器 应用型重"
+        }
+      ]
+    }
+  ]
+}

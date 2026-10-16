@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260806_27088583",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-东软集团（山东）信息科技有限公司).pdf,成交附件.pdf",
+  "note": "概要品目列空，category 取标的信息表品目名称列'行业应用软件开发服务'；单价/数量/单位取自附件报价明细表(第1轮-东软)（单价1467000元×数量1项=响应报价1467000元）；成交附件.pdf（业绩表+评审劳务报酬支付表）确认成交金额146.7万元与预算147.5万元；package_no=1 取自公告标题'（采购包1）'及品目号1-1；得分排名列空白，rank 全 null。",
+  "project": {
+    "buyer": "山东省财政厅",
+    "project_name": "山东省政府采购信息公开平台功能优化提升",
+    "total_amount": 1467000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "东软集团（山东）信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "山东省政府采购信息公开平台功能优化提升",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1467000.0,
+      "total_price": 1467000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "东软集团（山东）信息科技有限公司",
+      "role": "winner",
+      "total_score": 89.94,
+      "rank": null,
+      "amount": 1467000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东融友信息技术有限公司",
+      "role": "participant",
+      "total_score": 76.84,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东融道智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.96,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

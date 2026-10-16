@@ -1,0 +1,100 @@
+{
+  "announcement_id": "t20260204_26150301",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函.pdf,中小企业声明函_2.pdf",
+  "note": "3个标段。表格1三家中标人与标段对应依据：序号顺序与标项顺序对应，且两份中小企业声明函分别由海川（大米/面粉/清油=一标段）、海川（窝窝馕/面包/蛋糕=二标段）盖章佐证，泽隆对应六标段。各包中标金额之和15,582,913+8,510,000+18,096,891.12=42,189,804.12元，与总中标金额￥4218.980000万元（42,189,800元）差4.12元，容差内。主要标的信息表每标段仅列1条标的（各标段实际还含面粉、清油、面包/蛋糕、调料等，公告未列其余标的价格），故items合计9,202,731+7,830,000+15,925,392.05=32,958,123.05元小于total_amount，属原文信息不全。total_price为原文单价×数量计算所得（两因子均为原文值，非编造）。牛奶行品牌列为「蒙牛 型号：200ml/盒」，按语义拆分为brand=蒙牛、model=200ml/盒；大米/窝窝馕行的规格型号列为长段技术规格文本，照抄入model。品目列空且标的信息表无品目名称列，category=null。数量列未带计量单位，unit=null。rank原文未明示，null。",
+  "project": {
+    "buyer": "伽师县教育局",
+    "project_name": "伽师县教育系统2026年食材采购项目（一标段、二标段、六标段）",
+    "total_amount": 42189800.0,
+    "packages": [
+      {
+        "package_no": "一标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（一标段：大米、面粉、清油）",
+        "winner": "伽师县海川商贸有限公司"
+      },
+      {
+        "package_no": "二标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（二标段：糕点类（馕、面包、蛋糕））",
+        "winner": "伽师县海川商贸有限公司"
+      },
+      {
+        "package_no": "六标段",
+        "package_name": "伽师县教育系统2026年食材采购项目（六标段：牛奶、调料）",
+        "winner": "喀什泽隆商贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "一标段",
+      "item_no": "1",
+      "category": null,
+      "item_name": "大米",
+      "brand": "稻花乡",
+      "model": "（粳米）国标一级，质量到达 GB/T1354 标准，须袋装，25kg 每袋。米质颗粒饱满，有清香味，无麸皮等杂质，碎米占比少，严禁提供陈化米。（供货时随货物一并提供产品合格证、检验合格证、出厂不超过3 个月）。",
+      "quantity": 71339,
+      "unit": null,
+      "unit_price": 129.0,
+      "total_price": 9202731.0
+    },
+    {
+      "package_no": "二标段",
+      "item_no": "2",
+      "category": null,
+      "item_name": "窝窝馕（营养小馕）",
+      "brand": "念家",
+      "model": "单个重量≥150g,保质期必须大于 5 天，馕的形状为扁圆形状，中间有孔，圆形扁馕，不得夹生，感官良好，有相应的包装措施，包装印有产品名称，配料，生产日期，保质期，净含量，生产厂家名称，地址，联系电话，食品生产许可证号等信息，不含有害防腐剂。",
+      "quantity": 9000000,
+      "unit": null,
+      "unit_price": 0.87,
+      "total_price": 7830000.0
+    },
+    {
+      "package_no": "六标段",
+      "item_no": "3",
+      "category": null,
+      "item_name": "牛奶",
+      "brand": "蒙牛",
+      "model": "200ml/盒",
+      "quantity": 10983029,
+      "unit": null,
+      "unit_price": 1.45,
+      "total_price": 15925392.05
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "一标段",
+      "name": "伽师县海川商贸有限公司",
+      "role": "winner",
+      "total_score": 93.46,
+      "rank": null,
+      "amount": 15582913.0
+    },
+    {
+      "package_no": "二标段",
+      "name": "伽师县海川商贸有限公司",
+      "role": "winner",
+      "total_score": 94.0,
+      "rank": null,
+      "amount": 8510000.0
+    },
+    {
+      "package_no": "六标段",
+      "name": "喀什泽隆商贸有限公司",
+      "role": "winner",
+      "total_score": 89.75,
+      "rank": null,
+      "amount": 18096891.12
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

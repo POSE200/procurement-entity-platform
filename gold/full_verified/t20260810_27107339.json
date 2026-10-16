@@ -1,0 +1,98 @@
+{
+  "announcement_id": "t20260810_27107339",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东山屹会计师事务所有限公司).pdf",
+  "note": "单包服务项目。package_no=1依公告标题'（采购包1）'推断。强制核查项已确认：报价明细表(第1轮-山东山屹会计师事务所有限公司).pdf已解析——单价60000元、数量1.0000、单位项、最高限价70000元，与中标金额一致。文件集中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'仅有水印叠字表头、无数据行；磋商文件附件报价明细表.docx为空白格式件。HTML评分表'得分排名/推荐排名'列空白，rank全null。特例：中一会计师事务所有限责任公司济南分所出现在未中标名单（综合评审得分较低）但不在综合得分表中，无得分，照实收录为participant、total_score=null。品目取标的信息表'品目编号及品目名称'列末级名'其他服务'（概要品目列为空）。",
+  "project": {
+    "buyer": "中共济南市委网络安全和信息化委员会办公室",
+    "project_name": "国家网络安全宣传周活动审计项目",
+    "total_amount": 60000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东山屹会计师事务所有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他服务",
+      "item_name": "国家网络安全宣传周活动审计",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 60000.0,
+      "total_price": 60000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东山屹会计师事务所有限公司",
+      "role": "winner",
+      "total_score": 89.87,
+      "rank": null,
+      "amount": 60000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东星诚会计师事务所（普通合伙）",
+      "role": "participant",
+      "total_score": 88.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京中平建华浩会计师事务所有限公司",
+      "role": "participant",
+      "total_score": 85.32,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中诚信会计师事务所有限公司",
+      "role": "participant",
+      "total_score": 85.06,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中审众环会计师事务所（特殊普通合伙）山东分所",
+      "role": "participant",
+      "total_score": 84.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东中硕会计师事务所有限公司",
+      "role": "participant",
+      "total_score": 81.88,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中一会计师事务所有限责任公司济南分所",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

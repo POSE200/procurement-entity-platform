@@ -1,0 +1,107 @@
+{
+  "announcement_id": "t20260202_26141964",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:包1供应商评审情况表.pdf,包2供应商评审情况表.pdf",
+  "note": "2个采购包：包1主链路、包2备用链路。得分与排名取自两份供应商评审情况表（评审结果列明示第一/第二/第三成交候选人及各自报价，rank据此填写）。各包金额之和575,000+568,000=1,143,000元=总成交金额114.3万元。品目取HTML标的信息表品目名称列（C17010200 网络接入服务），每包各1条服务标的：total_price取该包成交金额（出处为成交候选人文案所载报价金额），quantity/unit/unit_price原文未给、不推算填null；响应报价列在HTML中被模板代码污染不可用。",
+  "project": {
+    "buyer": "甘孜藏族自治州医疗事故技术鉴定和卫生信息中心",
+    "project_name": "甘孜州5G卫生专网建设项目",
+    "total_amount": 1143000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "采购包1（主链路）",
+        "winner": "中国移动通信集团四川有限公司甘孜分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "采购包2（备用链路）",
+        "winner": "中国电信股份有限公司甘孜分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": "C17010200 网络接入服务",
+      "item_name": "甘孜州5G卫生专网主链路",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 575000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": "C17010200 网络接入服务",
+      "item_name": "甘孜州5G卫生专网备用链路",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 568000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团四川有限公司甘孜分公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 575000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司甘孜分公司",
+      "role": "participant",
+      "total_score": 99.88,
+      "rank": 2,
+      "amount": 582000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司甘孜州分公司",
+      "role": "participant",
+      "total_score": 90.83,
+      "rank": 3,
+      "amount": 585000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国电信股份有限公司甘孜分公司",
+      "role": "winner",
+      "total_score": 100.0,
+      "rank": 1,
+      "amount": 568000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团四川有限公司甘孜分公司",
+      "role": "participant",
+      "total_score": 99.81,
+      "rank": 2,
+      "amount": 579000.0
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司甘孜州分公司",
+      "role": "participant",
+      "total_score": 84.9,
+      "rank": 3,
+      "amount": 573500.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

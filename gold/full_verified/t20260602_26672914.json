@@ -1,0 +1,139 @@
+{
+  "announcement_id": "t20260602_26672914",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国电信股份有限公司广东分公司）.pdf,合同包2：报价明细附件（广东新逸达科技有限公司）.pdf",
+  "note": "总中标金额3694378.0元与两包成交金额之和3694377.6元差0.4元（公告万元值四舍五入所致，不改原文）；两包单价、数量（1项）由报价明细附件明示；品目概要列为空，category取HTML标的表品目名称列；需视觉核验：附件OCR列名区有水印串扰但数值清晰。复核：水印串扰仅影响列名区文字，单价/数量/总价数值清晰且与HTML一致，全部字段核对无误。",
+  "project": {
+    "buyer": "中山市公安局东区分局",
+    "project_name": "中山市公安局东区分局社会治安视频监控系统一期高清工程线路租赁及设备维护服务（2026年-2029年）",
+    "total_amount": 3694378.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "线路租赁服务",
+        "winner": "中国电信股份有限公司广东分公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "前端后端设备维护服务",
+        "winner": "广东新逸达科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他电信和信息传输服务",
+      "item_name": "线路租赁服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 2427084.0,
+      "total_price": 2427084.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "其他运行维护服务",
+      "item_name": "前端后端设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1267293.6,
+      "total_price": 1267293.6
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 96.41,
+      "rank": 1,
+      "amount": 2427084.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东省广播电视网络股份有限公司中山分公司",
+      "role": "participant",
+      "total_score": 82.88,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东云桥智慧科技有限公司",
+      "role": "participant",
+      "total_score": 81.8,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中通服建设有限公司",
+      "role": "participant",
+      "total_score": 76.54,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东汇通信息科技股份有限公司",
+      "role": "participant",
+      "total_score": 57.8,
+      "rank": 5,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东新逸达科技有限公司",
+      "role": "winner",
+      "total_score": 94.26,
+      "rank": 1,
+      "amount": 1267293.6
+    },
+    {
+      "package_no": "2",
+      "name": "广东天网智城科技有限公司",
+      "role": "participant",
+      "total_score": 93.67,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中山市联众科技有限公司",
+      "role": "participant",
+      "total_score": 93.6,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东云桥智慧科技有限公司",
+      "role": "participant",
+      "total_score": 92.31,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "广东合盛智能技术有限公司",
+      "role": "participant",
+      "total_score": 92.17,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

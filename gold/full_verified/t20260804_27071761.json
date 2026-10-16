@@ -1,0 +1,78 @@
+{
+  "announcement_id": "t20260804_27071761",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-盈旺仪器（山东）有限公司).pdf",
+  "note": "package_no=1：公告标题'采购包1'及附件'包(1)_开标（报价）一览表.pdf'。单价/总价取自成交供应商报价明细表：软件71000元/套+无人机34000元/台，合计105000元与中标金额一致。型号'LiDAR360 V９.０'为OCR全角字符，疑为'LiDAR360 V9.0'，需视觉核验。复核修正：型号'LiDAR360 V９.０'的全角'９.０'在HTML表格2与OCR附件两处独立来源均如此呈现，系原文写法而非OCR错字，按照抄口径保留，无需视觉核验；两包单价/数量/限价与HTML、附件逐字段核对一致，71000+34000=105000=中标金额。品目取自HTML标的信息表'品目名称'列（概要品目列空）。得分排名/推荐排名列空，rank=null。附件'资格审查及业绩得分表'OCR有错字（盈在伙器），未采信。",
+  "project": {
+    "buyer": "聊城大学",
+    "project_name": "聊城大学教学科研自筹-农生无人机及软件（ID2613）采购项目",
+    "total_amount": 105000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "盈旺仪器（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "应用软件",
+      "item_name": "激光雷达处理软件",
+      "brand": "数字绿土",
+      "model": "LiDAR360 V９.０",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 71000.0,
+      "total_price": 71000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "无人机",
+      "item_name": "无人机",
+      "brand": "DJI",
+      "model": "DJI Mavic 3 多光谱版",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 34000.0,
+      "total_price": 34000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "盈旺仪器（山东）有限公司",
+      "role": "winner",
+      "total_score": 96.73,
+      "rank": null,
+      "amount": 105000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东思辅实验设备有限公司",
+      "role": "participant",
+      "total_score": 90.41,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "领行者（山东）体育文化发展有限公司",
+      "role": "participant",
+      "total_score": 89.98,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

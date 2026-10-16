@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260804_27072080",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:投标（响应）报价明细表.pdf",
+  "note": "单包（附件声明函标题'合同包1'，报价明细表'采购包：高水平专业群-项目论证与绩效管理平台'）。HTML标的信息表无单价/总价列，单价279500元、数量1宗、总价279500元取自附件'投标（响应）报价明细表.pdf'（合计279500元，与HTML中标（成交）金额279,500.00元一致）；附件中'包(1)_开标（报价）一览表.pdf'与'包(1)_投标（响应）报价明细表.pdf'两个同名节仅剩表头无数据行（OCR失败），可用数据取自文末独立附件'投标（响应）报价明细表.pdf'；专家劳务报酬支付表OCR错乱（同时混入另一项目SDGP370000000202602005502的'795/4.888万元'字样），未采用；评分表得分排名/推荐排名列存在但值为空，rank全部null；概要品目列空，category取标的信息表品目名称列'其他信息化设备'。",
+  "project": {
+    "buyer": "山东商务职业学院",
+    "project_name": "高水平专业群-项目论证与绩效管理平台",
+    "total_amount": 279500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "科育软件（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "高水平专业群-项目论证与绩效管理平台",
+      "brand": "科育",
+      "model": "V1.0",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 279500.0,
+      "total_price": 279500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "科育软件（山东）有限公司",
+      "role": "winner",
+      "total_score": 97.99,
+      "rank": null,
+      "amount": 279500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东恒阳电子股份有限公司",
+      "role": "participant",
+      "total_score": 84.21,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东云邦网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.53,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "烟台泰岳数据技术有限公司",
+      "role": "participant",
+      "total_score": 75.5,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

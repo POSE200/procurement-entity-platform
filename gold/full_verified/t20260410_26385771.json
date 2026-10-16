@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260410_26385771",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:中小企业声明函_2.pdf",
+  "note": "2个标项（采购包1=第三方软件测试、采购包2=商用密码安全性评估）。包对应关系：北京亮点软测投标函明示'包号：包2、第二包￥236,000.00元'且其特定资格为商用密码检测机构资质，故包2=北京亮点软测236,000元；包1=科准检测418,000元（由HTML结果表序号与排除法推断，需视觉核验）。两包金额之和654,000元=总中标金额65.4万元，一致。附件为双方资格证明文件与招标文件发售版，无分项报价明细，故每包仅一条标的记录：total_price取该包中标金额，quantity/unit/unit_price无单价×数量互推线索均null（服务类单标的，不推算）。品目列空且无标的信息表品目列，category=null。评审总得分有值但原文无排名列，rank一律null（禁止中标即第1）。除两位中标人外无其他投标供应商名单，bidders各包仅1条。复核修正：item_no原null，现取表格3标项序号'1'/'2'（原文有序号列，与同批其他篇口径一致）；包2归属经投标函明示，疑点关闭；通过。",
+  "project": {
+    "buyer": "太原市公共就业服务中心（太原市人力资源市场）",
+    "project_name": "太原市公共就业服务能力提升示范项目数智化应用提升工程第三方软件测试及商用密码安全性评估项目",
+    "total_amount": 654000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "太原市公共就业服务能力提升示范项目数智化应用提升工程第三方软件测试项目",
+        "winner": "科准检测科技研究院（山西）有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "太原市公共就业服务能力提升示范项目数智化应用提升工程商用密码安全性评估项目",
+        "winner": "北京亮点软测科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "太原市公共就业服务能力提升示范项目数智化应用提升工程第三方软件测试",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 418000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2",
+      "category": null,
+      "item_name": "太原市公共就业服务能力提升示范项目数智化应用提升工程商用密码安全性评估项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 236000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "科准检测科技研究院（山西）有限公司",
+      "role": "winner",
+      "total_score": 90.46,
+      "rank": null,
+      "amount": 418000.0
+    },
+    {
+      "package_no": "2",
+      "name": "北京亮点软测科技有限公司",
+      "role": "winner",
+      "total_score": 91.1,
+      "rank": null,
+      "amount": 236000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

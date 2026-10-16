@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260806_27088866",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:附件.pdf",
+  "note": "概要品目列为空，category 取 HTML 标的信息表品目名称列『修缮工程』（工程类单一条目，仅有总金额937600元，无单价/数量线索，unit_price/quantity/unit=null，不做单价×数量互推）；附件.pdf 载明成交候选供应商按得分名次排序（第一=潍坊市立德装饰、第二=潍坊昌达市政、第三=山东汇昌建设），据此填 rank，荣星建设集团未列名次 rank=null；package_no=1 来自公告标题『（采购包1）』；需视觉核验：无重大疑点。复核：HTML各字段、附件.pdf成交候选排序（rank 1/2/3明示）均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "山东经贸职业学院",
+    "project_name": "山东经贸职业学院5号教学楼智慧思政教学中心暨红色文化教育实践基地建设项目",
+    "total_amount": 937600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "潍坊市立德装饰有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "修缮工程",
+      "item_name": "山东经贸职业学院5号教学楼智慧思政教学中心暨红色文化教育实践基地建设项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 937600.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "潍坊市立德装饰有限公司",
+      "role": "winner",
+      "total_score": 89.26,
+      "rank": 1,
+      "amount": 937600.0
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊昌达市政工程有限公司",
+      "role": "participant",
+      "total_score": 87.9,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东汇昌建设有限公司",
+      "role": "participant",
+      "total_score": 86.69,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "荣星建设集团有限公司",
+      "role": "participant",
+      "total_score": 85.92,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

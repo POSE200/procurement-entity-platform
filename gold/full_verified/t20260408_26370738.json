@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260408_26370738",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "双包（标包A/B）。包金额：A包33.88万元=338800元、B包6.91万元=69100元，合计407900元与总中标金额40.79万元一致。主要标的信息表无金额/数量/单价/品目列，各item的total_price取对应包中标（成交）金额（包内唯一标的），quantity/unit/unit_price/category无原文依据填null。公告只列出A、B两包中标供应商，无其他投标主体、无评分排名信息，bidders仅2条winner记录（total_score/rank=null）。无附件。",
+  "project": {
+    "buyer": "山东省国土空间数据和遥感技术研究院",
+    "project_name": "海域空间管控项目省海洋局综合办公系统改造及等保密评项目",
+    "total_amount": 407900.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "省海洋局综合办公系统改造",
+        "winner": "上海数慧系统技术有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "商用密码应用安全性评估服务",
+        "winner": "高维密码测评技术（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "省海洋局综合办公系统改造",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 338800.0
+    },
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "商用密码应用安全性评估服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 69100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "上海数慧系统技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 338800.0
+    },
+    {
+      "package_no": "B",
+      "name": "高维密码测评技术（山东）有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 69100.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

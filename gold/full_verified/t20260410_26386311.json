@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260410_26386311",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:山东省体育彩票管理中心终端机维保服务其他维修和保养服务公示数据.pdf,服务明细表.pdf,评委费用支付表.pdf",
+  "note": "2个采购包A/B（附件招标文件明示项目包号A/B，HTML包号SDGP370000000202602000808-A/-B）。A包=广州市乐得瑞科技有限公司348,000元，B包=青岛海石商用科技股份有限公司150,000元，之和498,000元=总中标金额49.8万元，且与评委费用支付表'中标成交金额348000.00元+150000.00元'一致。items取自各包服务明细表：'终端机维保服务'单价348000/150000、数量1.00，明细表无单位列（unit=null）、型号/品牌列空白（model/brand=null）；总价=单价×数量唯一互推（348,000/150,000，已在note声明）。品目列空、无标的信息表，category=null（声明函中'其他维修和保养服务'为标的名称表述，不当品目填）。评分公示数据只给各专家个人打分（5个数）而无综合得分与排名，total_score/rank一律null；A包参与人3家、B包参与人4家（乐得瑞两包均参与，各一条）。两个zip容器被跳过但解包内容可见，无OCR待补。复核：两包金额/明细/参与主体与表格1、支付表、公示数据逐项核对一致，通过。",
+  "project": {
+    "buyer": "山东省体育彩票管理中心机关",
+    "project_name": "山东省体育彩票管理中心终端机维保服务",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "山东省体育彩票管理中心终端机维保服务A包",
+        "winner": "广州市乐得瑞科技有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "山东省体育彩票管理中心终端机维保服务B包",
+        "winner": "青岛海石商用科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "终端机维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 348000.0,
+      "total_price": 348000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "终端机维保服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 150000.0,
+      "total_price": 150000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "广州市乐得瑞科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 348000.0
+    },
+    {
+      "package_no": "A",
+      "name": "北京馨瑞源科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "济南酷鹏信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "青岛海石商用科技股份有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 150000.0
+    },
+    {
+      "package_no": "B",
+      "name": "广州市乐得瑞科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "北京馨瑞源科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "济南酷鹏信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

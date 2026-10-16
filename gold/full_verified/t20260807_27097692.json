@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260807_27097692",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "工程类项目，HTML写明'无分包'且全文无包号，package_no=null（分包名称'其他智能化安装工程'作为package_name）。概要品目列空、标的信息表无品目名称列，category=null；标的信息表施工范围'详见工程量清单'但工程量清单未随附件提供，quantity/unit/unit_price=null，total_price取中标金额498000元（劳务报酬表中'中标成交金额48800.00%'为OCR噪声，以表格1中标金额498000.00元为准）。评分表有'排序'列明示排名1-4，rank按列填写；未中标供应商amount取开标记录表投标报价。中标金额498000元=总中标金额￥49.800000万，数学一致。复核：4家bidder得分/排序/投标报价、item/bidder的package_no=null口径核对无误。",
+  "project": {
+    "buyer": "菏泽市公安局交通管理支队",
+    "project_name": "菏泽市公安局交通管理支队范阳路与文化路口新建信号灯及交通监控设备项目",
+    "total_amount": 498000.0,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": "其他智能化安装工程",
+        "winner": "山东佳阔建设工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": null,
+      "category": null,
+      "item_name": "菏泽市公安局交通管理支队范阳路与文化路口新建信号灯及交通监控设备项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 498000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "山东佳阔建设工程有限公司",
+      "role": "winner",
+      "total_score": 85.13,
+      "rank": 1,
+      "amount": 498000.0
+    },
+    {
+      "package_no": null,
+      "name": "科威达科技集团股份有限公司",
+      "role": "participant",
+      "total_score": 83.67,
+      "rank": 2,
+      "amount": 395000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东久泽建筑工程有限公司",
+      "role": "participant",
+      "total_score": 72.5,
+      "rank": 3,
+      "amount": 511500.0
+    },
+    {
+      "package_no": null,
+      "name": "山东中煊建设工程有限公司",
+      "role": "participant",
+      "total_score": 70.38,
+      "rank": 4,
+      "amount": 499700.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

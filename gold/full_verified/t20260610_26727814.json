@@ -1,0 +1,218 @@
+{
+  "announcement_id": "t20260610_26727814",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:投标明细表.pdf",
+  "note": "概要栏『总中标金额￥0.000000万元』为占位值，实际中标金额取HTML中标表及附件《费用支付表》的618,000元（附件费用支付表『中标成交金额：618000』一致）。单包项目（费用支付表『分包数量：1个』），全文未明示包号（HTML中标表序号列为行序号非包号），package_no=null。11条分项报价取自附件《投标明细表.pdf》（与HTML企业报价表一致），含2条报价0元的『其他要求』『商务要求』行，11条之和=618,000元。原文无数量/单价线索，quantity/unit/unit_price=null，total_price=各行报价。概要品目空且无标的信息品目列，category=null。总得分为5位评委合计（如397.05），原文无得分排名列，rank=null（中标即第1的推定禁止）。复核修正：概要总中标金额为'￥0.000000万'占位值，按口径 total_amount 置 null（618000 保留于中标人 amount 字段）；11条分项报价与附件投标明细表逐条一致，之和恰为618000。",
+  "project": {
+    "buyer": "济南市妇幼保健院",
+    "project_name": "济南市妇幼保健院机房运维服务项目",
+    "total_amount": null,
+    "packages": [
+      {
+        "package_no": null,
+        "package_name": null,
+        "winner": "智惠洲大数据科技（山东）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": null,
+      "item_no": "1",
+      "category": null,
+      "item_name": "机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "2",
+      "category": null,
+      "item_name": "机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 70000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "3",
+      "category": null,
+      "item_name": "机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 50000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "4",
+      "category": null,
+      "item_name": "机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 53000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "5",
+      "category": null,
+      "item_name": "机房设备维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "6",
+      "category": null,
+      "item_name": "机房环境维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "7",
+      "category": null,
+      "item_name": "机房环境维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 60000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "8",
+      "category": null,
+      "item_name": "零星网络布线服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "9",
+      "category": null,
+      "item_name": "老院区终端设备运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 100000.0
+    },
+    {
+      "package_no": null,
+      "item_no": "10",
+      "category": null,
+      "item_name": "其他要求",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 0.0
+    },
+    {
+      "package_no": null,
+      "item_no": "11",
+      "category": null,
+      "item_name": "商务要求",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 0.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": null,
+      "name": "智惠洲大数据科技（山东）有限公司",
+      "role": "winner",
+      "total_score": 397.05,
+      "rank": null,
+      "amount": 618000.0
+    },
+    {
+      "package_no": null,
+      "name": "山东铭云信息技术有限公司",
+      "role": "participant",
+      "total_score": 396.95,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "智启云联（山东）电子信息技术有限公司",
+      "role": "participant",
+      "total_score": 391.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "华鲁数智信息技术（北京）有限公司",
+      "role": "participant",
+      "total_score": 384.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东诚择信息技术有限公司",
+      "role": "participant",
+      "total_score": 372.65,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东普正信息技术有限公司",
+      "role": "participant",
+      "total_score": 339.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": null,
+      "name": "山东法拉第电气技术有限公司",
+      "role": "participant",
+      "total_score": 308.25,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "announcement_id": "t20260805_27073537",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州市声讯电子科技股份有限公司）.pdf",
+  "note": "单包（合同包1，合同包名称：广州市白云区气象局低空飞行气象保障基础支撑平台系统）。HTML服务标的表(表格3)品目1-1的金额列为空，单价/数量/总价取自附件'报价明细附件'（1,386,000元×1项），三条货物items与HTML表格2一致并经附件复核；分项之和1386000+837000+47000+100000=2370000与中标金额2,370,000.00元一致；附件声明函受水印字符污染严重但所需字段均取自表格未受影响；四要素自动气象站品牌列原文为'/'，brand=null；rank取自评审得分表'得分排名'列（原文明示1-3，广州廓线科技有限公司推荐排名空但得分排名为3）。",
+  "project": {
+    "buyer": "广州市白云区气象局",
+    "project_name": "广州市白云区气象局低空飞行气象保障基础支撑平台建设项目",
+    "total_amount": 2370000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广州市白云区气象局低空飞行气象保障基础支撑平台系统",
+        "winner": "广州市声讯电子科技股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "广州市白云区气象局低空飞行气象保障基础支撑平台系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1386000.0,
+      "total_price": 1386000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "气象仪器",
+      "item_name": "四要素自动气象站",
+      "brand": null,
+      "model": "DZH7",
+      "quantity": 9,
+      "unit": "套",
+      "unit_price": 93000.0,
+      "total_price": 837000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "密码产品",
+      "item_name": "服务器密码机",
+      "brand": "弗兰科",
+      "model": "FLK-SPM-G800-HU",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 47000.0,
+      "total_price": 47000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "密码产品",
+      "item_name": "国密SSL VPN安全网关",
+      "brand": "弗兰科",
+      "model": "FLK-SSLSG-G800-HU",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 100000.0,
+      "total_price": 100000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州市声讯电子科技股份有限公司",
+      "role": "winner",
+      "total_score": 88.57,
+      "rank": 1,
+      "amount": 2370000.0
+    },
+    {
+      "package_no": "1",
+      "name": "广东顺天电子科技有限公司",
+      "role": "participant",
+      "total_score": 50.52,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州廓线科技有限公司",
+      "role": "participant",
+      "total_score": 40.46,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

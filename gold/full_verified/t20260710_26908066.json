@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260710_26908066",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "两个采购包。包1中标西安兴水信息技术有限公司3,598,600元，包2中标西安天科电子科技有限公司1,400,000元，之和4,998,600元=总中标金额￥499.860000万元，数学一致。标的信息表仅有品目号/品目名称/采购标的/服务要求/金额列，无数量、单价列，故quantity、unit、unit_price=null（仅给服务总额，无单价×数量互推依据），total_price取金额列。概要品目列空，category取标的信息表品目名称列「硬件运维服务」。包名取自HTML表格5合同包名称列。两包各只列了中标供应商（评审总得分92.90/94.53），公告与附件中均未出现未中标投标人名单，bidders仅2条winner；无排名列，rank=null。需视觉核验：无（金额关系一致）。",
+  "project": {
+    "buyer": "西安市水务信息宣传教育中心",
+    "project_name": "西安市水务局2026年信息化设备设施设备运行维护项目",
+    "total_amount": 4998600.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "水灾害及河长等模块设施设备运维",
+        "winner": "西安兴水信息技术有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "水利工程及水资源管理等模块设施设备运维",
+        "winner": "西安天科电子科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "硬件运维服务",
+      "item_name": "水灾害及河长等模块设施设备运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 3598600.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "硬件运维服务",
+      "item_name": "水利工程及水资源管理等模块设施设备运维",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 1400000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "西安兴水信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.9,
+      "rank": null,
+      "amount": 3598600.0
+    },
+    {
+      "package_no": "2",
+      "name": "西安天科电子科技有限公司",
+      "role": "winner",
+      "total_score": 94.53,
+      "rank": null,
+      "amount": 1400000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

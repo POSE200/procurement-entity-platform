@@ -1,0 +1,74 @@
+{
+  "announcement_id": "t20260805_27080645",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目列空且主要标的信息仅给名称（服务范围/要求/时间/标准均详见磋商文件），无数量/单价/总价明细，items 仅一条总称记录；专家评分为三名专家各自分值（如82.58、87.58、92.58），原文未给单一综合得分，total_score 全部留 null；rank 原文未明示；包号A为HTML明示。",
+  "project": {
+    "buyer": "临沂市河东区自然资源局",
+    "project_name": "2026年度疑似违法图斑、存量问题整改及持续监管图斑数据分析和日常技术服务项目",
+    "total_amount": 396000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": null,
+        "winner": "山东慧创信息科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": null,
+      "category": null,
+      "item_name": "2026年度疑似违法图斑、存量问题整改及持续监管图斑数据分析和日常技术服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东慧创信息科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 396000.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东正大地理信息科技集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东今朝地信科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "上海市欣宇建设工程检测试验有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

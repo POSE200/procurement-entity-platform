@@ -1,0 +1,94 @@
+{
+  "announcement_id": "t20260610_26724058",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（中国移动通信集团广东有限公司）.pdf",
+  "note": "品目概要列为空，category 取自 HTML 标的信息表品目名称列（其他信息化设备）。item 1-1 的品牌/规格型号原文即写'详见投标文件分项报价表'，附件报价明细同文，故均为 null。总中标金额 ￥592.017400万=5920174.0 与结果表 5,920,173.70元 及明细之和（5770673.7+149500=5920173.7）差 0.3 元，系概要万元值四舍五入，未改原文。合同包号1由附件文件名'合同包1'及品目号前缀明示。附件1声明函 OCR 存在水印乱码但不含需抽取字段。需视觉核验：1-2 规格型号'CloudEngineS8700-6'（附件 OCR 中夹杂水印字符'9 1 4 4 台 平'）。复核修正：1-2 规格型号已由 HTML 标的信息表明示（CloudEngineS8700-6），与附件去水印读法一致，无需视觉核验。",
+  "project": {
+    "buyer": "东莞市樟木头中学",
+    "project_name": "东莞市樟木头中学（樟洋校区）智能化系统设备采购项目",
+    "total_amount": 5920174.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "中国移动通信集团广东有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息化设备",
+      "item_name": "弱电智能化设备-其他设备",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "批",
+      "unit_price": 5770673.7,
+      "total_price": 5770673.7
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他信息化设备",
+      "item_name": "弱电智能化设备-核心交换机(AC功能)",
+      "brand": "华为",
+      "model": "CloudEngineS8700-6",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 149500.0,
+      "total_price": 149500.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "winner",
+      "total_score": 87.26,
+      "rank": 1,
+      "amount": 5920173.7
+    },
+    {
+      "package_no": "1",
+      "name": "深圳市电信工程有限公司",
+      "role": "participant",
+      "total_score": 63.59,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广东恒伟信息技术有限公司",
+      "role": "participant",
+      "total_score": 54.36,
+      "rank": 3,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "佛山市粤来粤浩环保科技有限公司",
+      "role": "participant",
+      "total_score": 47.4,
+      "rank": 4,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广西中教智云科技发展有限公司",
+      "role": "participant",
+      "total_score": 31.61,
+      "rank": 5,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

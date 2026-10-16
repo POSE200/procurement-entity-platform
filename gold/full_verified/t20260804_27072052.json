@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27072052",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:公示附件.docx(内嵌采购明细表+技术参数/设备清单扫描件29页)",
+  "note": "本公告仅含B包（分包名称：B包 巨野县平安智能化电子警察安装工程B包），附件专家支付表显示该项目另有A包（A包中标成交金额556.09642万元），但A包不属本公告内容，未标注；概要品目列空且无标的信息品目名称列，category=null；rank取自评标得分表'排序'列（原文明示）；品牌/规格要求列均为'详见投标文件'，无附件可查，填null。复核追加(已完成)：附件声明2个中1个被跳过且未列名，内容不可见（若为投标报价明细表则品牌/型号/明细拆分可能变化）——需视觉核验。视觉核验：原\"跳过1个未列名附件\"已定位——公示附件.docx为OOXML容器，内嵌29张扫描图：image2为B包中标人（山东省邮电工程有限公司）\"采购明细表\"（第1页共1页），仅1行：巨野县平安智能化电子警察安装工程，品牌\"详见投标文件\"、型号规格\"详见投标文件\"、报价单价4248950元、数量1项、合计4248950元，与HTML成交金额4248950.00元闭合一致；image1为项目业绩，image3-29为设备技术参数清单（39行，无单价/合价列）：900万电警67台海康威视iDS-TCE900-GJW、900万卡口83台海康威视iDS-TCE系列、补光灯CXBG-1-I-H/2-MC-A-3B-I、终端17台DS-TP50-16JW、交换机电源50个、光模块100个HK-SFP-1.25G-10-1310-DF、智能抱杆机箱40台DS-TAC100-SG/5/1、智能落地机柜10台DS-TP320-0-SC、基础/管道等由山东省邮电工程有限公司定制、电力电缆YJV3×6mm²创辰电缆(河北邢台)、室外网线HSYVYP-6*4*2P0.57扬州丰线缆、网络租费10处联通专线。据此将原null的品牌/型号补为设备清单核得值；明细表自身无进一步价格拆分，items维持1行（数量1项/单价4248950），合计与中标额闭合。品目列空→category=null；rank取自评标得分表排序列。",
+  "project": {
+    "buyer": "巨野县公安局",
+    "project_name": "巨野县平安智能化电子警察安装工程",
+    "total_amount": 4248950.0,
+    "packages": [
+      {
+        "package_no": "B",
+        "package_name": "巨野县平安智能化电子警察安装工程B包",
+        "winner": "山东省邮电工程有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "B",
+      "item_no": null,
+      "category": null,
+      "item_name": "巨野县平安智能化电子警察安装工程",
+      "brand": "海康威视、创辰电缆、扬州丰线缆、联通等品牌",
+      "model": "iDS-TCE900-GJW、DS-TP50-16JW、CXBG-1-I-H/2-MC-A-3B-I等规格型号详见投标文件设备清单",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4248950.0,
+      "total_price": 4248950.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "B",
+      "name": "山东省邮电工程有限公司",
+      "role": "winner",
+      "total_score": 95.85,
+      "rank": 1,
+      "amount": 4248950.0
+    },
+    {
+      "package_no": "B",
+      "name": "山东有缘智慧科技有限公司",
+      "role": "participant",
+      "total_score": 84.98,
+      "rank": 2,
+      "amount": 4294300.5
+    },
+    {
+      "package_no": "B",
+      "name": "山东鑫华海信息科技有限公司",
+      "role": "participant",
+      "total_score": 83.13,
+      "rank": 3,
+      "amount": 4280000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

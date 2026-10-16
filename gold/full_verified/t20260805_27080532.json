@@ -1,0 +1,86 @@
+{
+  "announcement_id": "t20260805_27080532",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-北京八九数码科技有限公司).pdf",
+  "note": "品目概要列空，category 取 HTML 标的信息表'品目名称'列（行业应用软件开发服务）；HTML 采购标的列为两条相同的合并名称，item_name 取附件'报价明细表(第1轮-北京八九数码科技有限公司).pdf'的服务名称（档案开发利用智能支撑系统/档案智能模型），按顺序对应 HTML 品目号 1-1-1/1-1-2；数量1.0000套、单价、响应报价均为附件明示值（非推算），两项合计1256000元与中标金额吻合；package_no='1'（公告标题'采购包1'、附件名'包(1)'）；评分表排名列空白，rank 全 null。需视觉核验：包(1)_投标（响应）报价明细表.pdf 内模板占位符（{=响应报价/数量}）未填充，以第1轮报价明细表为准。",
+  "project": {
+    "buyer": "山东省档案馆机关",
+    "project_name": "山东省档案馆档案开发利用智能支撑系统和档案智能模型开发服务项目",
+    "total_amount": 1256000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "北京八九数码科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "行业应用软件开发服务",
+      "item_name": "档案开发利用智能支撑系统",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 869000.0,
+      "total_price": 869000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "行业应用软件开发服务",
+      "item_name": "档案智能模型",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 387000.0,
+      "total_price": 387000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "北京八九数码科技有限公司",
+      "role": "winner",
+      "total_score": 94.13,
+      "rank": null,
+      "amount": 1256000.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 89.67,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "三土电子（山东）有限公司",
+      "role": "participant",
+      "total_score": 81.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东明图信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.14,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

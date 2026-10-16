@@ -1,0 +1,115 @@
+{
+  "announcement_id": "t20260811_27108898",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东高速信息集团有限公司).pdf,报价明细表(第1轮-济南时代确信信息安全测评有限公司).pdf",
+  "note": "两包项目：包1软件运维服务（山东高速信息集团有限公司中标826,568元）+包2测试评估认证服务（济南时代确信信息安全测评有限公司联合体浪潮软件集团有限公司中标405,980元），两包之和=1,232,548元=总中标金额123.2548万元，数学自洽。强制检查通过：报价明细附件zip虽被跳过，但其解包后的报价明细表(第1轮-*)两份PDF解析文本均在附件内容中找到，单价/数量1项/响应报价与成交金额一致（最高限价829916.77元/427483.23元）。联合体写法按原样保留到winner。评分表得分有值但得分排名列全空，故所有rank=null（禁止中标即第1推定）。文件集内分项报价表.docx为空白模板、包(1)/(2)开标一览表及报价明细表仅有表头无数据，无更细明细可抽。",
+  "project": {
+    "buyer": "山东省交通运输监测与应急处置中心",
+    "project_name": "山东省交通运输厅综合交通运输调度和应急指挥系统项目维护",
+    "total_amount": 1232548.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "软件运维服务",
+        "winner": "山东高速信息集团有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "测试评估认证服务",
+        "winner": "济南时代确信信息安全测评有限公司(联合体成员：浪潮软件集团有限公司)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "软件运维服务",
+      "item_name": "软件运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 826568.0,
+      "total_price": 826568.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1",
+      "category": "测试评估认证服务",
+      "item_name": "测试评估认证服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 405980.0,
+      "total_price": 405980.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东高速信息集团有限公司",
+      "role": "winner",
+      "total_score": 86.67,
+      "rank": null,
+      "amount": 826568.0
+    },
+    {
+      "package_no": "1",
+      "name": "济南鲁科安全设备有限公司",
+      "role": "participant",
+      "total_score": 72.64,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东鼎高信息技术有限公司",
+      "role": "participant",
+      "total_score": 69.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南友泽软件科技有限公司",
+      "role": "participant",
+      "total_score": 68.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "济南时代确信信息安全测评有限公司(联合体成员：浪潮软件集团有限公司)",
+      "role": "winner",
+      "total_score": 96.83,
+      "rank": null,
+      "amount": 405980.0
+    },
+    {
+      "package_no": "2",
+      "name": "道普信息技术有限公司",
+      "role": "participant",
+      "total_score": 79.96,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "新潮睿石信息技术有限公司",
+      "role": "participant",
+      "total_score": 72.11,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

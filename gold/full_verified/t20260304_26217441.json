@@ -1,0 +1,267 @@
+{
+  "announcement_id": "t20260304_26217441",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html+attachment:A包本国产品声明函,B包本国产品声明函,河北省承德市中级人民法院信息安全设备采购项目A包招标文件(定稿）,河北省承德市中级人民法院信息安全设备采购项目B包招标文件(定稿）",
+  "note": "双包采购：A包预算176.7万元由承德市高新电子技术有限公司以1759800元中标，B包预算99.7902万元由承德阳光高科科贸有限公司以976160元中标，合计2735960元与总中标金额273.596万元一致。HTML中标明细仅按包各1条汇总（1批、单价=整包价），A包13项、B包5项的细分条目由附件本国产品声明函与招标文件采购需求交叉确认（名称/品牌/型号来自声明函，数量来自招标文件采购需求表），但全包无可见的分项报价表，各item单价/总价暂空，单价×数量=总价不可校验；已由项目预算侧面印证包号对应关系。公告概要品目列为空，category全为null。HTML表格1所列2家供应商均中标，本包无未中标主体名单，综合得分/排名原文未给。B包磁盘柜型号“02355XRQ(DAE62435U4)”对应华为扩展柜SAS硬盘框；A包政法网区域防毒墙型号与普通业务区防火墙同为FW1000-GA-GE（声明函原文如此）。OCR已补齐确认：A包承诺函、B包承诺函（原无文本层扫描件，现已OCR）内容均为《供应商资格承诺函》资格类文件，不含价目明细，无字段因此空缺。全包无分项报价表附件，各item单价/总价为原文未披露（非OCR待补），维持null。B包HTML品牌行含“阳光高科”，各声明函未将其对应到具体item（本地/异地备份一体的软件及服务器生产厂均为上海英方），故未挂到某条item。招标文件项目品牌字段照HTML“货物品牌”列，如“上海英方”照原文写作品牌名。；复核修正：bidders 补 package_no 字段",
+  "project": {
+    "buyer": "河北省承德市中级人民法院本级",
+    "project_name": "河北省承德市中级人民法院信息安全设备采购项目",
+    "total_amount": 2735960.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "河北省承德市中级人民法院信息安全设备采购项目A包",
+        "winner": "承德市高新电子技术有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "河北省承德市中级人民法院信息安全设备采购项目B包",
+        "winner": "承德阳光高科科贸有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "核心业务区：国产化数据中心防火墙",
+      "brand": "迪普",
+      "model": "FW1000-TS-GF",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "2",
+      "category": null,
+      "item_name": "普通业务区：国产化下一代防火墙",
+      "brand": "迪普",
+      "model": "FW1000-GA-GE",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "3",
+      "category": null,
+      "item_name": "政法网区域：国产化入侵防御防毒墙",
+      "brand": "迪普",
+      "model": "FW1000-GA-GE",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "4",
+      "category": null,
+      "item_name": "运维审计区：国产化数据库审计",
+      "brand": "安恒",
+      "model": "DAS-DBAuditor-A1200-FU",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "5",
+      "category": null,
+      "item_name": "运维审计区：国产化漏洞扫描",
+      "brand": "迪普",
+      "model": "Scanner1000-GA-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "6",
+      "category": null,
+      "item_name": "信创安全运维平台0SM",
+      "brand": "迪普",
+      "model": "OSP1000-GA-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "7",
+      "category": null,
+      "item_name": "运维审计区：国产化准入设备",
+      "brand": "迪普",
+      "model": "DAC-XA-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "8",
+      "category": null,
+      "item_name": "运维审计区：国产化日志审计",
+      "brand": "安恒",
+      "model": "DAS-Logger-A1200-FU",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "9",
+      "category": null,
+      "item_name": "互联网出口域：下一代防火墙",
+      "brand": "迪普",
+      "model": "FW1000-GA-GE",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "10",
+      "category": null,
+      "item_name": "互联网出口域：上网行为管理",
+      "brand": "迪普",
+      "model": "UAG3000-GC-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "11",
+      "category": null,
+      "item_name": "互联网出口域：探针",
+      "brand": "迪普",
+      "model": "SAC3000-S-MS",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "12",
+      "category": null,
+      "item_name": "运维审计区：态势感知平台",
+      "brand": "迪普",
+      "model": "SAC3000-P-TA-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "A",
+      "item_no": "13",
+      "category": null,
+      "item_name": "运维审计区：探针",
+      "brand": "迪普",
+      "model": "SAC3000-S-GC-G",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "本地备份服务器系统管理软件、本地备份服务器",
+      "brand": "上海英方",
+      "model": "英方数据备份与恢复管理软件v8.1",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "2",
+      "category": null,
+      "item_name": "异地容灾备份一体机系统管理软件、异地容灾备份一体机",
+      "brand": "上海英方",
+      "model": "英方数据备份与恢复管理软件v8.1",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "3",
+      "category": null,
+      "item_name": "扩展柜",
+      "brand": "华为",
+      "model": "02355XRQ(DAE62435U4)SAS 3.5寸硬盘",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "4",
+      "category": null,
+      "item_name": "硬盘",
+      "brand": "华为",
+      "model": "L3-L-NLSAS14TB",
+      "quantity": 18,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "B",
+      "item_no": "5",
+      "category": null,
+      "item_name": "安装、调试及系统集成费用",
+      "brand": null,
+      "model": "配套",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "承德市高新电子技术有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 1759800.0
+    },
+    {
+      "package_no": "B",
+      "name": "承德阳光高科科贸有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 976160.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": true,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

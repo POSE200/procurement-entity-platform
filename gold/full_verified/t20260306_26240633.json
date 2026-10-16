@@ -1,0 +1,116 @@
+{
+  "announcement_id": "t20260306_26240633",
+  "annotated_at": "2026-09-22-draft",
+  "gold_source": "html",
+  "note": "品目列为空，category 取 null。3 个标包各 40 万元，合计 120 万元与总中标金额一致；表格1 明示「第1包」，表格2/3 未标包号，按出现顺序记为第 2/3 包。附件 2 个均被跳过（中小企业声明函.docx、公开招标文件.docx），明细不可得。标的信息表无金额列，服务标的不填数量/单价；bidders 的 rank 按新口径G3取该主体在该包排序表的明示名次：滨海=包1第1（表格4）、房友=包2第1（表格5）、广正=包3第1（表格6）；宏亚、中咨两条沿用包1排序表（表格4）的明示名次4/5（两主体亦出现在包2/包3排序表，未按包展开）。复核修正：按新口径G3，房友 rank 由 2 改 1、广正 rank 由 3 改 1（原取包1排序表名次，现改为各自包排序表明示名次）；滨海 rank=1 维持（包1排序表明示）。复核修正：bidders 补 package_no 字段。宏亚、中咨两条 participant 的 package_no 置 null：两主体同时出现在包1/2/3排序表（表格4/5/6），gold 未按包展开，单条无法归属唯一包。",
+  "project": {
+    "buyer": "天津市滨海新区人民政府政务服务办公室",
+    "project_name": "天津市滨海新区人民政府政务服务办公室2026年固定资产投资项目评估服务项目",
+    "total_amount": 1200000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "天津滨海经建工程项目管理有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": null,
+        "winner": "天津房友工程咨询有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": null,
+        "winner": "天津广正建设项目咨询股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "天津市滨海新区人民政府政务服务办公室2026年固定资产投资项目评估服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "天津市滨海新区人民政府政务服务办公室2026年固定资产投资项目评估服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 400000.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "天津市滨海新区人民政府政务服务办公室2026年固定资产投资项目评估服务项目",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": 400000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "天津滨海经建工程项目管理有限公司",
+      "role": "winner",
+      "total_score": 97.22,
+      "rank": 1,
+      "amount": 400000.0
+    },
+    {
+      "package_no": "2",
+      "name": "天津房友工程咨询有限公司",
+      "role": "winner",
+      "total_score": 96.48,
+      "rank": 1,
+      "amount": 400000.0
+    },
+    {
+      "package_no": "3",
+      "name": "天津广正建设项目咨询股份有限公司",
+      "role": "winner",
+      "total_score": 94.4,
+      "rank": 1,
+      "amount": 400000.0
+    },
+    {
+      "package_no": null,
+      "name": "天津市宏亚工程咨询有限公司",
+      "role": "participant",
+      "total_score": 90.2,
+      "rank": 4,
+      "amount": 400000.0
+    },
+    {
+      "package_no": null,
+      "name": "中咨海外咨询有限公司",
+      "role": "participant",
+      "total_score": 69.62,
+      "rank": 5,
+      "amount": 400000.0
+    }
+  ],
+  "status": "verified",
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

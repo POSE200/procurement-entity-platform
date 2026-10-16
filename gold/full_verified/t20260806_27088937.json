@@ -1,0 +1,355 @@
+{
+  "announcement_id": "t20260806_27088937",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-泰安市一格网络有限公司).pdf,报价明细表(第1轮-山东恒彩智能科技集团有限公司).pdf",
+  "note": "两包公告：包1（国教院学生公寓智安建设项目1）中标泰安市一格网络有限公司251500元，8条明细合计251500元与逐条单价×数量均相符；包2（国教院学生公寓智安建设项目2）中标山东恒彩智能科技集团有限公司299000元，14条明细合计299000元与逐条单价×数量均相符；两包合计550500元=总中标金额55.05万；包号取自公告标题『（采购包1、2）』、标的信息表品目号前缀（1-1-N/2-1-N）、附件报价表采购标的名称；概要品目列为空，category 取 HTML 标的信息表品目名称列（包1『网络存储设备』、包2『其他网络设备』，与实际货物语义不完全相符但照抄原文）；附件声明称报价明细附件.zip被跳过，但其 _unpacked_ 目录下两份报价明细表内容可见且已核对；得分排名列空白，rank 全 null；需视觉核验：HTML 表格4 规格型号『?S5735-S24T4X』带疑似乱码前缀字符，附件报价表为『S5735-S24T4X』（含零宽字符），已取附件值。复核：两份第1轮报价明细表22条明细、包1合计251500/包2合计299000与中标金额、评分表及古德通信符合性审查未通过（无得分）均核对一致，无需视觉核验。",
+  "project": {
+    "buyer": "山东第一医科大学",
+    "project_name": "山东第一医科大学（山东省医学科学院）国教院学生公寓智安建设项目",
+    "total_amount": 550500.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "国教院学生公寓智安建设项目1",
+        "winner": "泰安市一格网络有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "国教院学生公寓智安建设项目2",
+        "winner": "山东恒彩智能科技集团有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "网络存储设备",
+      "item_name": "视频存储",
+      "brand": "科达",
+      "model": "VS200G",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 55000.0,
+      "total_price": 55000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "网络存储设备",
+      "item_name": "硬盘",
+      "brand": "希捷",
+      "model": "ST8000VX004",
+      "quantity": 36,
+      "unit": "块",
+      "unit_price": 2240.0,
+      "total_price": 80640.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "网络存储设备",
+      "item_name": "人脸识别摄像机",
+      "brand": "科达",
+      "model": "IPC2852",
+      "quantity": 81,
+      "unit": "台",
+      "unit_price": 1100.0,
+      "total_price": 89100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "网络存储设备",
+      "item_name": "电源",
+      "brand": "科达",
+      "model": "DC12V 2A",
+      "quantity": 81,
+      "unit": "个",
+      "unit_price": 65.0,
+      "total_price": 5265.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "网络存储设备",
+      "item_name": "交换机",
+      "brand": "华为",
+      "model": "S5735-S24T4X",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 5925.0,
+      "total_price": 5925.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "网络存储设备",
+      "item_name": "交换机1",
+      "brand": "华为",
+      "model": "S1730S-L16P2SR-A1",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 650.0,
+      "total_price": 1950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "网络存储设备",
+      "item_name": "光纤收发器",
+      "brand": "华为",
+      "model": "S-SFP-GE-LH10-SM1310",
+      "quantity": 3,
+      "unit": "对",
+      "unit_price": 540.0,
+      "total_price": 1620.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "网络存储设备",
+      "item_name": "无氧铜综合线",
+      "brand": "厚德缆胜",
+      "model": "CAT6",
+      "quantity": 1000,
+      "unit": "米",
+      "unit_price": 12.0,
+      "total_price": 12000.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-1",
+      "category": "其他网络设备",
+      "item_name": "安防分控平台一体机",
+      "brand": "海康威视",
+      "model": "iVMS-9000N-S5/C300",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 39310.0,
+      "total_price": 39310.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-2",
+      "category": "其他网络设备",
+      "item_name": "摆闸右",
+      "brand": "海康威视",
+      "model": "DS-K3B4GTA-R",
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 7980.0,
+      "total_price": 39900.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-3",
+      "category": "其他网络设备",
+      "item_name": "摆闸左",
+      "brand": "海康威视",
+      "model": "DS-K3B4GTA-L",
+      "quantity": 5,
+      "unit": "个",
+      "unit_price": 7899.0,
+      "total_price": 39495.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-4",
+      "category": "其他网络设备",
+      "item_name": "摆闸中",
+      "brand": "海康威视",
+      "model": "DS-K3B4GTA-M",
+      "quantity": 4,
+      "unit": "个",
+      "unit_price": 11950.0,
+      "total_price": 47800.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-5",
+      "category": "其他网络设备",
+      "item_name": "道闸遥控器",
+      "brand": "海康威视",
+      "model": "DS-K7R03-433-K",
+      "quantity": 9,
+      "unit": "个",
+      "unit_price": 333.0,
+      "total_price": 2997.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-6",
+      "category": "其他网络设备",
+      "item_name": "读卡器套件系列",
+      "brand": "海康威视",
+      "model": "DS-K1100M-A",
+      "quantity": 18,
+      "unit": "个",
+      "unit_price": 456.0,
+      "total_price": 8208.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-7",
+      "category": "其他网络设备",
+      "item_name": "刷脸门禁",
+      "brand": "海康威视",
+      "model": "DS-K1T673MGTA",
+      "quantity": 18,
+      "unit": "台",
+      "unit_price": 2795.0,
+      "total_price": 50310.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-8",
+      "category": "其他网络设备",
+      "item_name": "警戒摄像机",
+      "brand": "海康威视",
+      "model": "DS-2CD5145LM-IS",
+      "quantity": 3,
+      "unit": "台",
+      "unit_price": 1989.0,
+      "total_price": 5967.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-9",
+      "category": "其他网络设备",
+      "item_name": "智能电源箱",
+      "brand": "海康保泰",
+      "model": "HB-HSX",
+      "quantity": 3,
+      "unit": "个",
+      "unit_price": 998.0,
+      "total_price": 2994.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-10",
+      "category": "其他网络设备",
+      "item_name": "音响",
+      "brand": "嗨动",
+      "model": "RS-YM40",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 2200.0,
+      "total_price": 2200.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-11",
+      "category": "其他网络设备",
+      "item_name": "交换机1",
+      "brand": "海康威视",
+      "model": "DS-3T0105",
+      "quantity": 5,
+      "unit": "台",
+      "unit_price": 698.0,
+      "total_price": 3490.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-12",
+      "category": "其他网络设备",
+      "item_name": "遮阳通道",
+      "brand": "恒彩",
+      "model": "定制",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 6565.0,
+      "total_price": 19695.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-13",
+      "category": "其他网络设备",
+      "item_name": "通道门(1号宿舍走廊通道（1、2、3层）)",
+      "brand": "恒彩",
+      "model": "定制",
+      "quantity": 3,
+      "unit": "套",
+      "unit_price": 3530.0,
+      "total_price": 10590.0
+    },
+    {
+      "package_no": "2",
+      "item_no": "2-1-14",
+      "category": "其他网络设备",
+      "item_name": "不锈钢围栏",
+      "brand": "恒彩",
+      "model": "定制",
+      "quantity": 40,
+      "unit": "米",
+      "unit_price": 651.1,
+      "total_price": 26044.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "泰安市一格网络有限公司",
+      "role": "winner",
+      "total_score": 91.33,
+      "rank": null,
+      "amount": 251500.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东海纳信息技术有限公司",
+      "role": "participant",
+      "total_score": 89.49,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "泰安扬天网络科技有限公司",
+      "role": "participant",
+      "total_score": 88.01,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东古德通信工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东恒彩智能科技集团有限公司",
+      "role": "winner",
+      "total_score": 89.34,
+      "rank": null,
+      "amount": 299000.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东东度电子科技有限公司",
+      "role": "participant",
+      "total_score": 87.03,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "烟台博丰电子科技有限公司",
+      "role": "participant",
+      "total_score": 80.68,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

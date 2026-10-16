@@ -1,0 +1,268 @@
+{
+  "announcement_id": "t20260601_26666947",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "三个包（招标文件明示包一/包二/包三及名称）：包1信号灯（山东智通道路设施工程1092724.20元/89.68分）、包2监控设施（聊城一顺照明工程1480236.00元/88.24分）、包3交安设施（聊城市光昱华交通设施616421.50元/87.20分），合计3189381.70元与总中标金额318.9382万一致；HTML标的信息每包仅1条（1宗，单价=金额），品牌/规格型号列原文为\"详见分项报价表\"；视觉核验：附件分项报价表.pdf（45页）高清渲染+文本层确认表格结构清晰（序号/交叉口/位置/项目名称/型号规格/数量/单位/品牌/单价），系按路口逐项报价、品牌含神通/沃霖/程久/锐嘉等多供应商混列且无合价列，无法归并为单包单一品牌/型号，包级brand/model填null，非OCR缺陷",
+  "project": {
+    "buyer": "聊城市公安局交通管理支队",
+    "project_name": "聊城市公安局交管支队大外环路新增信号灯和监控设施项目",
+    "total_amount": 3189381.7,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "大外环路新增信号灯项目",
+        "winner": "山东智通道路设施工程有限公司"
+      },
+      {
+        "package_no": "2",
+        "package_name": "大外环路新增监控设施项目",
+        "winner": "聊城一顺照明工程有限公司"
+      },
+      {
+        "package_no": "3",
+        "package_name": "大外环路新增交安设施项目",
+        "winner": "聊城市光昱华交通设施有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "大外环路新增信号灯项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1092724.2,
+      "total_price": 1092724.2
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "大外环路新增监控设施项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 1480236.0,
+      "total_price": 1480236.0
+    },
+    {
+      "package_no": "3",
+      "item_no": null,
+      "category": null,
+      "item_name": "大外环路新增交安设施项目",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 616421.5,
+      "total_price": 616421.5
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东智通道路设施工程有限公司",
+      "role": "winner",
+      "total_score": 89.68,
+      "rank": null,
+      "amount": 1092724.2
+    },
+    {
+      "package_no": "1",
+      "name": "安徽科力信息产业有限责任公司",
+      "role": "participant",
+      "total_score": 82.71,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "科威达科技集团股份有限公司",
+      "role": "participant",
+      "total_score": 82.31,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": 81.55,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "诚润科技股份有限公司",
+      "role": "participant",
+      "total_score": 81.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 79.97,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东省邮电工程有限公司",
+      "role": "participant",
+      "total_score": 78.82,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城华信信息技术有限公司",
+      "role": "participant",
+      "total_score": 74.26,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "聊城博智伟业网络科技有限公司",
+      "role": "participant",
+      "total_score": 73.83,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "聊城一顺照明工程有限公司",
+      "role": "winner",
+      "total_score": 88.24,
+      "rank": null,
+      "amount": 1480236.0
+    },
+    {
+      "package_no": "2",
+      "name": "山东凯晨城建有限公司",
+      "role": "participant",
+      "total_score": 87.63,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "聊城华信信息技术有限公司",
+      "role": "participant",
+      "total_score": 75.99,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国移动通信集团山东有限公司",
+      "role": "participant",
+      "total_score": 84.86,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "中国联合网络通信有限公司聊城市分公司",
+      "role": "participant",
+      "total_score": 83.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东省邮电工程有限公司",
+      "role": "participant",
+      "total_score": 83.37,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "山东山工建设有限公司",
+      "role": "participant",
+      "total_score": 83.36,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "诚润科技股份有限公司",
+      "role": "participant",
+      "total_score": 82.69,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "河南筑强建设有限公司",
+      "role": "participant",
+      "total_score": 82.56,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "聊城博智伟业网络科技有限公司",
+      "role": "participant",
+      "total_score": 76.17,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "2",
+      "name": "聊城市捷丰智能科技有限责任公司",
+      "role": "participant",
+      "total_score": 73.24,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "聊城市光昱华交通设施有限公司",
+      "role": "winner",
+      "total_score": 87.2,
+      "rank": null,
+      "amount": 616421.5
+    },
+    {
+      "package_no": "3",
+      "name": "山东凯晨城建有限公司",
+      "role": "participant",
+      "total_score": 84.47,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "山东山工建设有限公司",
+      "role": "participant",
+      "total_score": 82.76,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "3",
+      "name": "聊城市捷丰智能科技有限责任公司",
+      "role": "participant",
+      "total_score": 75.17,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

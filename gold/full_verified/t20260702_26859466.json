@@ -1,0 +1,90 @@
+{
+  "announcement_id": "t20260702_26859466",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "品目取自HTML标的信息表品目名称列（概要品目列为空）；3条标的金额列为空，quantity/unit/单价/总价无出处填null；中标金额3,599,800.00元与附件报价书投标总报价一致，字段值均可在HTML找到出处。复核：标的表、评分表、报价书金额已独立核对，确认通过。",
+  "project": {
+    "buyer": "广东省农业农村厅",
+    "project_name": "广东省渔港高清视频监控系统及其配备线路租赁（2026年）项目",
+    "total_amount": 3599800.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "广东省渔港高清视频监控系统及其配备线路租赁（2026年）项目",
+        "winner": "中国电信股份有限公司广东分公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "渔港监控运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "渔港视频监控信息化服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "基础设施运营服务",
+      "item_name": "专线链路及云端监控平台",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "中国电信股份有限公司广东分公司",
+      "role": "winner",
+      "total_score": 96.61,
+      "rank": 1,
+      "amount": 3599800.0
+    },
+    {
+      "package_no": "1",
+      "name": "中国移动通信集团广东有限公司",
+      "role": "participant",
+      "total_score": 95.99,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州正电通信技术有限公司",
+      "role": "participant",
+      "total_score": 50.67,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

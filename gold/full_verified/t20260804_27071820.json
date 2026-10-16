@@ -1,0 +1,66 @@
+{
+  "announcement_id": "t20260804_27071820",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-山东山科数字经济研究院有限公司).pdf",
+  "note": "package_no=1：公告标题'采购包1'及附件'包(1)_开标（报价）一览表.pdf'。单价1596000元/数量1项/总价1596000元取自成交供应商报价明细表，与中标金额一致。附件'报价清单.docx'为空白模板（金额列全空），无更细分项。品目取自HTML标的信息表'品目名称'列（概要品目列空）。得分排名/推荐排名列空，rank=null。HTML表格2部分文字被脱敏为'?'（如'?合同签订之?起?年'），金额字段未受影响。",
+  "project": {
+    "buyer": "山东省大数据局",
+    "project_name": "“爱山东”政务服务平台运行效能评估",
+    "total_amount": 1596000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "山东山科数字经济研究院有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他信息技术咨询服务",
+      "item_name": "“爱山东”政务服务平台运行效能评估",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 1596000.0,
+      "total_price": 1596000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "山东山科数字经济研究院有限公司",
+      "role": "winner",
+      "total_score": 93.82,
+      "rank": null,
+      "amount": 1596000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东赛宝电子信息工程有限责任公司",
+      "role": "participant",
+      "total_score": 79.15,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东恒麟智能科技有限公司",
+      "role": "participant",
+      "total_score": 73.32,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

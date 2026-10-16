@@ -1,0 +1,110 @@
+{
+  "announcement_id": "t20260604_26690736",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-联想教育科技（北京）有限公司).pdf",
+  "note": "采购包1（公告标题即注明采购包1）；概要品目列空、HTML标的信息表『品目编号及品目名称』列亦空，category=null；HTML标的信息表4行的『采购标的』列均为项目名无法区分，items改以中标人报价明细表.pdf的『服务名称』列命名（4项各1套，78000+65600+234000+118400=496,000元，与成交金额一致）；item_no取报价明细表序号1~4；评审表4家供应商有综合得分但『得分排名』列空，rank=null；未中标3家报价原文未公布，amount=null；总中标金额￥49.6万与报价明细合计一致。复核：报价明细表（第1轮-联想教育）序号1~4的服务名称/单价（78000/65600/234000/118400元）/数量1.0000套逐行核实，合计496,000元与成交金额一致，且与HTML表格2金额列互证；确认verified。",
+  "project": {
+    "buyer": "济南信息工程学校",
+    "project_name": "济南信息工程学校大数据技术应用人才培养项目",
+    "total_amount": 496000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "联想教育科技（北京）有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": null,
+      "item_name": "大数据技术应用人才培养专班开设服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 78000.0,
+      "total_price": 78000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": null,
+      "item_name": "职业素养企业工程师授课服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 65600.0,
+      "total_price": 65600.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": null,
+      "item_name": "专业技术企业工程师授课服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 234000.0,
+      "total_price": 234000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": null,
+      "item_name": "专班学生认证考试与培训",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 118400.0,
+      "total_price": 118400.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "联想教育科技（北京）有限公司",
+      "role": "winner",
+      "total_score": 92.81,
+      "rank": null,
+      "amount": 496000.0
+    },
+    {
+      "package_no": "1",
+      "name": "潍坊潍联电子科技服务有限责任公司",
+      "role": "participant",
+      "total_score": 78.0,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东世鲁信息科技有限公司",
+      "role": "participant",
+      "total_score": 75.16,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "北京思创合力科技有限公司",
+      "role": "participant",
+      "total_score": 72.73,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

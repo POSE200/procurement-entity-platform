@@ -1,0 +1,258 @@
+{
+  "announcement_id": "t20260612_26739019",
+  "annotated_at": "2026-09-24-verified",
+  "status": "verified",
+  "gold_source": "html+attachment:合同包1：报价明细附件（广州长鹏光电科技有限公司）.pdf",
+  "note": "单包（合同包1）。17条服务明细（1-1~1-17，按采购学校分包列示），品目均取HTML品目名称列『其他租赁服务』；单价/数量/总价取自中标人报价明细附件（每条数量1项），17条之和=3,346,480元，与中标金额一致。item_name取HTML采购标的列（与附件服务名称一致，1-9『计算机室电脑51台』在附件中被换行截断，以HTML为准）。得分排名列明示，rank按原文填1-3。中小企业声明函附件OCR有水印干扰，仅作辅助未取值。",
+  "project": {
+    "buyer": "广州市南沙区东涌第二小学",
+    "project_name": "2026年南沙区教育系统设备租赁项目（第三组）",
+    "total_amount": 3346480.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "2026年南沙区教育系统设备租赁项目（第三组）",
+        "winner": "广州长鹏光电科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区万洲小学租赁86英寸触控一体机6台、教师办公电脑14台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 156824.0,
+      "total_price": 156824.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-2",
+      "category": "其他租赁服务",
+      "item_name": "华南师范大学附属南沙中学租赁86英寸触控一体机2台、教师办公电脑4台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 48944.0,
+      "total_price": 48944.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-3",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区莲溪小学租赁86英寸触控一体机2台、教师办公电脑29台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 173844.0,
+      "total_price": 173844.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-4",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区莲塘小学租赁86英寸触控一体机2台、教师办公电脑1台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 33956.0,
+      "total_price": 33956.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-5",
+      "category": "其他租赁服务",
+      "item_name": "广东第二师范学院附属南沙麒麟小学租赁86英寸触控一体机5台、教师办公电脑1台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 77396.0,
+      "total_price": 77396.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-6",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区庆盛小学租赁86英寸触控一体机2台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 28960.0,
+      "total_price": 28960.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-7",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区长莫小学租赁教师办公电脑1台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4996.0,
+      "total_price": 4996.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-8",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区大塘小学租赁86英寸触控一体机2台、教师办公电脑12台、计算机室电脑51台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 343708.0,
+      "total_price": 343708.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-9",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区马克小学租赁86英寸触控一体机4台、计算机室电脑51台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 312716.0,
+      "total_price": 312716.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-10",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区黄阁小学租赁教师办公电脑1台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 4996.0,
+      "total_price": 4996.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-11",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙黄阁中学租赁86英寸触控一体机4台、教师办公电脑8台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 97888.0,
+      "total_price": 97888.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-12",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区铁英学校租赁86英寸触控一体机12台、教师办公电脑24台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 293664.0,
+      "total_price": 293664.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-13",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区石排小学租赁86英寸触控一体机13台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 188240.0,
+      "total_price": 188240.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-14",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区天益小学租赁86英寸触控一体机9台、教师办公电脑22台、计算机室电脑49台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 485036.0,
+      "total_price": 485036.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-15",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区东涌第二小学租赁触控一体机25台、教师办公电脑1台、计算机室电脑51台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 621792.0,
+      "total_price": 621792.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-16",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区梅沙实验小学租赁86英寸触控一体机5台、教师办公电脑5台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 97380.0,
+      "total_price": 97380.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-17",
+      "category": "其他租赁服务",
+      "item_name": "广州市南沙区细沥小学租赁触控一体机7台、计算机室电脑51台、教师办公室电脑4台",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 376140.0,
+      "total_price": 376140.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "广州长鹏光电科技有限公司",
+      "role": "winner",
+      "total_score": 90.1,
+      "rank": 1,
+      "amount": 3346480.0
+    },
+    {
+      "package_no": "1",
+      "name": "广州文星信息科技有限公司",
+      "role": "participant",
+      "total_score": 66.45,
+      "rank": 2,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "广州市万道计算机科技有限公司",
+      "role": "participant",
+      "total_score": 65.55,
+      "rank": 3,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

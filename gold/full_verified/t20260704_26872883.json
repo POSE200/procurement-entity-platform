@@ -1,0 +1,75 @@
+{
+  "announcement_id": "t20260704_26872883",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:联合协议+中小企业声明函.pdf",
+  "note": "两个标项均为联合体中标：标项1牵头人浙江省海洋水产养殖研究所（浙江省海洋渔业环境与生物安全检验监测中心），联合体成员海检检测（浙江）有限公司（各承担50%，见附件联合协议）；标项2牵头人绿城农科检测技术有限公司，联合体成员温州科技职业学院（温州市农业科学研究院）；winner按牵头供应商全称填写，成员写入本note；package_no取HTML中标表/标项表序号1、2，序号与标项名称的对应关系为按公告行序推断（288000对应标项1初级水产品例行监督抽查、160000对应标项2重点农产品专项监督抽查，与采购文件标段一预算29万/标段二16.5万相容）；两包中标金额之和288000+160000=448000与总中标金额44.8万元一致；概要品目列为空且标的信息表无品目名称列，category=null；无分项报价明细，items的数量/单价/总价无出处填null；公告无未中标供应商名单及评分表，bidders仅各包中标联合体；各成员承担份额：标项1海洋水产养殖研究所50%+海检检测（浙江）50%（附件联合协议）。复核修正：按规范第8条将联合体成员原样并入 winner/bidders 的 name（此前仅写牵头人、成员记于note）。",
+  "project": {
+    "buyer": "温州市农业农村局",
+    "project_name": "2026年初级水产品质量安全监测及重点农产品专项监督抽查（重）",
+    "total_amount": 448000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": "初级水产品例行监督抽查",
+        "winner": "浙江省海洋水产养殖研究所（浙江省海洋渔业环境与生物安全检验监测中心）(联合体成员：海检检测（浙江）有限公司)"
+      },
+      {
+        "package_no": "2",
+        "package_name": "重点农产品专项监督抽查",
+        "winner": "绿城农科检测技术有限公司(联合体成员：温州科技职业学院（温州市农业科学研究院）)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": null,
+      "category": null,
+      "item_name": "初级水产品例行监督抽查",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "2",
+      "item_no": null,
+      "category": null,
+      "item_name": "重点农产品专项监督抽查",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "浙江省海洋水产养殖研究所（浙江省海洋渔业环境与生物安全检验监测中心）(联合体成员：海检检测（浙江）有限公司)",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 288000.0
+    },
+    {
+      "package_no": "2",
+      "name": "绿城农科检测技术有限公司(联合体成员：温州科技职业学院（温州市农业科学研究院）)",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 160000.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "announcement_id": "t20260509_26537727",
+  "annotated_at": "2026-09-23-verified",
+  "status": "verified",
+  "gold_source": "html",
+  "note": "HTML仅以中标成交备注给出各中标供应商得分与金额，无排名列，rank一律null；中标供应商与包号的对应关系原文未逐包明示，仅包08（履行期限「为期12个月的政务云资源租用服务」=太极计算机）、包07（「本合同自签订之日至2026年12月31日在北京履行」=地质工程勘察院）、包06（「至2026年11月30日」=二十一世纪空间）、包04（「服务期限自合同签订之日起至2026年12月31日」=山石网科）可由服务要求表述唯一匹配（推断已在note声明）；超维创想、中关村智连、航天科工惯性、江云智能四家中标供应商对应包01/02/03/05，但四包履行期限表述完全相同无法区分，相应package_no留空、包winner留空；8家中标金额之和=9709562.7元与总中标金额一致；概要品目列为空且HTML无品目名称列，category为null；标的信息表数量=1但无计量单位列，unit为null；附件均为招标文件/技术规范（部分仅前30页或丢弃），无标的明细。",
+  "project": {
+    "buyer": "北京市地质灾害防治研究所",
+    "project_name": "北京市突发地质灾害监测预警系统工程运行其他运行维护服务等采购项目",
+    "total_amount": 9709562.7,
+    "packages": [
+      {
+        "package_no": "01",
+        "package_name": "密云、怀柔等区1090台套监测仪器维护服务",
+        "winner": null
+      },
+      {
+        "package_no": "02",
+        "package_name": "门头沟、延庆等区512台套监测仪器维护服务",
+        "winner": null
+      },
+      {
+        "package_no": "03",
+        "package_name": "昌平、平谷等区210台套监测仪器维护服务",
+        "winner": null
+      },
+      {
+        "package_no": "04",
+        "package_name": "机房运维及网络安全服务",
+        "winner": "北京山石网科信息技术有限公司"
+      },
+      {
+        "package_no": "05",
+        "package_name": "信息系统运维服务",
+        "winner": null
+      },
+      {
+        "package_no": "06",
+        "package_name": "卫星遥感数据采购技术服务",
+        "winner": "二十一世纪空间技术应用股份有限公司"
+      },
+      {
+        "package_no": "07",
+        "package_name": "采空塌陷灾害地表形变人工监测服务",
+        "winner": "北京市地质工程勘察院有限责任公司"
+      },
+      {
+        "package_no": "08",
+        "package_name": "政务云租赁扩展服务",
+        "winner": "太极计算机股份有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "01",
+      "item_no": null,
+      "category": null,
+      "item_name": "密云、怀柔等区1090台套监测仪器维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "02",
+      "item_no": null,
+      "category": null,
+      "item_name": "门头沟、延庆等区512台套监测仪器维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "03",
+      "item_no": null,
+      "category": null,
+      "item_name": "昌平、平谷等区210台套监测仪器维护服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "04",
+      "item_no": null,
+      "category": null,
+      "item_name": "机房运维及网络安全服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 560000.0,
+      "total_price": 560000.0
+    },
+    {
+      "package_no": "05",
+      "item_no": null,
+      "category": null,
+      "item_name": "信息系统运维服务",
+      "brand": null,
+      "model": null,
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "total_price": null
+    },
+    {
+      "package_no": "06",
+      "item_no": null,
+      "category": null,
+      "item_name": "卫星遥感数据采购技术服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2369944.7,
+      "total_price": 2369944.7
+    },
+    {
+      "package_no": "07",
+      "item_no": null,
+      "category": null,
+      "item_name": "采空塌陷灾害地表形变人工监测服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1105100.0,
+      "total_price": 1105100.0
+    },
+    {
+      "package_no": "08",
+      "item_no": null,
+      "category": null,
+      "item_name": "政务云租赁扩展服务",
+      "brand": null,
+      "model": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 870168.0,
+      "total_price": 870168.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "08",
+      "name": "太极计算机股份有限公司",
+      "role": "winner",
+      "total_score": 92.4,
+      "rank": null,
+      "amount": 870168.0
+    },
+    {
+      "package_no": "07",
+      "name": "北京市地质工程勘察院有限责任公司",
+      "role": "winner",
+      "total_score": 93.4,
+      "rank": null,
+      "amount": 1105100.0
+    },
+    {
+      "package_no": "06",
+      "name": "二十一世纪空间技术应用股份有限公司",
+      "role": "winner",
+      "total_score": 93.47,
+      "rank": null,
+      "amount": 2369944.7
+    },
+    {
+      "package_no": null,
+      "name": "北京超维创想信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.2,
+      "rank": null,
+      "amount": 575800.0
+    },
+    {
+      "package_no": "04",
+      "name": "北京山石网科信息技术有限公司",
+      "role": "winner",
+      "total_score": 92.0,
+      "rank": null,
+      "amount": 560000.0
+    },
+    {
+      "package_no": null,
+      "name": "北京中关村智连安全科学研究院有限公司",
+      "role": "winner",
+      "total_score": 89.8,
+      "rank": null,
+      "amount": 700210.0
+    },
+    {
+      "package_no": null,
+      "name": "航天科工惯性技术有限公司",
+      "role": "winner",
+      "total_score": 90.75,
+      "rank": null,
+      "amount": 2218150.0
+    },
+    {
+      "package_no": null,
+      "name": "北京江云智能科技有限公司",
+      "role": "winner",
+      "total_score": 89.8,
+      "rank": null,
+      "amount": 1310190.0
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

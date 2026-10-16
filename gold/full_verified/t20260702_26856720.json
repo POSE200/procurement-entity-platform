@@ -1,0 +1,222 @@
+{
+  "announcement_id": "t20260702_26856720",
+  "annotated_at": "2026-09-24-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-泰安市一格网络有限公司).pdf",
+  "note": "单包（采购包1，品目号1-1-x）。14条明细单价×数量=响应报价逐条一致，合计96128=中标金额=总中标金额9.6128万，数学一致。item_no取HTML品目号，与报价明细表序号1~14一一对应；item_name取附件报价明细表货物名称（HTML采购标的列全部为项目名，附件名更细）。品目取HTML标的表品目名称列（视频监控设备）。得分排名列原文为空，rank一律null，total_score取评审总得分。需视觉核验疑点：HTML安防箱规格型号显示为“NEX2?C21630”，附件报价明细表为“NEX2‑C21630”（中间为不换行连字符U+2011），gold取附件值；包(1)_开标（报价）一览表与包(1)_投标（响应）报价明细表为空白模板，不影响取值。复核：14条明细逐条核对一致、合计与得分表已独立验证，确认通过。",
+  "project": {
+    "buyer": "山东第一医科大学第二附属医院",
+    "project_name": "楼梯间安消一体化监控系统建设",
+    "total_amount": 96128.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "泰安市一格网络有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1-1-1",
+      "category": "视频监控设备",
+      "item_name": "安消一体化高清半球摄像机",
+      "brand": "海康威视",
+      "model": "HF-FVW301-P",
+      "quantity": 39,
+      "unit": "台",
+      "unit_price": 980.0,
+      "total_price": 38220.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-2",
+      "category": "视频监控设备",
+      "item_name": "电源适配器",
+      "brand": "海康威视",
+      "model": "DS-2FA1220-DL-H",
+      "quantity": 39,
+      "unit": "个",
+      "unit_price": 35.0,
+      "total_price": 1365.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-3",
+      "category": "视频监控设备",
+      "item_name": "交换机",
+      "brand": "海康威视",
+      "model": "DS-3E0105-S",
+      "quantity": 10,
+      "unit": "台",
+      "unit_price": 110.0,
+      "total_price": 1100.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-4",
+      "category": "视频监控设备",
+      "item_name": "网线",
+      "brand": "普天汉飞",
+      "model": "PTHF-15E",
+      "quantity": 8,
+      "unit": "箱",
+      "unit_price": 688.0,
+      "total_price": 5504.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-5",
+      "category": "视频监控设备",
+      "item_name": "电源线",
+      "brand": "江苏扬丰",
+      "model": "RVV2*1.0",
+      "quantity": 2730,
+      "unit": "米",
+      "unit_price": 2.3,
+      "total_price": 6279.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-6",
+      "category": "视频监控设备",
+      "item_name": "安消联动模块",
+      "brand": "海康威视",
+      "model": "iSecure Center",
+      "quantity": 1,
+      "unit": "项",
+      "unit_price": 35500.0,
+      "total_price": 35500.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-7",
+      "category": "视频监控设备",
+      "item_name": "线槽",
+      "brand": "正泰",
+      "model": "ZTPVC-20",
+      "quantity": 600,
+      "unit": "米",
+      "unit_price": 3.0,
+      "total_price": 1800.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-8",
+      "category": "视频监控设备",
+      "item_name": "胀塞",
+      "brand": "正泰",
+      "model": "φ6",
+      "quantity": 200,
+      "unit": "个",
+      "unit_price": 0.2,
+      "total_price": 40.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-9",
+      "category": "视频监控设备",
+      "item_name": "自攻丝",
+      "brand": "正泰",
+      "model": "ST4×16",
+      "quantity": 200,
+      "unit": "个",
+      "unit_price": 0.2,
+      "total_price": 40.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-10",
+      "category": "视频监控设备",
+      "item_name": "穿线管",
+      "brand": "正泰",
+      "model": "GY205",
+      "quantity": 300,
+      "unit": "米",
+      "unit_price": 3.5,
+      "total_price": 1050.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-11",
+      "category": "视频监控设备",
+      "item_name": "管卡",
+      "brand": "正泰",
+      "model": "φ20",
+      "quantity": 200,
+      "unit": "个",
+      "unit_price": 0.3,
+      "total_price": 60.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-12",
+      "category": "视频监控设备",
+      "item_name": "安防箱",
+      "brand": "正泰",
+      "model": "NEX2‑C21630",
+      "quantity": 39,
+      "unit": "个",
+      "unit_price": 80.0,
+      "total_price": 3120.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-13",
+      "category": "视频监控设备",
+      "item_name": "插排",
+      "brand": "正泰",
+      "model": "2T-0130",
+      "quantity": 39,
+      "unit": "个",
+      "unit_price": 50.0,
+      "total_price": 1950.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "1-1-14",
+      "category": "视频监控设备",
+      "item_name": "水晶头",
+      "brand": "通帝",
+      "model": "TD-SJT-5",
+      "quantity": 100,
+      "unit": "个",
+      "unit_price": 1.0,
+      "total_price": 100.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "泰安市一格网络有限公司",
+      "role": "winner",
+      "total_score": 89.32,
+      "rank": null,
+      "amount": 96128.0
+    },
+    {
+      "package_no": "1",
+      "name": "泰安市盛源电子工程有限公司",
+      "role": "participant",
+      "total_score": 84.42,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "山东海讯信息工程有限公司",
+      "role": "participant",
+      "total_score": 81.47,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

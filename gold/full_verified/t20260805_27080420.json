@@ -1,0 +1,170 @@
+{
+  "announcement_id": "t20260805_27080420",
+  "annotated_at": "2026-10-06-reviewed",
+  "status": "verified",
+  "gold_source": "html+attachment:报价明细表(第1轮-济南东陆智能科技有限公司).pdf,_unpacked_济南校区大门人脸识别系统、车辆管理系统升级改造项目（SDGP37000000020260200650120260725003）-文件集\\附件\\分项报价表.docx,结果公告附件docx.docx（内嵌分项报价表图片）",
+  "note": "公告标题为『采购包1』→package_no=1；概要品目列为空，category取HTML品目名称列『信息技术服务』。复核结果公告附件内嵌分项报价表图片：9条明细的品牌、型号/规格、单价、总价均按表格原值补录；其中第4行数量4+2按同单位合计为6，第9行其他为1宗；第8行护栏数量原文为『现场勘验（约3米）』，属约数，quantity仍留空。分项报价表为第1轮报价，各项合计99310元，与公告最终成交总额85000元不同，因此逐项报价照录在items，project.total_amount与bidders.amount仍按公告最终成交金额85000元。第9行品牌栏『国产』、型号栏『配套辅材及施工』均按原表栏位照录。得分排名列为空，rank=null；磋商文件标注『货物类』但HTML标的表为服务类列式，照抄不改动。",
+  "project": {
+    "buyer": "山东科技大学",
+    "project_name": "济南校区大门人脸识别系统、车辆管理系统升级改造项目",
+    "total_amount": 85000.0,
+    "packages": [
+      {
+        "package_no": "1",
+        "package_name": null,
+        "winner": "济南东陆智能科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "1",
+      "item_no": "1",
+      "category": "信息技术服务",
+      "item_name": "单机芯摆闸左边机",
+      "brand": "SH",
+      "model": "SH252",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 3530.0,
+      "total_price": 7060.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "2",
+      "category": "信息技术服务",
+      "item_name": "双机芯摆闸中间机",
+      "brand": "SH",
+      "model": "SH252-S",
+      "quantity": 4,
+      "unit": "台",
+      "unit_price": 4960.0,
+      "total_price": 19840.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "3",
+      "category": "信息技术服务",
+      "item_name": "单机芯摆闸右边机",
+      "brand": "SH",
+      "model": "SH252",
+      "quantity": 2,
+      "unit": "台",
+      "unit_price": 3530.0,
+      "total_price": 7060.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "4",
+      "category": "信息技术服务",
+      "item_name": "人脸识别门禁一体机",
+      "brand": "海康威视",
+      "model": "DS-K5671B-ZU",
+      "quantity": 6,
+      "unit": "台",
+      "unit_price": 2560.0,
+      "total_price": 15360.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "5",
+      "category": "信息技术服务",
+      "item_name": "服务器",
+      "brand": "海康威视",
+      "model": "DS-VM22R-CL/R2",
+      "quantity": 1,
+      "unit": "台",
+      "unit_price": 38000.0,
+      "total_price": 38000.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "6",
+      "category": "信息技术服务",
+      "item_name": "综合安防管理平台",
+      "brand": "海康威视",
+      "model": "iSecure Center",
+      "quantity": 1,
+      "unit": "套",
+      "unit_price": 3450.0,
+      "total_price": 3450.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "7",
+      "category": "信息技术服务",
+      "item_name": "遮阳棚",
+      "brand": null,
+      "model": "大型四角可折叠遮阳棚",
+      "quantity": 3,
+      "unit": "顶",
+      "unit_price": 690.0,
+      "total_price": 2070.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "8",
+      "category": "信息技术服务",
+      "item_name": "护栏",
+      "brand": null,
+      "model": "不锈钢护栏",
+      "quantity": null,
+      "unit": "米",
+      "unit_price": 490.0,
+      "total_price": 1470.0
+    },
+    {
+      "package_no": "1",
+      "item_no": "9",
+      "category": "信息技术服务",
+      "item_name": "其他",
+      "brand": "国产",
+      "model": "配套辅材及施工",
+      "quantity": 1,
+      "unit": "宗",
+      "unit_price": 5000.0,
+      "total_price": 5000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "1",
+      "name": "济南东陆智能科技有限公司",
+      "role": "winner",
+      "total_score": 86.19,
+      "rank": null,
+      "amount": 85000.0
+    },
+    {
+      "package_no": "1",
+      "name": "山东晖澜智能科技有限公司",
+      "role": "participant",
+      "total_score": 81.25,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南盘古日新科技有限公司",
+      "role": "participant",
+      "total_score": 78.33,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "1",
+      "name": "济南鲁岙信息科技有限公司",
+      "role": "participant",
+      "total_score": 68.96,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "announcement_id": "t20260404_26364299",
+  "annotated_at": "2026-09-23-draft",
+  "status": "verified",
+  "gold_source": "html+attachment:服务明细表.pdf,公示数据.pdf",
+  "note": "2个包：A包（SDGP370000000202602000558-A）山东经纬标志配套工程有限公司中标2,192,000元；B包（-B）武汉攀达时空科技有限公司中标882,000元；合计3,074,000元=总中标金额￥307.4万，与评委费用支付表「中标成交金额2192000.00元+882000.00元」一致，数学自洽。每包1条标的取自各自服务明细表（单价2192000/882000、数量1.00，未给计量单位故unit=null；总价=单价×数量互推并在note声明）。服务明细表型号/品牌列为空，brand/model=null。品目概要列为空、无品目名称表，category=null（附件「服务类」为分节标题，不当品目）。两包各附公示数据（评审打分为7位评委的逐人打分，未给综合得分与排名），4+3家未中标供应商照录为participant，total_score/rank=null。A、B两包招标文件正文仅前30页，但报价明细已由服务明细表完整给出，无OCR待补。",
+  "project": {
+    "buyer": "山东省国土测绘院",
+    "project_name": "山东省国土测绘院2026年省级基础测绘项目专业技术服务（一）山东省北斗卫星导航定位基准站网运行维护项目",
+    "total_amount": 3074000.0,
+    "packages": [
+      {
+        "package_no": "A",
+        "package_name": "2026年度北斗卫星导航定位基准站网运行维护",
+        "winner": "山东经纬标志配套工程有限公司"
+      },
+      {
+        "package_no": "B",
+        "package_name": "北斗卫星导航定位基准站网系统安全及服务能力升级",
+        "winner": "武汉攀达时空科技有限公司"
+      }
+    ]
+  },
+  "items": [
+    {
+      "package_no": "A",
+      "item_no": "1",
+      "category": null,
+      "item_name": "2026年度北斗卫星导航定位基准站网运行维护",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": null,
+      "unit_price": 2192000.0,
+      "total_price": 2192000.0
+    },
+    {
+      "package_no": "B",
+      "item_no": "1",
+      "category": null,
+      "item_name": "北斗卫星导航定位基准站网系统安全及服务能力升级",
+      "brand": null,
+      "model": null,
+      "quantity": 1.0,
+      "unit": null,
+      "unit_price": 882000.0,
+      "total_price": 882000.0
+    }
+  ],
+  "bidders": [
+    {
+      "package_no": "A",
+      "name": "山东经纬标志配套工程有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 2192000.0
+    },
+    {
+      "package_no": "A",
+      "name": "山东卓圣装饰工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东菏麟建设工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "山东祥迈城建集团有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "A",
+      "name": "济南鲁郓道远建筑工程有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "武汉攀达时空科技有限公司",
+      "role": "winner",
+      "total_score": null,
+      "rank": null,
+      "amount": 882000.0
+    },
+    {
+      "package_no": "B",
+      "name": "广东新禾智慧数字科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "苏州精卫信息科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    },
+    {
+      "package_no": "B",
+      "name": "武汉中测安云科技有限公司",
+      "role": "participant",
+      "total_score": null,
+      "rank": null,
+      "amount": null
+    }
+  ],
+  "review_metadata": {
+    "release": "v1",
+    "training_approved": false,
+    "known_review_candidate": false,
+    "unresolved": [],
+    "scope": "已知问题修正，不代表全字段金标准验收"
+  }
+}
