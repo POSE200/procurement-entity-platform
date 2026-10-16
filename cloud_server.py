@@ -16,6 +16,7 @@ if not DB.exists():
         db.execute("UPDATE datasets SET html_zip=?,attachment_zip=NULL WHERE id=?",
                    (str(ROOT/'seed/official_html.zip'),'ds_20261014_43c21f'))
 os.environ['ICT_DATA_DIR']=str(DATA)
+os.environ['ICT_CLOUD_MODE']='1'
 os.environ['ICT_GOLD_DIR']=str(ROOT/'gold/full_verified')
 os.environ.setdefault('LLM_PROVIDER','deepseek')
 os.environ.setdefault('DEEPSEEK_MODEL','deepseek-flash')
@@ -26,6 +27,9 @@ if __name__=='__main__':
     from app import cloud_runtime
     cloud_runtime.install()
     from app.main import app
+    from app import main, config, worker
+    if main.settings is not config.settings or worker.settings is not config.settings or main.update_settings is not cloud_runtime.update_settings:
+        raise RuntimeError('Cloud configuration must be installed before importing application handlers')
     cloud_runtime.connect_app(app)
     import uvicorn
     uvicorn.run(app,host='0.0.0.0',port=int(os.environ.get('PORT','3000')),access_log=False)

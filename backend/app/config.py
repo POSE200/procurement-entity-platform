@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 from functools import lru_cache
 from typing import Literal
 
@@ -53,7 +54,7 @@ class Settings(BaseSettings):
 
 @lru_cache
 def get_settings() -> Settings:
-    return Settings()
+    return Settings(_env_file=None) if os.environ.get('ICT_CLOUD_MODE') == '1' else Settings()
 
 
 settings = get_settings()
